@@ -1,0 +1,8 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+C16_MODEL_INSTANCED scale=0.9 rotation_y=-90 colliders=14
+C16_MODEL_INSTANCED scale=0.9 rotation_y=-90 colliders=14
+BASELINE_COMPARE meshes equal=true baseline=5566 candidate=5566
+BASELINE_COMPARE boxes equal=true baseline=539 candidate=539
+BASELINE_COMPARE_SCOPE excludes_aggregated_mesh=true compares_world_transforms_materials_boxes=true
+BASELINE_COMPARE_RESULT PASS

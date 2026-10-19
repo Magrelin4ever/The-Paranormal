@@ -1,0 +1,36 @@
+{
+  "source": "AmbientCG official 2K-JPG download",
+  "asset_id": "Carpet012",
+  "source_url": "https://ambientcg.com/view?id=Carpet012",
+  "download_url": "https://ambientcg.com/get?file=Carpet012_2K-JPG.zip",
+  "license": "CC0 1.0",
+  "license_url": "https://docs.ambientcg.com/license/",
+  "downloaded_at_utc": "2026-10-16T23:49:18Z",
+  "resolution": "2048x2048",
+  "maps": [
+    {
+      "path": "Carpet012_Color_2K.jpg",
+      "map": "Color",
+      "size_bytes": 6227594,
+      "sha256": "d48e34403b6330baf54daa1b6d02ee63a0586be84091626491913558ce78f7c1"
+    },
+    {
+      "path": "Carpet012_NormalGL_2K.jpg",
+      "map": "NormalGL",
+      "size_bytes": 10429746,
+      "sha256": "56c5aae443394be225391baefbb357a24fb28df4926796ed20834b472addd433"
+    },
+    {
+      "path": "Carpet012_Roughness_2K.jpg",
+      "map": "Roughness",
+      "size_bytes": 2169549,
+      "sha256": "ed3eb3aedf45e485009985cf1d24c7e83096f815cea10c776e0574d5b067c2d0"
+    },
+    {
+      "path": "Carpet012_AO_2K.jpg",
+      "map": "AmbientOcclusion",
+      "size_bytes": 2992188,
+      "sha256": "f23423e94674cc92bbaafa5e78d2dfd303b3d0f73da43316af5676276dc0420d"
+    }
+  ]
+}

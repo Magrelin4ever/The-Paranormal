@@ -1,0 +1,23 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:372)
+OpenGL API 4.5 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.3 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 20.1.2, 256 bits)
+
+C16_MODEL_INSTANCED scale=0.9 rotation_y=-90 colliders=14
+C13_DOORS_OPEN_FOR_CAPTURE count=28
+C13_FLASHLIGHT_LAYERS_PASS count=3
+C13_LIGHT_AUDIT_SCOPE loaded_tree_only=true player_excluded=true directional_light_excluded=true energy_threshold=0.001
+C13_INTERIOR_LIGHTS_OFF_PASS count=0
+C13_EMISSIVE_AUDIT_SCOPE loaded_mesh_surfaces_only=true player_excluded=true lua_mesh_excluded=true emission_energy_threshold=0.001 source_import_flags_not_audited=true
+C13_EMISSIVE_MATERIALS_OFF_PASS count=0
+C13_COMPOSITION_PASS table=1 chairs=6 chandelier=1 used_settings=4 extra_end_chairs=2 plates=4 child_cup=1 napkin=1 tablecloth_hidden=true
+C13_CAPTURE_PASS view=overview_dark path=/workspace/paranormal-investigation-piloto-editor-jantar-20261017/qa/editor_pilot/previews/piloto_runtime_overview_dark.png size=(1280, 720) flashlight=false
+C13_CAPTURE_PASS view=overview_flashlight path=/workspace/paranormal-investigation-piloto-editor-jantar-20261017/qa/editor_pilot/previews/piloto_runtime_overview_flashlight.png size=(1280, 720) flashlight=true
+C13_CAPTURE_PASS view=tabletop path=/workspace/paranormal-investigation-piloto-editor-jantar-20261017/qa/editor_pilot/previews/piloto_runtime_tabletop.png size=(1280, 720) flashlight=true
+C13_CAPTURE_PASS view=chair_detail path=/workspace/paranormal-investigation-piloto-editor-jantar-20261017/qa/editor_pilot/previews/piloto_runtime_chair_detail.png size=(1280, 720) flashlight=true
+C13_CAPTURE_PASS view=entry_perimeter path=/workspace/paranormal-investigation-piloto-editor-jantar-20261017/qa/editor_pilot/previews/piloto_runtime_entry_perimeter.png size=(1280, 720) flashlight=true
+C13_CAPTURE_PASS view=sideboard path=/workspace/paranormal-investigation-piloto-editor-jantar-20261017/qa/editor_pilot/previews/piloto_runtime_sideboard.png size=(1280, 720) flashlight=true
+C13_CAPTURE_PASS view=wall_art path=/workspace/paranormal-investigation-piloto-editor-jantar-20261017/qa/editor_pilot/previews/piloto_runtime_wall_art.png size=(1280, 720) flashlight=true
+C13_CAPTURE_PASS view=chandelier path=/workspace/paranormal-investigation-piloto-editor-jantar-20261017/qa/editor_pilot/previews/piloto_runtime_chandelier.png size=(1280, 720) flashlight=true
+C13_CAPTURE_PASS view=transition_living path=/workspace/paranormal-investigation-piloto-editor-jantar-20261017/qa/editor_pilot/previews/piloto_runtime_transition_living.png size=(1280, 720) flashlight=true
+C13_CAPTURE_PASS view=transition_kitchen path=/workspace/paranormal-investigation-piloto-editor-jantar-20261017/qa/editor_pilot/previews/piloto_runtime_transition_kitchen.png size=(1280, 720) flashlight=true

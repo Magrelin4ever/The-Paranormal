@@ -1,0 +1,30 @@
+{
+  "source": "AmbientCG official 2K-JPG download",
+  "asset_id": "Wood026",
+  "source_url": "https://ambientcg.com/view?id=Wood026",
+  "download_url": "https://ambientcg.com/get?file=Wood026_2K-JPG.zip",
+  "license": "CC0 1.0",
+  "license_url": "https://docs.ambientcg.com/license/",
+  "downloaded_at_utc": "2026-10-17T04:31:52Z",
+  "resolution": "2048x2048",
+  "maps": [
+    {
+      "path": "Wood026_Color_2K.jpg",
+      "map": "Color",
+      "size_bytes": 4331557,
+      "sha256": "0527dac4a8aafea222137eeabc9ee55ddcb7b34adf2c20c5d83d1561f101a1e9"
+    },
+    {
+      "path": "Wood026_NormalGL_2K.jpg",
+      "map": "NormalGL",
+      "size_bytes": 6493100,
+      "sha256": "65a5eee9281d58c4440d110532fee1d59754128318bc14f8b2a3b4cb122eec3e"
+    },
+    {
+      "path": "Wood026_Roughness_2K.jpg",
+      "map": "Roughness",
+      "size_bytes": 2133247,
+      "sha256": "764675a5c9b7c85629d1dac1fafc72754ec0f39ee5184728f69fada5afd29fd9"
+    }
+  ]
+}

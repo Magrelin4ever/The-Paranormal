@@ -1,0 +1,2329 @@
+{
+  "source": "Poly Haven official public API, glTF 1K",
+  "api_docs": "https://polyhaven.com/our-api",
+  "license": "CC0",
+  "downloaded_at_utc": "2026-10-17T06:09:53.131805+00:00",
+  "assets": [
+    {
+      "asset_id": "ArmChair_01",
+      "name": "Arm Chair 01",
+      "category": "Furniture/Seating/Chairs",
+      "polycount": 5626,
+      "authors": {
+        "Kirill Sannikov": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/ArmChair_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/ArmChair_01/textures/Armchair_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ArmChair_01/Armchair_01_diff_1k.jpg",
+          "size_bytes": 184246,
+          "md5": "9166f2c24f2114a5fa5513950ed9b9ae",
+          "sha256": "db30fc9ab61ac50c91ab7573583d2855a2910df1ecade02b89e3e8ab8d4e4c2d"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ArmChair_01/ArmChair_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/ArmChair_01/ArmChair_01.bin",
+          "size_bytes": 154012,
+          "md5": "fbd842795fdec75d94f1335c28acfc0e",
+          "sha256": "42a4206ea8bb3f7c3c1500ca3e408e084e8687cd3cc9cbf095b3344e215e0db6"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ArmChair_01/textures/Armchair_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ArmChair_01/Armchair_01_nor_gl_1k.jpg",
+          "size_bytes": 289916,
+          "md5": "8541821edd6dcb319b7f9841d849fbbe",
+          "sha256": "f5e4a43a12e79537e53e27c2bd4c5296b3e191cd6b301afce9fafd9d38238dde"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ArmChair_01/textures/Armchair_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ArmChair_01/Armchair_01_arm_1k.jpg",
+          "size_bytes": 138327,
+          "md5": "2ea528244dd6fc0deb2af1a555c0a312",
+          "sha256": "d272c68e8180f2a381314ac0cef5a9165d15d951a0558cb40a17af71cf6a51c6"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ArmChair_01/ArmChair_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/ArmChair_01/ArmChair_01_1k.gltf",
+          "size_bytes": 2643,
+          "md5": "39d1e4b0ffdde688c98335c9621e3aae",
+          "sha256": "91e39d5b35f36c8074b7b6432f6fd77f5f1a257c4d6af3924c0b263eb674286b"
+        }
+      ]
+    },
+    {
+      "asset_id": "dining_table",
+      "name": "Dining Table",
+      "category": "Furniture/Tables/Dining Tables",
+      "polycount": 1048,
+      "authors": {
+        "Aron Łyczek": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/dining_table",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/dining_table/textures/dining_table_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dining_table/dining_table_nor_gl_1k.jpg",
+          "size_bytes": 707020,
+          "md5": "f9e982c15242ff9e544d4968c377abb2",
+          "sha256": "156d4bd665864b806973290c1c702dda3fc80736c91623311992f2ca2e773d84"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/dining_table/textures/dining_table_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dining_table/dining_table_diff_1k.jpg",
+          "size_bytes": 852259,
+          "md5": "a309bb6839c628305059775d7480c8b7",
+          "sha256": "af239dc33b8444c5d9ca653d502ee1a1f0bac1845a7a522a00eae6c3a0d62b97"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/dining_table/textures/dining_table_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dining_table/dining_table_arm_1k.jpg",
+          "size_bytes": 689497,
+          "md5": "0be0f4618ef26ce517ebf049e90bcc7c",
+          "sha256": "f50a5105bb4c25985c726b1fa65b04bbfc5972794d08a970bd1a97c435159ad4"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/dining_table/dining_table.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dining_table/dining_table.bin",
+          "size_bytes": 30992,
+          "md5": "13227e80b4c213bd7fee570e0b23fe8c",
+          "sha256": "63a493a0bf2eeea4ecc94e5e4cb90c7780fd6cb79e82feed1d3db89ed2b63305"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/dining_table/dining_table_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/dining_table/dining_table_1k.gltf",
+          "size_bytes": 4165,
+          "md5": "556aed1f86536dba7cc5917c36ee7ab7",
+          "sha256": "6af2b850b0524d364b4c89869c6c70112b8d340317a256cf35fbe739040654c7"
+        }
+      ]
+    },
+    {
+      "asset_id": "dining_chair_02",
+      "name": "Dining Chair 02",
+      "category": "Furniture/Seating/Chairs",
+      "polycount": 22013,
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/dining_chair_02",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/dining_chair_02/dining_chair_02.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dining_chair_02/dining_chair_02.bin",
+          "size_bytes": 544592,
+          "md5": "b7f8a91c0a5249d02de7885f3b242c4e",
+          "sha256": "c7f1ef858f73815176d2ab304472a69ccf6097e971e5258eb924a75f841d4af5"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/dining_chair_02/textures/dining_chair_02_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dining_chair_02/dining_chair_02_nor_gl_1k.jpg",
+          "size_bytes": 119612,
+          "md5": "9c0e1003f9c8859a2e5c2c7f92a8f238",
+          "sha256": "348703512ca1215f8389e9108419c2d1a46537663db25f423c3ef900d20cfe61"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/dining_chair_02/textures/dining_chair_02_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dining_chair_02/dining_chair_02_diff_1k.jpg",
+          "size_bytes": 91518,
+          "md5": "6b7b8e4ac0a3aad9ecdf314a97b0ef75",
+          "sha256": "343990f764790da1149485a422dee2bc6797945a6af06a37d02d7a7de041acf5"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/dining_chair_02/textures/dining_chair_02_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dining_chair_02/dining_chair_02_arm_1k.jpg",
+          "size_bytes": 162630,
+          "md5": "2b16c9ddb3ea83d200b02de54a4fdcb8",
+          "sha256": "0a81c0c886baa1e65d94fb6fb90ab4751bee319888ecf1c428ae62042d8a5b15"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/dining_chair_02/dining_chair_02_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/dining_chair_02/dining_chair_02_1k.gltf",
+          "size_bytes": 2723,
+          "md5": "5aff75016e0943e84161de89dcc3ceb8",
+          "sha256": "88352a44a17319846f61fe03ce75c79fb1849aa508b6a262366c149c1bbd06b8"
+        }
+      ]
+    },
+    {
+      "asset_id": "painted_wooden_bench",
+      "name": "Painted Wooden Bench",
+      "category": "Furniture/Seating/Benches",
+      "polycount": 630,
+      "authors": {
+        "Kirill Sannikov": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/painted_wooden_bench",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/painted_wooden_bench/textures/painted_wooden_bench_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_bench/painted_wooden_bench_diff_1k.jpg",
+          "size_bytes": 545216,
+          "md5": "60c7d0f34f52b1003345d318e35f468d",
+          "sha256": "9bc533313091ee71eaca5fa6334b71d27935d9d75311f64df6a53c28a67c435c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/painted_wooden_bench/textures/painted_wooden_bench_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_bench/painted_wooden_bench_nor_gl_1k.jpg",
+          "size_bytes": 830104,
+          "md5": "08b74bebcff262c14beae35a4f7b3405",
+          "sha256": "a0f53740d77fc61aac01de0b7e1ae6109445d1756839f739ae31fdf10c9911f2"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/painted_wooden_bench/textures/painted_wooden_bench_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_bench/painted_wooden_bench_arm_1k.jpg",
+          "size_bytes": 586040,
+          "md5": "754ecc7f47b1e5d032e45e22334954f1",
+          "sha256": "878785565eeff706b8f1e4db7e3d794a544e9cf0e56cee424d9a271ab4ead47e"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/painted_wooden_bench/painted_wooden_bench.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/painted_wooden_bench/painted_wooden_bench.bin",
+          "size_bytes": 25444,
+          "md5": "ed331b50f955852f007313c1a75c2e2d",
+          "sha256": "5799bcb20924105cccd6424de8cdb8e67eb57fddc19c395befeac634a7b2e013"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/painted_wooden_bench/painted_wooden_bench_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/painted_wooden_bench/painted_wooden_bench_1k.gltf",
+          "size_bytes": 2835,
+          "md5": "784a49250144aa5299a93c1f3b6968d7",
+          "sha256": "2289ab82f3fe3045bf18f7b9541743d2c65b9f071cb34bbe424d2bc998f3e507"
+        }
+      ]
+    },
+    {
+      "asset_id": "wooden_bookshelf_worn",
+      "name": "Wooden Bookshelf Worn",
+      "category": "Furniture/Storage Furniture/Shelving & Bookcases",
+      "polycount": 10106,
+      "authors": {
+        "Ulan Cabanilla": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/wooden_bookshelf_worn",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bookshelf_worn/textures/wooden_bookshelf_worn_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bookshelf_worn/wooden_bookshelf_worn_nor_gl_1k.jpg",
+          "size_bytes": 993276,
+          "md5": "0e6f33c00eec432dd17178a4e5feb4f2",
+          "sha256": "90ffb1b3f7bb638d5a7e1a2b244a260d623e314a6010a6b8c23c57203e510ac9"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bookshelf_worn/wooden_bookshelf_worn.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/wooden_bookshelf_worn/wooden_bookshelf_worn.bin",
+          "size_bytes": 267964,
+          "md5": "3842de1943f58cdafb3a25d384b2400f",
+          "sha256": "170758113b50132380ab46943f6eab18f2714460dead065aae37241a94abf0f9"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bookshelf_worn/textures/wooden_bookshelf_worn_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bookshelf_worn/wooden_bookshelf_worn_arm_1k.jpg",
+          "size_bytes": 713979,
+          "md5": "7252efe4bd18f6dfdc014a9f4ccdf065",
+          "sha256": "41b3aca38fb55cb300d971016a597c80425da3744a6d33d82fe78f9dbe609eaa"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bookshelf_worn/textures/wooden_bookshelf_worn_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bookshelf_worn/wooden_bookshelf_worn_diff_1k.jpg",
+          "size_bytes": 799126,
+          "md5": "8f92c92e6473010e7df9b11f32d1234a",
+          "sha256": "970f60178decadd0d8fb1e5872f718350a49b027fd69469210c41ead350cba56"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bookshelf_worn/wooden_bookshelf_worn_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_bookshelf_worn/wooden_bookshelf_worn_1k.gltf",
+          "size_bytes": 2849,
+          "md5": "f8bb25dfb3c646e5c4f420d800276928",
+          "sha256": "a1c5b3f1e71ae0b5eb73047e8097bceaa5f17e5d2d0d7ae1b8053d5ec0878fc6"
+        }
+      ]
+    },
+    {
+      "asset_id": "coffee_table_round_01",
+      "name": "Coffee Table Round 01",
+      "category": "Furniture/Tables/Coffee Tables",
+      "polycount": 4044,
+      "authors": {
+        "Ulan Cabanilla": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/coffee_table_round_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/coffee_table_round_01/textures/coffee_table_round_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/coffee_table_round_01/coffee_table_round_01_diff_1k.jpg",
+          "size_bytes": 447037,
+          "md5": "601977ab1b864988194728e1dda076a8",
+          "sha256": "422b4a24a4459e1fd6d121aae4f1097dd3e467c7a8036bb1d003f955302f1d28"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/coffee_table_round_01/textures/coffee_table_round_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/coffee_table_round_01/coffee_table_round_01_arm_1k.jpg",
+          "size_bytes": 721708,
+          "md5": "b44425836ab0c932fe4ff136ce6f2fe8",
+          "sha256": "7221b03af475555092abd650798facbb945bf4acf02e48f8697f012d8515bf52"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/coffee_table_round_01/coffee_table_round_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/coffee_table_round_01/coffee_table_round_01.bin",
+          "size_bytes": 131112,
+          "md5": "a664b067fa0ae9b6e0a8fa5878986816",
+          "sha256": "9605a0c156bff4ec87e8717a79978d85d4e750d21b3193a3d08bed16e8666035"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/coffee_table_round_01/textures/coffee_table_round_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/coffee_table_round_01/coffee_table_round_01_nor_gl_1k.jpg",
+          "size_bytes": 260520,
+          "md5": "81a9885a83ff0b259514e8bce38b6b69",
+          "sha256": "a5912db1918b1ec925efb19179675cafc8832b082f80b2ea35c3a58b45e1aec4"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/coffee_table_round_01/coffee_table_round_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/coffee_table_round_01/coffee_table_round_01_1k.gltf",
+          "size_bytes": 2776,
+          "md5": "fa8772e8942e1863230b6745105c9a8e",
+          "sha256": "58fe785584f8999f760e590b04ce74f83962d42c9440ab9415910f63a31165dc"
+        }
+      ]
+    },
+    {
+      "asset_id": "wooden_display_shelves_01",
+      "name": "Wooden Display Shelves 01",
+      "category": "Furniture/Storage Furniture/Shelving & Bookcases",
+      "polycount": 3174,
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/wooden_display_shelves_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_display_shelves_01/textures/wooden_display_shelves_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_display_shelves_01/wooden_display_shelves_01_arm_1k.jpg",
+          "size_bytes": 164353,
+          "md5": "526dc6c49a7ce366b61f04ab794107ee",
+          "sha256": "33d6b769eafab3b1d8605b202cd41b0994b8c43df02dca5bdd86e942e390ff6a"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_display_shelves_01/textures/wooden_display_shelves_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_display_shelves_01/wooden_display_shelves_01_nor_gl_1k.jpg",
+          "size_bytes": 54739,
+          "md5": "696f1c48d08ffcc4bfc90e4aabc91286",
+          "sha256": "04191c25bfb8e76314863b624233807792df64fa1a638c75d20788becb4cbb8c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_display_shelves_01/wooden_display_shelves_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wooden_display_shelves_01/wooden_display_shelves_01.bin",
+          "size_bytes": 105988,
+          "md5": "d26e27c0c3a7c6b247b220a49379298f",
+          "sha256": "e6c000a780626e618c1f1c0c1ec2ec29e1452e7824055ba53b40963d857edfbe"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_display_shelves_01/textures/wooden_display_shelves_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_display_shelves_01/wooden_display_shelves_01_diff_1k.jpg",
+          "size_bytes": 139254,
+          "md5": "b3f7519052957a3f0199e5fcd742a0b6",
+          "sha256": "cb57e90d9588ce81e58ff7300e89956a6a3c45119165b858d921a5a2439cbeaf"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_display_shelves_01/wooden_display_shelves_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_display_shelves_01/wooden_display_shelves_01_1k.gltf",
+          "size_bytes": 6795,
+          "md5": "e807901382c7223238c5c3fd5bad5d8e",
+          "sha256": "3784953c451b088d24ac1b0e6946c7f7bd589115f51e6549fdb8fe9f7c10600e"
+        }
+      ]
+    },
+    {
+      "asset_id": "book_encyclopedia_set_01",
+      "name": "Book Encyclopedia Set 01",
+      "category": "Office & Stationery/Books & Documents/Books",
+      "polycount": 67306,
+      "authors": {
+        "John Malcolm": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/book_encyclopedia_set_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_cover_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/book_encyclopedia_set_01/book_encyclopedia_set_01_cover_diff_1k.jpg",
+          "size_bytes": 126794,
+          "md5": "00a10b1b5a28efa4670d68a089a64ef3",
+          "sha256": "a456aae6ef0ab24769527cccac5313a802ad253584c49fc10a377ce75969d382"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/book_encyclopedia_set_01/book_encyclopedia_set_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/book_encyclopedia_set_01/book_encyclopedia_set_01.bin",
+          "size_bytes": 2547932,
+          "md5": "ac617be6503e537c5d1a16a94313e866",
+          "sha256": "bbc726698b6e40ab5537b73e082f7bb4db97b9e6f978f52cdaf763dddc85d9ba"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_paper_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/book_encyclopedia_set_01/book_encyclopedia_set_01_paper_nor_gl_1k.jpg",
+          "size_bytes": 193390,
+          "md5": "816a51a0b6520cf5e08751089722fc46",
+          "sha256": "705f4380c654c44d086ceb120595078e562438c6e4ba01458d2d23fd61483d9d"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_cover_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/book_encyclopedia_set_01/book_encyclopedia_set_01_cover_arm_1k.jpg",
+          "size_bytes": 189997,
+          "md5": "0e5788b0ee9ce810823356e187c31a8c",
+          "sha256": "ab19b627092da77770de2212a04785940feb2df0957cab8993742a6b8b3f7bff"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_cover_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/book_encyclopedia_set_01/book_encyclopedia_set_01_cover_nor_gl_1k.jpg",
+          "size_bytes": 19941,
+          "md5": "488fa9696ad4f1773a2d81f3af7b6c76",
+          "sha256": "17ad410f2d1aab487e47c729a5b988ea4e4d196679c8696331b7960e77a91c17"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_paper_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/book_encyclopedia_set_01/book_encyclopedia_set_01_paper_diff_1k.jpg",
+          "size_bytes": 115297,
+          "md5": "7798b8e38721a4fc1ed45319ecc81b67",
+          "sha256": "b552d6829b75db7a75012bb761068c63507b69e8e944597ea53f6d1a70efa36c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/book_encyclopedia_set_01/textures/book_encyclopedia_set_01_paper_roughness_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/book_encyclopedia_set_01/book_encyclopedia_set_01_paper_roughness_1k.jpg",
+          "size_bytes": 12684,
+          "md5": "b8e5b8431b0c53b20d83ec0bcff51747",
+          "sha256": "62d875e9427f5d71f1bb4d9dc9569e34465bfd3067b8b13f5644b73e23a09fa3"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/book_encyclopedia_set_01/book_encyclopedia_set_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/book_encyclopedia_set_01/book_encyclopedia_set_01_1k.gltf",
+          "size_bytes": 55011,
+          "md5": "d0a77d421a6ea2c9d82bcaaa64e8479b",
+          "sha256": "89eb80fffd619ebbe5043d632bd8cf25b2d68a3614aee2f356e850c69ae498ba"
+        }
+      ]
+    },
+    {
+      "asset_id": "classic_laptop",
+      "name": "Classic Laptop",
+      "category": "Electronics & Appliances/Computing/Computers",
+      "polycount": 14450,
+      "authors": {
+        "Arrangemonk": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/classic_laptop",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/classic_laptop/textures/classic_laptop_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/classic_laptop/classic_laptop_nor_gl_1k.jpg",
+          "size_bytes": 445971,
+          "md5": "5039de6a8edd18f89dafbf77ab55b1cb",
+          "sha256": "9e47604dc75d7ffe4f1e2265b76f9b5c4cb1c7e98d72e16e4656fecc44e5d1dd"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/classic_laptop/textures/classic_laptop_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/classic_laptop/classic_laptop_diff_1k.jpg",
+          "size_bytes": 524918,
+          "md5": "b16478b0bfdaf836180867d26054435a",
+          "sha256": "0b0d4a2a991f8ee45effdb0c038af7348c6c731bc9a251e09095abde6cd34974"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/classic_laptop/textures/classic_laptop_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/classic_laptop/classic_laptop_arm_1k.jpg",
+          "size_bytes": 697150,
+          "md5": "bfdc7350cc006b818bb4163093fb1e28",
+          "sha256": "e7d74932e0d40bf91fa9ef11f441cc94d9597b5c72721572b49b03109d0fe171"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/classic_laptop/classic_laptop.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/classic_laptop/classic_laptop.bin",
+          "size_bytes": 508524,
+          "md5": "61282875872d1d523a02ecbf09627a8c",
+          "sha256": "0f1602f2fe856fd330e95df44af0fd9986aeac873343307c70e036041e789fb9"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/classic_laptop/classic_laptop_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/classic_laptop/classic_laptop_1k.gltf",
+          "size_bytes": 7496,
+          "md5": "7eeb1538a6b917c5e08a55a6c77695cf",
+          "sha256": "c78867ed92356fe03fd90b56438f3b141b5f8654672da52c6df7868eb820cf78"
+        }
+      ]
+    },
+    {
+      "asset_id": "binder_notebook",
+      "name": "Binder Notebook",
+      "category": "Office & Stationery/Stationery & Supplies/Notebooks & Pads",
+      "polycount": 18077,
+      "authors": {
+        "DaDrood": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/binder_notebook",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/binder_notebook/textures/binder_notebook_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/binder_notebook/binder_notebook_nor_gl_1k.jpg",
+          "size_bytes": 319694,
+          "md5": "51af6519e740f1e53d33b8eb09def5dd",
+          "sha256": "24b18d9792c3816337d7d09b30aed400a887747ea6beb04b23612b6e1210a29e"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/binder_notebook/textures/binder_notebook_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/binder_notebook/binder_notebook_diff_1k.jpg",
+          "size_bytes": 533256,
+          "md5": "0c6bbb11b58934e7ed6b6a0729e20e8b",
+          "sha256": "8591cce815138bd737c252dc12a4d9bf41bceb499ace7dbfef0725e64dadda2d"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/binder_notebook/textures/binder_notebook_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/binder_notebook/binder_notebook_arm_1k.jpg",
+          "size_bytes": 507028,
+          "md5": "825aa742d0d2083656d8ebe636cde087",
+          "sha256": "c0bc38cd13e5ada9552c3a9b60f88c36acf9e672011d97d066a6c0148f01898a"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/binder_notebook/binder_notebook.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/binder_notebook/binder_notebook.bin",
+          "size_bytes": 525488,
+          "md5": "bade6e7ed1349d598b27018c61cf674d",
+          "sha256": "68e28e6fac708a6e172230c42debd990e48819566fa07f222415467b1034b9c0"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/binder_notebook/binder_notebook_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/binder_notebook/binder_notebook_1k.gltf",
+          "size_bytes": 4309,
+          "md5": "8d05e6a6436c12169debc073692b7f5e",
+          "sha256": "714596552fad383ae3ca76d42038b03a20b6864d6ef5bc6d12620ac21fef1b1e"
+        }
+      ]
+    },
+    {
+      "asset_id": "wicker_basket_01",
+      "name": "Wicker Basket 01",
+      "category": "Containers & Storage/Baskets & Buckets/Baskets",
+      "polycount": 22276,
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/wicker_basket_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/wicker_basket_01/textures/wicker_basket_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_arm_1k.jpg",
+          "size_bytes": 874111,
+          "md5": "e456e1e051da9b8433162de9cb96cb61",
+          "sha256": "5150638cbcd8f1bc07b76af3b60b31a4c5e7d38ce66ac8906b9c3192f3283b9a"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wicker_basket_01/textures/wicker_basket_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_nor_gl_1k.jpg",
+          "size_bytes": 549218,
+          "md5": "4cca87156e77045fd29562b09609b41d",
+          "sha256": "d06024a37ef330d05bf128b8488f72769af05e72d266ffbc810d7f09ea2b32f9"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wicker_basket_01/textures/wicker_basket_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_diff_1k.jpg",
+          "size_bytes": 679110,
+          "md5": "54c05d9c5e4f92930cbbf67e4770fc61",
+          "sha256": "15156c7855d5642f6bb594edfad5bcdcfe11f87f3e109956cb9e8fdb15fef921"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wicker_basket_01/wicker_basket_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wicker_basket_01/wicker_basket_01.bin",
+          "size_bytes": 624920,
+          "md5": "154e2cd9157175591e3585e706925fa9",
+          "sha256": "8e96025ffcdc64a7e75d1aa980f2491b1219912a4554272cd1e192a966c399f8"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wicker_basket_01/wicker_basket_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wicker_basket_01/wicker_basket_01_1k.gltf",
+          "size_bytes": 2792,
+          "md5": "6910bb33f9b29c30e41c06342cba4f9b",
+          "sha256": "9ad86c33f00f46a18c9bc8bfc28c0036090ee819f7270d0028ec408512c04094"
+        }
+      ]
+    },
+    {
+      "asset_id": "ceramic_vase_02",
+      "name": "Ceramic Vase 02",
+      "category": "Decor & Art/Vases & Vessels/Ceramic Vases",
+      "polycount": 2756,
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/ceramic_vase_02",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/ceramic_vase_02/textures/ceramic_vase_02_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_vase_02/ceramic_vase_02_nor_gl_1k.jpg",
+          "size_bytes": 164130,
+          "md5": "05e671a686f54f3add772305cf531045",
+          "sha256": "29fc2dc6f236d29d403367517249a32c87eb7ce4b70d79ba9ee22d7571eb153f"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ceramic_vase_02/textures/ceramic_vase_02_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_vase_02/ceramic_vase_02_diff_1k.jpg",
+          "size_bytes": 98894,
+          "md5": "767b3412c76a91ddc807d69b5b34df96",
+          "sha256": "12320e404c744095945b164293e522baadb6a0b393648f5908bfea2903f7fcc0"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ceramic_vase_02/ceramic_vase_02.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/ceramic_vase_02/ceramic_vase_02.bin",
+          "size_bytes": 293776,
+          "md5": "39b375411e2dd303ac86c17cb1ded216",
+          "sha256": "b8e13a9fc140b563526afd11bb233d3a838f03abc779824504d89186dfaacd3a"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ceramic_vase_02/textures/ceramic_vase_02_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_vase_02/ceramic_vase_02_rough_1k.jpg",
+          "size_bytes": 190645,
+          "md5": "cc2ad94640549ada75e9363d4ce8da5c",
+          "sha256": "137ffbd61551654d94aebfd5f0b18fe9d85ed5c1515d32cca65c9db62fccd01b"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ceramic_vase_02/ceramic_vase_02_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/ceramic_vase_02/ceramic_vase_02_1k.gltf",
+          "size_bytes": 2716,
+          "md5": "2f49a3853a20857a2f0169a764689aa9",
+          "sha256": "1bda047833b68c2c1b190ee53a55b1aa42d30748c84739909b6ca65b2f2d76c9"
+        }
+      ]
+    },
+    {
+      "asset_id": "fern_02",
+      "name": "Fern 02",
+      "category": "Nature/Plants/Ferns",
+      "polycount": 6232,
+      "authors": {
+        "Rob Tuytel": "scanning",
+        "Rico Cilliers": "modeling"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/fern_02",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/fern_02/textures/fern_02_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fern_02/fern_02_arm_1k.jpg",
+          "size_bytes": 280359,
+          "md5": "1bbb2b22951f450720d28e17d93a2987",
+          "sha256": "ebfb5d76ce9cbdaec20bcd22dce9b755f0b1b8650ef29ca13555e3e6961025d7"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/fern_02/textures/fern_02_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fern_02/fern_02_diff_1k.jpg",
+          "size_bytes": 315705,
+          "md5": "82c18a6cfd5ae91c37c0e078f591181c",
+          "sha256": "a828a6e7b4c01c826911e2eac4b3afc7457dab7b3b392a31c681ed88b7d50029"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/fern_02/textures/fern_02_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fern_02/fern_02_nor_gl_1k.jpg",
+          "size_bytes": 367222,
+          "md5": "43aed63dff79554f6064627515afd9d7",
+          "sha256": "45bce132c6e96a0864bc89ab5da51361ab3f4afa83a6669ae499ab5ca811f621"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/fern_02/fern_02.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/fern_02/fern_02.bin",
+          "size_bytes": 176176,
+          "md5": "c061e9255f7d36ae9ce0e92ef3e100b2",
+          "sha256": "fe1abb762bcbbc7ad9e86925c8080437a62add257d9280e9142fdc85c226e64c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/fern_02/fern_02_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/fern_02/fern_02_1k.gltf",
+          "size_bytes": 6899,
+          "md5": "cf276874d37bfb73c299504a6b355b77",
+          "sha256": "33974295ee19670af4877705fc7d91f33f42d6302f0d44a625e072271223031f"
+        }
+      ]
+    },
+    {
+      "asset_id": "potted_plant_02",
+      "name": "Potted Plant 02",
+      "category": "Nature/Plants/Potted Plants",
+      "polycount": 69806,
+      "authors": {
+        "Rico Cilliers": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/potted_plant_02",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/potted_plant_02/textures/potted_plant_02_leaves_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/potted_plant_02/potted_plant_02_leaves_diff_1k.jpg",
+          "size_bytes": 167700,
+          "md5": "e8a026bd7bfa6497729d855c59da03ce",
+          "sha256": "3643dce6e6c0a9f40129bd837ec1a11802e8f43ea43cb29e58219d82e0ac632b"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/potted_plant_02/potted_plant_02.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/potted_plant_02/potted_plant_02.bin",
+          "size_bytes": 1852244,
+          "md5": "cdbd4619b2596c9c469ad34676085fa8",
+          "sha256": "9c9812482c78a59789ed32fa842b4cbd9365e09c900c31ebb998e5efe627fe97"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/potted_plant_02/textures/potted_plant_02_pot_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/potted_plant_02/potted_plant_02_pot_rough_1k.jpg",
+          "size_bytes": 114886,
+          "md5": "68ed80fa32791fb0e81df61a75de40b4",
+          "sha256": "4e92ad8ee0f098050785d9a025e2c5a7d55bc7a7f7e1916cc7627fc7824a938f"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/potted_plant_02/textures/potted_plant_02_leaves_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/potted_plant_02/potted_plant_02_leaves_rough_1k.jpg",
+          "size_bytes": 102396,
+          "md5": "ba934a78cc6496d934c014eb8a33af37",
+          "sha256": "ac8959f70c0e91e77f3cd6fd3f73578b8aed64ac6c33fc34ac027a4e88276960"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/potted_plant_02/textures/potted_plant_02_pot_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/potted_plant_02/potted_plant_02_pot_diff_1k.jpg",
+          "size_bytes": 155244,
+          "md5": "97e149c93eb0d962e491d4c82d3ce477",
+          "sha256": "684949bf24821d7e951d46915366b5a388d2e4ccaaa9d5284e718c83604705e9"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/potted_plant_02/textures/potted_plant_02_leaves_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/potted_plant_02/potted_plant_02_leaves_nor_gl_1k.jpg",
+          "size_bytes": 127232,
+          "md5": "2420d5c0ab87426f5318a5e91d1ea3bb",
+          "sha256": "e0fe090ff7a511729c9bbe59df7288b400430fdab178529443dec75e0f06007d"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/potted_plant_02/textures/potted_plant_02_pot_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/potted_plant_02/potted_plant_02_pot_nor_gl_1k.jpg",
+          "size_bytes": 108343,
+          "md5": "fbb44ccc1c6564b2837b79a11ed45d58",
+          "sha256": "981a68721c8b7b9ac26b96d0210334599d5e8f529362f505082c071a0a58e86c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/potted_plant_02/potted_plant_02_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/potted_plant_02/potted_plant_02_1k.gltf",
+          "size_bytes": 6653,
+          "md5": "9999d7e6c51018a85551840e1bdae656",
+          "sha256": "c533dcce0d1aa4379eb7db04601a04983f8df2422b28578de922655a416e64a9"
+        }
+      ]
+    },
+    {
+      "asset_id": "planter_pot_clay",
+      "name": "Planter Pot Clay",
+      "category": "Decor & Art/Vases & Vessels/Terracotta Pots",
+      "polycount": 3080,
+      "authors": {
+        "Amal Kumar": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/planter_pot_clay",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/planter_pot_clay/textures/planter_pot_clay_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/planter_pot_clay/planter_pot_clay_diff_1k.jpg",
+          "size_bytes": 596319,
+          "md5": "6823eb18ca73c8cdcb3cbc04704c443b",
+          "sha256": "4f2962fd238401e49fd400596fdccd1ee9e2cca9ed21e44bb924dca3076f524c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/planter_pot_clay/planter_pot_clay.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/planter_pot_clay/planter_pot_clay.bin",
+          "size_bytes": 78096,
+          "md5": "93aa55f6378a47c3e2d03eb5b98da8b0",
+          "sha256": "effd0a038a75a054e55e2f5f71a84c57c1c6efc4e453ae3e62d4ce5167a2913c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/planter_pot_clay/textures/planter_pot_clay_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/planter_pot_clay/planter_pot_clay_arm_1k.jpg",
+          "size_bytes": 613484,
+          "md5": "ec397ae29f1f52292cbc9482037c11c4",
+          "sha256": "68e9e509db4e330b48924c606d4a9a99b54e105c1fe1690ff2811a05d95a0def"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/planter_pot_clay/textures/planter_pot_clay_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/planter_pot_clay/planter_pot_clay_nor_gl_1k.jpg",
+          "size_bytes": 506446,
+          "md5": "269b48d6a5038e97acf9d670b7381b3a",
+          "sha256": "25a564e55b247a94863b513853b1aeaad5c894dd78e92e1fd89e794b83b483c4"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/planter_pot_clay/planter_pot_clay_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/planter_pot_clay/planter_pot_clay_1k.gltf",
+          "size_bytes": 2813,
+          "md5": "1c78fcfd6144747c97e2b822a6229c0d",
+          "sha256": "f2989068dcff9737c9f3d49d435b70e36d553822ac87134daac055ae9706af1e"
+        }
+      ]
+    },
+    {
+      "asset_id": "vintage_oil_lamp",
+      "name": "Vintage Oil Lamp",
+      "category": "Lighting/Portable/Oil Lamps",
+      "polycount": 7208,
+      "authors": {
+        "Monsta3D": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/vintage_oil_lamp",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_glass_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_oil_lamp/vintage_oil_lamp_glass_diff_1k.jpg",
+          "size_bytes": 39058,
+          "md5": "3f2ed8af86381524fb7c02a023950309",
+          "sha256": "dbe33017c012a00c74419bb8f05b16a2eeee5e06e2ceab49a80462d25c7a7c0a"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_oil_lamp/vintage_oil_lamp_nor_gl_1k.jpg",
+          "size_bytes": 227296,
+          "md5": "09ac342783f48e29152415890215c3b7",
+          "sha256": "54db7efff64c4117782e25851544a0eb4881e5e28a13a06917a16d15ce26b1db"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_flame_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_oil_lamp/vintage_oil_lamp_flame_diff_1k.jpg",
+          "size_bytes": 92425,
+          "md5": "b37858e7969def84f786a54f8e952904",
+          "sha256": "827c6a4fa9274141636cee9415f416a32937f2f257901bbe8488b22b862509f1"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_oil_lamp/vintage_oil_lamp_diff_1k.jpg",
+          "size_bytes": 536650,
+          "md5": "fd73c81fc05f116ca4f908badb5b8974",
+          "sha256": "a96cc1383fb056618eca80a0cf4ae192286c8752f8e83cb52f9fec02ca94a471"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_oil_lamp/vintage_oil_lamp.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/vintage_oil_lamp/vintage_oil_lamp.bin",
+          "size_bytes": 186096,
+          "md5": "b43f17a0f09d6c14d45eb1099eb1077f",
+          "sha256": "4064065c8e288beaa58639c139c801db337bfc6183e73378a9177157f0587167"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_glass_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_oil_lamp/vintage_oil_lamp_glass_nor_gl_1k.jpg",
+          "size_bytes": 42123,
+          "md5": "40b084dae82420f972a3399e04cea91f",
+          "sha256": "2752589c8f6c7724bf2aa5d097010bd9257fff8ca0f85add13ec2ac702909df0"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_oil_lamp/vintage_oil_lamp_arm_1k.jpg",
+          "size_bytes": 655961,
+          "md5": "5a385b1f8bea13f7d8ce47a1f6583db1",
+          "sha256": "004b7b6238632e4fc9e2ad7e76529caa292cfd96f5a42d6564531207f25c3e92"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_glass_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_oil_lamp/vintage_oil_lamp_glass_arm_1k.jpg",
+          "size_bytes": 282607,
+          "md5": "35280190a34ca941710131a51e4c8d2a",
+          "sha256": "0ef2b0eb2087895851be979afc5ccb2c11076f71bc667f9e586b7f8038efc158"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_oil_lamp/vintage_oil_lamp_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/vintage_oil_lamp/vintage_oil_lamp_1k.gltf",
+          "size_bytes": 7786,
+          "md5": "95aefcb2ccfad1f5e10dd69522ec09ed",
+          "sha256": "ae570b98ea30b0337f62d8e7f551c03a05de00b238f3fac8f1ca5a1f1dbd1add"
+        }
+      ]
+    },
+    {
+      "asset_id": "Chandelier_03",
+      "name": "Chandelier 03",
+      "category": "Lighting/Ceiling/Chandeliers",
+      "polycount": 29301,
+      "authors": {
+        "Kirill Sannikov": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/Chandelier_03",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/Chandelier_03/textures/Chandelier_03_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Chandelier_03/Chandelier_03_diff_1k.jpg",
+          "size_bytes": 125237,
+          "md5": "f7c43731de6aeefb34874a9218dc5dae",
+          "sha256": "fbedb3f4c3273fccf3a697d0a002e2d60677cb76a33e5a19797bc7ca69b6bb1e"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/Chandelier_03/Chandelier_03.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/Chandelier_03/Chandelier_03.bin",
+          "size_bytes": 817280,
+          "md5": "6515aaafa8f678ccd1fc56ae7a21420c",
+          "sha256": "b7085e20c530331e71a6934604f77ba90acef175e78b75a28ded775a28d1a26e"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/Chandelier_03/textures/Chandelier_03_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Chandelier_03/Chandelier_03_nor_gl_1k.jpg",
+          "size_bytes": 187141,
+          "md5": "9287dcaa472c12cc8df3f32b79a52eb7",
+          "sha256": "35bf7ca66786a9368064801853191e9d4cf24bcdfb07f84647f86bb498a9d5ec"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/Chandelier_03/textures/Chandelier_03_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Chandelier_03/Chandelier_03_arm_1k.jpg",
+          "size_bytes": 207964,
+          "md5": "7f4416a5f6d2840313e4c28e73968774",
+          "sha256": "9db2d632be31dbf86b17d4722f495f6e44231a94c0540c015d07539056476f9e"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/Chandelier_03/textures/Chandelier_03_opacity_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Chandelier_03/Chandelier_03_opacity_1k.jpg",
+          "size_bytes": 21515,
+          "md5": "af8e2a1dbd1aa7e2c5917d4bdb630240",
+          "sha256": "708ec4bb612ef2086f93c203b40d05e9e40c441178d000d02a52ffdf524ccbc9"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/Chandelier_03/Chandelier_03_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/Chandelier_03/Chandelier_03_1k.gltf",
+          "size_bytes": 4876,
+          "md5": "5f1a46f925d3c5059814af36a1ae4b1c",
+          "sha256": "ab3c57ada6a22e472778b4c7f7e7d5e9b3b10fe91d4566de95e89497f282e00f"
+        }
+      ]
+    },
+    {
+      "asset_id": "pot_enamel_01",
+      "name": "Pot Enamel 01",
+      "category": "Food & Kitchen/Cookware/Pots & Pans",
+      "polycount": 11416,
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/pot_enamel_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/pot_enamel_01/textures/pot_enamel_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pot_enamel_01/pot_enamel_01_arm_1k.jpg",
+          "size_bytes": 497109,
+          "md5": "be7b3e6c51ac6cbead2496bd0db41d00",
+          "sha256": "e8ab66b9a9f3e136d78dc393d30a9436b53570a4aaea26d5ae46913752bf15fe"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/pot_enamel_01/textures/pot_enamel_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pot_enamel_01/pot_enamel_01_diff_1k.jpg",
+          "size_bytes": 538938,
+          "md5": "e530e70fc13aef9c595162b293b049a0",
+          "sha256": "b8b15e6cbdeebc49034f06418f5daf097fd954a4df1e63f1efbc85c96dec2c7d"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/pot_enamel_01/textures/pot_enamel_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pot_enamel_01/pot_enamel_01_nor_gl_1k.jpg",
+          "size_bytes": 434214,
+          "md5": "8fc58dc6caa2036f83fed505acd66534",
+          "sha256": "e489edcf2014fa96c3dfca2c966a5b3bb8c0d02e88c9adeea96465d44662f56e"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/pot_enamel_01/pot_enamel_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/pot_enamel_01/pot_enamel_01.bin",
+          "size_bytes": 270448,
+          "md5": "d8845287663697c274192b8ba35cb7a1",
+          "sha256": "134771c9f71269f791ad9e52910f25542e94b5e83adff1c9acc620c93d486d13"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/pot_enamel_01/pot_enamel_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/pot_enamel_01/pot_enamel_01_1k.gltf",
+          "size_bytes": 4018,
+          "md5": "84ddd8d2e210d11788dbcb1670b0e530",
+          "sha256": "ca60a8399463429cf23e04784334cbe344886e5c8747860ad9ad44c044e03dde"
+        }
+      ]
+    },
+    {
+      "asset_id": "wooden_cutting_board",
+      "name": "Wooden Cutting Board",
+      "category": "Food & Kitchen/Utensils/Cutting Boards",
+      "polycount": 3520,
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/wooden_cutting_board",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_cutting_board/textures/wooden_cutting_board_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_cutting_board/wooden_cutting_board_arm_1k.jpg",
+          "size_bytes": 401619,
+          "md5": "b391b4029d163e0bde43096d7b39013d",
+          "sha256": "f35dec51ff94e279a9d43a4ee64b75235cc3d6701107ae22a1eea797e3d236d3"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_cutting_board/textures/wooden_cutting_board_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_cutting_board/wooden_cutting_board_diff_1k.jpg",
+          "size_bytes": 788732,
+          "md5": "11be431e04b3a108eb74d3dd0559a9a4",
+          "sha256": "79274fb86cc7f62363e4448b4597f06933d640a79c746ff6f823d2e4e27ad143"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_cutting_board/textures/wooden_cutting_board_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_cutting_board/wooden_cutting_board_nor_gl_1k.jpg",
+          "size_bytes": 677881,
+          "md5": "c57c50618d604c9a742847f4333f3058",
+          "sha256": "b123d7ca0d0be01a31686240c925e85a1d2499172586f119482924b06b0b0c93"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_cutting_board/wooden_cutting_board.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wooden_cutting_board/wooden_cutting_board.bin",
+          "size_bytes": 94688,
+          "md5": "ce582ea49488bb7def153bdf37082016",
+          "sha256": "d7fa7549afcae99eb4739dfb13039f1e56f03327c2936cb021bfd05c3afad839"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_cutting_board/wooden_cutting_board_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_cutting_board/wooden_cutting_board_1k.gltf",
+          "size_bytes": 2852,
+          "md5": "557750a30841a91f5d9a8f734bd9ee20",
+          "sha256": "89fa89f6987c5087c0c7a8ac8ccbe451cfa8976ae46377d83a423e658cff9de4"
+        }
+      ]
+    },
+    {
+      "asset_id": "food_apple_01",
+      "name": "Food Apple 01",
+      "category": "Food & Kitchen/Produce/Fruit",
+      "polycount": 7012,
+      "authors": {
+        "Oliver Harries": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/food_apple_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/food_apple_01/textures/food_apple_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_apple_01/food_apple_01_diff_1k.jpg",
+          "size_bytes": 183791,
+          "md5": "3ddf2b8313f20c95f3e04fb057b32d7b",
+          "sha256": "b7fc17cfb5013958167bbc089ea4d1c193fb1c61ea4f3c974a9894ed9ba82e8a"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/food_apple_01/food_apple_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_apple_01/food_apple_01.bin",
+          "size_bytes": 170680,
+          "md5": "26b23e40de43097b0185a0d93cd72d3b",
+          "sha256": "f14ff9647fdd9f5a59ef325f94154e91f1f14cc2563cd3fb572c4fe9ce5756ca"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/food_apple_01/textures/food_apple_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_apple_01/food_apple_01_nor_gl_1k.jpg",
+          "size_bytes": 63513,
+          "md5": "e456cb63d6a4c298c826b63be0adfaf7",
+          "sha256": "c81b1e51ce7e789b65bfde2f046dcb5ba5773b5c6be3e572313be0600c51721b"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/food_apple_01/textures/food_apple_01_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_apple_01/food_apple_01_rough_1k.jpg",
+          "size_bytes": 53123,
+          "md5": "e46e242f52a3c2138a1e8c6ce0d82438",
+          "sha256": "2e5a503af38df7b570b0e81cc9563125f0913b466e01140d4e24ea5ebdbec587"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/food_apple_01/food_apple_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/food_apple_01/food_apple_01_1k.gltf",
+          "size_bytes": 2705,
+          "md5": "222a8e136b40f36c1acb87a6036c1106",
+          "sha256": "6a7dc1cda1271c8b08e36e2b9fd44371b7149cca6262c71bc36d971cdac4325f"
+        }
+      ]
+    },
+    {
+      "asset_id": "tool_cart",
+      "name": "Tool Cart",
+      "category": "Furniture/Storage Furniture/Carts & Trolleys",
+      "polycount": 29394,
+      "authors": {
+        "Savva Zakharov": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/tool_cart",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/tool_cart/textures/tool_cart_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/tool_cart/tool_cart_nor_gl_1k.jpg",
+          "size_bytes": 817628,
+          "md5": "fa4ff0ac0b68c52b3a51ed09ec77ce98",
+          "sha256": "fa995e77eacad81c78f650e28a6d4c1c7b9d6c74a3f314d5f5ebdddf6de510fc"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/tool_cart/textures/tool_cart_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/tool_cart/tool_cart_diff_1k.jpg",
+          "size_bytes": 711555,
+          "md5": "ef4fa51d6dec090496d15e25ad913422",
+          "sha256": "3a3e18efa54d18f2d01ad51cb40f8edd9af76e054a6a9c21324bc14fe49be965"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/tool_cart/textures/tool_cart_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/tool_cart/tool_cart_arm_1k.jpg",
+          "size_bytes": 744873,
+          "md5": "8996b43bbe3bace46e822b8856e2f0a0",
+          "sha256": "2b928779ab242468c90e6074ab72567bc58ecf3e0240fd709e4507b59764aef7"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/tool_cart/tool_cart.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/tool_cart/tool_cart.bin",
+          "size_bytes": 895660,
+          "md5": "10b9d918d7ba72cd7b91b3cd2b784abd",
+          "sha256": "3962637a4faec733b10d9970bfeea6696a48b6fd361fda085cc3d122138f6aaa"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/tool_cart/tool_cart_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/tool_cart/tool_cart_1k.gltf",
+          "size_bytes": 2744,
+          "md5": "ee595e0f3abd65a685266c11574cbc2f",
+          "sha256": "ba4290f62b37dc08d4f99da2b3c78d8cb584bd229e8805ce586ed3f3b5303759"
+        }
+      ]
+    },
+    {
+      "asset_id": "plastic_crate_01",
+      "name": "Plastic Crate 01",
+      "category": "Containers & Storage/Boxes & Crates/Plastic Crates",
+      "polycount": 18320,
+      "authors": {
+        "PierreB3D": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/plastic_crate_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/plastic_crate_01/textures/plastic_crate_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/plastic_crate_01/plastic_crate_01_nor_gl_1k.jpg",
+          "size_bytes": 884228,
+          "md5": "95f73143467ebbf4c55fb599269edc7b",
+          "sha256": "6f0c44778216d50672d6a23660b22dec8b96bb6e71518d699c24630c34cf9217"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/plastic_crate_01/textures/plastic_crate_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/plastic_crate_01/plastic_crate_01_diff_1k.jpg",
+          "size_bytes": 518288,
+          "md5": "0250b2750da634e95ef44b6ffb11681e",
+          "sha256": "d9109a42e397e39bbd7f42976d93122dbd5ccdef8ff64bce353571e1c1b994f6"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/plastic_crate_01/textures/plastic_crate_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/plastic_crate_01/plastic_crate_01_arm_1k.jpg",
+          "size_bytes": 993636,
+          "md5": "a0c021fba58dc9fb16df94b1fdda2308",
+          "sha256": "9a4af28d6fe8d5459a3c1a8706c0f8877221873ac9b83de580e6cfa63c3ecaa0"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/plastic_crate_01/plastic_crate_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/plastic_crate_01/plastic_crate_01.bin",
+          "size_bytes": 789920,
+          "md5": "68c6e126a29ad4b72c21aa85f89a48c1",
+          "sha256": "59b307238a27f304739aeef0b1c9622d1e4efb31a96d805d2cfc0c461f9bb06d"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/plastic_crate_01/plastic_crate_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/plastic_crate_01/plastic_crate_01_1k.gltf",
+          "size_bytes": 2793,
+          "md5": "af44f97630da80a640c5e6d70e72c56b",
+          "sha256": "42556fc8e39e5834ebf474dff79d4c0524fd3074be6c86c0c6704a10be8b3756"
+        }
+      ]
+    },
+    {
+      "asset_id": "wooden_crate_01",
+      "name": "Wooden Crate 01",
+      "category": "Containers & Storage/Boxes & Crates/Wooden Crates",
+      "polycount": 6576,
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/wooden_crate_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_crate_01/textures/wooden_crate_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_crate_01/wooden_crate_01_diff_1k.jpg",
+          "size_bytes": 711292,
+          "md5": "266e0462d06e77c5745f66e89820544f",
+          "sha256": "16653f4abaf4c1d9bca94bde3bd8c54d0ea9a5298d1648abcf57de1f7ecc34cc"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_crate_01/textures/wooden_crate_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_crate_01/wooden_crate_01_nor_gl_1k.jpg",
+          "size_bytes": 594076,
+          "md5": "e31626a1fcf6f7062c2ffd9fc982b942",
+          "sha256": "f4ea44c7dc1686123d337039cb713d74e8a2dbc6d1bd2beeac276d06f5df3fab"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_crate_01/wooden_crate_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wooden_crate_01/wooden_crate_01.bin",
+          "size_bytes": 189408,
+          "md5": "8318f76b0c24b5538ce23051dbcb79a0",
+          "sha256": "85f381f8035f7a6f2f3b848640894c6d3333b261946dd8a338c0fe19e0bea21e"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_crate_01/textures/wooden_crate_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_crate_01/wooden_crate_01_arm_1k.jpg",
+          "size_bytes": 776699,
+          "md5": "67c4aeb1154af98f95516b21ef62291c",
+          "sha256": "cd0b031c3924905e16ffd78ead062c2cc274148c4104d09635310097738b4679"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_crate_01/wooden_crate_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_crate_01/wooden_crate_01_1k.gltf",
+          "size_bytes": 5612,
+          "md5": "33df4d2ae00186d4b64e878466c9e22e",
+          "sha256": "fd9c6073acfc671e12b64666053f2805ae33aff5d3dbbcfe5c97c08c06644927"
+        }
+      ]
+    },
+    {
+      "asset_id": "metal_trash_can",
+      "name": "Metal Trash Can",
+      "category": "Containers & Storage/Cans, Tins & Bottles/Trash Cans",
+      "polycount": 13960,
+      "authors": {
+        "GurJas Studios": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/metal_trash_can",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/metal_trash_can/textures/metal_trash_can_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/metal_trash_can/metal_trash_can_diff_1k.jpg",
+          "size_bytes": 551939,
+          "md5": "55d375d8d51b268b6ed8a4308155959c",
+          "sha256": "920c895a31b1cd2c000123c0592c70c33d46562752987da98070e7e0eebb662f"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/metal_trash_can/textures/metal_trash_can_rust_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/metal_trash_can/metal_trash_can_rust_diff_1k.jpg",
+          "size_bytes": 768161,
+          "md5": "8b90447d250cb790ca537748a2b16691",
+          "sha256": "51c44248305b111d978f7e0cbfe4a71ab7f49549968ce37c54b635d74c2cfba1"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/metal_trash_can/textures/metal_trash_can_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/metal_trash_can/metal_trash_can_arm_1k.jpg",
+          "size_bytes": 731776,
+          "md5": "af676572c13fae2bb584538f03175efc",
+          "sha256": "b23dcdb2ed40c1c6cfbd2d2779c6f075025b7269bfbbed2a70c6bdb7167e47fb"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/metal_trash_can/textures/metal_trash_can_rust_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/metal_trash_can/metal_trash_can_rust_nor_gl_1k.jpg",
+          "size_bytes": 1085844,
+          "md5": "25187818d1236815d4a34fd743cadc29",
+          "sha256": "a5497588e00e5e56db72e701457fc8a46d3a1fa7d9dd7bf9d79e02cada09e84b"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/metal_trash_can/textures/metal_trash_can_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/metal_trash_can/metal_trash_can_nor_gl_1k.jpg",
+          "size_bytes": 842945,
+          "md5": "fa6db04e021f6335ae2d9ad501120cae",
+          "sha256": "b977f17aa9d4718ffc91a62868b7171b4479578b8cffd1d32001d92552af81a4"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/metal_trash_can/metal_trash_can.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/metal_trash_can/metal_trash_can.bin",
+          "size_bytes": 378288,
+          "md5": "fbde1679a66ea644223b97ebc8336a77",
+          "sha256": "a9b9f526b655bef865933335f2cfc8c8f0bd1a35fda05b290a93e3061f2b6c8a"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/metal_trash_can/textures/metal_trash_can_rust_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/metal_trash_can/metal_trash_can_rust_arm_1k.jpg",
+          "size_bytes": 620549,
+          "md5": "ed9f635917cde411f235d4585c90b310",
+          "sha256": "31a6269e98a3a8b2a2d6db8f58724e0151d5312b5137e6d59b5a2ba873989159"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/metal_trash_can/metal_trash_can_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/metal_trash_can/metal_trash_can_1k.gltf",
+          "size_bytes": 15481,
+          "md5": "c322802832a61ad7b17711dfbbc52e6b",
+          "sha256": "ccdc55ecfe43db2174c9257891e92551882a874564bb9a7908cafc5268b46c0c"
+        }
+      ]
+    },
+    {
+      "asset_id": "worn_metal_rack",
+      "name": "Worn Metal Rack",
+      "category": "Furniture/Storage Furniture/Shelving & Bookcases",
+      "polycount": 6372,
+      "authors": {
+        "Luca B": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/worn_metal_rack",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/worn_metal_rack/textures/worn_metal_rack_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/worn_metal_rack/worn_metal_rack_nor_gl_1k.jpg",
+          "size_bytes": 435767,
+          "md5": "6e9c6ca272eff7828cc0afd88960adb1",
+          "sha256": "3222c47e6fac0d103afec06b8a53476828777f5282d6703266010ecf587ad49e"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/worn_metal_rack/textures/worn_metal_rack_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/worn_metal_rack/worn_metal_rack_diff_1k.jpg",
+          "size_bytes": 604202,
+          "md5": "3f69d57964eb7e67899611de63ba6588",
+          "sha256": "295c2d48ad55289fed76b7438513520cadd94516639ab8ffd8790ffe7c903dbb"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/worn_metal_rack/textures/worn_metal_rack_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/worn_metal_rack/worn_metal_rack_arm_1k.jpg",
+          "size_bytes": 696941,
+          "md5": "32a956dcffe9745b1d95970b0bf58e5a",
+          "sha256": "b3523f947b3ebd960d508361bb323cec5a959d0b7043a8a7118ffab781925a65"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/worn_metal_rack/worn_metal_rack.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/worn_metal_rack/worn_metal_rack.bin",
+          "size_bytes": 269400,
+          "md5": "d7e62674d4846c5899323efd9c549f55",
+          "sha256": "b8cfa4138b7c0e0e69738c6f24dec7fecdc2f336f524312db48167816776fd13"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/worn_metal_rack/worn_metal_rack_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/worn_metal_rack/worn_metal_rack_1k.gltf",
+          "size_bytes": 2796,
+          "md5": "1e6ab13765080f11751b2843e2e4c321",
+          "sha256": "e757448bd448460ecb6c7218e7857c8d071f271e3cdc2bd013ca63d824c0c308"
+        }
+      ]
+    },
+    {
+      "asset_id": "hanging_picture_frame_02",
+      "name": "Hanging Picture Frame 02",
+      "category": "Decor & Art/Wall Decor/Picture Frames & Art",
+      "polycount": 3678,
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/hanging_picture_frame_02",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_02/hanging_picture_frame_02_diff_1k.jpg",
+          "size_bytes": 146402,
+          "md5": "906c164baad3f02b67244998b7558a9c",
+          "sha256": "575f2b6481b9e02474750ded776a0b490744228cb64d9b346f28bd78b9cf5897"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_artwork_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_02/hanging_picture_frame_02_artwork_diff_1k.jpg",
+          "size_bytes": 138383,
+          "md5": "4cc4caf766c1889ae5d7e8c71acbe19b",
+          "sha256": "7e26aee962965fb201975ef5a99e2751a24c4b461b48e8348cea9f31cde027c2"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_02/hanging_picture_frame_02_arm_1k.jpg",
+          "size_bytes": 113780,
+          "md5": "01e09bbe488c7a2953b5a207fdf192ca",
+          "sha256": "67378630bc6bb69799f8ee0fde4ab11ecd9e7a43ed3dfef402fdd784d8c2cea3"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_artwork_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_02/hanging_picture_frame_02_artwork_nor_gl_1k.jpg",
+          "size_bytes": 45035,
+          "md5": "5682ebd5c7acef6af307013b707affb0",
+          "sha256": "8a700c0d7d3f464177ead95879d60a8bf43ef77c034881379b2c036406ab9e27"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_artwork_roughness_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_02/hanging_picture_frame_02_artwork_roughness_1k.jpg",
+          "size_bytes": 74142,
+          "md5": "ffe5f1805a7219ce745c950b71115bec",
+          "sha256": "305018ab800cbd02d61c08f9c5a422c2777f2b5cbb20579f671be56a1fb21853"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/hanging_picture_frame_02/hanging_picture_frame_02.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/hanging_picture_frame_02/hanging_picture_frame_02.bin",
+          "size_bytes": 115080,
+          "md5": "3e88b7525d7bf9b8f33660100c953cff",
+          "sha256": "0ed5813c8b30f63807ffac962e47135d3248b3804e07cb93862c13e29bed83d8"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/hanging_picture_frame_02/hanging_picture_frame_02_nor_gl_1k.jpg",
+          "size_bytes": 56776,
+          "md5": "bc686a415608ae66bd88f70d081fd572",
+          "sha256": "79367cf9d7e4981263dd1439297585148d6c93500acaffa7afeb534351e68b86"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/hanging_picture_frame_02/hanging_picture_frame_02_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/hanging_picture_frame_02/hanging_picture_frame_02_1k.gltf",
+          "size_bytes": 6433,
+          "md5": "4db648e1f6ba5444a53adb31c81c8705",
+          "sha256": "ea9a1d44e8d794e224a5342204669a328b57d64d5df629d1d5d86e60e27245e5"
+        }
+      ]
+    },
+    {
+      "asset_id": "wooden_bowl_01",
+      "name": "Wooden Bowl 01",
+      "category": "Food & Kitchen/Tableware/Bowls",
+      "polycount": 14122,
+      "authors": {
+        "Oliver Harries": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/wooden_bowl_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bowl_01/textures/wooden_bowl_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bowl_01/wooden_bowl_01_diff_1k.jpg",
+          "size_bytes": 450565,
+          "md5": "64626044995a55e0525dbf8ad1388914",
+          "sha256": "7c33269d85411cf905d5bb53d95bd148c174b26a3cfb86ee58a26735123098b1"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bowl_01/wooden_bowl_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wooden_bowl_01/wooden_bowl_01.bin",
+          "size_bytes": 321052,
+          "md5": "ab8f522a5b859d901de1eed742f275bd",
+          "sha256": "2659e19ea140aed29edca6761b6ee117e0a488ac14cd32c30fd0f1116f645761"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bowl_01/textures/wooden_bowl_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bowl_01/wooden_bowl_01_nor_gl_1k.jpg",
+          "size_bytes": 597196,
+          "md5": "ba2691b4cc8cfdbbd8ff5c5ae9bfadbc",
+          "sha256": "f25955450f21c80e8db34b4621ceec3778199f73c8d5c3350367640cac8cc214"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bowl_01/textures/wooden_bowl_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bowl_01/wooden_bowl_01_arm_1k.jpg",
+          "size_bytes": 451613,
+          "md5": "3bdbd9a9f73108f6a6b6c9a248aa1eb9",
+          "sha256": "206e84e320ebc4eb538a1509d3a59cfce5feb96596f7cae3700382d1a0790c81"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bowl_01/wooden_bowl_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_bowl_01/wooden_bowl_01_1k.gltf",
+          "size_bytes": 2811,
+          "md5": "d4fa6acadbae81c8f66f346381b11582",
+          "sha256": "7fe0d6aa4b58e1b9bfc704a8142f4f23f651640c5701b26037fbee3c01613c3b"
+        }
+      ]
+    },
+    {
+      "asset_id": "small_wooden_table_01",
+      "name": "Small Wooden Table 01",
+      "category": "Furniture/Tables/Side & End Tables",
+      "polycount": 3410,
+      "authors": {
+        "Ulan Cabanilla": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/small_wooden_table_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/small_wooden_table_01/textures/small_wooden_table_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/small_wooden_table_01/small_wooden_table_01_arm_1k.jpg",
+          "size_bytes": 154335,
+          "md5": "a208088048520cc6d774316c3b49cd53",
+          "sha256": "e1d01aaf54338b61f224e8b08c5b9e9879126ae3908a92cb8ad161bf54078c34"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/small_wooden_table_01/small_wooden_table_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/small_wooden_table_01/small_wooden_table_01.bin",
+          "size_bytes": 92428,
+          "md5": "d4384b662a532853084edd70adb16ed5",
+          "sha256": "f0ca88dac6cf094e1ba260ee1bc21756a84a27b5456bcf45bda2227819458d84"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/small_wooden_table_01/textures/small_wooden_table_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/small_wooden_table_01/small_wooden_table_01_diff_1k.jpg",
+          "size_bytes": 138301,
+          "md5": "cc2a3aad1992a1cb09dd407def42d102",
+          "sha256": "ef587bffaf9f65ec81e0777fa6f25d835ed354cef055669c8a783086fd45b9dd"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/small_wooden_table_01/textures/small_wooden_table_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/small_wooden_table_01/small_wooden_table_01_nor_gl_1k.jpg",
+          "size_bytes": 26935,
+          "md5": "f0165b5497307f371746815d7bd5d526",
+          "sha256": "7f675805966ce02cd7678687c4fc86c0dfe4b20106486bb0c772143ea8ca3b4b"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/small_wooden_table_01/small_wooden_table_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/small_wooden_table_01/small_wooden_table_01_1k.gltf",
+          "size_bytes": 2764,
+          "md5": "716b66952dc473d09a3ac5f48ef50a68",
+          "sha256": "2a33fb09785a9553c3cd4d0c5f8b874bb0fb9f26c8ef2613b65607524411f352"
+        }
+      ]
+    },
+    {
+      "asset_id": "metal_jug",
+      "name": "Metal Jug",
+      "category": "Food & Kitchen/Tableware/Jugs & Pitchers",
+      "polycount": 6040,
+      "authors": {
+        "Anzor Lezhava": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/metal_jug",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/metal_jug/textures/metal_jug_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/metal_jug/metal_jug_diff_1k.jpg",
+          "size_bytes": 476536,
+          "md5": "8e93d0db75b71cd5f7de304975a9be94",
+          "sha256": "66586743bdb15719955bc2b71740cc3fb07da96936e25b18afb14a92809c8c31"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/metal_jug/textures/metal_jug_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/metal_jug/metal_jug_arm_1k.jpg",
+          "size_bytes": 565389,
+          "md5": "2aa88591990cff448fc45d9793459484",
+          "sha256": "d3e085f6292bed3ec645fbffd7de4e2667035a6fd184a4272ace795df77f712f"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/metal_jug/textures/metal_jug_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/metal_jug/metal_jug_nor_gl_1k.jpg",
+          "size_bytes": 605048,
+          "md5": "8c7751a944a19d5bf0589704cde6f11b",
+          "sha256": "cbcf2f03640e7671542ce98ddb7ad71c322098da0ba2ccecffb0af3de65691c6"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/metal_jug/metal_jug.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/metal_jug/metal_jug.bin",
+          "size_bytes": 144496,
+          "md5": "fccbed97bb8188ff50eb4dd0500edd00",
+          "sha256": "ebc6f19187f81cacfd6546cf486474e49bf60548a72bb96cef039545f9016db9"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/metal_jug/metal_jug_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/metal_jug/metal_jug_1k.gltf",
+          "size_bytes": 2752,
+          "md5": "addd99e8946fda39512d0a5af97b42c5",
+          "sha256": "951357b6ec89a0d2b87674930eb832ae33d4b9c95781c8855f330bf7b2947759"
+        }
+      ]
+    },
+    {
+      "asset_id": "electric_stove",
+      "name": "Electric Stove",
+      "category": "Electronics & Appliances/Home Appliances/Stoves & Heaters",
+      "polycount": 13914,
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/electric_stove",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/electric_stove/electric_stove.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/electric_stove/electric_stove.bin",
+          "size_bytes": 462956,
+          "md5": "9846b43c4af868f79a95635fb9bd354d",
+          "sha256": "66f210539346b8f339b7519664ad6fa9b74d0932d8445b6b7e40eabcb40cd4f9"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/electric_stove/textures/electric_stove_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/electric_stove/electric_stove_nor_gl_1k.jpg",
+          "size_bytes": 427043,
+          "md5": "611bcfac2fc0eb84c8727bee1d2bfc15",
+          "sha256": "66a2f47cd0f218dc4650927e11c169b438251521b4efc556f031aa3a3b57c4f6"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/electric_stove/textures/electric_stove_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/electric_stove/electric_stove_arm_1k.jpg",
+          "size_bytes": 677547,
+          "md5": "f6dd650e669f6cb8f767265a3cf80f95",
+          "sha256": "8ca9f3f56a8e4ba6f67b6748af09aed2b02bf76c451a71ee962374e52e0b4aa2"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/electric_stove/textures/electric_stove_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/electric_stove/electric_stove_diff_1k.jpg",
+          "size_bytes": 446916,
+          "md5": "dd6ba5a62587e4172853321ec58388fe",
+          "sha256": "61bc269714bf37f2bf057c113c17664e224c998c78ea50f1ed85b5d2e6f2e938"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/electric_stove/electric_stove_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/electric_stove/electric_stove_1k.gltf",
+          "size_bytes": 31234,
+          "md5": "1ec96abe416e022f792ace742d33947a",
+          "sha256": "3be4d1b9ec0ead3c41ea8ef09d61e3b7611b69cbeea26a40ea87355acb0b3c55"
+        }
+      ]
+    },
+    {
+      "asset_id": "vintage_microwave",
+      "name": "Vintage Microwave",
+      "category": "Electronics & Appliances/Home Appliances",
+      "polycount": 8120,
+      "authors": {
+        "Adam Nekola": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/vintage_microwave",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_microwave/textures/vintage_microwave_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_microwave/vintage_microwave_nor_gl_1k.jpg",
+          "size_bytes": 312615,
+          "md5": "cec11ae69aabd698c38169f6bf83e72f",
+          "sha256": "9fd35346f2a6afa85d07c0904a3a8337dababb7347ee3c207e9243303e437b8c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_microwave/textures/vintage_microwave_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_microwave/vintage_microwave_diff_1k.jpg",
+          "size_bytes": 489267,
+          "md5": "acf65eaa51d62786edb4f06a38d5febd",
+          "sha256": "09a23468f70a41b16a3ae97b53940ff4178f5466a6e3a4ad4dfea416ed6691de"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_microwave/textures/vintage_microwave_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_microwave/vintage_microwave_arm_1k.jpg",
+          "size_bytes": 589054,
+          "md5": "b4bf762c62df47f152013165eabeae0a",
+          "sha256": "740abbcdda87c94e5bc2f40e3c9e8f7798e4ca6ca44ecd70f20c2c5b503f1ee0"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_microwave/vintage_microwave.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/vintage_microwave/vintage_microwave.bin",
+          "size_bytes": 237296,
+          "md5": "0e74727ecfad916fba4ce0c79a7d9903",
+          "sha256": "f09ab1eb99ca23e7a3496ead7372de9281018c11ae5b2e9eb50f1d06f2bfe4a3"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_microwave/vintage_microwave_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/vintage_microwave/vintage_microwave_1k.gltf",
+          "size_bytes": 4727,
+          "md5": "2af73fa4765d4371b70c2de4674d7d4b",
+          "sha256": "d44f101ca3826e4ae4976bc4de96f31f15ea00f95775e41dc1eaf54aa598c8e0"
+        }
+      ]
+    },
+    {
+      "asset_id": "tea_set_01",
+      "name": "Tea Set 01",
+      "category": "Food & Kitchen/Tableware/Tea & Coffee Sets",
+      "polycount": 40296,
+      "authors": {
+        "James Ray Cock": "texturing",
+        "Rico Cilliers": "modeling",
+        "Jurita Burger": "graphic design"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/tea_set_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/tea_set_01/tea_set_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/tea_set_01/tea_set_01.bin",
+          "size_bytes": 941776,
+          "md5": "9f26672d452e5d155da484951b6277ae",
+          "sha256": "5ddd90f031a71832842f9030c2f7f0aa07b2c96f3d3cc4aa5cfaa5dbb14aa7b0"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/tea_set_01/textures/tea_set_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/tea_set_01/tea_set_01_nor_gl_1k.jpg",
+          "size_bytes": 255598,
+          "md5": "5618e35b021585a23b2e2f04faa92f9b",
+          "sha256": "0b3d5998d1d60a46a9807ccdbc8245464de4ba479bbca3eda6257575dc25b342"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/tea_set_01/textures/tea_set_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/tea_set_01/tea_set_01_diff_1k.jpg",
+          "size_bytes": 509631,
+          "md5": "e6a77ef283da8541a67cddc2ff698830",
+          "sha256": "110eb0aa11b6f532792e8b161cbe8e7a9a2b94694f217b4d9745fe32f3945ed8"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/tea_set_01/textures/tea_set_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/tea_set_01/tea_set_01_arm_1k.jpg",
+          "size_bytes": 559750,
+          "md5": "119115b0c556d85ec257f480b0dc58a6",
+          "sha256": "160661eccada2ab02a78d4957ca804921d31633489433517f20f34f0db7ef502"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/tea_set_01/tea_set_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/tea_set_01/tea_set_01_1k.gltf",
+          "size_bytes": 15836,
+          "md5": "157b3a5ace1f2dfd4419789ff4180c59",
+          "sha256": "479b93c5e5f121994a5582b329132c70c2076b2990673f9169721541e5c389a2"
+        }
+      ]
+    },
+    {
+      "asset_id": "jug_01",
+      "name": "Jug 01",
+      "category": "Food & Kitchen/Tableware/Jugs & Pitchers",
+      "polycount": 5770,
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/jug_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/jug_01/jug_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/jug_01/jug_01.bin",
+          "size_bytes": 137084,
+          "md5": "f4818dd15e25681e1fcf718c9c488998",
+          "sha256": "2dd3772547ae41cc7beeaa5f002e741cfe2c014ed4717731c5076810154bedb9"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/jug_01/textures/jug_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jug_01/jug_01_diff_1k.jpg",
+          "size_bytes": 423757,
+          "md5": "ffe6e4999d473e6969c1432fa1ea5e21",
+          "sha256": "c716b455f46c1fa06745383f4237bb587a196c919e0af8b19fe207db192b74e4"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/jug_01/textures/jug_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jug_01/jug_01_nor_gl_1k.jpg",
+          "size_bytes": 86094,
+          "md5": "51321fce3679b61a41c9267f18d5ef12",
+          "sha256": "f06aef6c2cbb434beee5323ce28b30c9f03bbc72bc1bfe291f6a2db926e027d7"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/jug_01/textures/jug_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/jug_01/jug_01_arm_1k.jpg",
+          "size_bytes": 578188,
+          "md5": "ca8d04eb674fb6c77582383cde180319",
+          "sha256": "ca3559de912341bf0661ea89d2b33c8b804344124e1f0ba65f1d34cd2859f947"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/jug_01/jug_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/jug_01/jug_01_1k.gltf",
+          "size_bytes": 2612,
+          "md5": "b8b3c0c9faf48e2370485a04288da9c4",
+          "sha256": "87dc40eb3e45b0185699f18cf5988b81fe5b1a01f0cf76c1daa93774878d7e44"
+        }
+      ]
+    },
+    {
+      "asset_id": "carved_wooden_plate",
+      "name": "Carved Wooden Plate",
+      "category": "Food & Kitchen/Tableware/Plates",
+      "polycount": 2112,
+      "authors": {
+        "Jan Martens": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/carved_wooden_plate",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/carved_wooden_plate/textures/carved_wooden_plate_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_diff_1k.jpg",
+          "size_bytes": 476516,
+          "md5": "f4c0f569c128db22906a209905cf3e90",
+          "sha256": "ae95d5de9e1dc18e5102d648b589f2043b1c712ac4103f624e1a9c5c5f05a7da"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/carved_wooden_plate/textures/carved_wooden_plate_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_arm_1k.jpg",
+          "size_bytes": 450417,
+          "md5": "e9a523f6b0a9851b7b9e9855fa83f896",
+          "sha256": "54f106d208fd68e93d8f0f8da30284189bf0796e9e04425296719a9dc71dd6e8"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/carved_wooden_plate/textures/carved_wooden_plate_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_plate/carved_wooden_plate_nor_gl_1k.jpg",
+          "size_bytes": 582309,
+          "md5": "b492a0465ff80fc5aff3433991fdc554",
+          "sha256": "3a6c6dc2f9a7def9e6a02847743f448bd855d47dbbc36cc0b80a557faf633b61"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/carved_wooden_plate/carved_wooden_plate.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/carved_wooden_plate/carved_wooden_plate.bin",
+          "size_bytes": 52160,
+          "md5": "70499c8019359d859577d9f7eef46091",
+          "sha256": "4a605b576b1e79968f668c8624733e2e0fff073ae9fc1107b55ad4d976b99787"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/carved_wooden_plate/carved_wooden_plate_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/carved_wooden_plate/carved_wooden_plate_1k.gltf",
+          "size_bytes": 2836,
+          "md5": "c4866bc4fcdf070b992f9b35acf8d13e",
+          "sha256": "90ec83004a3fd256fb846c7b04fbf0b2514f0e99b2bb7aeb586f62b844ed9219"
+        }
+      ]
+    },
+    {
+      "asset_id": "wooden_bowl_02",
+      "name": "Wooden Bowl 02",
+      "category": "Food & Kitchen/Tableware/Bowls",
+      "polycount": 4666,
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/wooden_bowl_02",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bowl_02/textures/wooden_bowl_02_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bowl_02/wooden_bowl_02_arm_1k.jpg",
+          "size_bytes": 770851,
+          "md5": "a416eec6afe81cfc5b2a94cabe241f69",
+          "sha256": "0715dde81d3a8acbdf67031702c80e994e0b418a9973237f2964f1d0be9f4645"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bowl_02/wooden_bowl_02.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wooden_bowl_02/wooden_bowl_02.bin",
+          "size_bytes": 116156,
+          "md5": "92850bb8ba7e6dfd53f4b157276a8536",
+          "sha256": "6e3e1fb30969e9a52db3519b01ace016628a361c2cd9e2817c5e50c1ffb8a1dd"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bowl_02/textures/wooden_bowl_02_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bowl_02/wooden_bowl_02_nor_gl_1k.jpg",
+          "size_bytes": 816221,
+          "md5": "76dedcb76919daaed23a3d7510c43257",
+          "sha256": "1951d9aae111412f4bd262c18e232b0b11962f33145e46acb936e314a442ec7d"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bowl_02/textures/wooden_bowl_02_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bowl_02/wooden_bowl_02_diff_1k.jpg",
+          "size_bytes": 805338,
+          "md5": "69dfe9fa89f7458fbeb03300267a279d",
+          "sha256": "a3bb80f6ea747491fe91628badc0b98d320fc6d427682564095aba6033a523dc"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_bowl_02/wooden_bowl_02_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_bowl_02/wooden_bowl_02_1k.gltf",
+          "size_bytes": 2800,
+          "md5": "7e1269b42d3cf9e96d3a7a43784a9fc5",
+          "sha256": "18ba4fb40b1880d9b776f6d98eefdaa9e01e41fbe362ba1dc40a831422e38336"
+        }
+      ]
+    },
+    {
+      "asset_id": "vintage_electric_kettle",
+      "name": "Vintage Electric Kettle",
+      "category": "Electronics & Appliances/Home Appliances/Kettles",
+      "polycount": 14838,
+      "authors": {
+        "SV Garip": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/vintage_electric_kettle",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_electric_kettle/textures/vintage_electric_kettle_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_electric_kettle/vintage_electric_kettle_nor_gl_1k.jpg",
+          "size_bytes": 624432,
+          "md5": "a8d86ddd33e47a4781105f66582e4b7c",
+          "sha256": "7723e22b77b73c6cc20d2593849d56cc64ee5c8e54bacf3bf8b2f4dd4f2ffaf0"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_electric_kettle/textures/vintage_electric_kettle_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_electric_kettle/vintage_electric_kettle_diff_1k.jpg",
+          "size_bytes": 584337,
+          "md5": "758b520b36cd419442d06fa5ea2b4924",
+          "sha256": "eee3052a610f24055f7b25749cfaf64016a5621afcff931fe513ab62c0a829f3"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_electric_kettle/textures/vintage_electric_kettle_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_electric_kettle/vintage_electric_kettle_arm_1k.jpg",
+          "size_bytes": 756927,
+          "md5": "3b2f4b53442fa5d3fac05da5c529aeb8",
+          "sha256": "ff683e24348d6319edf7bd5a14659a846d3008ae614bf966d4db23fc156b5e0c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_electric_kettle/vintage_electric_kettle.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/vintage_electric_kettle/vintage_electric_kettle.bin",
+          "size_bytes": 416612,
+          "md5": "3e817b9bd20bad65c016e5464ee03bc3",
+          "sha256": "6be39ebc1893feaef3aa05bec6d2bf069af65fec0c1500422aaedf14357dab59"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_electric_kettle/vintage_electric_kettle_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/vintage_electric_kettle/vintage_electric_kettle_1k.gltf",
+          "size_bytes": 4801,
+          "md5": "2b916b831d913ba1785a8b08ab2f0f61",
+          "sha256": "c03d2ef0e9f46eb06a1ccef6ff78d7baf83e76808e31d7016505e3ee0a416859"
+        }
+      ]
+    },
+    {
+      "asset_id": "ceramic_pot",
+      "name": "Ceramic Pot",
+      "category": "Food & Kitchen/Cookware/Pots & Pans",
+      "polycount": 3592,
+      "authors": {
+        "Aron Łyczek": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/ceramic_pot",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/ceramic_pot/textures/ceramic_pot_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_pot/ceramic_pot_nor_gl_1k.jpg",
+          "size_bytes": 252874,
+          "md5": "a40c80e5e4f9fa107d2c2dc8983d2867",
+          "sha256": "2102b4345882c9648de7ee3b3e547bf7a2a3c9fd35db0ded322df60df16a5c57"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ceramic_pot/textures/ceramic_pot_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_pot/ceramic_pot_diff_1k.jpg",
+          "size_bytes": 664480,
+          "md5": "85746a999ed333628143b3ad2c0b7f42",
+          "sha256": "583e49e8be2ba460700f2dcd6466ab347f5285ccc651dd9054b59ef6a78d812b"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ceramic_pot/textures/ceramic_pot_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_pot/ceramic_pot_arm_1k.jpg",
+          "size_bytes": 633246,
+          "md5": "e45cd9ad939172ae7b94fd455bc44c08",
+          "sha256": "b688549e4defe29de262ccba81278360cd2f42037a40b70f8f4693a96c14bc45"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ceramic_pot/ceramic_pot.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/ceramic_pot/ceramic_pot.bin",
+          "size_bytes": 87952,
+          "md5": "dab3afea04454ad1fbb1108afe764489",
+          "sha256": "f47636aa57f9a258c0ae6874763b9fe5dc87943ea932367e9d5526cdf914ff04"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/ceramic_pot/ceramic_pot_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/ceramic_pot/ceramic_pot_1k.gltf",
+          "size_bytes": 2990,
+          "md5": "8777fd3f023e6f83371786b195ac665b",
+          "sha256": "7d8c28f171f701a422341c82322d439ea5041a6edd4443a85e3c8f88ce12ab0e"
+        }
+      ]
+    },
+    {
+      "asset_id": "brass_pan_01",
+      "name": "Brass Pan 01",
+      "category": "Food & Kitchen/Cookware/Pots & Pans",
+      "polycount": 4340,
+      "authors": {
+        "Rico Cilliers": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/brass_pan_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/brass_pan_01/textures/brass_pan_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/brass_pan_01/brass_pan_01_diff_1k.jpg",
+          "size_bytes": 595029,
+          "md5": "50d7fe9790c6ad162674e7b536ff3e49",
+          "sha256": "e8beb65e8a9e52207934d63a684d5104322238e2693e0f0447bd298c14bc3418"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/brass_pan_01/textures/brass_pan_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/brass_pan_01/brass_pan_01_nor_gl_1k.jpg",
+          "size_bytes": 359170,
+          "md5": "a17f5ad48de5a433b793de3868580dc1",
+          "sha256": "d391d6970b7b2ede721a52d60953eac15afe96504c2316edee2a758f9bd8e2c1"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/brass_pan_01/textures/brass_pan_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/brass_pan_01/brass_pan_01_arm_1k.jpg",
+          "size_bytes": 549721,
+          "md5": "3a01028fb8d35b065a02ed4f0e3a2414",
+          "sha256": "6ffa6a7690e2b3a302bff6f354763ebf3a6deae00b22f815223be4229abe5e60"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/brass_pan_01/brass_pan_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/brass_pan_01/brass_pan_01.bin",
+          "size_bytes": 109336,
+          "md5": "3099c59ef46a50380487ad9b92d4dfbd",
+          "sha256": "8ece55dcbde3a1f81b9221b4fb0344a802117fa89c39b4ec9718bb1d9cba253f"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/brass_pan_01/brass_pan_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/brass_pan_01/brass_pan_01_1k.gltf",
+          "size_bytes": 2676,
+          "md5": "4baf504c0b665858296de702f93beda5",
+          "sha256": "9860e0d10e9ef94c2b02e120f38f28a177af473759e4da05c74a564cfb0da5e1"
+        }
+      ]
+    },
+    {
+      "asset_id": "wooden_spoon",
+      "name": "Wooden Spoon",
+      "category": "Food & Kitchen/Utensils/Wooden Utensils",
+      "polycount": 6576,
+      "authors": {
+        "Ronnie Barter": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/wooden_spoon",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_spoon/textures/wooden_spoon_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_arm_1k.jpg",
+          "size_bytes": 550279,
+          "md5": "bb1e09d3e3b9bb49b4297acd1c095cdd",
+          "sha256": "6ed31d6e211975d3181bc512f1617e8898821cab70f8ed8fc6cf2f91a5dfc6a2"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_spoon/textures/wooden_spoon_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_diff_1k.jpg",
+          "size_bytes": 416433,
+          "md5": "1ba18740c602184511f4e0816ac3828b",
+          "sha256": "3eff89d7363e54e2476749b4caa03e28547d86f6194e4c6db138ce78343de41b"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_spoon/wooden_spoon.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/wooden_spoon/wooden_spoon.bin",
+          "size_bytes": 153184,
+          "md5": "defca1acf4e04ea5587fd4e5a2bf5bad",
+          "sha256": "c5127424529569f326cdd5290ebce748f2e2947a584df28c6d8f01cb63a93535"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_spoon/textures/wooden_spoon_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_nor_gl_1k.jpg",
+          "size_bytes": 851908,
+          "md5": "58102c37108c8220bc1c6346e8eebeba",
+          "sha256": "89968d316e323070dcfe598fec9c86c7586764ff83e9a413f83e52b4d6c84f5a"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wooden_spoon/wooden_spoon_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_spoon/wooden_spoon_1k.gltf",
+          "size_bytes": 2773,
+          "md5": "d79fe52951d9529c5aa0070ce19d1b9c",
+          "sha256": "a52eb77766cc5fa4327c307dcc343ad5810f1c756c1d00a361faa929c496e1d9"
+        }
+      ]
+    },
+    {
+      "asset_id": "russian_food_cans_01",
+      "name": "Russian Food Cans 01",
+      "category": "Food & Kitchen/Packaged & Pantry",
+      "polycount": 1348,
+      "authors": {
+        "Kosan Aziz": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/russian_food_cans_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/russian_food_cans_01/textures/russian_food_cans_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/russian_food_cans_01/russian_food_cans_01_diff_1k.jpg",
+          "size_bytes": 559914,
+          "md5": "bc1110c0388b5451ce825d53134a33ef",
+          "sha256": "e146ea577102e36c58a2a1445b7b140e2b57f8047049a9182d5d60e174b6a8da"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/russian_food_cans_01/textures/russian_food_cans_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/russian_food_cans_01/russian_food_cans_01_arm_1k.jpg",
+          "size_bytes": 541378,
+          "md5": "3e11cb0857bf09ea7cee78f338b7e4c4",
+          "sha256": "1f22207ed5e6bb9ae5c887a7bee1d1ec7ea8365f5ebc3671e71bda0b57dbbf67"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/russian_food_cans_01/textures/russian_food_cans_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/russian_food_cans_01/russian_food_cans_01_nor_gl_1k.jpg",
+          "size_bytes": 362877,
+          "md5": "db6a5bae2597e8970e2ddf7171d4613c",
+          "sha256": "b4d24b5704dd114f244e4ba1c18051e4279372427762cff65d6915888ffe9d69"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/russian_food_cans_01/russian_food_cans_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/russian_food_cans_01/russian_food_cans_01.bin",
+          "size_bytes": 32144,
+          "md5": "0abf139e24697f4ae88224df21a4015c",
+          "sha256": "8d2470449464756e656401478e16987cfd1a4aaa3635194cff56191adf9015cf"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/russian_food_cans_01/russian_food_cans_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/russian_food_cans_01/russian_food_cans_01_1k.gltf",
+          "size_bytes": 5587,
+          "md5": "a9bc79ca5c80203ebc5e602aa31075fb",
+          "sha256": "13ac2f451403a95fda749d822e6911abc0ae2db682467b97a2da1adbaf18fada"
+        }
+      ]
+    },
+    {
+      "asset_id": "yellow_onion",
+      "name": "Yellow Onion",
+      "category": "Food & Kitchen/Produce/Vegetables",
+      "polycount": 5444,
+      "authors": {
+        "Kuutti Siitonen": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/yellow_onion",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/yellow_onion/textures/yellow_onion_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/yellow_onion/yellow_onion_nor_gl_1k.jpg",
+          "size_bytes": 715114,
+          "md5": "649caf0e1fa5a79a9aa1319012def387",
+          "sha256": "f471dbeb82baaf3d743f28a254ed94587f83bd6131f03e656655c6d48717f137"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/yellow_onion/textures/yellow_onion_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/yellow_onion/yellow_onion_diff_1k.jpg",
+          "size_bytes": 455175,
+          "md5": "65504103b6b8af63ba39e2b7d8f6805a",
+          "sha256": "ad28b9926c9190398f1006fcf0b89c44255eb41aee5d52391a41ad5fc0f13e80"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/yellow_onion/textures/yellow_onion_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/yellow_onion/yellow_onion_arm_1k.jpg",
+          "size_bytes": 492495,
+          "md5": "b3cf49965fa2ee909b819a19ba321c6f",
+          "sha256": "77398ea7072602555a86510bfe37a7427a22932efc13de799c6fe2bbe62d2b8d"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/yellow_onion/yellow_onion.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/yellow_onion/yellow_onion.bin",
+          "size_bytes": 139832,
+          "md5": "d85feec8c46d2aa13479cabbaf6a27cc",
+          "sha256": "586c1e459e31e0647d090df4497e88c4e905e598607e9632590fb74cce7ef5f5"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/yellow_onion/yellow_onion_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/yellow_onion/yellow_onion_1k.gltf",
+          "size_bytes": 2785,
+          "md5": "dae6fea89c74167e9140866b0b16201d",
+          "sha256": "0d4aaa4046c5b471ea7f9197c453f3d48699bc85e06fd13606c8ea09a1dce699"
+        }
+      ]
+    },
+    {
+      "asset_id": "vintage_cabinet_01",
+      "name": "Vintage Cabinet 01",
+      "category": "Furniture/Storage Furniture/Cabinets & Cupboards",
+      "polycount": 61096,
+      "authors": {
+        "Rico Cilliers": "All"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/vintage_cabinet_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_cabinet_01/textures/vintage_cabinet_01_a_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_cabinet_01/vintage_cabinet_01_a_rough_1k.jpg",
+          "size_bytes": 133697,
+          "md5": "183215e644cd0f74b426121b49e9a411",
+          "sha256": "a641d1ac6b43ca25eb1b26e631057b79c3f2ab1b39a3460a5894b5c3dd22b420"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_cabinet_01/textures/vintage_cabinet_01_a_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_cabinet_01/vintage_cabinet_01_a_arm_1k.jpg",
+          "size_bytes": 157915,
+          "md5": "9b4581b935f69907fc1bc93d5bc07ed6",
+          "sha256": "0f5970977780b6dbb202f1371777b7b616dee9da7e01760eee306c2202ffeb17"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_cabinet_01/textures/vintage_cabinet_01_a_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_cabinet_01/vintage_cabinet_01_a_nor_gl_1k.jpg",
+          "size_bytes": 109236,
+          "md5": "5f0f1319da94f89c1111f6484839d266",
+          "sha256": "08d64582202f32c8f2250ee2061dc870678ac694206f9b4edf2acd11e33323a4"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_cabinet_01/textures/vintage_cabinet_01_b_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_cabinet_01/vintage_cabinet_01_b_rough_1k.jpg",
+          "size_bytes": 155539,
+          "md5": "e858bf92185d817f993dafcf21b9be18",
+          "sha256": "1f11ec7fdea1b6a9ce7ea8a3d2110f944860aeb72dce4d017b8d2880582dfb20"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_cabinet_01/vintage_cabinet_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/vintage_cabinet_01/vintage_cabinet_01.bin",
+          "size_bytes": 1995776,
+          "md5": "9048b5c9e35ab9d2e2732cf738b7fcb8",
+          "sha256": "407c58be2c5efb1d41d549fcff6a57d18d025033803dcb241e57349dd65bcf60"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_cabinet_01/textures/vintage_cabinet_01_b_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_cabinet_01/vintage_cabinet_01_b_nor_gl_1k.jpg",
+          "size_bytes": 52162,
+          "md5": "492c300d382219c0cd696cf11c6dbc26",
+          "sha256": "c9580fbf1f69d7bc23817216e2954c713c87aceb5c4f04b9b1a5233c2cf2ce7b"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_cabinet_01/textures/vintage_cabinet_01_a_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_cabinet_01/vintage_cabinet_01_a_diff_1k.jpg",
+          "size_bytes": 119782,
+          "md5": "fdb450df01c024a7f86f0719c23b63de",
+          "sha256": "06453bb3e2811147a7558914437c20042f3f5c21b9c4f1d3488bdfe94f25f03f"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_cabinet_01/textures/vintage_cabinet_01_b_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_cabinet_01/vintage_cabinet_01_b_diff_1k.jpg",
+          "size_bytes": 124307,
+          "md5": "7bd4316d7c8997626de05fe9e149e4d5",
+          "sha256": "81967dbb387b205b2aa6f253165c8c44f60cdf5e57d9ceebf230fef21569b33a"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/vintage_cabinet_01/vintage_cabinet_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/vintage_cabinet_01/vintage_cabinet_01_1k.gltf",
+          "size_bytes": 22562,
+          "md5": "754cfb6f79559dbd0eb3c1ccbf364e3b",
+          "sha256": "ce66c642cb13ba11bf7cde72bb58ad465dce1909dbef8a22dd55b28d857c1848"
+        }
+      ]
+    },
+    {
+      "asset_id": "wine_bottles_01",
+      "name": "Wine Bottles 01",
+      "category": "Food & Kitchen/Drinks/Bottles & Wine",
+      "polycount": 28848,
+      "authors": {
+        "Rico Cilliers": "modeling",
+        "Jurita Burger": "graphic design"
+      },
+      "license": "CC0",
+      "license_url": "https://polyhaven.com/license",
+      "source_url": "https://polyhaven.com/a/wine_bottles_01",
+      "files": [
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_label_ftero_vinea_02_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_label_ftero_vinea_02_arm_1k.jpg",
+          "size_bytes": 152387,
+          "md5": "45938162f0a40c5336a13020f260833a",
+          "sha256": "c07bcbd4cde7bf713b0512d52345b949c4684ec0735c5798ac79a0fb4719b92c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_label_ftero_vinea_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_label_ftero_vinea_01_diff_1k.jpg",
+          "size_bytes": 323568,
+          "md5": "030a590777a7d7da9aa4b5b3b4b9014a",
+          "sha256": "3d1f02a201c8d573b155b2ea2265b31bf1d532e4c9a7baf2dfe54e2633e5e9c0"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_label_intertwine_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_label_intertwine_01_arm_1k.jpg",
+          "size_bytes": 104730,
+          "md5": "8fd5a9a2a55346b04fb7131708d32bd5",
+          "sha256": "712d20fa4caabdf830e454ddc240643319700843e3bda349ae0c3c98dccbd582"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_label_clearwater_crystals_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_label_clearwater_crystals_01_diff_1k.jpg",
+          "size_bytes": 148172,
+          "md5": "3120c575d3b241e49805a5e6b7f0dcf1",
+          "sha256": "fca5e598c73d877c636e3c28345254fb9f6320e765fdd0b923fdb4ead5769ccf"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_label_ftero_vinea_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_label_ftero_vinea_01_arm_1k.jpg",
+          "size_bytes": 214807,
+          "md5": "1ab2d2ae76354374153f197319087e4b",
+          "sha256": "5808aed6b27b1812bbead8c6d733d412c1ed56adf587770dedf5f5e9d2e5310f"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_label_clearwater_crystals_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_label_clearwater_crystals_01_arm_1k.jpg",
+          "size_bytes": 148023,
+          "md5": "961b508053ef1efa61fad81c28938cbb",
+          "sha256": "67041443fc09702bc93c9481d1492aeaad659cdb9a5a5dab478a86f41017e83c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_label_ftero_vinea_02_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_label_ftero_vinea_02_diff_1k.jpg",
+          "size_bytes": 207588,
+          "md5": "866fdd9058077ebd52f57e9725ccc05e",
+          "sha256": "5a35e83b08e3be62ae42773727d94d5c41da3df55b79fd7e53fca3fadc382a17"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_paper_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_paper_nor_gl_1k.jpg",
+          "size_bytes": 980529,
+          "md5": "4e2db4d9272da914123d244f3f81eb32",
+          "sha256": "b05b6f021b942032d45f23e46066da715c4f9624acea7d8db77928a90076a049"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/wine_bottles_01.bin",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wine_bottles_01/wine_bottles_01.bin",
+          "size_bytes": 688000,
+          "md5": "3b85db3b871a0392cfcb49ae501e3293",
+          "sha256": "a520b717c7f9d15b7f114d1be5f454f18b2cfd056757fb4d4c5f5054de5db6d6"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_label_intertwine_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_label_intertwine_01_diff_1k.jpg",
+          "size_bytes": 143130,
+          "md5": "a94f8a59cdc95725bfa40efbe10fe22c",
+          "sha256": "e5571a24e0f025361dfeecd7a09f4c3ee9be36dadf817177ee75919078002513"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_diff_1k.jpg",
+          "size_bytes": 110230,
+          "md5": "e84ada778c6479c2abdd8087fb8eee19",
+          "sha256": "f440b6364c87eb440c9ca201759cfdaf2735e3147488eadc24be334f1e457a09"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_nor_gl_1k.jpg",
+          "size_bytes": 194721,
+          "md5": "dc89329d642d0d11c4d4dd5340608342",
+          "sha256": "ed92387b827b7aebf4602e655c8e9cbaf53bbed24b7228106b04b3456e2d779c"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/textures/wine_bottles_01_arm_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wine_bottles_01/wine_bottles_01_arm_1k.jpg",
+          "size_bytes": 464325,
+          "md5": "8e5cb44e88727fe72ca05e171d93ceb1",
+          "sha256": "c3deadf0db4c9c98ad39f389e95fe2b09d8df0e3abb95a47f01478f31fd261a9"
+        },
+        {
+          "path": "prototype/assets/models/polyhaven/wine_bottles_01/wine_bottles_01_1k.gltf",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wine_bottles_01/wine_bottles_01_1k.gltf",
+          "size_bytes": 29107,
+          "md5": "56ed090c274714cccafefe08f5b9c1a8",
+          "sha256": "70a8a5eabeac24cf298774aca78bbcf39145ca6bf5ebdf2f296edab73fbce039"
+        }
+      ]
+    }
+  ]
+}

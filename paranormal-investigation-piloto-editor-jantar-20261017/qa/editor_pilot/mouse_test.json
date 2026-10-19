@@ -1,0 +1,9 @@
+{
+  "before": "[node name=\"Cadeira_02\" type=\"Node3D\" parent=\".\" unique_id=1724730123 instance=ExtResource(\"14_kqelc\")]\ntransform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.3, 0, 1.18)\nmetadata/_edit_group_ = true\nmetadata/piloto_jantar = true\n\n",
+  "after_drag": "[node name=\"Cadeira_02\" parent=\".\" unique_id=1724730123 instance=ExtResource(\"14_kqelc\")]\ntransform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.807675, 0, 1.18)\n\n",
+  "changed": true,
+  "after_rotation": "[node name=\"Cadeira_02\" parent=\".\" unique_id=1724730123 instance=ExtResource(\"14_kqelc\")]\ntransform = Transform3D(0.70710677, 0, 0.70710677, 0, 1, 0, -0.70710677, 0, 0.70710677, -4.807675, 0, 1.18)\n\n",
+  "rotation_changed": true,
+  "layout_restored_exactly": true,
+  "restored_sha256": "5c17eb7e625bbc674a0debb89a62613ca6b3ba27126523c8f51c81ce6094a182"
+}

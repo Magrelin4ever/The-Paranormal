@@ -1,0 +1,44 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+C16_MODEL_INSTANCED scale=0.9 rotation_y=-90 colliders=14
+C13_ROUTE_SCOPE doors_opened_for_test=true horizontal_tolerance=0.34 vertical_tolerance=0.45 doors_opened=28 spawn=(0.0, -0.019531, 17.2)
+C13_WAYPOINT entrada frontal end=(0.037098, 0.000023, 6.224972) target=(0.0, 0.0, 6.05) h=0.179 floor=true reached=true
+C13_WAYPOINT foyer end=(0.003758, 0.000023, 5.258881) target=(0.0, 0.0, 5.15) h=0.109 floor=true reached=true
+C13_WAYPOINT hall esquerdo frontal end=(-1.346042, 0.000023, 5.161148) target=(-1.5, 0.0, 5.15) h=0.154 floor=true reached=true
+C13_WAYPOINT entrada da sala de estar end=(-2.602671, 0.000023, 5.151513) target=(-2.8, 0.0, 5.15) h=0.197 floor=true reached=true
+C13_WAYPOINT sala de estar, faixa de circulação end=(-4.245371, 0.000023, 5.197096) target=(-4.35, 0.0, 5.2) h=0.105 floor=true reached=true
+C13_WAYPOINT retorno da sala de estar end=(-2.989372, 0.000023, 5.156171) target=(-2.8, 0.0, 5.15) h=0.189 floor=true reached=true
+C13_WAYPOINT porta estar–jantar end=(-5.43703, 0.000998, 2.910854) target=(-5.55, 0.0, 2.8) h=0.158 floor=true reached=true
+C13_WAYPOINT jantar, entrada livre end=(-5.532215, 0.000998, 2.143401) target=(-5.55, 0.0, 2.0) h=0.144 floor=true reached=true
+C13_WAYPOINT jantar, corredor leste end=(-4.165611, 0.000998, 1.658734) target=(-4.0, 0.0, 1.6) h=0.176 floor=true reached=true
+C13_WAYPOINT jantar, contorno da mesa end=(-3.986235, 0.001, -1.833238) target=(-4.0, 0.0, -2.0) h=0.167 floor=true reached=true
+C13_WAYPOINT porta jantar–cozinha end=(-5.428061, 0.001, -1.986996) target=(-5.55, 0.0, -2.0) h=0.123 floor=true reached=true
+C13_WAYPOINT cozinha, entrada end=(-5.533338, 0.001, -2.947914) target=(-5.55, 0.0, -3.1) h=0.153 floor=true reached=true
+C13_WAYPOINT cozinha, circulação central end=(-4.115496, 0.001, -4.660494) target=(-4.0, 0.0, -4.8) h=0.181 floor=true reached=true
+C13_WAYPOINT cozinha, corredor diante da bancada end=(-4.013602, 0.001, -6.106913) target=(-4.0, 0.0, -6.3) h=0.194 floor=true reached=true
+C13_WAYPOINT cozinha, retorno end=(-4.001529, 0.001, -4.946974) target=(-4.0, 0.0, -4.8) h=0.147 floor=true reached=true
+C13_WAYPOINT cozinha, volta ao jantar end=(-5.489955, 0.000984, -2.159702) target=(-5.55, 0.0, -2.0) h=0.171 floor=true reached=true
+C13_WAYPOINT jantar, retorno pelo corredor leste end=(-4.144331, 0.000984, -2.01547) target=(-4.0, 0.0, -2.0) h=0.145 floor=true reached=true
+C13_WAYPOINT jantar, retorno ao hall end=(-3.98478, 0.001, 1.448696) target=(-4.0, 0.0, 1.6) h=0.152 floor=true reached=true
+C13_WAYPOINT jantar, acesso à sala end=(-5.439219, 0.001, 1.964721) target=(-5.55, 0.0, 2.0) h=0.116 floor=true reached=true
+C13_WAYPOINT sala, retorno ao hall end=(-2.971875, 0.000984, 5.057854) target=(-2.8, 0.0, 5.15) h=0.195 floor=true reached=true
+C13_WAYPOINT foyer pelo hall central end=(-1.427552, 0.000984, 5.14297) target=(-1.3, 0.0, 5.15) h=0.128 floor=true reached=true
+C13_WAYPOINT hall direito frontal end=(1.182439, 0.000984, 5.149697) target=(1.3, 0.0, 5.15) h=0.118 floor=true reached=true
+C13_WAYPOINT entrada do escritório end=(2.632439, 0.000984, 5.149969) target=(2.8, 0.0, 5.15) h=0.168 floor=true reached=true
+C13_WAYPOINT escritório, corredor de circulação end=(3.687101, 0.000984, 5.285493) target=(3.8, 0.0, 5.3) h=0.114 floor=true reached=true
+C13_WAYPOINT escritório, aproximação à mesa end=(4.069283, 0.000984, 4.849218) target=(4.2, 0.0, 4.7) h=0.198 floor=true reached=true
+C13_WAYPOINT porta escritório–biblioteca end=(5.484674, 0.000984, 2.890407) target=(5.55, 0.0, 2.8) h=0.112 floor=true reached=true
+C13_WAYPOINT biblioteca, entrada end=(5.541259, 0.000984, 2.119145) target=(5.55, 0.0, 2.0) h=0.119 floor=true reached=true
+C13_WAYPOINT biblioteca, corredor das estantes end=(7.647011, 0.000984, 1.821616) target=(7.8, 0.0, 1.8) h=0.155 floor=true reached=true
+C13_WAYPOINT biblioteca, faixa de leitura end=(7.795938, 0.000984, -1.345412) target=(7.8, 0.0, -1.5) h=0.155 floor=true reached=true
+C13_WAYPOINT porta biblioteca–serviço end=(5.661414, 0.000984, -1.967528) target=(5.55, 0.0, -2.0) h=0.116 floor=true reached=true
+C13_WAYPOINT área de serviço, entrada end=(5.565681, 0.000984, -3.026543) target=(5.55, 0.0, -3.2) h=0.174 floor=true reached=true
+C13_WAYPOINT serviço, faixa livre da escada end=(5.597476, 0.000984, -4.669571) target=(5.6, 0.0, -4.8) h=0.13 floor=true reached=true
+C13_WAYPOINT serviço, acesso à lavanderia end=(4.587449, 0.000984, -5.709925) target=(4.5, 0.0, -5.8) h=0.126 floor=true reached=true
+C13_WAYPOINT serviço, retorno end=(5.522152, 0.000984, -4.869958) target=(5.6, 0.0, -4.8) h=0.105 floor=true reached=true
+C13_WAYPOINT serviço, porta para o hall end=(2.951815, 0.000984, -5.323228) target=(2.8, 0.0, -5.35) h=0.154 floor=true reached=true
+C13_WAYPOINT reentrada no hall direito end=(1.405352, 0.000984, -5.348292) target=(1.3, 0.0, -5.35) h=0.105 floor=true reached=true
+C13_WAYPOINT retorno ao foyer end=(1.301359, 0.000873, 4.991611) target=(1.3, 0.0, 5.15) h=0.158 floor=true reached=true
+C13_WAYPOINT saída frontal end=(0.027047, -0.011627, 9.870297) target=(0.0, 0.0, 10.0) h=0.132 floor=true reached=true
+C13_ROUTE_RESULT status=PASS waypoints=38 frames=1103 final=(0.027047, -0.011627, 9.870297)
+C13_ROUTE PASS

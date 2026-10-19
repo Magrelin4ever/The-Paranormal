@@ -1,0 +1,129 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:372)
+OpenGL API 4.5 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.3 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 20.1.2, 256 bits)
+
+SCRIPT ERROR: Parse Error: Too many arguments for "find_child()" call. Expected at most 3 but received 4.
+          at: GDScript::reload (res://qa/editor_pilot/validate_pilot.gd:45)
+SCRIPT ERROR: Parse Error: Cannot pass a value of type "String" as "bool".
+          at: GDScript::reload (res://qa/editor_pilot/validate_pilot.gd:45)
+SCRIPT ERROR: Parse Error: Invalid argument for "find_child()" function: argument 2 should be "bool" but is "String".
+          at: GDScript::reload (res://qa/editor_pilot/validate_pilot.gd:45)
+SCRIPT ERROR: Parse Error: Too many arguments for "find_child()" call. Expected at most 3 but received 4.
+          at: GDScript::reload (res://qa/editor_pilot/validate_pilot.gd:140)
+SCRIPT ERROR: Parse Error: Cannot pass a value of type "String" as "bool".
+          at: GDScript::reload (res://qa/editor_pilot/validate_pilot.gd:140)
+SCRIPT ERROR: Parse Error: Invalid argument for "find_child()" function: argument 2 should be "bool" but is "String".
+          at: GDScript::reload (res://qa/editor_pilot/validate_pilot.gd:140)
+ERROR: Failed to load script "res://qa/editor_pilot/validate_pilot.gd" with error "Parse error".
+   at: load (modules/gdscript/gdscript_resource_format.cpp:46)
+res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_artwork_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_arm_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_artwork_roughness_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_artwork_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_artwork_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_artwork_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/hanging_picture_frame_02/textures/hanging_picture_frame_02_artwork_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_flame_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/dining_chair_02/textures/dining_chair_02_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/dining_chair_02/textures/dining_chair_02_arm_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/dining_chair_02/textures/dining_chair_02_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/dining_chair_02/textures/dining_chair_02_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/dining_chair_02/textures/dining_chair_02_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/dining_chair_02/textures/dining_chair_02_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/Chandelier_03/textures/Chandelier_03_opacity_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/Chandelier_03/textures/Chandelier_03_arm_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/Chandelier_03/textures/Chandelier_03_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/Chandelier_03/textures/Chandelier_03_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/Chandelier_03/textures/Chandelier_03_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/Chandelier_03/textures/Chandelier_03_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/Chandelier_03/textures/Chandelier_03_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/tea_set_01/textures/tea_set_01_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/tea_set_01/textures/tea_set_01_arm_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/tea_set_01/textures/tea_set_01_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/tea_set_01/textures/tea_set_01_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/tea_set_01/textures/tea_set_01_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/tea_set_01/textures/tea_set_01_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/dining_table/textures/dining_table_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/dining_table/textures/dining_table_arm_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/dining_table/textures/dining_table_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/dining_table/textures/dining_table_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/dining_table/textures/dining_table_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/dining_table/textures/dining_table_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/polyhaven/wood_floor/wood_floor_diff_2k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/polyhaven/wood_floor/wood_floor_rough_2k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/polyhaven/wood_floor/wood_floor_nor_gl_2k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/textures/polyhaven/wood_floor/wood_floor_nor_gl_2k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/textures/polyhaven/wood_floor/wood_floor_nor_gl_2k.jpg.
+res://prototype/assets/textures/polyhaven/wood_floor/wood_floor_nor_gl_2k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/polyhaven/wood_floor/wood_floor_ao_2k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/textures/polyhaven/wood_floor/wood_floor_nor_gl_2k.jpg.
+res://prototype/assets/textures/polyhaven/wood_floor/wood_floor_ao_2k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_diff_2k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_rough_2k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_nor_gl_2k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_nor_gl_2k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_nor_gl_2k.jpg.
+res://prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_nor_gl_2k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_ao_2k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_nor_gl_2k.jpg.
+res://prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_ao_2k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/fern_02/textures/fern_02_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/fern_02/textures/fern_02_arm_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/fern_02/textures/fern_02_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/fern_02/textures/fern_02_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/fern_02/textures/fern_02_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/fern_02/textures/fern_02_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/planter_pot_clay/textures/planter_pot_clay_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/planter_pot_clay/textures/planter_pot_clay_arm_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/planter_pot_clay/textures/planter_pot_clay_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/planter_pot_clay/textures/planter_pot_clay_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/planter_pot_clay/textures/planter_pot_clay_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/planter_pot_clay/textures/planter_pot_clay_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_arm_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_glass_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_glass_arm_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_glass_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_glass_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_glass_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/vintage_oil_lamp/textures/vintage_oil_lamp_glass_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/ceramic_vase_02/textures/ceramic_vase_02_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/ceramic_vase_02/textures/ceramic_vase_02_rough_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/ceramic_vase_02/textures/ceramic_vase_02_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/ceramic_vase_02/textures/ceramic_vase_02_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/ceramic_vase_02/textures/ceramic_vase_02_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/ceramic_vase_02/textures/ceramic_vase_02_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/modern_wooden_cabinet/textures/modern_wooden_cabinet_diff_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/modern_wooden_cabinet/textures/modern_wooden_cabinet_arm_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/models/polyhaven/modern_wooden_cabinet/textures/modern_wooden_cabinet_nor_gl_1k.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/models/polyhaven/modern_wooden_cabinet/textures/modern_wooden_cabinet_nor_gl_1k.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/models/polyhaven/modern_wooden_cabinet/textures/modern_wooden_cabinet_nor_gl_1k.jpg.
+res://prototype/assets/models/polyhaven/modern_wooden_cabinet/textures/modern_wooden_cabinet_nor_gl_1k.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_Color_2K.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_Roughness_2K.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_NormalGL_2K.jpg: Texture detected as used as a normal map in 3D. Enabling red-green texture compression to reduce memory usage (blue channel is discarded).
+res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_NormalGL_2K.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_NormalGL_2K.jpg.
+res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_NormalGL_2K.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_AO_2K.jpg: Texture detected as used as a roughness map in 3D. Enabling roughness limiter based on the detected associated normal map at res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_NormalGL_2K.jpg.
+res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_AO_2K.jpg: Texture detected as used in 3D. Enabling mipmap generation and setting the texture compression mode to VRAM Compressed (S3TC/ETC/BPTC).
+
+================================================================
+handle_crash: Program crashed with signal 11
+Engine version: Godot Engine v4.7.2.stable.official (ed1daf0bf001b61586d9930840f2f1394092c079)
+Dumping the backtrace. Please include this when reporting the bug on: https://github.com/godotengine/godot/issues
+Load address: 400000
+
+[1] 7f7a80a45330 (libc.so.6+45330) - /lib/x86_64-linux-gnu/libc.so.6(+0x45330) [0x7f7a80a45330]
+[2] 3c4f06a (main+384f06a) - /opt/manus/godot/4.7.2/godot() [0x3c4f06a]
+[3] 3c754c4 (main+38754c4) - /opt/manus/godot/4.7.2/godot() [0x3c754c4]
+[4] 3e071cb (main+3a071cb) - /opt/manus/godot/4.7.2/godot() [0x3e071cb]
+[5] 566334 (main+166334) - /opt/manus/godot/4.7.2/godot() [0x566334]
+[6] 1e4868a (main+1a4868a) - /opt/manus/godot/4.7.2/godot() [0x1e4868a]
+[7] 1e983ab (main+1a983ab) - /opt/manus/godot/4.7.2/godot() [0x1e983ab]
+[8] 1fd38c5 (main+1bd38c5) - /opt/manus/godot/4.7.2/godot() [0x1fd38c5]
+[9] 1a5ac5a (main+165ac5a) - /opt/manus/godot/4.7.2/godot() [0x1a5ac5a]
+[10] 48bff41 (main+44bff41) - /opt/manus/godot/4.7.2/godot() [0x48bff41]
+[11] 2b4c0c9 (main+274c0c9) - /opt/manus/godot/4.7.2/godot() [0x2b4c0c9]
+[12] 2b4d278 (main+274d278) - /opt/manus/godot/4.7.2/godot() [0x2b4d278]
+[13] 2b51281 (main+2751281) - /opt/manus/godot/4.7.2/godot() [0x2b51281]
+[14] 5661f9 (main+1661f9) - /opt/manus/godot/4.7.2/godot() [0x5661f9]
+[15] 42c157 (main+2c157) - /opt/manus/godot/4.7.2/godot() [0x42c157]
+[16] 7f7a80a2a1ca (libc.so.6+2a1ca) - /lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca) [0x7f7a80a2a1ca]
+[17] 7f7a80a2a28b (libc.so.6+2a28b) - /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b) [0x7f7a80a2a28b]
+[18] 48a6da (main+8a6da) - /opt/manus/godot/4.7.2/godot() [0x48a6da]
+-- END OF C++ BACKTRACE --
+================================================================

@@ -1,0 +1,6 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+C16_MODEL_INSTANCED scale=0.9 rotation_y=-90 colliders=14
+C13_ACCESS_PHYSICS_RESULT method=player_capsule_intersect_shape samples=65 spacing_max=0.18 doors=28 closed=28 open=0 doors_toggled=false collision_points=0
+C13_ACCESS_PHYSICS_SCOPE actual_player_capsule=true physics_space_query=true sampled_path_not_continuous_motion=true doors_left_in_spawn_state=true
+C13_ACCESS_PHYSICS_PASS areas=seat_approach_and_east_perimeter

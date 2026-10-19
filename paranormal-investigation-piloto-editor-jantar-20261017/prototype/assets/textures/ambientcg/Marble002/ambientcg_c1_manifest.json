@@ -1,0 +1,30 @@
+{
+  "source": "AmbientCG official 2K-JPG download",
+  "asset_id": "Marble002",
+  "source_url": "https://ambientcg.com/view?id=Marble002",
+  "download_url": "https://ambientcg.com/get?file=Marble002_2K-JPG.zip",
+  "license": "CC0 1.0",
+  "license_url": "https://docs.ambientcg.com/license/",
+  "downloaded_at_utc": "2026-10-17T04:31:52Z",
+  "resolution": "2048x2048",
+  "maps": [
+    {
+      "path": "Marble002_Color_2K.jpg",
+      "map": "Color",
+      "size_bytes": 2115339,
+      "sha256": "3083dbf1999407eeb054d16345c9bd55053153b4aa1a47ac88ae21567f951b57"
+    },
+    {
+      "path": "Marble002_NormalGL_2K.jpg",
+      "map": "NormalGL",
+      "size_bytes": 5884979,
+      "sha256": "65429ca464f20c92b2e4f48a9c4c668a55f4ef597fe35532cb72b4816772cbf7"
+    },
+    {
+      "path": "Marble002_Roughness_2K.jpg",
+      "map": "Roughness",
+      "size_bytes": 2523984,
+      "sha256": "54e7dddffac97bf3f4a46da846903761886f6a78aac9809b95bcb9436077e0de"
+    }
+  ]
+}

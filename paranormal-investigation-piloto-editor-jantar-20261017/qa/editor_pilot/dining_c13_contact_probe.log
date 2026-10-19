@@ -1,0 +1,6 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+C16_MODEL_INSTANCED scale=0.9 rotation_y=-90 colliders=14
+C13_AABB_SUPPORT_RESULT method=world_AABB_gaps table_top=0.7864 plate_count=4 plate_gap_min=0.0026 plate_gap_max=0.0026 tea_gap=0.0011 cabinet_top=0.7006 vase_gap=0.0006 lamp_gap=-0.0001 cup_gap=-0.0000 napkin_gap=0.0026 fold_to_base_gap=0.0000 cloth_visible=false
+C13_AABB_SUPPORT_SCOPE geometry_bounds_only=true physical_contact_not_proven=true prop_colliders_not_checked=true
+C13_AABB_SUPPORT_PASS

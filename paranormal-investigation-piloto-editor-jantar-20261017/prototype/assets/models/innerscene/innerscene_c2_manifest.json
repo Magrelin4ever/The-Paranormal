@@ -1,0 +1,130 @@
+{
+  "source": "InnerScene public asset library, downloaded from official item pages",
+  "license": "CC0/public domain as declared by each item page",
+  "downloaded_at_utc": "2026-10-16T22:45:19Z",
+  "updated_at_utc": "2026-10-17T04:24:00Z",
+  "assets": [
+    {
+      "filename": "undermount-double-sink.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/twin-sink-double-undermount-sink-2b2be750",
+      "download_url": "https://www.innerscene.com/api/library/twin-sink-double-undermount-sink-2b2be750/download",
+      "license": "CC0",
+      "size_bytes": 352568,
+      "sha256": "c939a13dcd6b9fba0299e6af056c452e426aab2ddec166c34473bda1159c352a"
+    },
+    {
+      "filename": "pull-down-kitchen-faucet.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/spray-mixer-pull-down-kitchen-faucet-b292a842",
+      "download_url": "https://www.innerscene.com/api/library/spray-mixer-pull-down-kitchen-faucet-b292a842/download",
+      "license": "CC0",
+      "size_bytes": 279688,
+      "sha256": "1e8a1d5acb155a3a59738d6162660646a373b8d3c0a1ef073656d06d35465968"
+    },
+    {
+      "filename": "utility-laundry-tub.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/laundry-tub-utility-laundry-tub-49064dac",
+      "download_url": "https://www.innerscene.com/api/library/laundry-tub-utility-laundry-tub-49064dac/download",
+      "license": "CC0",
+      "size_bytes": 380712,
+      "sha256": "6f798f91edb73c3ca05bd63e893137ed1384707992fda6084c097a61e13b2f28"
+    },
+    {
+      "filename": "filled-bookshelf-large-original-interior-furnishing.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/filled-bookshelf-large-original-interior-furnishing-584afc77",
+      "download_url": "https://www.innerscene.com/api/library/filled-bookshelf-large-original-interior-furnishing-584afc77/download",
+      "license": "CC0",
+      "size_bytes": 1527904,
+      "sha256": "ed18fd3a2aed3fac8d2d4fa5932e6dc4ccc451b5967e68ced24eb092ec372e47"
+    },
+    {
+      "filename": "bookcase.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/shift-90-offset-oak-bookcase-6a6f765c",
+      "download_url": "https://www.innerscene.com/api/library/shift-90-offset-oak-bookcase-6a6f765c/download",
+      "license": "CC0",
+      "size_bytes": 1586780,
+      "sha256": "ffede3557878f286d3f21bec057cb6fa55a91fdd1e3adf47a3c70e70389f0ad3"
+    },
+    {
+      "filename": "vector-office-chair.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/vector-ergonomic-office-chair-ae299d68",
+      "download_url": "https://www.innerscene.com/api/library/vector-ergonomic-office-chair-ae299d68/download",
+      "license": "CC0",
+      "size_bytes": 5766012,
+      "sha256": "5a912cf6b2c875c614954808f74bdc8f33e0b544e3f8dcdc44a9b76ead321552"
+    },
+    {
+      "filename": "french-press.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/press-eight-coffee-maker-33aa2907",
+      "download_url": "https://www.innerscene.com/api/library/press-eight-coffee-maker-33aa2907/download",
+      "license": "CC0",
+      "size_bytes": 277252,
+      "sha256": "b797dfa0080c4f69040c19673ea659073df9b2fdcbea156adee1f391804c116a"
+    },
+    {
+      "filename": "kitchen-coffee-machine.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/kitchen-coffee-machine-3d3747f4",
+      "download_url": "https://www.innerscene.com/api/library/kitchen-coffee-machine-3d3747f4/download",
+      "license": "CC0",
+      "size_bytes": 13332,
+      "sha256": "063f582c6fa0f00a9f24e3393dac2295491c4becdaf5513c893ab1a2826b6ec3"
+    },
+    {
+      "filename": "desk-with-chair-original-hotel-furnishing.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/desk-with-chair-original-hotel-furnishing-8302c2bb",
+      "download_url": "https://www.innerscene.com/api/library/desk-with-chair-original-hotel-furnishing-8302c2bb/download",
+      "license": "CC0",
+      "size_bytes": 611672,
+      "sha256": "1f00cc03a0fec268684ad4fe2f73a25bcc3a62304d2ef20a4fa529d8be2826e4"
+    },
+    {
+      "filename": "television-modern.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/television-modern-9ac9fe77",
+      "download_url": "https://www.innerscene.com/api/library/television-modern-9ac9fe77/download",
+      "license": "CC0",
+      "size_bytes": 6368,
+      "sha256": "d89519ad0a5f28b5b0dccb0d83209dccf610cda959578238dd21bbf9e219cfc6"
+    },
+    {
+      "filename": "tripod-floor-lamp.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/beacon-tripod-floor-lamp-81bd9790",
+      "download_url": "https://www.innerscene.com/api/library/beacon-tripod-floor-lamp-81bd9790/download",
+      "license": "CC0",
+      "size_bytes": 1068472,
+      "sha256": "abb0bf68665605875ed0c690082e455394a5f3297684f39eeda4b8ae314aed5a"
+    },
+    {
+      "filename": "ceiling-fan-polyhaven.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/ceiling-fan-22429bd0",
+      "origin_url": "https://polyhaven.com/a/ceiling_fan",
+      "download_url": "https://www.innerscene.com/api/library/ceiling-fan-22429bd0/download",
+      "license": "CC0",
+      "size_bytes": 5196788,
+      "sha256": "c194f073e8f059caea9c91976a35755cc2bba94974ef876544dc3e6055d16309"
+    },
+    {
+      "filename": "curtain-pair-open-original-interior-furnishing.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/curtain-pair-open-original-interior-furnishing-8c8dbd3d",
+      "download_url": "https://www.innerscene.com/api/library/curtain-pair-open-original-interior-furnishing-8c8dbd3d/download",
+      "license": "CC0",
+      "size_bytes": 297732,
+      "sha256": "12524d472c0f9f01b8fc613995f3e1fc18210dfe9bb3e8544f3944e6cff48999"
+    },
+    {
+      "filename": "throw-blanket-original-interior-decor.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/throw-blanket-original-interior-decor-f452871f",
+      "download_url": "https://www.innerscene.com/api/library/throw-blanket-original-interior-decor-f452871f/download",
+      "license": "CC0",
+      "size_bytes": 236088,
+      "sha256": "df88f95a706d7ee9277457e90c8b15b1b4bd62f4bf75b2cdd4ee17d4d3120784"
+    },
+    {
+      "filename": "polyhaven-throw-pillows-01.glb",
+      "source_url": "https://www.innerscene.com/tools/library/3d-parts/throw-pillows-17b186e2",
+      "origin_url": "https://polyhaven.com/a/throw_pillows_01",
+      "download_url": "https://www.innerscene.com/api/library/throw-pillows-17b186e2/download",
+      "license": "CC0",
+      "size_bytes": 4457776,
+      "sha256": "fdd2da20888d9b4c7c32ac1e14a77ea9bd139eb88fe8f30b8aee0e4ba8876ed1"
+    }
+  ]
+}

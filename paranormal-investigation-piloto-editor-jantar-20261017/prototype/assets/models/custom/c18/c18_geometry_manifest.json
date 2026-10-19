@@ -1,0 +1,284 @@
+{
+  "asset": "C18 laundry service",
+  "author": "Original project geometry authored in Blender",
+  "blender": "4.0.2",
+  "source_objects": 160,
+  "runtime_meshes": 12,
+  "triangles": 31948,
+  "internal_lights": 0,
+  "emissive_materials": 0,
+  "model_bounds": {
+    "x": [
+      -2.240000009536743,
+      2.3939855098724365
+    ],
+    "y": [
+      -2.525310804912806e-08,
+      2.570000171661377
+    ],
+    "z": [
+      -0.3800000250339508,
+      0.8800000548362732
+    ]
+  },
+  "world_origin": [
+    4.25,
+    0.022,
+    -7.48
+  ],
+  "world_rotation_y": 0,
+  "world_scale": 1,
+  "world_bounds": {
+    "x": [
+      2.009999990463257,
+      6.6439855098724365
+    ],
+    "y": [
+      0.02199997474689195,
+      2.5920001716613768
+    ],
+    "z": [
+      -7.860000025033951,
+      -6.599999945163727
+    ]
+  },
+  "groups_bounds_model_y_up": {
+    "base": {
+      "x": [
+        -1.7000000476837158,
+        1.9500000476837158
+      ],
+      "y": [
+        8.045830668379494e-10,
+        1.2421190738677979
+      ],
+      "z": [
+        -0.36000001430511475,
+        0.36000001430511475
+      ]
+    },
+    "side": {
+      "x": [
+        -2.240000009536743,
+        -1.6399999856948853
+      ],
+      "y": [
+        -1.887447353965399e-08,
+        2.570000171661377
+      ],
+      "z": [
+        -0.3800000250339508,
+        0.8799999952316284
+      ]
+    },
+    "sobrejanela": {
+      "x": [
+        -1.7000000476837158,
+        2.25
+      ],
+      "y": [
+        1.559999942779541,
+        2.570000171661377
+      ],
+      "z": [
+        -0.37000003457069397,
+        0.0690000057220459
+      ]
+    },
+    "direita": {
+      "x": [
+        1.3109999895095825,
+        2.25
+      ],
+      "y": [
+        0.9399999380111694,
+        2.5399999618530273
+      ],
+      "z": [
+        -0.3500000238418579,
+        0.27900001406669617
+      ]
+    },
+    "aspirador": {
+      "x": [
+        1.959999918937683,
+        2.259999990463257
+      ],
+      "y": [
+        1.6587722306837804e-09,
+        1.3608927726745605
+      ],
+      "z": [
+        -0.2849999964237213,
+        -0.05499999597668648
+      ]
+    },
+    "balde": {
+      "x": [
+        2.1060142517089844,
+        2.3939857482910156
+      ],
+      "y": [
+        0.0,
+        0.3919999897480011
+      ],
+      "z": [
+        0.17499999701976776,
+        0.4449999928474426
+      ]
+    }
+  },
+  "collider_boxes_world": [
+    {
+      "name": "Bancada",
+      "center": [
+        4.375,
+        0.65,
+        -7.48
+      ],
+      "size": [
+        3.67,
+        1.3,
+        0.74
+      ]
+    },
+    {
+      "name": "Retorno",
+      "center": [
+        2.305,
+        1.31,
+        -7.23
+      ],
+      "size": [
+        0.61,
+        2.6,
+        1.28
+      ]
+    },
+    {
+      "name": "AereoEsquerdo",
+      "center": [
+        3.23,
+        2.08,
+        -7.65
+      ],
+      "size": [
+        1.2,
+        1.04,
+        0.46
+      ]
+    },
+    {
+      "name": "Sobrejanela",
+      "center": [
+        4.83,
+        2.37,
+        -7.65
+      ],
+      "size": [
+        1.96,
+        0.46,
+        0.46
+      ]
+    },
+    {
+      "name": "AereoDireito",
+      "center": [
+        6.18,
+        2.1,
+        -7.65
+      ],
+      "size": [
+        0.66,
+        1.0,
+        0.46
+      ]
+    },
+    {
+      "name": "Aspirador",
+      "center": [
+        6.36,
+        0.71,
+        -7.65
+      ],
+      "size": [
+        0.32,
+        1.4,
+        0.28
+      ]
+    },
+    {
+      "name": "Balde",
+      "center": [
+        6.5,
+        0.22,
+        -7.17
+      ],
+      "size": [
+        0.3,
+        0.43,
+        0.3
+      ]
+    }
+  ],
+  "limits": {
+    "west_inner_x": 1.96,
+    "north_inner_z": -7.89,
+    "ceiling_y": 2.63,
+    "window_world_x": [
+      4.0,
+      5.8
+    ],
+    "window_world_y": [
+      0.88,
+      2.06
+    ],
+    "stair_rail_x": 6.76
+  },
+  "preserved_features": {
+    "appliance_bays_world_x": [
+      3.0,
+      3.9
+    ],
+    "floor_offset_y": 0.022,
+    "sink_hollow": true,
+    "faucet_curved": true,
+    "corner_fit": "Base left edge trimmed from worldX2.3 to2.55 to meet the return without overlapping volumes"
+  },
+  "geometry_rights": "Original project geometry, not third-party CC0. AmbientCG Wood026 texture maps are CC0; derived color retains documented source.",
+  "textures": [
+    {
+      "path": "prototype/assets/models/custom/c18/textures/c18_Wood026_Color_2K.jpg",
+      "sha256": "544180484a023d08db04811912faa44ba6bdf3c81236c9ee6c3e8b396d1a8c8e",
+      "license": "CC0-derived",
+      "source_url": "https://ambientcg.com/a/Wood026",
+      "origin_path": "prototype/assets/textures/ambientcg/Wood026/Wood026_Color_2K.jpg",
+      "origin_sha256": "0527dac4a8aafea222137eeabc9ee55ddcb7b34adf2c20c5d83d1561f101a1e9",
+      "derivation": "deterministic grain-preserving honey retint, prepare_service_c18_textures.py"
+    },
+    {
+      "path": "prototype/assets/models/custom/c18/textures/c18_Wood026_Roughness_2K.jpg",
+      "sha256": "764675a5c9b7c85629d1dac1fafc72754ec0f39ee5184728f69fada5afd29fd9",
+      "license": "CC0 1.0",
+      "source_url": "https://ambientcg.com/a/Wood026",
+      "origin_path": "prototype/assets/textures/ambientcg/Wood026/Wood026_Roughness_2K.jpg",
+      "origin_sha256": "764675a5c9b7c85629d1dac1fafc72754ec0f39ee5184728f69fada5afd29fd9",
+      "derivation": "copied unchanged"
+    },
+    {
+      "path": "prototype/assets/models/custom/c18/textures/c18_Wood026_NormalGL_2K.jpg",
+      "sha256": "65a5eee9281d58c4440d110532fee1d59754128318bc14f8b2a3b4cb122eec3e",
+      "license": "CC0 1.0",
+      "source_url": "https://ambientcg.com/a/Wood026",
+      "origin_path": "prototype/assets/textures/ambientcg/Wood026/Wood026_NormalGL_2K.jpg",
+      "origin_sha256": "65a5eee9281d58c4440d110532fee1d59754128318bc14f8b2a3b4cb122eec3e",
+      "derivation": "copied unchanged"
+    }
+  ],
+  "orientation": "glTF X length, Y up, Z front; one explicit R(+90 X) before glTF export",
+  "notes": [
+    "Cubby fronts genuinely open; supplies rest on shelves.",
+    "Bucket hollow with floor contact; vacuum below upper cabinet; props separated.",
+    "Bounds measured from actual transformed vertices, not target dimensions."
+  ]
+}

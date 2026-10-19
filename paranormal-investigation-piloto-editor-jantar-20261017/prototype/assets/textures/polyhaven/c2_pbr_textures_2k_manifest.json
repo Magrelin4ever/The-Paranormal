@@ -1,0 +1,126 @@
+{
+  "source": "Official Poly Haven texture downloads (CC0) and Innerscene item page (CC0)",
+  "downloaded_at_utc": "2026-10-16T22:22:04.444969+00:00",
+  "license": "CC0",
+  "files": [
+    {
+      "path": "prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/beige_wall_001/beige_wall_001_diff_2k.jpg",
+      "size_bytes": 235868,
+      "sha256": "222d4d2e7d5c425c97e5a66790852388cec7706714d773f769fba6bfe08cea4e",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/beige_wall_001/beige_wall_001_nor_gl_2k.jpg",
+      "size_bytes": 815507,
+      "sha256": "7f5cbecd6766f44034f3b78b4addb1559e12bdd5a77501bd418a736609e7cedc",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_rough_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/beige_wall_001/beige_wall_001_rough_2k.jpg",
+      "size_bytes": 656368,
+      "sha256": "a76e2307d8ec47d1be1d4710851fc4545db7aecfa176333738a6756358b64767",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/beige_wall_001/beige_wall_001_ao_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/beige_wall_001/beige_wall_001_ao_2k.jpg",
+      "size_bytes": 514646,
+      "sha256": "371d80c90b63a478093581d4f61ab9b439f233ae6fe970cb62a71d95d64e2ccf",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/wood_floor/wood_floor_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_floor/wood_floor_diff_2k.jpg",
+      "size_bytes": 2983667,
+      "sha256": "7c3ff1164c8dd0758ef2c048e9a266d28174120de01052ec40e6ca486177345c",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/wood_floor/wood_floor_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_floor/wood_floor_nor_gl_2k.jpg",
+      "size_bytes": 1863576,
+      "sha256": "eff2e4db46bab930dc05997faf5085157eec4fd652cdfc6cd01fa11edd56ef10",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/wood_floor/wood_floor_rough_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_floor/wood_floor_rough_2k.jpg",
+      "size_bytes": 2267559,
+      "sha256": "297eda0d75f2020cc541dbf242e1f5fd058053249567f49a4506fc2c5b1a172b",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/wood_floor/wood_floor_ao_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_floor/wood_floor_ao_2k.jpg",
+      "size_bytes": 2826020,
+      "sha256": "9f9aa2da94211afcd08c56d6d74d9bb80b7792666b000297e3b3470739dd18e5",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/brown_floor_tiles/brown_floor_tiles_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_floor_tiles/brown_floor_tiles_diff_2k.jpg",
+      "size_bytes": 3584512,
+      "sha256": "5cfe37ef74f2bec450d52db646714e36325b4723589c9628bf99bf887c65ed49",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/brown_floor_tiles/brown_floor_tiles_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_floor_tiles/brown_floor_tiles_nor_gl_2k.jpg",
+      "size_bytes": 1410617,
+      "sha256": "b953c132296f10b02e8e9bab6bc5e0083a32d57b5cd86a020080588a633c79f9",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/brown_floor_tiles/brown_floor_tiles_rough_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_floor_tiles/brown_floor_tiles_rough_2k.jpg",
+      "size_bytes": 2841084,
+      "sha256": "3bb842eab5e3312c8102963655a969f2587954bb83344527b961889351f4de4b",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/brown_floor_tiles/brown_floor_tiles_ao_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_floor_tiles/brown_floor_tiles_ao_2k.jpg",
+      "size_bytes": 352513,
+      "sha256": "0a66c5e2eb8d558a570b46cf27f419e95b70accf16327e28cad3655358505371",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/concrete_floor_01/concrete_floor_01_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_01/concrete_floor_01_diff_2k.jpg",
+      "size_bytes": 2967720,
+      "sha256": "ca24c52dabae67ef49093f91d8f9b9e5328a3b9fcb1327742ff6181ee542e017",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/concrete_floor_01/concrete_floor_01_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_01/concrete_floor_01_nor_gl_2k.jpg",
+      "size_bytes": 3261423,
+      "sha256": "796b010208e346bbeec4c468f286c3892852a454f77cb516d6f4a6e7c240de01",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/concrete_floor_01/concrete_floor_01_rough_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_01/concrete_floor_01_rough_2k.jpg",
+      "size_bytes": 1488360,
+      "sha256": "e66fa941d6daa33ba334c853bf126c85f1d77e7b72778073237e4ef8c7c97774",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/textures/polyhaven/concrete_floor_01/concrete_floor_01_ao_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_floor_01/concrete_floor_01_ao_2k.jpg",
+      "size_bytes": 1733918,
+      "sha256": "6e961368144f2c5e0b5d4682763d0b2d251d56e0b99deb02738ef299d074960e",
+      "resolution": "2048x2048"
+    },
+    {
+      "path": "prototype/assets/models/innerscene/french-press.glb",
+      "url": "https://www.innerscene.com/api/library/press-eight-coffee-maker-33aa2907/download",
+      "size_bytes": 277252,
+      "sha256": "b797dfa0080c4f69040c19673ea659073df9b2fdcbea156adee1f391804c116a",
+      "format": "glb"
+    }
+  ]
+}
