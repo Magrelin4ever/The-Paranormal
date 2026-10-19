@@ -1,0 +1,86 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0203.res" id="1_apdyd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0204.res" id="2_fjgfs"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0205.res" id="3_p1uyp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0206.res" id="4_cqw02"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0207.res" id="5_mafpi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0208.res" id="6_bchrw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0209.res" id="7_4k1rs"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0210.res" id="8_wbnvb"]
+
+[node name="Tetos" type="Node3D" unique_id=812202181]
+metadata/pavimento = "porao"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Peca_ceiling_0026" type="MeshInstance3D" parent="." unique_id=1593764795]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.2499999, -0.22, -7.6)
+layers = 32
+mesh = ExtResource("1_apdyd")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"ceiling"
+metadata/_edit_group_ = true
+
+[node name="Peca_ceiling_0027" type="MeshInstance3D" parent="." unique_id=2132842469]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.2499999, -0.22, -5.6)
+layers = 32
+mesh = ExtResource("2_fjgfs")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"ceiling"
+metadata/_edit_group_ = true
+
+[node name="Peca_ceiling_0028" type="MeshInstance3D" parent="." unique_id=1227345539]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.2499999, -0.22, 2)
+layers = 32
+mesh = ExtResource("3_p1uyp")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"ceiling"
+metadata/_edit_group_ = true
+
+[node name="Peca_ceiling_0029" type="MeshInstance3D" parent="." unique_id=1527864352]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.8, -0.22, -7.6)
+layers = 32
+mesh = ExtResource("4_cqw02")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"ceiling"
+metadata/_edit_group_ = true
+
+[node name="Peca_ceiling_0030" type="MeshInstance3D" parent="." unique_id=759797308]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.8, -0.22, 2)
+layers = 32
+mesh = ExtResource("5_mafpi")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"ceiling"
+metadata/_edit_group_ = true
+
+[node name="Peca_ceiling_0031" type="MeshInstance3D" parent="." unique_id=758854231]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.05, -0.22, -7.6)
+layers = 32
+mesh = ExtResource("6_bchrw")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"ceiling"
+metadata/_edit_group_ = true
+
+[node name="Peca_ceiling_0032" type="MeshInstance3D" parent="." unique_id=2022815152]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.05, -0.22, -5.6)
+layers = 32
+mesh = ExtResource("7_4k1rs")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"ceiling"
+metadata/_edit_group_ = true
+
+[node name="Peca_ceiling_0033" type="MeshInstance3D" parent="." unique_id=1485645376]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.05, -0.22, 2)
+layers = 32
+mesh = ExtResource("8_wbnvb")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"ceiling"
+metadata/_edit_group_ = true

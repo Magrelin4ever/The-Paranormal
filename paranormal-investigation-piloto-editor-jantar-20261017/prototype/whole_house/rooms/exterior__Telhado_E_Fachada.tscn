@@ -1,0 +1,138 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1401.res" id="1_utxl7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1402.res" id="2_2g8df"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1403.res" id="3_l8xor"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1404.res" id="4_h334s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1405.res" id="5_gd0ys"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1406.res" id="6_blwgx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1407.res" id="7_4eg8p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1408.res" id="8_k4fv5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1409.res" id="9_qk074"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1410.res" id="10_tssja"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1411.res" id="11_yov0b"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1412.res" id="12_u2abv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1413.res" id="13_fsqoa"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_c4181"]
+size = Vector3(0.12, 1.8, 0.12)
+
+[node name="Telhado_E_Fachada" type="Node3D" unique_id=792610934]
+metadata/pavimento = "exterior"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Peca_roof_1200" type="MeshInstance3D" parent="." unique_id=1546095678]
+transform = Transform3D(0.98462325, -0.17469123, 0, 0.17469123, 0.98462325, 0, 0, 0, 1, -4.65, 9.375, 0)
+layers = 512
+mesh = ExtResource("1_utxl7")
+metadata/fase_conversao = "_montar_telhado_exterior"
+metadata/pavimento = &""
+metadata/material_original = &"roof"
+metadata/_edit_group_ = true
+
+[node name="Peca_roof_edge_1201" type="MeshInstance3D" parent="." unique_id=14450625]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.3, 8.5, 0)
+layers = 512
+mesh = ExtResource("2_2g8df")
+metadata/fase_conversao = "_montar_telhado_exterior"
+metadata/pavimento = &""
+metadata/material_original = &"roof_edge"
+metadata/_edit_group_ = true
+
+[node name="Peca_roof_1202" type="MeshInstance3D" parent="." unique_id=1744861713]
+transform = Transform3D(0.98462325, 0.17469123, 0, -0.17469123, 0.98462325, 0, 0, 0, 1, 4.65, 9.375, 0)
+layers = 512
+mesh = ExtResource("3_l8xor")
+metadata/fase_conversao = "_montar_telhado_exterior"
+metadata/pavimento = &""
+metadata/material_original = &"roof"
+metadata/_edit_group_ = true
+
+[node name="Peca_roof_edge_1203" type="MeshInstance3D" parent="." unique_id=678676503]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.3, 8.5, 0)
+layers = 512
+mesh = ExtResource("4_h334s")
+metadata/fase_conversao = "_montar_telhado_exterior"
+metadata/pavimento = &""
+metadata/material_original = &"roof_edge"
+metadata/_edit_group_ = true
+
+[node name="Triangulo_siding_001" type="MeshInstance3D" parent="." unique_id=743598720]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 9.099999, 8.13)
+layers = 512
+mesh = ExtResource("5_gd0ys")
+metadata/fase_conversao = "_montar_telhado_exterior"
+
+[node name="Triangulo_siding_002" type="MeshInstance3D" parent="." unique_id=864060969]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 9.099999, -8.13)
+layers = 512
+mesh = ExtResource("6_blwgx")
+metadata/fase_conversao = "_montar_telhado_exterior"
+
+[node name="Peca_roof_1204" type="MeshInstance3D" parent="." unique_id=2092900792]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.48, 8.55)
+layers = 512
+mesh = ExtResource("7_4eg8p")
+metadata/fase_conversao = "_montar_telhado_exterior"
+metadata/pavimento = &""
+metadata/material_original = &"roof"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1205" type="MeshInstance3D" parent="." unique_id=1282066515]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.65, 2.35, 9.25)
+layers = 512
+mesh = ExtResource("8_k4fv5")
+metadata/fase_conversao = "_montar_telhado_exterior"
+metadata/pavimento = &""
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1206" type="MeshInstance3D" parent="." unique_id=964709466]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.65, 2.35, 9.25)
+layers = 512
+mesh = ExtResource("9_qk074")
+metadata/fase_conversao = "_montar_telhado_exterior"
+metadata/pavimento = &""
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1207" type="MeshInstance3D" parent="." unique_id=1242971143]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.07, 8.85)
+layers = 512
+mesh = ExtResource("10_tssja")
+metadata/fase_conversao = "_montar_telhado_exterior"
+metadata/pavimento = &"exterior"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1208" type="MeshInstance3D" parent="." unique_id=323359572]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.08, 9.55)
+layers = 512
+mesh = ExtResource("11_yov0b")
+metadata/fase_conversao = "_montar_telhado_exterior"
+metadata/pavimento = &"exterior"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_metal_dark_1209" type="MeshInstance3D" parent="." unique_id=1831483540]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.4, 0.9, 11.8)
+layers = 512
+mesh = ExtResource("12_u2abv")
+metadata/fase_conversao = "_montar_telhado_exterior"
+metadata/pavimento = &"exterior"
+metadata/material_original = &"metal_dark"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_metal_dark_1209" unique_id=2018893630]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_metal_dark_1209/Colisao_Acompanha_Peca" unique_id=1810236592]
+shape = SubResource("BoxShape3D_c4181")
+
+[node name="Peca_metal_1210" type="MeshInstance3D" parent="." unique_id=1827511950]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.4, 1.82, 11.8)
+layers = 512
+mesh = ExtResource("13_fsqoa")
+metadata/fase_conversao = "_montar_telhado_exterior"
+metadata/pavimento = &"exterior"
+metadata/material_original = &"metal"
+metadata/_edit_group_ = true

@@ -1,0 +1,70 @@
+[
+  {
+    "file": "banheira_vintage.glb",
+    "author": "Innerscene — original model",
+    "source": "https://www.innerscene.com/tools/library/3d-parts/clawfoot-clawfoot-bathtub-fd250e8d",
+    "download": "https://www.innerscene.com/api/library/clawfoot-clawfoot-bathtub-fd250e8d/download",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "terms": "https://www.innerscene.com/tools/library/terms",
+    "declared_size_W_D_H_m": [
+      0.762,
+      1.58,
+      0.81
+    ],
+    "declared_triangles_approx": 9000,
+    "sha256": "1b3d66e54f0a22c17e0a5dd2d77b95762f75bf580fff63701734ba2eb5c13096",
+    "bytes": 336884
+  },
+  {
+    "file": "banheira_familiar.glb",
+    "author": "Innerscene — original model",
+    "source": "https://www.innerscene.com/tools/library/3d-parts/inset-bath-inset-bathtub-118db49b",
+    "download": "https://www.innerscene.com/api/library/inset-bath-inset-bathtub-118db49b/download",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "terms": "https://www.innerscene.com/tools/library/terms",
+    "declared_size_W_D_H_m": [
+      0.802,
+      1.71,
+      0.527
+    ],
+    "declared_triangles_approx": 5000,
+    "sha256": "6c1686eec1ead4a7d7debaa859f1a4ca09aeefeea95e2e85eaf5ece3093f4b03",
+    "bytes": 211180
+  },
+  {
+    "file": "vaso_sanitario.glb",
+    "author": "Innerscene — original model",
+    "source": "https://www.innerscene.com/tools/library/3d-parts/compact-wc-close-coupled-toilet-84214efd",
+    "download": "https://www.innerscene.com/api/library/compact-wc-close-coupled-toilet-84214efd/download",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "terms": "https://www.innerscene.com/tools/library/terms",
+    "declared_size_W_D_H_m": [
+      0.432,
+      0.741,
+      0.932
+    ],
+    "declared_triangles_approx": 5000,
+    "sha256": "3dd8c8d52d77f16966c22eac82742658945cd9652fde3241b43babddaa158e3a",
+    "bytes": 214320
+  },
+  {
+    "file": "suporte_papel.glb",
+    "author": "Innerscene — original model",
+    "source": "https://www.innerscene.com/tools/library/3d-parts/roll-holder-toilet-roll-holder-cb0a7419",
+    "download": "https://www.innerscene.com/api/library/roll-holder-toilet-roll-holder-cb0a7419/download",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "terms": "https://www.innerscene.com/tools/library/terms",
+    "declared_size_W_D_H_m": [
+      0.205,
+      0.111,
+      0.064
+    ],
+    "declared_triangles_approx": 1000,
+    "sha256": "075beb3e4f2b958f921583ec91c7c2f4555ba6064b77a3f8f9d1a45dbaad103c",
+    "bytes": 81864
+  }
+]

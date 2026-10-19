@@ -1,0 +1,24 @@
+{
+	"boxes": 1388,
+	"doors": 28,
+	"failures": [],
+	"fonte_git": "584b69a",
+	"gerador": "offline; nao executar sobre edicoes",
+	"meshes": 884,
+	"nodes": 964,
+	"rooms": [
+		{
+			"nodes": 228,
+			"scene": "res://prototype/whole_house/rooms/terreo__Area_Servico.tscn"
+		},
+		{
+			"nodes": 21,
+			"scene": "res://prototype/whole_house/rooms/terreo__Hall_Entrada.tscn"
+		},
+		{
+			"nodes": 715,
+			"scene": "res://prototype/whole_house/rooms/terreo__Escritorio.tscn"
+		}
+	],
+	"triangles": 2
+}

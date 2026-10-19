@@ -1,0 +1,1899 @@
+[gd_scene format=3]
+
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/polyhaven/brown_floor_tiles/brown_floor_tiles_diff_1k.jpg" id="1_031gd"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/polyhaven/brown_floor_tiles/brown_floor_tiles_nor_gl_1k.jpg" id="2_adrsj"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/polyhaven/brown_floor_tiles/brown_floor_tiles_rough_1k.jpg" id="3_or26a"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0041.res" id="4_ft411"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Marble002/Marble002_Color_2K.jpg" id="4_ioudv"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Marble002/Marble002_NormalGL_2K.jpg" id="5_b1nve"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Marble002/Marble002_Roughness_2K.jpg" id="6_voah0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_01.res" id="7_roy3a"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0042.res" id="8_615on"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/banheira_familiar_0068ce215795c1e1.png" id="8_dmhpc"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/banheira_familiar_surface_normal.png" id="9_si6p2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_02.res" id="10_w558e"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_03.res" id="11_ercyn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_04.res" id="12_egrjg"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/banheira_familiar_8d5888eb8fbcd835.png" id="13_iiv6d"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_05.res" id="14_r6100"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_06.res" id="15_6vpv2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_01.res" id="16_dfst2"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/vaso_sanitario_0068ce215795c1e1.png" id="17_3fhkt"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/vaso_sanitario_surface_normal.png" id="18_gurbm"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0043.res" id="18_luerh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_02.res" id="19_do237"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0044.res" id="19_xio7q"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0045.res" id="20_6lgv5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_03.res" id="20_otcc0"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/vaso_sanitario_8d5888eb8fbcd835.png" id="21_kgqvm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_04.res" id="22_wcibk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_05.res" id="23_prspk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_06.res" id="24_ml8x0"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/vaso_sanitario_d966172d8b7db081.png" id="25_w7p2k"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_07.res" id="26_yxel3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_08.res" id="27_6i7vm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_09.res" id="28_538dq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_10.res" id="29_hc803"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Suporte_Papel_mesh_01.res" id="30_olgvc"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/suporte_papel_70d36601eaf1d52e.png" id="31_tjisv"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/suporte_papel_surface_normal.png" id="32_kd75i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Suporte_Papel_mesh_02.res" id="33_jt07j"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/real_house_20261019/bathroom_vanity_ceramic_basecolor.png" id="34_sq81w"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/real_house_20261019/bathroom_vanity_ceramic_roughness.png" id="35_fhitu"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/real_house_20261019/bathroom_vanity_ceramic_normal.png" id="36_nooh8"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/real_house_20261019/bathroom_vanity_oak_basecolor.png" id="37_a73yg"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/real_house_20261019/bathroom_vanity_oak_roughness.png" id="38_w1j45"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/real_house_20261019/bathroom_vanity_oak_normal.png" id="39_lua4v"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0046.res" id="39_y0mkp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0047.res" id="40_5aqss"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/real_house_20261019/bathroom_vanity_stone_basecolor.png" id="40_f6pq3"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/real_house_20261019/bathroom_vanity_stone_roughness.png" id="41_bcnx3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0048.res" id="41_y8ytm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0049.res" id="42_3jvdj"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/real_house_20261019/bathroom_vanity_stone_normal.png" id="42_or44e"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_Color_2K.jpg" id="43_30q4p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0050.res" id="46_md6tn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0051.res" id="50_7qlqj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0052.res" id="51_x88ct"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0053.res" id="52_lwu16"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0054.res" id="53_nijpu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0055.res" id="57_wx2js"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0056.res" id="58_csni2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0057.res" id="59_nr5qu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0058.res" id="60_v1xxy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0059.res" id="61_ys4e4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0060.res" id="62_7ftx7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0061.res" id="63_qd0fy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0062.res" id="64_tc5ig"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0063.res" id="65_uxkqd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0064.res" id="66_yuk4n"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0065.res" id="67_5ofs5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0066.res" id="68_jdpsy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0067.res" id="69_084qw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0068.res" id="70_tw0at"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0069.res" id="71_p62x5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0070.res" id="72_ofg0i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0071.res" id="73_ed7o0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0072.res" id="74_00g2t"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0073.res" id="75_j5x86"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0074.res" id="76_srx1e"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0075.res" id="77_1hqnw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0076.res" id="78_4d2ol"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0077.res" id="79_3bpab"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0078.res" id="80_b6ql5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0079.res" id="81_mug3g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0080.res" id="82_qphtw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0081.res" id="83_jswmd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0082.res" id="84_ljl1x"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0083.res" id="85_rkjpr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0084.res" id="86_d70um"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0085.res" id="87_k1jug"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0086.res" id="88_ugjjy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0087.res" id="89_h1xh5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0088.res" id="90_ful25"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0089.res" id="91_oujxh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0090.res" id="92_vudbe"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0091.res" id="93_j4650"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0092.res" id="94_ih5v8"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0093.res" id="95_vmt4y"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0094.res" id="96_8hiin"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0095.res" id="97_8seko"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0096.res" id="99_tac04"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0097.res" id="100_8w4kr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0098.res" id="101_o0hmn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0099.res" id="102_6x1mg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0100.res" id="103_b70wp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0101.res" id="104_sn4qb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0102.res" id="105_fqqt1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0103.res" id="106_50p1p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0104.res" id="107_n2hm0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0105.res" id="108_a814t"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0106.res" id="109_yi7yj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0107.res" id="110_snqw2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0108.res" id="111_8mbr2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0109.res" id="112_al517"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0110.res" id="113_dbkry"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0111.res" id="114_257l6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0112.res" id="115_ygcu7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0113.res" id="116_f3jer"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0114.res" id="117_xfsdm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0115.res" id="118_8kxj0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0116.res" id="119_4exvt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0117.res" id="120_m557r"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0118.res" id="121_tx8h4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0119.res" id="122_5xgjx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0120.res" id="123_lklaw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0121.res" id="124_cupho"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0122.res" id="125_yk3tn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0123.res" id="126_21euh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0124.res" id="127_ix4db"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0125.res" id="128_bp1cp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0126.res" id="129_fb1ky"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0127.res" id="130_p3g35"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0128.res" id="131_aic2v"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0129.res" id="132_1qjf0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0130.res" id="133_sxdap"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0131.res" id="134_5dkf5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0132.res" id="135_wjqk8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0133.res" id="136_qxo1f"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0134.res" id="137_srouf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0135.res" id="138_a6lwn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0136.res" id="139_k0lou"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0137.res" id="140_egsdd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0138.res" id="141_ouys6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0139.res" id="142_s8unt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0140.res" id="143_a2nrk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0141.res" id="144_dladf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0142.res" id="145_w252h"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0143.res" id="146_tmtll"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0144.res" id="147_smrfx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0145.res" id="148_txxwo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0146.res" id="149_3tlu1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0147.res" id="150_70iau"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0148.res" id="151_b7oc3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0149.res" id="152_uygaf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0150.res" id="153_bmu8x"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0151.res" id="154_dceu3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0152.res" id="155_4o08m"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0153.res" id="156_qfq41"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0154.res" id="157_xtfcj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0155.res" id="158_40han"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0156.res" id="159_kddkv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0157.res" id="160_fqm83"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0158.res" id="161_ydk5m"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0159.res" id="162_b6g8u"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0160.res" id="163_fepvr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0161.res" id="164_5u5oh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0162.res" id="165_eeuwy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0163.res" id="166_5km7j"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0164.res" id="167_mxext"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0165.res" id="168_w4lqu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0166.res" id="169_48c62"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0167.res" id="170_dfr75"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0168.res" id="171_rxbfr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0169.res" id="172_fwfdi"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0170.res" id="173_gd4mn"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0171.res" id="174_qqece"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0172.res" id="175_iurkv"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0173.res" id="176_bj4g0"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/editor_resources/mesh_0174.res" id="177_26s2l"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0175.res" id="178_fwv16"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_63orw"]
+albedo_color = Color(0.5764706, 0.6431373, 0.59607846, 1)
+albedo_texture = ExtResource("1_031gd")
+roughness = 0.8
+roughness_texture = ExtResource("3_or26a")
+normal_enabled = true
+normal_scale = 0.65
+normal_texture = ExtResource("2_adrsj")
+uv1_scale = Vector3(1.1, 1.1, 1.1)
+uv1_triplanar = true
+uv1_world_triplanar = true
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_vcvxy"]
+albedo_color = Color(0.70980394, 0.7372549, 0.70980394, 1)
+albedo_texture = ExtResource("4_ioudv")
+roughness = 0.8
+roughness_texture = ExtResource("6_voah0")
+normal_enabled = true
+normal_scale = 0.65
+normal_texture = ExtResource("5_b1nve")
+uv1_scale = Vector3(1.1, 1.1, 1.1)
+uv1_triplanar = true
+uv1_world_triplanar = true
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_du2un"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("8_dmhpc")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("9_si6p2")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_q4d87"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("8_dmhpc")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("9_si6p2")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_1w14n"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("8_dmhpc")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("9_si6p2")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_pdf8e"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("13_iiv6d")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("9_si6p2")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_h1ts1"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("13_iiv6d")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("9_si6p2")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_etvva"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("13_iiv6d")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("9_si6p2")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_jj0e1"]
+size = Vector3(0.802, 0.527, 1.709)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_veggn"]
+size = Vector3(0.045, 0.49, 1.79)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_3r617"]
+size = Vector3(0.9, 0.49, 0.045)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_o1n7j"]
+size = Vector3(0.9, 0.49, 0.045)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_s28tn"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("17_3fhkt")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("18_gurbm")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_3mxug"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("17_3fhkt")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("18_gurbm")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_6amk0"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("21_kgqvm")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("18_gurbm")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_36s4q"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("21_kgqvm")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("18_gurbm")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_yknic"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("17_3fhkt")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("18_gurbm")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_cfkug"]
+resource_name = "Warm ivory satin cabinet enamel"
+cull_mode = 2
+albedo_texture = ExtResource("25_w7p2k")
+roughness = 0.4
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("18_gurbm")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_xxj2k"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("17_3fhkt")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("18_gurbm")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ky68r"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("21_kgqvm")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("18_gurbm")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_41b7l"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("21_kgqvm")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("18_gurbm")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_iw8ok"]
+resource_name = "Warm ivory satin cabinet enamel"
+cull_mode = 2
+albedo_texture = ExtResource("25_w7p2k")
+roughness = 0.4
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("18_gurbm")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_1fswj"]
+size = Vector3(0.43200007, 0.93216, 0.74112004)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_gktvc"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("31_tjisv")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("32_kd75i")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_66lyh"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("31_tjisv")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("32_kd75i")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ihj03"]
+resource_name = "Nickel | brushed steel hardware"
+cull_mode = 2
+albedo_color = Color(0.7014107, 0.72202736, 0.7287319, 1)
+metallic = 0.85
+roughness = 0.29
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_w8pif"]
+resource_name = "Graphite | fine powder-coated steel"
+cull_mode = 2
+albedo_color = Color(0.14733289, 0.17558163, 0.17923622, 1)
+metallic = 0.25
+roughness = 0.52
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_if3j0"]
+resource_name = "Nickel | brushed steel hardware"
+cull_mode = 2
+albedo_color = Color(0.7014107, 0.72202736, 0.7287319, 1)
+metallic = 0.85
+roughness = 0.29
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_g1thf"]
+resource_name = "Ivory | glazed ceramic basin"
+cull_mode = 2
+albedo_texture = ExtResource("34_sq81w")
+metallic_texture = ExtResource("35_fhitu")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("35_fhitu")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.13
+normal_texture = ExtResource("36_nooh8")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_6qy0h"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_jwk01"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_atv0p"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_rgovi"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_7ekdx"]
+resource_name = "Limestone | honed composite counter"
+cull_mode = 2
+albedo_texture = ExtResource("40_f6pq3")
+metallic_texture = ExtResource("41_bcnx3")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("41_bcnx3")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.13
+normal_texture = ExtResource("42_or44e")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_j5nma"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_kf8go"]
+resource_name = "Bronze | brushed satin hardware"
+cull_mode = 2
+albedo_color = Color(0.60971165, 0.5168811, 0.37342674, 1)
+metallic = 0.78
+roughness = 0.32
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_kiixs"]
+resource_name = "Bronze | brushed satin hardware"
+cull_mode = 2
+albedo_color = Color(0.60971165, 0.5168811, 0.37342674, 1)
+metallic = 0.78
+roughness = 0.32
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_f05gb"]
+resource_name = "Bronze | brushed satin hardware"
+cull_mode = 2
+albedo_color = Color(0.60971165, 0.5168811, 0.37342674, 1)
+metallic = 0.78
+roughness = 0.32
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_pv0ae"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_kdw2p"]
+resource_name = "Bronze | brushed satin hardware"
+cull_mode = 2
+albedo_color = Color(0.60971165, 0.5168811, 0.37342674, 1)
+metallic = 0.78
+roughness = 0.32
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_7caax"]
+resource_name = "Bronze | brushed satin hardware"
+cull_mode = 2
+albedo_color = Color(0.60971165, 0.5168811, 0.37342674, 1)
+metallic = 0.78
+roughness = 0.32
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_g8ey4"]
+resource_name = "Bronze | brushed satin hardware"
+cull_mode = 2
+albedo_color = Color(0.60971165, 0.5168811, 0.37342674, 1)
+metallic = 0.78
+roughness = 0.32
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_7ewde"]
+resource_name = "Nickel | brushed steel hardware"
+cull_mode = 2
+albedo_color = Color(0.7014107, 0.72202736, 0.7287319, 1)
+metallic = 0.85
+roughness = 0.29
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_o3pud"]
+resource_name = "Bronze | brushed satin hardware"
+cull_mode = 2
+albedo_color = Color(0.60971165, 0.5168811, 0.37342674, 1)
+metallic = 0.78
+roughness = 0.32
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_yiqpm"]
+resource_name = "Graphite | fine powder-coated steel"
+cull_mode = 2
+albedo_color = Color(0.14733289, 0.17558163, 0.17923622, 1)
+metallic = 0.25
+roughness = 0.52
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ysjpr"]
+resource_name = "Bronze | brushed satin hardware"
+cull_mode = 2
+albedo_color = Color(0.60971165, 0.5168811, 0.37342674, 1)
+metallic = 0.78
+roughness = 0.32
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_s4ww4"]
+resource_name = "Bronze | brushed satin hardware"
+cull_mode = 2
+albedo_color = Color(0.60971165, 0.5168811, 0.37342674, 1)
+metallic = 0.78
+roughness = 0.32
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_xsq8u"]
+resource_name = "Bronze | brushed satin hardware"
+cull_mode = 2
+albedo_color = Color(0.60971165, 0.5168811, 0.37342674, 1)
+metallic = 0.78
+roughness = 0.32
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_3uybo"]
+resource_name = "Bronze | brushed satin hardware"
+cull_mode = 2
+albedo_color = Color(0.60971165, 0.5168811, 0.37342674, 1)
+metallic = 0.78
+roughness = 0.32
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_yyy6w"]
+resource_name = "Elastomer | feet and drawer stops"
+cull_mode = 2
+albedo_color = Color(0.13816993, 0.14733289, 0.1428257, 1)
+roughness = 0.8
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_eftca"]
+resource_name = "Elastomer | feet and drawer stops"
+cull_mode = 2
+albedo_color = Color(0.13816993, 0.14733289, 0.1428257, 1)
+roughness = 0.8
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_r04po"]
+resource_name = "Elastomer | feet and drawer stops"
+cull_mode = 2
+albedo_color = Color(0.13816993, 0.14733289, 0.1428257, 1)
+roughness = 0.8
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_biomy"]
+resource_name = "Elastomer | feet and drawer stops"
+cull_mode = 2
+albedo_color = Color(0.13816993, 0.14733289, 0.1428257, 1)
+roughness = 0.8
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_dg24i"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_gv51p"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_88a24"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_hlvhe"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_tfahs"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_k7olg"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_0d0fa"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_4j6w6"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_acnyd"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_oab0f"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_sq4cc"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_kp8mi"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_e2uay"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_lcd0x"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_x0qd7"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_tqf8t"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_0lqhi"]
+resource_name = "Oak | natural satin finish"
+cull_mode = 2
+albedo_texture = ExtResource("37_a73yg")
+metallic_texture = ExtResource("38_w1j45")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("38_w1j45")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.3
+normal_texture = ExtResource("39_lua4v")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="BoxShape3D" id="Box_vanity"]
+size = Vector3(0.936, 1.166005, 0.561)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ml6pr"]
+albedo_color = Color(0.38039216, 0.32941177, 0.28235295, 1)
+metallic = 0.72
+roughness = 0.48
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_1mqnu"]
+albedo_color = Color(0.5294118, 0.5647059, 0.54509807, 1)
+metallic = 0.78
+roughness = 0.18
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_p2rmi"]
+albedo_color = Color(0.44313726, 0.4, 0.32941177, 1)
+metallic = 0.75
+roughness = 0.42
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_gc7aw"]
+albedo_color = Color(0.33333334, 0.42352942, 0.39215687, 1)
+albedo_texture = ExtResource("43_30q4p")
+roughness = 0.98
+uv1_scale = Vector3(2, 3, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_apniu"]
+albedo_color = Color(0.33333334, 0.42352942, 0.39215687, 1)
+albedo_texture = ExtResource("43_30q4p")
+roughness = 0.98
+
+[sub_resource type="BoxShape3D" id="Box_dresser"]
+size = Vector3(1.42, 0.846, 0.549)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_1lvhb"]
+albedo_color = Color(0.7058824, 0.69803923, 0.654902, 1)
+roughness = 0.98
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_gkslg"]
+albedo_color = Color(0.7529412, 0.7137255, 0.6431373, 1)
+roughness = 0.62
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_1yb3l"]
+albedo_color = Color(0.36862746, 0.45882353, 0.43529412, 1)
+roughness = 0.45
+
+[node name="Banheiro_Familiar" type="Node3D" unique_id=1585194731]
+metadata/pavimento = "primeiro"
+metadata/edicao = "Selecione cada raiz, W mover/E girar, Ctrl+S e F5. Loucas e colisoes acompanham a peca."
+
+[node name="Piso_Azulejo" type="MeshInstance3D" parent="." unique_id=62675998]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.7, 2.864, 4.1)
+layers = 8
+material_override = SubResource("StandardMaterial3D_63orw")
+mesh = ExtResource("4_ft411")
+metadata/_edit_group_ = true
+
+[node name="Revestimento_Parede_Pia" type="MeshInstance3D" parent="." unique_id=1248985860]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.3, 3.67, 2.145)
+layers = 8
+material_override = SubResource("StandardMaterial3D_vcvxy")
+mesh = ExtResource("8_615on")
+metadata/_edit_group_ = true
+
+[node name="Banheira_Familiar" type="Node3D" parent="." unique_id=584978887]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.82, 2.85, 4.91)
+metadata/_edit_group_ = true
+metadata/licenca = "CC0 1.0 — Innerscene; fonte e SHA em assets/models/bathroom_20261019/manifest.json"
+
+[node name="Modelo" type="Node3D" parent="Banheira_Familiar" unique_id=416343954]
+
+[node name="Inset Bath" type="Node3D" parent="Banheira_Familiar/Modelo" unique_id=1768923361]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.013, 0)
+metadata/extras = {
+"description": "Rectangular installation flange surrounding a deep sloped soaking cavity.",
+"dimensions_m": [0.802, 1.709, 0.527],
+"ground_plane": false,
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Bath | broad end installation deck" type="MeshInstance3D" parent="Banheira_Familiar/Modelo/Inset Bath" unique_id=1011879535]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.499, 0.803)
+layers = 8
+mesh = ExtResource("7_roy3a")
+surface_material_override/0 = SubResource("StandardMaterial3D_du2un")
+
+[node name="Bath | broad end installation deck_001" type="MeshInstance3D" parent="Banheira_Familiar/Modelo/Inset Bath" unique_id=593249639]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.499, -0.803)
+layers = 8
+mesh = ExtResource("10_w558e")
+surface_material_override/0 = SubResource("StandardMaterial3D_q4d87")
+
+[node name="Bath | rectangular inset shell" type="MeshInstance3D" parent="Banheira_Familiar/Modelo/Inset Bath" unique_id=525103789]
+layers = 8
+mesh = ExtResource("11_ercyn")
+surface_material_override/0 = SubResource("StandardMaterial3D_1w14n")
+
+[node name="Waste | grille crossbar" type="MeshInstance3D" parent="Banheira_Familiar/Modelo/Inset Bath" unique_id=1247108049]
+transform = Transform3D(1.1920929e-07, 0.99999994, -5.9604645e-08, 1.7881393e-07, 0, -0.99999994, -0.99999994, 5.9604645e-08, -1.1920929e-07, 0, 0.024, 0)
+layers = 8
+mesh = ExtResource("12_egrjg")
+surface_material_override/0 = SubResource("StandardMaterial3D_pdf8e")
+
+[node name="Waste | open nickel flange" type="MeshInstance3D" parent="Banheira_Familiar/Modelo/Inset Bath" unique_id=1869270945]
+layers = 8
+mesh = ExtResource("14_r6100")
+surface_material_override/0 = SubResource("StandardMaterial3D_h1ts1")
+
+[node name="Waste | open outlet tube" type="MeshInstance3D" parent="Banheira_Familiar/Modelo/Inset Bath" unique_id=1787749410]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0, 0)
+layers = 8
+mesh = ExtResource("15_6vpv2")
+surface_material_override/0 = SubResource("StandardMaterial3D_etvva")
+
+[node name="Colisao_Move_Com_Peca" type="StaticBody3D" parent="Banheira_Familiar" unique_id=50904218]
+
+[node name="Forma" type="CollisionShape3D" parent="Banheira_Familiar/Colisao_Move_Com_Peca" unique_id=921267371]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.2635, 0)
+shape = SubResource("BoxShape3D_jj0e1")
+
+[node name="Saia_Azulejada_Banheira" type="MeshInstance3D" parent="." unique_id=2058072569]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.39, 3.1, 4.91)
+layers = 8
+material_override = SubResource("StandardMaterial3D_vcvxy")
+mesh = ExtResource("18_luerh")
+metadata/_edit_group_ = true
+
+[node name="Colisao" type="StaticBody3D" parent="Saia_Azulejada_Banheira" unique_id=1057219320]
+
+[node name="Forma" type="CollisionShape3D" parent="Saia_Azulejada_Banheira/Colisao" unique_id=764689774]
+shape = SubResource("BoxShape3D_veggn")
+
+[node name="Acabamento_Banheira_4_02" type="MeshInstance3D" parent="." unique_id=1597381157]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.82, 3.1, 4.02)
+layers = 8
+material_override = SubResource("StandardMaterial3D_vcvxy")
+mesh = ExtResource("19_xio7q")
+metadata/_edit_group_ = true
+
+[node name="Colisao" type="StaticBody3D" parent="Acabamento_Banheira_4_02" unique_id=829367624]
+
+[node name="Forma" type="CollisionShape3D" parent="Acabamento_Banheira_4_02/Colisao" unique_id=399309567]
+shape = SubResource("BoxShape3D_3r617")
+
+[node name="Acabamento_Banheira_5_8" type="MeshInstance3D" parent="." unique_id=694086848]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.82, 3.1, 5.8)
+layers = 8
+material_override = SubResource("StandardMaterial3D_vcvxy")
+mesh = ExtResource("20_6lgv5")
+metadata/_edit_group_ = true
+
+[node name="Colisao" type="StaticBody3D" parent="Acabamento_Banheira_5_8" unique_id=516093190]
+
+[node name="Forma" type="CollisionShape3D" parent="Acabamento_Banheira_5_8/Colisao" unique_id=1971784096]
+shape = SubResource("BoxShape3D_o1n7j")
+
+[node name="Vaso_Sanitario" type="Node3D" parent="." unique_id=160812643]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.85, 2.85, 2.85)
+metadata/_edit_group_ = true
+metadata/licenca = "CC0 1.0 — Innerscene; fonte e SHA em assets/models/bathroom_20261019/manifest.json"
+
+[node name="Modelo" type="Node3D" parent="Vaso_Sanitario" unique_id=988626763]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.08543998)
+
+[node name="Compact WC" type="Node3D" parent="Vaso_Sanitario/Modelo" unique_id=374657263]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.006, 0)
+metadata/extras = {
+"description": "Hollow toilet bowl, separate seat ring, rear cistern and dual-flush control.",
+"dimensions_m": [0.432, 0.74112, 0.93216],
+"ground_plane": false,
+"original_design": true,
+"units": "meters"
+}
+
+[node name="WC | ceramic pedestal" type="MeshInstance3D" parent="Vaso_Sanitario/Modelo/Compact WC" unique_id=1661045111]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1.33, 0, 0, 0)
+layers = 8
+mesh = ExtResource("16_dfst2")
+surface_material_override/0 = SubResource("StandardMaterial3D_s28tn")
+
+[node name="WC | cistern cover" type="MeshInstance3D" parent="Vaso_Sanitario/Modelo/Compact WC" unique_id=438343201]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.817, -0.354)
+layers = 8
+mesh = ExtResource("19_do237")
+surface_material_override/0 = SubResource("StandardMaterial3D_3mxug")
+
+[node name="WC | dual-flush button" type="MeshInstance3D" parent="Vaso_Sanitario/Modelo/Compact WC" unique_id=1560984474]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.019, 0.831, -0.354)
+layers = 8
+mesh = ExtResource("20_otcc0")
+surface_material_override/0 = SubResource("StandardMaterial3D_6amk0")
+
+[node name="WC | dual-flush button_001" type="MeshInstance3D" parent="Vaso_Sanitario/Modelo/Compact WC" unique_id=1841219167]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.019, 0.831, -0.354)
+layers = 8
+mesh = ExtResource("22_wcibk")
+surface_material_override/0 = SubResource("StandardMaterial3D_36s4q")
+
+[node name="WC | open sanitary bowl" type="MeshInstance3D" parent="Vaso_Sanitario/Modelo/Compact WC" unique_id=38006222]
+transform = Transform3D(-1, 0, -1.236602e-07, 0, 1, 0, 8.742278e-08, 0, -1.4145077, 0, 0.127, 0)
+layers = 8
+mesh = ExtResource("23_prspk")
+surface_material_override/0 = SubResource("StandardMaterial3D_yknic")
+
+[node name="WC | raised lid" type="MeshInstance3D" parent="Vaso_Sanitario/Modelo/Compact WC" unique_id=1203011050]
+transform = Transform3D(1, 0, 0, 0, 0, -1.32, 0, 1, 0, 0, 0.657, -0.268)
+layers = 8
+mesh = ExtResource("24_ml8x0")
+surface_material_override/0 = SubResource("StandardMaterial3D_cfkug")
+
+[node name="WC | rear cistern" type="MeshInstance3D" parent="Vaso_Sanitario/Modelo/Compact WC" unique_id=438368577]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.596, -0.354)
+layers = 8
+mesh = ExtResource("26_yxel3")
+surface_material_override/0 = SubResource("StandardMaterial3D_xxj2k")
+
+[node name="WC | seat hinge" type="MeshInstance3D" parent="Vaso_Sanitario/Modelo/Compact WC" unique_id=683189307]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, -0.094, 0.425, -0.246)
+layers = 8
+mesh = ExtResource("27_6i7vm")
+surface_material_override/0 = SubResource("StandardMaterial3D_ky68r")
+
+[node name="WC | seat hinge_001" type="MeshInstance3D" parent="Vaso_Sanitario/Modelo/Compact WC" unique_id=1692301717]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, 0.094, 0.425, -0.246)
+layers = 8
+mesh = ExtResource("28_538dq")
+surface_material_override/0 = SubResource("StandardMaterial3D_41b7l")
+
+[node name="WC | separate seat ring" type="MeshInstance3D" parent="Vaso_Sanitario/Modelo/Compact WC" unique_id=919670103]
+transform = Transform3D(-1, 0, -1.15398066e-07, 0, 1, 0, 8.742278e-08, 0, -1.32, 0, 0, 0)
+layers = 8
+mesh = ExtResource("29_hc803")
+surface_material_override/0 = SubResource("StandardMaterial3D_iw8ok")
+
+[node name="Colisao_Move_Com_Peca" type="StaticBody3D" parent="Vaso_Sanitario" unique_id=2096460854]
+
+[node name="Forma" type="CollisionShape3D" parent="Vaso_Sanitario/Colisao_Move_Com_Peca" unique_id=1459055739]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.46608, 0)
+shape = SubResource("BoxShape3D_1fswj")
+
+[node name="Suporte_Papel" type="Node3D" parent="." unique_id=1486281301]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, -7.36, 3.52, 3.1)
+metadata/_edit_group_ = true
+metadata/licenca = "CC0 1.0 — Innerscene; fonte e SHA em assets/models/bathroom_20261019/manifest.json"
+
+[node name="Modelo" type="Node3D" parent="Suporte_Papel" unique_id=781355708]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0037287697, -3.7252903e-09, -0.02727124)
+
+[node name="Roll Holder" type="Node3D" parent="Suporte_Papel/Modelo" unique_id=274715081]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.051999994, 0)
+metadata/extras = {
+"description": "Open-ended spindle on a substantial wall rosette with a raised retaining tip.",
+"dimensions_m": [0.204542, 0.110542, 0.064],
+"ground_plane": false,
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Roll holder | open spindle" type="MeshInstance3D" parent="Suporte_Papel/Modelo/Roll Holder" unique_id=1133562911]
+layers = 8
+mesh = ExtResource("30_olgvc")
+surface_material_override/0 = SubResource("StandardMaterial3D_gktvc")
+
+[node name="Roll holder | wall rosette" type="MeshInstance3D" parent="Suporte_Papel/Modelo/Roll Holder" unique_id=139391785]
+transform = Transform3D(-1, -4.371139e-08, -4.371139e-08, 4.371139e-08, 0, -1, 4.371139e-08, -1, 0, -0.074, 0.084, -0.017)
+layers = 8
+mesh = ExtResource("33_jt07j")
+surface_material_override/0 = SubResource("StandardMaterial3D_66lyh")
+
+[node name="Pia_Com_Gabinete" type="Node3D" parent="." unique_id=1474443349]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.25, 2.85, 2.6)
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="Pia_Com_Gabinete" unique_id=1223218695]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.0205)
+
+[node name="BASIN 90 | Freestanding bathroom vanity" type="Node3D" parent="Pia_Com_Gabinete/Modelo" unique_id=478577635]
+metadata/extras = {
+"front": "-Y",
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Basin | drain flange" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1810400408]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0.783, 0.032)
+layers = 8
+mesh = ExtResource("39_y0mkp")
+surface_material_override/0 = SubResource("StandardMaterial3D_ihj03")
+
+[node name="Basin | drain throat" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1191530592]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0.775, 0.032)
+layers = 8
+mesh = ExtResource("40_5aqss")
+surface_material_override/0 = SubResource("StandardMaterial3D_w8pif")
+
+[node name="Basin | pop-up waste cap" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1216441784]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0.784, 0.032)
+layers = 8
+mesh = ExtResource("41_y8ytm")
+surface_material_override/0 = SubResource("StandardMaterial3D_if3j0")
+
+[node name="Basin | seamless concave ceramic" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=2040110965]
+layers = 8
+mesh = ExtResource("42_3jvdj")
+surface_material_override/0 = SubResource("StandardMaterial3D_g1thf")
+
+[node name="Cabinet | bottom" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1542868198]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.194, 0)
+layers = 8
+mesh = ExtResource("46_md6tn")
+surface_material_override/0 = SubResource("StandardMaterial3D_6qy0h")
+
+[node name="Cabinet | oak side" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=90489191]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.431, 0.537, 0)
+layers = 8
+mesh = ExtResource("50_7qlqj")
+surface_material_override/0 = SubResource("StandardMaterial3D_jwk01")
+
+[node name="Cabinet | oak side_001" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=965839744]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.431, 0.537, 0)
+layers = 8
+mesh = ExtResource("51_x88ct")
+surface_material_override/0 = SubResource("StandardMaterial3D_atv0p")
+
+[node name="Cabinet | rear" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=276076875]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.515, -0.223)
+layers = 8
+mesh = ExtResource("52_lwu16")
+surface_material_override/0 = SubResource("StandardMaterial3D_rgovi")
+
+[node name="Counter | honed limestone composite" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1185857171]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.882, 0.005)
+layers = 8
+mesh = ExtResource("53_nijpu")
+surface_material_override/0 = SubResource("StandardMaterial3D_7ekdx")
+
+[node name="Drawer 0 | front" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=707053951]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.3765, 0.252)
+layers = 8
+mesh = ExtResource("57_wx2js")
+surface_material_override/0 = SubResource("StandardMaterial3D_j5nma")
+
+[node name="Drawer 0 | grip" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1940212363]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, 0, 0.4565, 0.295)
+layers = 8
+mesh = ExtResource("58_csni2")
+surface_material_override/0 = SubResource("StandardMaterial3D_kf8go")
+
+[node name="Drawer 0 | mount" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=607016519]
+transform = Transform3D(-1, -4.371139e-08, -4.371139e-08, 4.371139e-08, 0, -1, 4.371139e-08, -1, 0, -0.147, 0.4565, 0.281)
+layers = 8
+mesh = ExtResource("59_nr5qu")
+surface_material_override/0 = SubResource("StandardMaterial3D_kiixs")
+
+[node name="Drawer 0 | mount_001" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1606592098]
+transform = Transform3D(-1, -4.371139e-08, -4.371139e-08, 4.371139e-08, 0, -1, 4.371139e-08, -1, 0, 0.147, 0.4565, 0.281)
+layers = 8
+mesh = ExtResource("60_v1xxy")
+surface_material_override/0 = SubResource("StandardMaterial3D_f05gb")
+
+[node name="Drawer 1 | front" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=732160089]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.697, 0.252)
+layers = 8
+mesh = ExtResource("61_ys4e4")
+surface_material_override/0 = SubResource("StandardMaterial3D_pv0ae")
+
+[node name="Drawer 1 | grip" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=2048605856]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, 0, 0.777, 0.295)
+layers = 8
+mesh = ExtResource("62_7ftx7")
+surface_material_override/0 = SubResource("StandardMaterial3D_kdw2p")
+
+[node name="Drawer 1 | mount" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1429252301]
+transform = Transform3D(-1, -4.371139e-08, -4.371139e-08, 4.371139e-08, 0, -1, 4.371139e-08, -1, 0, -0.147, 0.777, 0.281)
+layers = 8
+mesh = ExtResource("63_qd0fy")
+surface_material_override/0 = SubResource("StandardMaterial3D_7caax")
+
+[node name="Drawer 1 | mount_001" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1136863173]
+transform = Transform3D(-1, -4.371139e-08, -4.371139e-08, 4.371139e-08, 0, -1, 4.371139e-08, -1, 0, 0.147, 0.777, 0.281)
+layers = 8
+mesh = ExtResource("64_tc5ig")
+surface_material_override/0 = SubResource("StandardMaterial3D_g8ey4")
+
+[node name="Faucet | aerator" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=63743994]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 1.095, 0.01)
+layers = 8
+mesh = ExtResource("65_uxkqd")
+surface_material_override/0 = SubResource("StandardMaterial3D_7ewde")
+
+[node name="Faucet | curved spout" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=423679351]
+layers = 8
+mesh = ExtResource("66_yuk4n")
+surface_material_override/0 = SubResource("StandardMaterial3D_o3pud")
+
+[node name="Faucet | dark outlet" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1572712804]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 1.089, 0.01)
+layers = 8
+mesh = ExtResource("67_5ofs5")
+surface_material_override/0 = SubResource("StandardMaterial3D_yiqpm")
+
+[node name="Faucet | escutcheon" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=299261819]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0.908, -0.184)
+layers = 8
+mesh = ExtResource("68_jdpsy")
+surface_material_override/0 = SubResource("StandardMaterial3D_ysjpr")
+
+[node name="Faucet | mixer cartridge" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1221641727]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, 0.033, 1.025, -0.184)
+layers = 8
+mesh = ExtResource("69_084qw")
+surface_material_override/0 = SubResource("StandardMaterial3D_s4ww4")
+
+[node name="Faucet | single mixer lever" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1285349389]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.054, 1.06, -0.18)
+layers = 8
+mesh = ExtResource("70_tw0at")
+surface_material_override/0 = SubResource("StandardMaterial3D_xsq8u")
+
+[node name="Faucet | upright body" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=696088063]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0.99, -0.184)
+layers = 8
+mesh = ExtResource("71_p62x5")
+surface_material_override/0 = SubResource("StandardMaterial3D_3uybo")
+
+[node name="Leg | moisture-resistant glide" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=2030870752]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.362, 0.004, 0.166)
+layers = 8
+mesh = ExtResource("72_ofg0i")
+surface_material_override/0 = SubResource("StandardMaterial3D_yyy6w")
+
+[node name="Leg | moisture-resistant glide_001" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=965470291]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.362, 0.004, -0.166)
+layers = 8
+mesh = ExtResource("73_ed7o0")
+surface_material_override/0 = SubResource("StandardMaterial3D_eftca")
+
+[node name="Leg | moisture-resistant glide_002" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1766012305]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.362, 0.004, 0.166)
+layers = 8
+mesh = ExtResource("74_00g2t")
+surface_material_override/0 = SubResource("StandardMaterial3D_r04po")
+
+[node name="Leg | moisture-resistant glide_003" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=495424753]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.362, 0.004, -0.166)
+layers = 8
+mesh = ExtResource("75_j5x86")
+surface_material_override/0 = SubResource("StandardMaterial3D_biomy")
+
+[node name="Leg | solid oak" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1643302732]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.362, 0.087, 0.166)
+layers = 8
+mesh = ExtResource("76_srx1e")
+surface_material_override/0 = SubResource("StandardMaterial3D_dg24i")
+
+[node name="Leg | solid oak_001" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1838297208]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.362, 0.087, -0.166)
+layers = 8
+mesh = ExtResource("77_1hqnw")
+surface_material_override/0 = SubResource("StandardMaterial3D_gv51p")
+
+[node name="Leg | solid oak_002" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=146536027]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.362, 0.087, 0.166)
+layers = 8
+mesh = ExtResource("78_4d2ol")
+surface_material_override/0 = SubResource("StandardMaterial3D_88a24")
+
+[node name="Leg | solid oak_003" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=28131490]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.362, 0.087, -0.166)
+layers = 8
+mesh = ExtResource("79_3bpab")
+surface_material_override/0 = SubResource("StandardMaterial3D_hlvhe")
+
+[node name="Lower drawer | drawer bottom" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1537421638]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.256, 0)
+layers = 8
+mesh = ExtResource("80_b6ql5")
+surface_material_override/0 = SubResource("StandardMaterial3D_tfahs")
+
+[node name="Lower drawer | drawer rear" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1633391575]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.3765, -0.197)
+layers = 8
+mesh = ExtResource("81_mug3g")
+surface_material_override/0 = SubResource("StandardMaterial3D_k7olg")
+
+[node name="Lower drawer | drawer side" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=205711911]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.383, 0.3765, 0)
+layers = 8
+mesh = ExtResource("82_qphtw")
+surface_material_override/0 = SubResource("StandardMaterial3D_0d0fa")
+
+[node name="Lower drawer | drawer side_001" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=656054002]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.383, 0.3765, 0)
+layers = 8
+mesh = ExtResource("83_jswmd")
+surface_material_override/0 = SubResource("StandardMaterial3D_4j6w6")
+
+[node name="Upper drawer | front storage ledge" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1324681708]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.586, 0.183)
+layers = 8
+mesh = ExtResource("84_ljl1x")
+surface_material_override/0 = SubResource("StandardMaterial3D_acnyd")
+
+[node name="Upper drawer | side pocket | drawer bottom" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1833416897]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.329, 0.568, 0.02)
+layers = 8
+mesh = ExtResource("85_rkjpr")
+surface_material_override/0 = SubResource("StandardMaterial3D_oab0f")
+
+[node name="Upper drawer | side pocket | drawer bottom_001" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=200472286]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.329, 0.568, 0.02)
+layers = 8
+mesh = ExtResource("86_d70um")
+surface_material_override/0 = SubResource("StandardMaterial3D_sq4cc")
+
+[node name="Upper drawer | side pocket | drawer rear" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=37390342]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.329, 0.657, -0.164)
+layers = 8
+mesh = ExtResource("87_k1jug")
+surface_material_override/0 = SubResource("StandardMaterial3D_kp8mi")
+
+[node name="Upper drawer | side pocket | drawer rear_001" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=123960792]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.329, 0.657, -0.164)
+layers = 8
+mesh = ExtResource("88_ugjjy")
+surface_material_override/0 = SubResource("StandardMaterial3D_e2uay")
+
+[node name="Upper drawer | side pocket | drawer side" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1838002984]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.386, 0.657, 0.02)
+layers = 8
+mesh = ExtResource("89_h1xh5")
+surface_material_override/0 = SubResource("StandardMaterial3D_lcd0x")
+
+[node name="Upper drawer | side pocket | drawer side_001" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1648079003]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.272, 0.657, 0.02)
+layers = 8
+mesh = ExtResource("90_ful25")
+surface_material_override/0 = SubResource("StandardMaterial3D_x0qd7")
+
+[node name="Upper drawer | side pocket | drawer side_002" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=1155444990]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.272, 0.657, 0.02)
+layers = 8
+mesh = ExtResource("91_oujxh")
+surface_material_override/0 = SubResource("StandardMaterial3D_tqf8t")
+
+[node name="Upper drawer | side pocket | drawer side_003" type="MeshInstance3D" parent="Pia_Com_Gabinete/Modelo/BASIN 90 | Freestanding bathroom vanity" unique_id=398239125]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.386, 0.657, 0.02)
+layers = 8
+mesh = ExtResource("92_vudbe")
+surface_material_override/0 = SubResource("StandardMaterial3D_0lqhi")
+
+[node name="Colisao" type="StaticBody3D" parent="Pia_Com_Gabinete" unique_id=823690282]
+
+[node name="Shape" type="CollisionShape3D" parent="Pia_Com_Gabinete/Colisao" unique_id=1743341296]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.583003, -0.0205)
+shape = SubResource("Box_vanity")
+
+[node name="Moldura_Espelho" type="MeshInstance3D" parent="." unique_id=1531201036]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.25, 4.5, 2.205)
+layers = 8
+material_override = SubResource("StandardMaterial3D_ml6pr")
+mesh = ExtResource("93_j4650")
+metadata/_edit_group_ = true
+
+[node name="Espelho_Sem_Emissao" type="MeshInstance3D" parent="." unique_id=115616714]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.25, 4.5, 2.24)
+layers = 8
+material_override = SubResource("StandardMaterial3D_1mqnu")
+mesh = ExtResource("94_ih5v8")
+metadata/_edit_group_ = true
+
+[node name="Toalheiro" type="Node3D" parent="." unique_id=719237139]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.38, 4.32, 4.07)
+metadata/_edit_group_ = true
+
+[node name="Suporte_Esquerdo" type="MeshInstance3D" parent="Toalheiro" unique_id=1706304470]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.32)
+layers = 8
+material_override = SubResource("StandardMaterial3D_p2rmi")
+mesh = ExtResource("95_vmt4y")
+metadata/_edit_group_ = true
+
+[node name="Suporte_Direito" type="MeshInstance3D" parent="Toalheiro" unique_id=494991525]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.32)
+layers = 8
+material_override = SubResource("StandardMaterial3D_p2rmi")
+mesh = ExtResource("96_8hiin")
+metadata/_edit_group_ = true
+
+[node name="Barra" type="MeshInstance3D" parent="Toalheiro" unique_id=1332050109]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.08, 0, 0)
+layers = 8
+material_override = SubResource("StandardMaterial3D_p2rmi")
+mesh = ExtResource("97_8seko")
+metadata/_edit_group_ = true
+
+[node name="Toalha_Pendurada" type="MeshInstance3D" parent="Toalheiro" unique_id=990500304]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.09, -0.23, 0)
+layers = 8
+material_override = SubResource("StandardMaterial3D_gc7aw")
+mesh = ExtResource("99_tac04")
+metadata/_edit_group_ = true
+
+[node name="Tapete_Banho" type="MeshInstance3D" parent="." unique_id=503346202]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.85, 2.882, 4.93)
+layers = 8
+material_override = SubResource("StandardMaterial3D_apniu")
+mesh = ExtResource("100_8w4kr")
+metadata/_edit_group_ = true
+
+[node name="Armario_Roupa_Banho" type="Node3D" parent="." unique_id=1102324441]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -3.15, 2.85, 5.72)
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="Armario_Roupa_Banho" unique_id=602160197]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.0225)
+
+[node name="PROFILE 140 | Six-drawer dresser" type="Node3D" parent="Armario_Roupa_Banho/Modelo" unique_id=1166583105]
+metadata/extras = {
+"front": "-Y",
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Case | back" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=18534268]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.52, -0.23)
+layers = 8
+mesh = ExtResource("101_o0hmn")
+
+[node name="Case | bottom" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=18730950]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.209, 0)
+layers = 8
+mesh = ExtResource("102_6x1mg")
+
+[node name="Case | centre divider" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1626378527]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.517, -0.012)
+layers = 8
+mesh = ExtResource("103_b70wp")
+
+[node name="Case | curved end cheek" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1683850614]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.678, 0.521, 0)
+layers = 8
+mesh = ExtResource("104_sn4qb")
+
+[node name="Case | curved end cheek_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=895587777]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.678, 0.521, 0)
+layers = 8
+mesh = ExtResource("105_fqqt1")
+
+[node name="Case | horizontal divider" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1930890533]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.421, 0)
+layers = 8
+mesh = ExtResource("106_50p1p")
+
+[node name="Case | horizontal divider_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1734077812]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.621, 0)
+layers = 8
+mesh = ExtResource("107_n2hm0")
+
+[node name="Case | rounded top" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2059468573]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.827, 0)
+layers = 8
+mesh = ExtResource("108_a814t")
+
+[node name="Drawer 1-1 | drawer bottom" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1324321092]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.245, -0.008)
+layers = 8
+mesh = ExtResource("109_yi7yj")
+
+[node name="Drawer 1-1 | drawer rear" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2055873522]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.32, -0.212)
+layers = 8
+mesh = ExtResource("110_snqw2")
+
+[node name="Drawer 1-1 | drawer side" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1522217531]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("111_8mbr2")
+
+[node name="Drawer 1-1 | drawer side_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1488722670]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("112_al517")
+
+[node name="Drawer 1-1 | recessed grip shadow" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=969130219]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.385, 0.27)
+layers = 8
+mesh = ExtResource("113_dbkry")
+
+[node name="Drawer 1-1 | runner" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1420371315]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("114_257l6")
+
+[node name="Drawer 1-1 | runner_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2084135410]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("115_ygcu7")
+
+[node name="Drawer 1-1 | sculpted walnut grip" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1738927566]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.401, 0.284)
+layers = 8
+mesh = ExtResource("116_f3jer")
+
+[node name="Drawer 1-1 | walnut front" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1661923374]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.32, 0.252)
+layers = 8
+mesh = ExtResource("117_xfsdm")
+
+[node name="Drawer 1-2 | drawer bottom" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=503372556]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.445, -0.008)
+layers = 8
+mesh = ExtResource("118_8kxj0")
+
+[node name="Drawer 1-2 | drawer rear" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1943414974]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.52, -0.212)
+layers = 8
+mesh = ExtResource("119_4exvt")
+
+[node name="Drawer 1-2 | drawer side" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1497706221]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("120_m557r")
+
+[node name="Drawer 1-2 | drawer side_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=611549120]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("121_tx8h4")
+
+[node name="Drawer 1-2 | recessed grip shadow" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2068209280]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.585, 0.27)
+layers = 8
+mesh = ExtResource("122_5xgjx")
+
+[node name="Drawer 1-2 | runner" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1756943650]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("123_lklaw")
+
+[node name="Drawer 1-2 | runner_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=70235734]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("124_cupho")
+
+[node name="Drawer 1-2 | sculpted walnut grip" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1560241544]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.601, 0.284)
+layers = 8
+mesh = ExtResource("125_yk3tn")
+
+[node name="Drawer 1-2 | walnut front" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1772149301]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.52, 0.252)
+layers = 8
+mesh = ExtResource("126_21euh")
+
+[node name="Drawer 1-3 | drawer bottom" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1413124614]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.645, -0.008)
+layers = 8
+mesh = ExtResource("127_ix4db")
+
+[node name="Drawer 1-3 | drawer rear" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1241315378]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.72, -0.212)
+layers = 8
+mesh = ExtResource("128_bp1cp")
+
+[node name="Drawer 1-3 | drawer side" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=587808278]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("129_fb1ky")
+
+[node name="Drawer 1-3 | drawer side_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1853158857]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("130_p3g35")
+
+[node name="Drawer 1-3 | recessed grip shadow" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1653468429]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.785, 0.27)
+layers = 8
+mesh = ExtResource("131_aic2v")
+
+[node name="Drawer 1-3 | runner" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1544966951]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("132_1qjf0")
+
+[node name="Drawer 1-3 | runner_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=341811261]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("133_sxdap")
+
+[node name="Drawer 1-3 | sculpted walnut grip" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=998230412]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.801, 0.284)
+layers = 8
+mesh = ExtResource("134_5dkf5")
+
+[node name="Drawer 1-3 | walnut front" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1415094717]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.72, 0.252)
+layers = 8
+mesh = ExtResource("135_wjqk8")
+
+[node name="Drawer 2-1 | drawer bottom" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=368700758]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.245, -0.008)
+layers = 8
+mesh = ExtResource("136_qxo1f")
+
+[node name="Drawer 2-1 | drawer rear" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1910517257]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.32, -0.212)
+layers = 8
+mesh = ExtResource("137_srouf")
+
+[node name="Drawer 2-1 | drawer side" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1146194575]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("138_a6lwn")
+
+[node name="Drawer 2-1 | drawer side_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2126635790]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("139_k0lou")
+
+[node name="Drawer 2-1 | recessed grip shadow" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=792413123]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.385, 0.27)
+layers = 8
+mesh = ExtResource("140_egsdd")
+
+[node name="Drawer 2-1 | runner" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=955338244]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("141_ouys6")
+
+[node name="Drawer 2-1 | runner_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=99490626]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("142_s8unt")
+
+[node name="Drawer 2-1 | sculpted walnut grip" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1963819856]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.401, 0.284)
+layers = 8
+mesh = ExtResource("143_a2nrk")
+
+[node name="Drawer 2-1 | walnut front" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1386047638]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.32, 0.252)
+layers = 8
+mesh = ExtResource("144_dladf")
+
+[node name="Drawer 2-2 | drawer bottom" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1691622416]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.445, -0.008)
+layers = 8
+mesh = ExtResource("145_w252h")
+
+[node name="Drawer 2-2 | drawer rear" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=803701288]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.52, -0.212)
+layers = 8
+mesh = ExtResource("146_tmtll")
+
+[node name="Drawer 2-2 | drawer side" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=450757828]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("147_smrfx")
+
+[node name="Drawer 2-2 | drawer side_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1910678732]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("148_txxwo")
+
+[node name="Drawer 2-2 | recessed grip shadow" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=24556543]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.585, 0.27)
+layers = 8
+mesh = ExtResource("149_3tlu1")
+
+[node name="Drawer 2-2 | runner" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=274018561]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("150_70iau")
+
+[node name="Drawer 2-2 | runner_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=481680238]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("151_b7oc3")
+
+[node name="Drawer 2-2 | sculpted walnut grip" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=303824230]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.601, 0.284)
+layers = 8
+mesh = ExtResource("152_uygaf")
+
+[node name="Drawer 2-2 | walnut front" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=360303488]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.52, 0.252)
+layers = 8
+mesh = ExtResource("153_bmu8x")
+
+[node name="Drawer 2-3 | drawer bottom" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1051977155]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.645, -0.008)
+layers = 8
+mesh = ExtResource("154_dceu3")
+
+[node name="Drawer 2-3 | drawer rear" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1533995477]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.72, -0.212)
+layers = 8
+mesh = ExtResource("155_4o08m")
+
+[node name="Drawer 2-3 | drawer side" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1506126254]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("156_qfq41")
+
+[node name="Drawer 2-3 | drawer side_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=869661288]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("157_xtfcj")
+
+[node name="Drawer 2-3 | recessed grip shadow" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=263685055]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.785, 0.27)
+layers = 8
+mesh = ExtResource("158_40han")
+
+[node name="Drawer 2-3 | runner" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1769403218]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("159_kddkv")
+
+[node name="Drawer 2-3 | runner_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2100558060]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("160_fqm83")
+
+[node name="Drawer 2-3 | sculpted walnut grip" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1711517480]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.801, 0.284)
+layers = 8
+mesh = ExtResource("161_ydk5m")
+
+[node name="Drawer 2-3 | walnut front" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=881685449]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.72, 0.252)
+layers = 8
+mesh = ExtResource("162_b6g8u")
+
+[node name="Sled | floor rail" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1027783284]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.023, 0)
+layers = 8
+mesh = ExtResource("163_fepvr")
+
+[node name="Sled | floor rail_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=274554497]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.023, 0)
+layers = 8
+mesh = ExtResource("164_5u5oh")
+
+[node name="Sled | protective pad" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=637340525]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.005, 0.135)
+layers = 8
+mesh = ExtResource("165_eeuwy")
+
+[node name="Sled | protective pad_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=649396200]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.005, -0.135)
+layers = 8
+mesh = ExtResource("166_5km7j")
+
+[node name="Sled | protective pad_002" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1154843348]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.005, 0.135)
+layers = 8
+mesh = ExtResource("167_mxext")
+
+[node name="Sled | protective pad_003" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1976039818]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.005, -0.135)
+layers = 8
+mesh = ExtResource("168_w4lqu")
+
+[node name="Sled | upright" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=800224562]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.11, 0.164)
+layers = 8
+mesh = ExtResource("169_48c62")
+
+[node name="Sled | upright_001" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1610223423]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.11, -0.164)
+layers = 8
+mesh = ExtResource("170_dfr75")
+
+[node name="Sled | upright_002" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1099118553]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.11, 0.164)
+layers = 8
+mesh = ExtResource("171_rxbfr")
+
+[node name="Sled | upright_003" type="MeshInstance3D" parent="Armario_Roupa_Banho/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=91017597]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.11, -0.164)
+layers = 8
+mesh = ExtResource("172_fwfdi")
+
+[node name="Colisao" type="StaticBody3D" parent="Armario_Roupa_Banho" unique_id=25118470]
+
+[node name="Shape" type="CollisionShape3D" parent="Armario_Roupa_Banho/Colisao" unique_id=290055856]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.423, -0.0225)
+shape = SubResource("Box_dresser")
+
+[node name="Toalha_Dobrada_0" type="MeshInstance3D" parent="." unique_id=1691976280]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.12, 3.735, 5.72)
+layers = 8
+material_override = SubResource("StandardMaterial3D_1lvhb")
+mesh = ExtResource("173_gd4mn")
+metadata/_edit_group_ = true
+
+[node name="Toalha_Dobrada_1" type="MeshInstance3D" parent="." unique_id=1351272034]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.12, 3.787, 5.72)
+layers = 8
+material_override = SubResource("StandardMaterial3D_1lvhb")
+mesh = ExtResource("174_qqece")
+metadata/_edit_group_ = true
+
+[node name="Toalha_Dobrada_2" type="MeshInstance3D" parent="." unique_id=823752684]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.12, 3.839, 5.72)
+layers = 8
+material_override = SubResource("StandardMaterial3D_1lvhb")
+mesh = ExtResource("175_iurkv")
+metadata/_edit_group_ = true
+
+[node name="Sabonete" type="MeshInstance3D" parent="." unique_id=1289368500]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.98, 3.777, 2.73)
+layers = 8
+material_override = SubResource("StandardMaterial3D_gkslg")
+mesh = ExtResource("176_bj4g0")
+metadata/_edit_group_ = true
+
+[node name="Frasco_Sabonete" type="MeshInstance3D" parent="." unique_id=2112858618]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.55, 3.865, 2.64)
+layers = 8
+material_override = SubResource("StandardMaterial3D_1yb3l")
+mesh = ExtResource("177_26s2l")
+
+[node name="Bico_Sabonete" type="MeshInstance3D" parent="." unique_id=1160112632]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.55, 3.975, 2.66)
+layers = 8
+material_override = SubResource("StandardMaterial3D_ml6pr")
+mesh = ExtResource("178_fwv16")
+metadata/_edit_group_ = true

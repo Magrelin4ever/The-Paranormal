@@ -1,0 +1,85 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editable_parts/geometry/C19_Console_Entrada.res" id="4_nfrho"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editable_parts/geometry/C19_Banco_Sapateira.res" id="5_wrf0k"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/recovery_mesh_0197.res" id="10_dso6s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/recovery_mesh_0198.res" id="11_vsem5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/recovery_mesh_0199.res" id="12_vyqbc"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_rtu5o"]
+size = Vector3(0.43, 0.94, 1.1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_hvqlt"]
+size = Vector3(0.44, 1.98, 1.1)
+
+[node name="Hall_Entrada" type="Node3D" unique_id=1156656494]
+metadata/pavimento = "terreo"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Tapete_023" type="Node3D" parent="." unique_id=1727712976]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.025, 7.28)
+metadata/origem_conversao = "Tapete"
+metadata/fase_conversao = "_mobiliar_terreo"
+metadata/pavimento = &"terreo"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(0, 0.025, 7.28)
+
+[node name="Peca_hall_capacho_c19_1219" type="MeshInstance3D" parent="Tapete_023" unique_id=987171921]
+layers = 4
+mesh = ExtResource("10_dso6s")
+metadata/fase_conversao = "_mobiliar_terreo"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"hall_capacho_c19"
+metadata/_edit_group_ = true
+
+[node name="Peca_rug_detail_1220" type="MeshInstance3D" parent="Tapete_023" unique_id=1703500133]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.019, -0.24000025)
+layers = 4
+mesh = ExtResource("11_vsem5")
+metadata/fase_conversao = "_mobiliar_terreo"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"rug_detail"
+metadata/_edit_group_ = true
+
+[node name="Peca_rug_detail_1221" type="MeshInstance3D" parent="Tapete_023" unique_id=1049532533]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.019, 0.24000025)
+layers = 4
+mesh = ExtResource("12_vyqbc")
+metadata/fase_conversao = "_mobiliar_terreo"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"rug_detail"
+metadata/_edit_group_ = true
+
+[node name="C19_Pecas_Independentes" type="Node3D" parent="." unique_id=1164619210]
+
+[node name="Console_Entrada" type="Node3D" parent="C19_Pecas_Independentes" unique_id=393918200]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.515, 0, 6.625)
+metadata/_edit_group_ = true
+metadata/edicao = "Mova/gire esta raiz: geometria, detalhes e colisao acompanham."
+
+[node name="C19_Console_Perimetro" type="StaticBody3D" parent="C19_Pecas_Independentes/Console_Entrada" unique_id=1519305735]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.47, 0)
+
+[node name="Forma" type="CollisionShape3D" parent="C19_Pecas_Independentes/Console_Entrada/C19_Console_Perimetro" unique_id=1664304859]
+shape = SubResource("BoxShape3D_rtu5o")
+
+[node name="Modelo_Separado_Com_UVs" type="MeshInstance3D" parent="C19_Pecas_Independentes/Console_Entrada" unique_id=1860912736]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.515, 0, -6.625)
+layers = 4
+mesh = ExtResource("4_nfrho")
+
+[node name="Banco_Sapateira" type="Node3D" parent="C19_Pecas_Independentes" unique_id=676731140]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.53, 0, 6.625)
+metadata/_edit_group_ = true
+metadata/edicao = "Mova/gire esta raiz: geometria, detalhes e colisao acompanham."
+
+[node name="C19_Banco_Perimetro" type="StaticBody3D" parent="C19_Pecas_Independentes/Banco_Sapateira" unique_id=2003685440]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.99, 0)
+
+[node name="Forma" type="CollisionShape3D" parent="C19_Pecas_Independentes/Banco_Sapateira/C19_Banco_Perimetro" unique_id=697994775]
+shape = SubResource("BoxShape3D_hvqlt")
+
+[node name="Modelo_Separado_Com_UVs" type="MeshInstance3D" parent="C19_Pecas_Independentes/Banco_Sapateira" unique_id=667510799]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.53, 0, -6.625)
+layers = 4
+mesh = ExtResource("5_wrf0k")

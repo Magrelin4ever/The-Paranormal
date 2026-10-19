@@ -1,0 +1,175 @@
+[gd_scene format=3]
+
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/porao__Pisos_E_Acabamentos.tscn" id="1_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Pisos_E_Acabamentos.tscn" id="2_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Pisos_E_Acabamentos.tscn" id="3_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/sotao__Pisos_E_Acabamentos.tscn" id="4_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/porao__Tetos.tscn" id="5_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Tetos.tscn" id="6_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Tetos.tscn" id="7_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/porao__Estrutura.tscn" id="8_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Estrutura.tscn" id="9_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Estrutura.tscn" id="10_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/sotao__Estrutura.tscn" id="11_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/porao__Portas.tscn" id="12_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Portas.tscn" id="13_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Portas.tscn" id="14_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/sotao__Portas.tscn" id="15_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Escadas.tscn" id="16_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Escadas.tscn" id="17_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/exterior__Telhado_E_Fachada.tscn" id="18_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/porao__Lavanderia_Porao.tscn" id="19_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/porao__Deposito.tscn" id="20_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/porao__Oficina.tscn" id="21_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/porao__Circulacao_Porao.tscn" id="22_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn" id="23_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Area_Servico.tscn" id="24_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Hall_Entrada.tscn" id="25_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Sala_Estar.tscn" id="26_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Escritorio.tscn" id="27_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Biblioteca.tscn" id="28_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Quarto_Infantil.tscn" id="29_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Suite_Casal.tscn" id="30_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Closet_Infantil.tscn" id="31_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Closet_Casal.tscn" id="32_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Banheiro_Familiar.tscn" id="33_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Banheiro_Suite.tscn" id="34_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/primeiro__Hall_Superior.tscn" id="35_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/sotao__Deposito_Sotao.tscn" id="36_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/sotao__Arquivo_Sotao.tscn" id="37_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/exterior__Exterior.tscn" id="38_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/exterior__Escadas.tscn" id="39_room"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/rooms/terreo__Sala_Jantar.tscn" id="40_room"]
+
+[node name="Casa_Editavel" type="Node3D"]
+
+[node name="Porao" type="Node3D" parent="."]
+
+[node name="Pisos_E_Acabamentos" parent="Porao" instance=ExtResource("1_room")]
+
+[node name="Terreo" type="Node3D" parent="."]
+
+[node name="Pisos_E_Acabamentos" parent="Terreo" instance=ExtResource("2_room")]
+
+[node name="Primeiro_Andar" type="Node3D" parent="."]
+
+[node name="Pisos_E_Acabamentos" parent="Primeiro_Andar" instance=ExtResource("3_room")]
+
+[node name="Sotao_Segundo_Andar" type="Node3D" parent="."]
+
+[node name="Pisos_E_Acabamentos" parent="Sotao_Segundo_Andar" instance=ExtResource("4_room")]
+
+[node name="Tetos" parent="Porao" instance=ExtResource("5_room")]
+
+[node name="Tetos" parent="Terreo" instance=ExtResource("6_room")]
+
+[node name="Tetos" parent="Primeiro_Andar" instance=ExtResource("7_room")]
+
+[node name="Estrutura" parent="Porao" instance=ExtResource("8_room")]
+
+[node name="Estrutura" parent="Terreo" instance=ExtResource("9_room")]
+
+[node name="Estrutura" parent="Primeiro_Andar" instance=ExtResource("10_room")]
+
+[node name="Estrutura" parent="Sotao_Segundo_Andar" instance=ExtResource("11_room")]
+
+[node name="Portas" parent="Porao" instance=ExtResource("12_room")]
+
+[node name="Portas" parent="Terreo" instance=ExtResource("13_room")]
+
+[node name="Portas" parent="Primeiro_Andar" instance=ExtResource("14_room")]
+
+[node name="Portas" parent="Sotao_Segundo_Andar" instance=ExtResource("15_room")]
+
+[node name="Escadas" parent="Terreo" instance=ExtResource("16_room")]
+
+[node name="Escadas" parent="Primeiro_Andar" instance=ExtResource("17_room")]
+
+[node name="Exterior" type="Node3D" parent="."]
+
+[node name="Telhado_E_Fachada" parent="Exterior" instance=ExtResource("18_room")]
+
+[node name="Lavanderia_Porao" parent="Porao" instance=ExtResource("19_room")]
+
+[node name="Deposito" parent="Porao" instance=ExtResource("20_room")]
+
+[node name="Oficina" parent="Porao" instance=ExtResource("21_room")]
+
+[node name="Circulacao_Porao" parent="Porao" instance=ExtResource("22_room")]
+
+[node name="Cozinha_Richard" parent="Terreo" instance=ExtResource("23_room")]
+
+[node name="Area_Servico" parent="Terreo" instance=ExtResource("24_room")]
+
+[node name="Hall_Entrada" parent="Terreo" instance=ExtResource("25_room")]
+
+[node name="Sala_Estar" parent="Terreo" instance=ExtResource("26_room")]
+
+[node name="Escritorio" parent="Terreo" instance=ExtResource("27_room")]
+
+[node name="Biblioteca" parent="Terreo" instance=ExtResource("28_room")]
+
+[node name="Quarto_Infantil" parent="Primeiro_Andar" instance=ExtResource("29_room")]
+
+[node name="Suite_Casal" parent="Primeiro_Andar" instance=ExtResource("30_room")]
+
+[node name="Closet_Infantil" parent="Primeiro_Andar" instance=ExtResource("31_room")]
+
+[node name="Closet_Casal" parent="Primeiro_Andar" instance=ExtResource("32_room")]
+
+[node name="Banheiro_Familiar" parent="Primeiro_Andar" instance=ExtResource("33_room")]
+
+[node name="Banheiro_Suite" parent="Primeiro_Andar" instance=ExtResource("34_room")]
+
+[node name="Hall_Superior" parent="Primeiro_Andar" instance=ExtResource("35_room")]
+
+[node name="Deposito_Sotao" parent="Sotao_Segundo_Andar" instance=ExtResource("36_room")]
+
+[node name="Arquivo_Sotao" parent="Sotao_Segundo_Andar" instance=ExtResource("37_room")]
+
+[node name="Exterior" parent="Exterior" instance=ExtResource("38_room")]
+
+[node name="Escadas" parent="Exterior" instance=ExtResource("39_room")]
+
+[node name="Sala_Jantar" parent="Terreo" instance=ExtResource("40_room")]
+
+[editable path="Porao/Pisos_E_Acabamentos"]
+[editable path="Terreo/Pisos_E_Acabamentos"]
+[editable path="Primeiro_Andar/Pisos_E_Acabamentos"]
+[editable path="Sotao_Segundo_Andar/Pisos_E_Acabamentos"]
+[editable path="Porao/Tetos"]
+[editable path="Terreo/Tetos"]
+[editable path="Primeiro_Andar/Tetos"]
+[editable path="Porao/Estrutura"]
+[editable path="Terreo/Estrutura"]
+[editable path="Primeiro_Andar/Estrutura"]
+[editable path="Sotao_Segundo_Andar/Estrutura"]
+[editable path="Porao/Portas"]
+[editable path="Terreo/Portas"]
+[editable path="Primeiro_Andar/Portas"]
+[editable path="Sotao_Segundo_Andar/Portas"]
+[editable path="Terreo/Escadas"]
+[editable path="Primeiro_Andar/Escadas"]
+[editable path="Exterior/Telhado_E_Fachada"]
+[editable path="Porao/Lavanderia_Porao"]
+[editable path="Porao/Deposito"]
+[editable path="Porao/Oficina"]
+[editable path="Porao/Circulacao_Porao"]
+[editable path="Terreo/Cozinha_Richard"]
+[editable path="Terreo/Area_Servico"]
+[editable path="Terreo/Hall_Entrada"]
+[editable path="Terreo/Sala_Estar"]
+[editable path="Terreo/Escritorio"]
+[editable path="Terreo/Biblioteca"]
+[editable path="Primeiro_Andar/Quarto_Infantil"]
+[editable path="Primeiro_Andar/Suite_Casal"]
+[editable path="Primeiro_Andar/Closet_Infantil"]
+[editable path="Primeiro_Andar/Closet_Casal"]
+[editable path="Primeiro_Andar/Banheiro_Familiar"]
+[editable path="Primeiro_Andar/Banheiro_Suite"]
+[editable path="Primeiro_Andar/Hall_Superior"]
+[editable path="Sotao_Segundo_Andar/Deposito_Sotao"]
+[editable path="Sotao_Segundo_Andar/Arquivo_Sotao"]
+[editable path="Exterior/Exterior"]
+[editable path="Exterior/Escadas"]
+[editable path="Terreo/Sala_Jantar"]

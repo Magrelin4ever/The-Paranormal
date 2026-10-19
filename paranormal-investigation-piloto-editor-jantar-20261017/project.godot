@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Casa — Piloto editor sala de jantar"
+config/name="The Paranormal — Casa editável"
 run/main_scene="res://prototype/house_environment.tscn"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
@@ -23,6 +23,10 @@ window/stretch/aspect="expand"
 [editor]
 
 import/use_multiple_threads=false
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/house_editor/plugin.cfg")
 
 [physics]
 

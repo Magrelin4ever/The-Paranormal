@@ -1,0 +1,10 @@
+{
+	"new_lights": 0,
+	"rooms_updated": [
+		"sotao__Deposito_Sotao.tscn",
+		"porao__Deposito.tscn",
+		"sotao__Estrutura.tscn"
+	],
+	"source_assets": "Reutilizacao de assets CC0 existentes e vigas nativas PBR editaveis",
+	"stacked_crates_aligned": true
+}

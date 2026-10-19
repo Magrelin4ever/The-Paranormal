@@ -1,0 +1,31 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1530.res" id="1_3kisb"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_5hmye"]
+size = Vector3(0.495, 0.154, 0.374)
+
+[node name="Circulacao_Porao" type="Node3D" unique_id=1725025901]
+metadata/pavimento = "porao"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Modelo_wicker_basket_01_021" type="Node3D" parent="." unique_id=471693354]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.95, -2.85, -5.05)
+metadata/origem_conversao = "Modelo_wicker_basket_01"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(8.95, -2.85, -5.05)
+
+[node name="Asset_12_wicker_basket_01" type="Node3D" parent="Modelo_wicker_basket_01_021" unique_id=479972305]
+transform = Transform3D(1.1, 0, 0, 0, 1.1, 0, 0, 0, 1.1, 0, 0, 0)
+
+[node name="wicker_basket_01" type="MeshInstance3D" parent="Modelo_wicker_basket_01_021/Asset_12_wicker_basket_01" unique_id=1935234642]
+layers = 2
+mesh = ExtResource("1_3kisb")
+
+[node name="Hitbox_12_wicker_basket_01" type="StaticBody3D" parent="Modelo_wicker_basket_01_021" unique_id=867396559]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0769999, 0)
+
+[node name="Forma" type="CollisionShape3D" parent="Modelo_wicker_basket_01_021/Hitbox_12_wicker_basket_01" unique_id=1254350410]
+shape = SubResource("BoxShape3D_5hmye")

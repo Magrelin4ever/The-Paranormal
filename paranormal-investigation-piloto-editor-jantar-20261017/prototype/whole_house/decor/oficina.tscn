@@ -1,0 +1,56 @@
+[gd_scene load_steps=9 format=3]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/decor/wrapper_workbench_pegboard.tscn" id="1_model"]
+[ext_resource type="PackedScene" path="res://prototype/assets/models/polyhaven/tool_cart/tool_cart_1k.gltf" id="2_model"]
+[ext_resource type="PackedScene" path="res://prototype/assets/models/polyhaven/wooden_bookshelf_worn/wooden_bookshelf_worn_1k.gltf" id="3_model"]
+[ext_resource type="PackedScene" path="res://prototype/assets/models/polyhaven/plastic_crate_01/plastic_crate_01_1k.gltf" id="4_model"]
+[sub_resource type="BoxShape3D" id="1_shape"]
+size = Vector3(1.55, 1.45, 0.72)
+[sub_resource type="BoxShape3D" id="2_shape"]
+size = Vector3(0.75, 0.95, 0.58)
+[sub_resource type="BoxShape3D" id="3_shape"]
+size = Vector3(0.9, 1.8, 0.38)
+[sub_resource type="BoxShape3D" id="4_shape"]
+size = Vector3(0.65, 0.45, 0.65)
+[node name="Decor_oficina" type="Node3D"]
+metadata/ambient_role = "oficina"
+metadata/_edit_group_ = true
+[node name="Workbench" type="Node3D" parent="." unique_id=700007000]
+position = Vector3(-1.0, 0.72, -6.8)
+scale = Vector3(1, 1, 1)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="Workbench" instance=ExtResource("1_model")]
+[node name="Collision" type="StaticBody3D" parent="Workbench"]
+[node name="Shape" type="CollisionShape3D" parent="Workbench/Collision"]
+position = Vector3(0, 0.72, 0)
+shape = SubResource("1_shape")
+[node name="ToolCart" type="Node3D" parent="." unique_id=700007001]
+position = Vector3(1.2, 0.48, -6.4)
+scale = Vector3(0.72, 0.72, 0.72)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="ToolCart" instance=ExtResource("2_model")]
+[node name="Collision" type="StaticBody3D" parent="ToolCart"]
+[node name="Shape" type="CollisionShape3D" parent="ToolCart/Collision"]
+position = Vector3(0, 0.48, 0)
+shape = SubResource("2_shape")
+[node name="PartsShelf" type="Node3D" parent="." unique_id=700007002]
+position = Vector3(3.0, 1.1, -6.8)
+scale = Vector3(0.72, 0.72, 0.72)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="PartsShelf" instance=ExtResource("3_model")]
+[node name="Collision" type="StaticBody3D" parent="PartsShelf"]
+[node name="Shape" type="CollisionShape3D" parent="PartsShelf/Collision"]
+position = Vector3(0, 0.9, 0)
+shape = SubResource("3_shape")
+[node name="PartsCrate" type="Node3D" parent="." unique_id=700007003]
+position = Vector3(3.9, 0.25, -6.0)
+scale = Vector3(0.65, 0.65, 0.65)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="PartsCrate" instance=ExtResource("4_model")]
+[node name="Collision" type="StaticBody3D" parent="PartsCrate"]
+[node name="Shape" type="CollisionShape3D" parent="PartsCrate/Collision"]
+position = Vector3(0, 0.23, 0)
+shape = SubResource("4_shape")

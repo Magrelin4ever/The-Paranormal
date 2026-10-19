@@ -1,0 +1,179 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0096.res" id="1_kww4i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0097.res" id="2_ca4x5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0098.res" id="3_to50i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0099.res" id="4_kpkfs"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0100.res" id="5_xo5ot"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0101.res" id="6_yc7rh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0102.res" id="7_y0pf0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0103.res" id="8_bvn1q"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0104.res" id="9_3ucy7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0105.res" id="10_pa3mj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0106.res" id="11_58w0m"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0107.res" id="12_m6m50"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0108.res" id="13_dxoys"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0109.res" id="14_4bp6y"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0110.res" id="15_s0iqm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0111.res" id="16_kotki"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0112.res" id="17_yjdcg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0113.res" id="18_yxeu0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0114.res" id="19_wxqkj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0115.res" id="20_27o00"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0116.res" id="21_8vilu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0117.res" id="22_513l4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0118.res" id="23_jpwt4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0119.res" id="24_xqb8k"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0120.res" id="25_f2t80"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0121.res" id="26_xafj1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0122.res" id="27_fui88"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0123.res" id="28_vt7kt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0124.res" id="29_kcalp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0125.res" id="30_pjm8o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0126.res" id="31_dgqyu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0127.res" id="32_bg7qu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0128.res" id="33_b27qk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0129.res" id="34_tqsbq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0130.res" id="35_x35j7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0131.res" id="36_6firn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0132.res" id="37_neor5"]
+
+[node name="Cortina_Linho_Aberta" type="Node3D" unique_id=1164947288]
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="." unique_id=1563181763]
+
+[node name="Curtain pair open - Original Interior Furnishing" type="Node3D" parent="Modelo" unique_id=241307917]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.008, 0)
+metadata/extras = {
+"license": "CC0-1.0",
+"original_design": true
+}
+
+[node name="Closed wraparound curtain tieback" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1513355779]
+mesh = ExtResource("1_kww4i")
+
+[node name="Closed wraparound curtain tieback_001" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1545036855]
+mesh = ExtResource("2_ca4x5")
+
+[node name="Curtain header suspension tab" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1177666022]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.98, 2.105, 0)
+mesh = ExtResource("3_to50i")
+
+[node name="Curtain header suspension tab_001" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1934187400]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.92, 2.105, 0)
+mesh = ExtResource("4_kpkfs")
+
+[node name="Curtain header suspension tab_002" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=213032564]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.86, 2.105, 0)
+mesh = ExtResource("5_xo5ot")
+
+[node name="Curtain header suspension tab_003" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1095152320]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.8, 2.105, 0)
+mesh = ExtResource("6_yc7rh")
+
+[node name="Curtain header suspension tab_004" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=878838466]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.74, 2.105, 0)
+mesh = ExtResource("7_y0pf0")
+
+[node name="Curtain header suspension tab_005" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1192707462]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.68, 2.105, 0)
+mesh = ExtResource("8_bvn1q")
+
+[node name="Curtain header suspension tab_006" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=717752739]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.62, 2.105, 0)
+mesh = ExtResource("9_3ucy7")
+
+[node name="Curtain header suspension tab_007" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=76455285]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.56, 2.105, 0)
+mesh = ExtResource("10_pa3mj")
+
+[node name="Curtain header suspension tab_008" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1502761018]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.56, 2.105, 0)
+mesh = ExtResource("11_58w0m")
+
+[node name="Curtain header suspension tab_009" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1473102561]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.62, 2.105, 0)
+mesh = ExtResource("12_m6m50")
+
+[node name="Curtain header suspension tab_010" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1358264642]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.68, 2.105, 0)
+mesh = ExtResource("13_dxoys")
+
+[node name="Curtain header suspension tab_011" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1816806940]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.74, 2.105, 0)
+mesh = ExtResource("14_4bp6y")
+
+[node name="Curtain header suspension tab_012" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1014734955]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 2.105, 0)
+mesh = ExtResource("15_s0iqm")
+
+[node name="Curtain header suspension tab_013" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1049088038]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.86, 2.105, 0)
+mesh = ExtResource("16_kotki")
+
+[node name="Curtain header suspension tab_014" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=983654160]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.92, 2.105, 0)
+mesh = ExtResource("17_yjdcg")
+
+[node name="Curtain header suspension tab_015" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1353128160]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.98, 2.105, 0)
+mesh = ExtResource("18_yxeu0")
+
+[node name="Curtain pole" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1234414614]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, 0, 2.16, 0)
+mesh = ExtResource("19_wxqkj")
+
+[node name="Curtain suspension ring" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=393119819]
+mesh = ExtResource("20_27o00")
+
+[node name="Curtain suspension ring_001" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1401052453]
+mesh = ExtResource("21_8vilu")
+
+[node name="Curtain suspension ring_002" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=927779447]
+mesh = ExtResource("22_513l4")
+
+[node name="Curtain suspension ring_003" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1681971242]
+mesh = ExtResource("23_jpwt4")
+
+[node name="Curtain suspension ring_004" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=139954380]
+mesh = ExtResource("24_xqb8k")
+
+[node name="Curtain suspension ring_005" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=678557578]
+mesh = ExtResource("25_f2t80")
+
+[node name="Curtain suspension ring_006" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=970178120]
+mesh = ExtResource("26_xafj1")
+
+[node name="Curtain suspension ring_007" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=603150170]
+mesh = ExtResource("27_fui88")
+
+[node name="Curtain suspension ring_008" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=696961467]
+mesh = ExtResource("28_vt7kt")
+
+[node name="Curtain suspension ring_009" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=461505982]
+mesh = ExtResource("29_kcalp")
+
+[node name="Curtain suspension ring_010" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1819449937]
+mesh = ExtResource("30_pjm8o")
+
+[node name="Curtain suspension ring_011" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=989200550]
+mesh = ExtResource("31_dgqyu")
+
+[node name="Curtain suspension ring_012" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1289277943]
+mesh = ExtResource("32_bg7qu")
+
+[node name="Curtain suspension ring_013" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=65702608]
+mesh = ExtResource("33_b27qk")
+
+[node name="Curtain suspension ring_014" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1882303660]
+mesh = ExtResource("34_tqsbq")
+
+[node name="Curtain suspension ring_015" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=771956057]
+mesh = ExtResource("35_x35j7")
+
+[node name="Original pleated curtain" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=793893376]
+mesh = ExtResource("36_6firn")
+
+[node name="Original pleated curtain_001" type="MeshInstance3D" parent="Modelo/Curtain pair open - Original Interior Furnishing" unique_id=2091252037]
+mesh = ExtResource("37_neor5")

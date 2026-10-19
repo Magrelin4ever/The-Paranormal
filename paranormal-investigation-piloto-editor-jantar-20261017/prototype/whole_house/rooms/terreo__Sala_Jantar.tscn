@@ -1,0 +1,556 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2830.res" id="1_vxsjf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2831.res" id="2_dctla"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4181.res" id="3_m3xdw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2832.res" id="4_yw0ju"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2833.res" id="5_eda3g"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4182.res" id="6_x7rjx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2834.res" id="7_mqbkq"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4183.res" id="8_frvxh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2835.res" id="9_0sgtr"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4184.res" id="10_j4qo2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2836.res" id="11_gjltl"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4185.res" id="12_a3lpf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2837.res" id="13_dcinm"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4186.res" id="14_n4ux1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2838.res" id="15_yg6yt"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4187.res" id="16_d18y3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2839.res" id="17_oofvt"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4188.res" id="18_lqawg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2840.res" id="19_w30qh"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4189.res" id="20_taqsl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2841.res" id="21_1ey1c"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4190.res" id="22_3ipk1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2842.res" id="23_52fmk"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4191.res" id="24_v7vau"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4192.res" id="25_ohkqd"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_2843.res" id="26_pd75h"]
+[ext_resource type="TorusMesh" path="res://prototype/whole_house/resources/mesh_2844.res" id="27_grdxj"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4193.res" id="28_bh56f"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_2845.res" id="29_o0mhq"]
+[ext_resource type="TorusMesh" path="res://prototype/whole_house/resources/mesh_2846.res" id="30_2rjv0"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4194.res" id="31_kfjm4"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_2847.res" id="32_4engy"]
+[ext_resource type="TorusMesh" path="res://prototype/whole_house/resources/mesh_2848.res" id="33_sgdrk"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4195.res" id="34_3kdrn"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_2849.res" id="35_3copj"]
+[ext_resource type="TorusMesh" path="res://prototype/whole_house/resources/mesh_2850.res" id="36_p82v3"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4196.res" id="37_b4lst"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_2851.res" id="38_cmjtv"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4197.res" id="39_jk8yv"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_2852.res" id="40_1ipwk"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4198.res" id="41_6l8ac"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_2853.res" id="42_e4w42"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4199.res" id="43_gh367"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_2854.res" id="44_5f4rg"]
+[ext_resource type="TorusMesh" path="res://prototype/whole_house/resources/mesh_2855.res" id="45_ey5n4"]
+[ext_resource type="TorusMesh" path="res://prototype/whole_house/resources/mesh_2856.res" id="46_s8r5p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2857.res" id="47_q4vc8"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4200.res" id="48_aiuln"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4201.res" id="49_xj6y5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2858.res" id="50_5qdlw"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4202.res" id="51_fhxio"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2859.res" id="52_qtow8"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4203.res" id="53_hnek3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2860.res" id="54_a0j0m"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4204.res" id="55_lnsvs"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2861.res" id="56_xqstx"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4205.res" id="57_ql86k"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2862.res" id="58_0kach"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4206.res" id="59_hww73"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2863.res" id="60_7oj1n"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4207.res" id="61_lts8b"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2864.res" id="62_sks7i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2865.res" id="63_jqn4t"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2866.res" id="64_dyt8g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2867.res" id="65_u7ybb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2868.res" id="66_hb218"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2869.res" id="67_3syca"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2870.res" id="68_ht07v"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4208.res" id="69_rsv7v"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2871.res" id="70_2bjvx"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4209.res" id="71_h078a"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4210.res" id="72_5n63e"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4211.res" id="73_ew81a"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4212.res" id="74_ayo82"]
+[ext_resource type="QuadMesh" path="res://prototype/whole_house/resources/mesh_2872.res" id="75_ked6l"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_n2b3t"]
+size = Vector3(2.3, 0.9, 1.4)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_wam8m"]
+size = Vector3(0.48, 1, 0.58)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_4qr60"]
+size = Vector3(0.48, 1, 0.58)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_m1tdw"]
+size = Vector3(0.48, 1, 0.58)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_onjsk"]
+size = Vector3(0.48, 1, 0.58)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_x0kiw"]
+size = Vector3(0.48, 1, 0.58)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ovlp7"]
+size = Vector3(0.48, 1, 0.58)
+
+[sub_resource type="Animation" id="Animation_ig8hq"]
+resource_name = "modern_wooden_cabinet_body"
+length = 3.75
+
+[sub_resource type="Animation" id="Animation_4v5mk"]
+resource_name = "modern_wooden_cabinet_path_l"
+length = 3.75
+
+[sub_resource type="Animation" id="Animation_k5454"]
+resource_name = "modern_wooden_cabinet_path_r"
+length = 3.75
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_3s2jw"]
+_data = {
+&"modern_wooden_cabinet_body": SubResource("Animation_ig8hq"),
+&"modern_wooden_cabinet_path_l": SubResource("Animation_4v5mk"),
+&"modern_wooden_cabinet_path_r": SubResource("Animation_k5454")
+}
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_nyvb8"]
+size = Vector3(1.8056, 0.70004, 0.3848)
+
+[node name="Sala_Jantar" type="Node3D" unique_id=2041240172]
+metadata/pavimento = "terreo"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Tapete" type="Node3D" parent="." unique_id=474117325]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.075, 0.022, -0.05)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="MalhasEstaticasAgrupadas" type="MeshInstance3D" parent="Tapete" unique_id=326520700]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6.075, -0.022, 0.05)
+layers = 4
+mesh = ExtResource("1_vxsjf")
+
+[node name="Mesa" type="Node3D" parent="." unique_id=1335932582]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.075, 0, -0.05)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_00_dining_table" type="Node3D" parent="Mesa" unique_id=1092704958]
+
+[node name="dining_table" type="MeshInstance3D" parent="Mesa/Asset_00_dining_table" unique_id=59884970]
+layers = 4
+mesh = ExtResource("2_dctla")
+surface_material_override/0 = ExtResource("3_m3xdw")
+
+[node name="dining_table_cloth" type="MeshInstance3D" parent="Mesa/Asset_00_dining_table" unique_id=686444289]
+visible = false
+layers = 4
+mesh = ExtResource("4_yw0ju")
+
+[node name="Colisao_Acompanha_Movel" type="StaticBody3D" parent="Mesa" unique_id=1158422394]
+
+[node name="Hitbox_00_dining_table" type="CollisionShape3D" parent="Mesa/Colisao_Acompanha_Movel" unique_id=286983897]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.45, 0)
+shape = SubResource("BoxShape3D_n2b3t")
+
+[node name="Conjunto_Cha" type="Node3D" parent="Mesa" unique_id=113560600]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.08500004, 0.788, 0.065)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_08_tea_set_01" type="Node3D" parent="Mesa/Conjunto_Cha" unique_id=1778269328]
+transform = Transform3D(0.54, 0, 0, 0, 0.54, 0, 0, 0, 0.54, 0, 0, 0)
+
+[node name="tea_set_01_plate_large_square_01" type="MeshInstance3D" parent="Mesa/Conjunto_Cha/Asset_08_tea_set_01" unique_id=1041257452]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.34662756, 0, -0.18865356)
+layers = 4
+mesh = ExtResource("5_eda3g")
+surface_material_override/0 = ExtResource("6_x7rjx")
+
+[node name="tea_set_01_cup_small_01" type="MeshInstance3D" parent="Mesa/Conjunto_Cha/Asset_08_tea_set_01" unique_id=62946225]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.15337244, 0, 0.061346427)
+layers = 4
+mesh = ExtResource("7_mqbkq")
+surface_material_override/0 = ExtResource("8_frvxh")
+
+[node name="tea_set_01_saucer_circular_03" type="MeshInstance3D" parent="Mesa/Conjunto_Cha/Asset_08_tea_set_01" unique_id=947907796]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.40337244, 0, -0.18865362)
+layers = 4
+mesh = ExtResource("9_0sgtr")
+surface_material_override/0 = ExtResource("10_j4qo2")
+
+[node name="tea_set_01_plate_large_circular_03" type="MeshInstance3D" parent="Mesa/Conjunto_Cha/Asset_08_tea_set_01" unique_id=919978424]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.09662759, 0, -0.18865357)
+layers = 4
+mesh = ExtResource("11_gjltl")
+surface_material_override/0 = ExtResource("12_a3lpf")
+
+[node name="tea_set_01_sugar_cup_01" type="MeshInstance3D" parent="Mesa/Conjunto_Cha/Asset_08_tea_set_01" unique_id=526709152]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.09662757, 0, 0.061346427)
+layers = 4
+mesh = ExtResource("13_dcinm")
+surface_material_override/0 = ExtResource("14_n4ux1")
+
+[node name="tea_set_01_teapot_01" type="MeshInstance3D" parent="Mesa/Conjunto_Cha/Asset_08_tea_set_01" unique_id=430537161]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.34662756, 0, 0.06134644)
+layers = 4
+mesh = ExtResource("15_yg6yt")
+surface_material_override/0 = ExtResource("16_d18y3")
+
+[node name="tea_set_01_cup_small_02" type="MeshInstance3D" parent="Mesa/Conjunto_Cha/Asset_08_tea_set_01" unique_id=534770973]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.40337247, 0, 0.06134641)
+layers = 4
+mesh = ExtResource("17_oofvt")
+surface_material_override/0 = ExtResource("18_lqawg")
+
+[node name="tea_set_01_saucer_circular_04" type="MeshInstance3D" parent="Mesa/Conjunto_Cha/Asset_08_tea_set_01" unique_id=1974408488]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.15337242, 0, -0.18865359)
+layers = 4
+mesh = ExtResource("19_w30qh")
+surface_material_override/0 = ExtResource("20_taqsl")
+
+[node name="tea_set_01_sugar_cup_01_lid" type="MeshInstance3D" parent="Mesa/Conjunto_Cha/Asset_08_tea_set_01" unique_id=813203567]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.09662757, 0.00030397996, 0.061346427)
+layers = 4
+mesh = ExtResource("21_1ey1c")
+surface_material_override/0 = ExtResource("22_3ipk1")
+
+[node name="tea_set_01_teapot_01_lid" type="MeshInstance3D" parent="Mesa/Conjunto_Cha/Asset_08_tea_set_01" unique_id=1956506793]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.34662756, 0.0015413057, 0.06134644)
+layers = 4
+mesh = ExtResource("23_52fmk")
+surface_material_override/0 = ExtResource("24_v7vau")
+
+[node name="Prato_01" type="Node3D" parent="Mesa" unique_id=647582121]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.67269194, 0.795499, 0.36813244)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="PratoJantar_00" type="MeshInstance3D" parent="Mesa/Prato_01" unique_id=826855340]
+layers = 4
+material_override = ExtResource("25_ohkqd")
+mesh = ExtResource("26_pd75h")
+
+[node name="AroPratoJantar_00" type="MeshInstance3D" parent="Mesa/Prato_01" unique_id=1911925924]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.009000003, 0)
+layers = 4
+material_override = ExtResource("25_ohkqd")
+mesh = ExtResource("27_grdxj")
+
+[node name="Prato_02" type="Node3D" parent="Mesa" unique_id=32503677]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.73392594, 0.798, 0.21696544)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="PratoJantar_01" type="MeshInstance3D" parent="Mesa/Prato_02" unique_id=867922819]
+layers = 4
+material_override = ExtResource("28_bh56f")
+mesh = ExtResource("29_o0mhq")
+
+[node name="AroPratoJantar_01" type="MeshInstance3D" parent="Mesa/Prato_02" unique_id=419189228]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.009000003, 0)
+layers = 4
+material_override = ExtResource("28_bh56f")
+mesh = ExtResource("30_2rjv0")
+
+[node name="Prato_03" type="Node3D" parent="Mesa" unique_id=405165930]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.74500036, 0.798, -0.35)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="PratoJantar_02" type="MeshInstance3D" parent="Mesa/Prato_03" unique_id=641293200]
+layers = 4
+material_override = ExtResource("31_kfjm4")
+mesh = ExtResource("32_4engy")
+
+[node name="AroPratoJantar_02" type="MeshInstance3D" parent="Mesa/Prato_03" unique_id=1202693039]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.009000003, 0)
+layers = 4
+material_override = ExtResource("31_kfjm4")
+mesh = ExtResource("33_sgdrk")
+
+[node name="Prato_04" type="Node3D" parent="Mesa" unique_id=1730178739]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7058971, 0.798, -0.2911126)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="PratoJantar_03" type="MeshInstance3D" parent="Mesa/Prato_04" unique_id=648087296]
+layers = 4
+material_override = ExtResource("34_3kdrn")
+mesh = ExtResource("35_3copj")
+
+[node name="AroPratoJantar_03" type="MeshInstance3D" parent="Mesa/Prato_04" unique_id=494778398]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.009000003, 0)
+layers = 4
+material_override = ExtResource("34_3kdrn")
+mesh = ExtResource("36_p82v3")
+
+[node name="Guardanapo" type="Node3D" parent="Mesa" unique_id=692212844]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.3745228, 0.792, 0.30774266)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="GuardanapoJantar" type="Node3D" parent="Mesa/Guardanapo" unique_id=1555291691]
+
+[node name="GuardanapoJantar_Tecido" type="MeshInstance3D" parent="Mesa/Guardanapo/GuardanapoJantar" unique_id=857296773]
+transform = Transform3D(0.9961947, 0, -0.08715574, 0, 1, 0, 0.08715574, 0, 0.9961947, 0, 0, 0)
+layers = 4
+material_override = ExtResource("37_b4lst")
+mesh = ExtResource("38_cmjtv")
+
+[node name="GuardanapoJantar_Dobra" type="MeshInstance3D" parent="Mesa/Guardanapo/GuardanapoJantar" unique_id=1985220102]
+transform = Transform3D(0.99026805, 0, 0.1391731, 0, 1, 0, -0.1391731, 0, 0.99026805, 0.055, 0.0055, 0.012)
+layers = 4
+material_override = ExtResource("39_jk8yv")
+mesh = ExtResource("40_1ipwk")
+
+[node name="Copo_Infantil" type="Node3D" parent="Mesa" unique_id=1418773966]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.46500015, 0.8284, -0.44)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="CopoInfantilJantar" type="Node3D" parent="Mesa/Copo_Infantil" unique_id=1813952297]
+
+[node name="CopoInfantilJantar_Corpo" type="MeshInstance3D" parent="Mesa/Copo_Infantil/CopoInfantilJantar" unique_id=637607859]
+layers = 4
+material_override = ExtResource("41_6l8ac")
+mesh = ExtResource("42_e4w42")
+
+[node name="CopoInfantilJantar_Interior" type="MeshInstance3D" parent="Mesa/Copo_Infantil/CopoInfantilJantar" unique_id=1307779033]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.043, 0)
+layers = 4
+material_override = ExtResource("43_gh367")
+mesh = ExtResource("44_5f4rg")
+
+[node name="CopoInfantilJantar_Aro" type="MeshInstance3D" parent="Mesa/Copo_Infantil/CopoInfantilJantar" unique_id=1818547099]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0445, 0)
+layers = 4
+material_override = ExtResource("41_6l8ac")
+mesh = ExtResource("45_ey5n4")
+
+[node name="CopoInfantilJantar_Alca" type="MeshInstance3D" parent="Mesa/Copo_Infantil/CopoInfantilJantar" unique_id=2116895908]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 0.041, 0, 0)
+layers = 4
+material_override = ExtResource("41_6l8ac")
+mesh = ExtResource("46_s8r5p")
+
+[node name="Lustre_Apagado" type="Node3D" parent="." unique_id=1175950483]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.075, 2.88, -0.05)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_01_Chandelier_03" type="Node3D" parent="Lustre_Apagado" unique_id=1963011409]
+transform = Transform3D(0.88, 0, 0, 0, 0.88, 0, 0, 0, 0.88, 0, 0, 0)
+
+[node name="Chandelier_03" type="MeshInstance3D" parent="Lustre_Apagado/Asset_01_Chandelier_03" unique_id=117127073]
+layers = 4
+mesh = ExtResource("47_q4vc8")
+surface_material_override/0 = ExtResource("48_aiuln")
+surface_material_override/1 = ExtResource("49_xj6y5")
+
+[node name="Cadeira_01" type="Node3D" parent="." unique_id=1703662365]
+transform = Transform3D(-0.999556, 0, 0.029794963, 0, 1, 0, -0.029794963, 0, -0.999556, -6.4273005, 0, 0.41434085)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_02_dining_chair_02" type="Node3D" parent="Cadeira_01" unique_id=1147741139]
+
+[node name="dining_chair_02" type="MeshInstance3D" parent="Cadeira_01/Asset_02_dining_chair_02" unique_id=800438899]
+layers = 4
+mesh = ExtResource("50_5qdlw")
+surface_material_override/0 = ExtResource("51_fhxio")
+
+[node name="Colisao_Acompanha_Movel" type="StaticBody3D" parent="Cadeira_01" unique_id=1516816655]
+
+[node name="Hitbox_02_dining_chair_02" type="CollisionShape3D" parent="Cadeira_01/Colisao_Acompanha_Movel" unique_id=1162433494]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0)
+shape = SubResource("BoxShape3D_wam8m")
+
+[node name="Cadeira_02" type="Node3D" parent="." unique_id=1724730123]
+transform = Transform3D(-0.99875355, 0, 0.049913965, 0, 1, 0, -0.049913965, 0, -0.99875355, -5.3859267, 0.05809301, 0.4384359)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_03_dining_chair_02" type="Node3D" parent="Cadeira_02" unique_id=385115654]
+
+[node name="dining_chair_02" type="MeshInstance3D" parent="Cadeira_02/Asset_03_dining_chair_02" unique_id=1979079764]
+layers = 4
+mesh = ExtResource("52_qtow8")
+surface_material_override/0 = ExtResource("53_hnek3")
+
+[node name="Colisao_Acompanha_Movel" type="StaticBody3D" parent="Cadeira_02" unique_id=1753638390]
+
+[node name="Hitbox_03_dining_chair_02" type="CollisionShape3D" parent="Cadeira_02/Colisao_Acompanha_Movel" unique_id=1339086508]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0)
+shape = SubResource("BoxShape3D_4qr60")
+
+[node name="Cadeira_03" type="Node3D" parent="." unique_id=198780669]
+transform = Transform3D(-0.9999113, 0, 0.013318534, 0, 1, 0, -0.013318534, 0, -0.9999113, -6.397179, 0, -0.5515442)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_04_dining_chair_02" type="Node3D" parent="Cadeira_03" unique_id=1216816488]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0, 0)
+
+[node name="dining_chair_02" type="MeshInstance3D" parent="Cadeira_03/Asset_04_dining_chair_02" unique_id=1422573178]
+layers = 4
+mesh = ExtResource("54_a0j0m")
+surface_material_override/0 = ExtResource("55_lnsvs")
+
+[node name="Colisao_Acompanha_Movel" type="StaticBody3D" parent="Cadeira_03" unique_id=2127598737]
+
+[node name="Hitbox_04_dining_chair_02" type="CollisionShape3D" parent="Cadeira_03/Colisao_Acompanha_Movel" unique_id=340510539]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0.5, 0)
+shape = SubResource("BoxShape3D_m1tdw")
+
+[node name="Cadeira_04" type="Node3D" parent="." unique_id=371849679]
+transform = Transform3D(-0.9998968, 0, 0.014363423, 0, 1, 0, -0.014363423, 0, -0.9998968, -5.588031, 0.13799572, -0.58180153)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_05_dining_chair_02" type="Node3D" parent="Cadeira_04" unique_id=1857172208]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0, 0)
+
+[node name="dining_chair_02" type="MeshInstance3D" parent="Cadeira_04/Asset_05_dining_chair_02" unique_id=1148466838]
+layers = 4
+mesh = ExtResource("56_xqstx")
+surface_material_override/0 = ExtResource("57_ql86k")
+
+[node name="Colisao_Acompanha_Movel" type="StaticBody3D" parent="Cadeira_04" unique_id=1676521356]
+
+[node name="Hitbox_05_dining_chair_02" type="CollisionShape3D" parent="Cadeira_04/Colisao_Acompanha_Movel" unique_id=1273440054]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0.5, 0)
+shape = SubResource("BoxShape3D_onjsk")
+
+[node name="Cadeira_05_Cabeceira" type="Node3D" parent="." unique_id=959423744]
+transform = Transform3D(0.982802, 0, -0.18466274, 0, 1, 0, 0.18466274, 0, 0.982802, -7.0023503, 0, -0.035948724)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_06_dining_chair_02" type="Node3D" parent="Cadeira_05_Cabeceira" unique_id=546366492]
+transform = Transform3D(-0.12186929, 0, 0.99254614, 0, 1, 0, -0.99254614, 0, -0.12186929, 0, 0, 0)
+
+[node name="dining_chair_02" type="MeshInstance3D" parent="Cadeira_05_Cabeceira/Asset_06_dining_chair_02" unique_id=1665630343]
+layers = 4
+mesh = ExtResource("58_0kach")
+surface_material_override/0 = ExtResource("59_hww73")
+
+[node name="Colisao_Acompanha_Movel" type="StaticBody3D" parent="Cadeira_05_Cabeceira" unique_id=181626329]
+
+[node name="Hitbox_06_dining_chair_02" type="CollisionShape3D" parent="Cadeira_05_Cabeceira/Colisao_Acompanha_Movel" unique_id=487431223]
+transform = Transform3D(-0.12186929, 0, 0.99254614, 0, 1, 0, -0.99254614, 0, -0.12186929, 0, 0.5, 0)
+shape = SubResource("BoxShape3D_x0kiw")
+
+[node name="Cadeira_06_Cabeceira" type="Node3D" parent="." unique_id=1529025232]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0916915, 0, -0.05)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_07_dining_chair_02" type="Node3D" parent="Cadeira_06_Cabeceira" unique_id=533507183]
+transform = Transform3D(1.1924881e-08, 0, -1, 0, 1, 0, 1, 0, 1.1924881e-08, 0, 0, 0)
+
+[node name="dining_chair_02" type="MeshInstance3D" parent="Cadeira_06_Cabeceira/Asset_07_dining_chair_02" unique_id=1147787797]
+layers = 4
+mesh = ExtResource("60_7oj1n")
+surface_material_override/0 = ExtResource("61_lts8b")
+
+[node name="Colisao_Acompanha_Movel" type="StaticBody3D" parent="Cadeira_06_Cabeceira" unique_id=1541914940]
+
+[node name="Hitbox_07_dining_chair_02" type="CollisionShape3D" parent="Cadeira_06_Cabeceira/Colisao_Acompanha_Movel" unique_id=849630069]
+transform = Transform3D(1.1924881e-08, 0, -1, 0, 1, 0, 1, 0, 1.1924881e-08, 0, 0.5, 0)
+shape = SubResource("BoxShape3D_ovlp7")
+
+[node name="Aparador" type="Node3D" parent="." unique_id=1171922019]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.05, 0, -2.52)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_09_modern_wooden_cabinet" type="Node3D" parent="Aparador" unique_id=21173686]
+transform = Transform3D(0.74, 0, 0, 0, 1.03, 0, 0, 0, 0.74, 0, 0, 0)
+
+[node name="modern_wooden_cabinet_body" type="MeshInstance3D" parent="Aparador/Asset_09_modern_wooden_cabinet" unique_id=1371837271]
+layers = 4
+mesh = ExtResource("62_sks7i")
+
+[node name="modern_wooden_cabinet_door_l" type="MeshInstance3D" parent="Aparador/Asset_09_modern_wooden_cabinet" unique_id=859781953]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.1899862, 0.16399759, 0.22995403)
+layers = 4
+mesh = ExtResource("63_jqn4t")
+
+[node name="modern_wooden_cabinet_door_r" type="MeshInstance3D" parent="Aparador/Asset_09_modern_wooden_cabinet" unique_id=2047033691]
+transform = Transform3D(-1, 0, 0, 0, 1, 0, 0, 0, -1, 1.1899866, 0.16399759, 0.22995403)
+layers = 4
+mesh = ExtResource("64_dyt8g")
+
+[node name="modern_wooden_cabinet_path_l" type="Node3D" parent="Aparador/Asset_09_modern_wooden_cabinet" unique_id=686083529]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.1899863, 0.16399759, 0.22995403)
+
+[node name="modern_wooden_cabinet_path_r" type="Node3D" parent="Aparador/Asset_09_modern_wooden_cabinet" unique_id=341983292]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.1899866, 0.16399759, 0.22995403)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Aparador/Asset_09_modern_wooden_cabinet" unique_id=1173672997]
+libraries/ = SubResource("AnimationLibrary_3s2jw")
+
+[node name="Colisao_Acompanha_Movel" type="StaticBody3D" parent="Aparador" unique_id=943642575]
+
+[node name="Hitbox_09_modern_wooden_cabinet" type="CollisionShape3D" parent="Aparador/Colisao_Acompanha_Movel" unique_id=112596845]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.35002, 0)
+shape = SubResource("BoxShape3D_nyvb8")
+
+[node name="Vaso" type="Node3D" parent="Aparador" unique_id=18070646]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.3000002, 0.7005, 0)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_10_ceramic_vase_02" type="Node3D" parent="Aparador/Vaso" unique_id=1763931803]
+transform = Transform3D(0.62, 0, 0, 0, 0.62, 0, 0, 0, 0.62, 0, 0, 0)
+
+[node name="ceramic_vase_02" type="MeshInstance3D" parent="Aparador/Vaso/Asset_10_ceramic_vase_02" unique_id=618903222]
+layers = 4
+mesh = ExtResource("65_u7ybb")
+
+[node name="Lamparina_Apagada" type="Node3D" parent="Aparador" unique_id=1011851432]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.4000001, 0.7005, 0)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_12_vintage_oil_lamp" type="Node3D" parent="Aparador/Lamparina_Apagada" unique_id=913449743]
+transform = Transform3D(0.32, 0, 0, 0, 0.32, 0, 0, 0, 0.32, 0, 0, 0)
+
+[node name="vintage_oil_lamp_glass" type="MeshInstance3D" parent="Aparador/Lamparina_Apagada/Asset_12_vintage_oil_lamp" unique_id=1470923406]
+layers = 4
+mesh = ExtResource("66_hb218")
+
+[node name="vintage_oil_lamp" type="MeshInstance3D" parent="Aparador/Lamparina_Apagada/Asset_12_vintage_oil_lamp" unique_id=428264138]
+layers = 4
+mesh = ExtResource("67_3syca")
+
+[node name="vintage_oil_lamp_flame" type="MeshInstance3D" parent="Aparador/Lamparina_Apagada/Asset_12_vintage_oil_lamp" unique_id=766247780]
+layers = 4
+mesh = ExtResource("68_ht07v")
+surface_material_override/0 = ExtResource("69_rsv7v")
+
+[node name="Quadro_Com_Arte" type="Node3D" parent="." unique_id=1548570369]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.05, 1.78, -2.66)
+metadata/_edit_group_ = true
+metadata/piloto_jantar = true
+
+[node name="Asset_11_hanging_picture_frame_02" type="Node3D" parent="Quadro_Com_Arte" unique_id=1460604360]
+transform = Transform3D(-1.12, 0, -9.791351e-08, 0, 1.12, 0, 9.791351e-08, 0, -1.12, 0, 0, 0)
+
+[node name="hanging_picture_frame_02" type="MeshInstance3D" parent="Quadro_Com_Arte/Asset_11_hanging_picture_frame_02" unique_id=1008420047]
+layers = 4
+mesh = ExtResource("70_2bjvx")
+surface_material_override/0 = ExtResource("71_h078a")
+surface_material_override/1 = ExtResource("72_5n63e")
+surface_material_override/2 = ExtResource("73_ew81a")
+
+[node name="ArteQuadroJantar_CC0" type="MeshInstance3D" parent="Quadro_Com_Arte" unique_id=1483218753]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.024999976, 0.015000105)
+layers = 4
+material_override = ExtResource("74_ayo82")
+cast_shadow = 0
+mesh = ExtResource("75_ked6l")

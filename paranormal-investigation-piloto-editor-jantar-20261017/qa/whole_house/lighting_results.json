@@ -1,0 +1,72 @@
+{
+  "camera_samples": {
+    "center": {
+      "flashlight_off": 0.26,
+      "flashlight_on": 1.0
+    },
+    "periphery": {
+      "flashlight_off": 0.26,
+      "flashlight_on": 0.26
+    },
+    "variation": {
+      "mid_beam": 0.63
+    }
+  },
+  "checks": [
+    {
+      "detail": "",
+      "name": "shader_has_base_darkening",
+      "pass": true
+    },
+    {
+      "detail": "o feixe deve variar sem remover o escurecimento base",
+      "name": "shader_separates_beam_state",
+      "pass": true
+    },
+    {
+      "detail": "",
+      "name": "player_keeps_darkening_when_off",
+      "pass": true
+    },
+    {
+      "detail": "",
+      "name": "player_sets_beam_state",
+      "pass": true
+    },
+    {
+      "detail": "os três SpotLight3D permanecem",
+      "name": "three_beams_preserved",
+      "pass": true
+    },
+    {
+      "detail": "centro=1.0000 periferia=0.2600",
+      "name": "center_beam_remains_legible",
+      "pass": true
+    },
+    {
+      "detail": "desligado=0.2600 periferia=0.2600",
+      "name": "off_matches_dark_periphery",
+      "pass": true
+    },
+    {
+      "detail": "off centro=0.2600 borda=0.2600",
+      "name": "off_never_brighter",
+      "pass": true
+    },
+    {
+      "detail": "a transição do feixe é contínua",
+      "name": "shader_variation_is_monotonic",
+      "pass": true
+    }
+  ],
+  "limitations": "Validação determinística do contrato do shader; não substitui captura visual da casa completa.",
+  "mode": "shader-equivalent automated render contract",
+  "passed": true,
+  "shader": "res://prototype/haunted_film_grain_c18.gdshader",
+  "test": "lighting_darkness_test",
+  "three_beams": [
+    "LanternaFeixeAmplo",
+    "LanternaFaixaMedia",
+    "LanternaNucleo"
+  ]
+}

@@ -1,0 +1,1559 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0477.res" id="24_5ernc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0478.res" id="25_mur3n"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0479.res" id="26_4dyvf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0480.res" id="27_mfris"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0481.res" id="28_af8dy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0482.res" id="29_dhikv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0483.res" id="30_u8tcn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0484.res" id="31_kmt33"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0485.res" id="32_1wi0p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0486.res" id="33_k1owv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0487.res" id="34_j7m5l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0488.res" id="35_m7sjw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0489.res" id="36_3g27m"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0490.res" id="37_m85e4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0491.res" id="38_4u1ac"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0492.res" id="39_ookbi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0493.res" id="40_ujojk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0494.res" id="41_i70u0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0495.res" id="42_5uiji"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0496.res" id="43_1ikc1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0497.res" id="44_2ghjt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0498.res" id="45_ve2kq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0499.res" id="46_26tm8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0500.res" id="47_kys2k"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0501.res" id="48_12pym"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0502.res" id="49_fhnnw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0503.res" id="50_k6n10"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0504.res" id="51_p2ybl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0505.res" id="52_eg2l6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0506.res" id="53_0j2tu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0507.res" id="54_dbb6a"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0508.res" id="55_qca4u"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0509.res" id="56_pbl85"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0510.res" id="57_sioah"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0511.res" id="58_cnpir"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0512.res" id="59_3lufu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0513.res" id="60_2yqu5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0514.res" id="61_8cpoo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0515.res" id="62_yhmfd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0516.res" id="63_1ohks"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0517.res" id="64_u4p2w"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0518.res" id="65_23d3l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0519.res" id="66_cigde"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0520.res" id="67_x7kf4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0521.res" id="68_ht2mu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0522.res" id="69_kuh6n"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0523.res" id="70_m0y7w"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0524.res" id="71_1ja62"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0525.res" id="72_lajem"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0526.res" id="73_lw4hc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0043.res" id="74_lajem"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0527.res" id="74_ujwbx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0044.res" id="75_lw4hc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0528.res" id="75_yciup"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0529.res" id="76_5bcqb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0045.res" id="76_ujwbx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0530.res" id="77_xgutm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0046.res" id="77_yciup"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0047.res" id="78_5bcqb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0531.res" id="78_qbyct"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0532.res" id="79_q8d27"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0048.res" id="79_xgutm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0533.res" id="80_ivpcl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0049.res" id="80_qbyct"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0534.res" id="81_q3erw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0050.res" id="81_q8d27"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0051.res" id="82_ivpcl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0535.res" id="82_u0348"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0536.res" id="83_b4ns5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0052.res" id="83_q3erw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0053.res" id="84_u0348"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0537.res" id="84_xa1ic"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0054.res" id="85_b4ns5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0538.res" id="85_uvvr0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0539.res" id="86_6fk3l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0055.res" id="86_xa1ic"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0056.res" id="87_uvvr0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0540.res" id="87_vivr3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0541.res" id="88_4wino"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0057.res" id="88_6fk3l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0058.res" id="89_vivr3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0542.res" id="89_wtnat"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0543.res" id="90_4l11a"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0059.res" id="90_4wino"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0544.res" id="91_t2qf4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0060.res" id="91_wtnat"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0061.res" id="92_4l11a"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0545.res" id="92_bm0c3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0546.res" id="93_cvy61"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0062.res" id="93_t2qf4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0063.res" id="94_bm0c3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0547.res" id="94_nas66"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0064.res" id="95_cvy61"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0548.res" id="95_nd4sy"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0549.res" id="96_0d0v0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0065.res" id="96_nas66"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0066.res" id="97_nd4sy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0067.res" id="98_0d0v0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0068.res" id="99_78a2v"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0069.res" id="100_i0a5q"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0070.res" id="101_shdax"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0071.res" id="102_vj7k4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0072.res" id="103_ddtxd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0073.res" id="104_h4dx3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0074.res" id="105_0o6se"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0075.res" id="106_45ryx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0076.res" id="107_djxvj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0077.res" id="108_p84h1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0078.res" id="109_2b51l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0079.res" id="110_k4u42"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0080.res" id="111_jjur6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0081.res" id="112_wmvgm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0082.res" id="113_2wuqc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0083.res" id="114_ruky2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0084.res" id="115_bjjrf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0085.res" id="116_w6oll"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0086.res" id="117_en63g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0087.res" id="118_82qtl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0088.res" id="119_3ic1t"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0089.res" id="120_hoh8v"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0090.res" id="121_qwuj4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0091.res" id="122_5a6lw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0092.res" id="123_p2huv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0093.res" id="124_hetqp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0094.res" id="125_taohm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0095.res" id="126_5wyna"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0096.res" id="127_5ucy8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0097.res" id="128_kltig"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0098.res" id="129_mcc8h"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0099.res" id="130_wrtub"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0100.res" id="131_77xoq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0101.res" id="132_r1ne2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0102.res" id="133_870jt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0103.res" id="134_puj57"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0104.res" id="135_vdc2n"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0105.res" id="136_fgi7l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0106.res" id="137_mbu1y"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0107.res" id="138_uehgk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0108.res" id="139_e8xmb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0109.res" id="140_b23rc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0110.res" id="141_ya1ct"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0111.res" id="142_w0tk1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0112.res" id="143_g5waw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0113.res" id="144_p5441"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0114.res" id="145_dhgrx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0115.res" id="146_5280o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0116.res" id="147_18prn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0117.res" id="148_etfrn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0118.res" id="149_ydk0a"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0119.res" id="150_guu3w"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0120.res" id="151_qd3sd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0121.res" id="152_nt4xu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0122.res" id="153_agnjp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0123.res" id="154_gui2l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0124.res" id="155_qu4mc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0125.res" id="156_u8ghf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0126.res" id="157_7iwol"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0127.res" id="158_qy5xu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0128.res" id="159_xhapl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0129.res" id="160_3n5jo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0130.res" id="161_o6mcl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0131.res" id="162_iqtl2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0132.res" id="163_we6tt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0140.res" id="164_8q1hl"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_Color_2K.jpg" id="165_rrcsw"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Carpet012/Carpet012_NormalGL_2K.jpg" id="166_swo13"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0142.res" id="167_v7qrj"]
+
+[sub_resource type="BoxShape3D" id="Box_dresser"]
+size = Vector3(1.42, 0.846, 0.549)
+
+[sub_resource type="StandardMaterial3D" id="Mat_blue"]
+albedo_color = Color(0.28, 0.42, 0.55, 1)
+roughness = 0.78
+
+[sub_resource type="BoxShape3D" id="ShelfShape"]
+size = Vector3(1.2, 0.18, 0.35)
+
+[sub_resource type="StandardMaterial3D" id="Mat_sage"]
+albedo_color = Color(0.48, 0.58, 0.49, 1)
+roughness = 0.82
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_italf"]
+size = Vector3(1.1389999, 2.0410001, 2.406826)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_pkv57"]
+size = Vector3(0.42999998, 0.13175538, 0.3310243)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_wjtpk"]
+albedo_color = Color(0.3882353, 0.49019608, 0.4745098, 1)
+albedo_texture = ExtResource("165_rrcsw")
+roughness = 0.98
+normal_enabled = true
+normal_texture = ExtResource("166_swo13")
+uv1_scale = Vector3(2, 2, 2)
+uv1_triplanar = true
+uv1_world_triplanar = true
+
+[node name="Quarto_Infantil" type="Node3D" unique_id=1255363863]
+metadata/pavimento = "primeiro"
+metadata/edicao = "Quarto infantil dos irmãos: camas reais, paleta azul/sálvia e objetos discretos."
+
+[node name="Comoda_Infantil" type="Node3D" parent="." unique_id=968785359]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.05, 2.85, -1.9)
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="Comoda_Infantil" unique_id=214262026]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.0225)
+
+[node name="PROFILE 140 | Six-drawer dresser" type="Node3D" parent="Comoda_Infantil/Modelo" unique_id=1166583105]
+metadata/extras = {
+"front": "-Y",
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Case | back" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=18534268]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.52, -0.23)
+layers = 8
+mesh = ExtResource("24_5ernc")
+
+[node name="Case | bottom" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=18730950]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.209, 0)
+layers = 8
+mesh = ExtResource("25_mur3n")
+
+[node name="Case | centre divider" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1626378527]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.517, -0.012)
+layers = 8
+mesh = ExtResource("26_4dyvf")
+
+[node name="Case | curved end cheek" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1683850614]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.678, 0.521, 0)
+layers = 8
+mesh = ExtResource("27_mfris")
+
+[node name="Case | curved end cheek_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=895587777]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.678, 0.521, 0)
+layers = 8
+mesh = ExtResource("28_af8dy")
+
+[node name="Case | horizontal divider" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1930890533]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.421, 0)
+layers = 8
+mesh = ExtResource("29_dhikv")
+
+[node name="Case | horizontal divider_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1734077812]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.621, 0)
+layers = 8
+mesh = ExtResource("30_u8tcn")
+
+[node name="Case | rounded top" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2059468573]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.827, 0)
+layers = 8
+mesh = ExtResource("31_kmt33")
+
+[node name="Drawer 1-1 | drawer bottom" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1324321092]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.245, -0.008)
+layers = 8
+mesh = ExtResource("32_1wi0p")
+
+[node name="Drawer 1-1 | drawer rear" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2055873522]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.32, -0.212)
+layers = 8
+mesh = ExtResource("33_k1owv")
+
+[node name="Drawer 1-1 | drawer side" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1522217531]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("34_j7m5l")
+
+[node name="Drawer 1-1 | drawer side_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1488722670]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("35_m7sjw")
+
+[node name="Drawer 1-1 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=969130219]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.385, 0.27)
+layers = 8
+mesh = ExtResource("36_3g27m")
+
+[node name="Drawer 1-1 | runner" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1420371315]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("37_m85e4")
+
+[node name="Drawer 1-1 | runner_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2084135410]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("38_4u1ac")
+
+[node name="Drawer 1-1 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1738927566]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.401, 0.284)
+layers = 8
+mesh = ExtResource("39_ookbi")
+
+[node name="Drawer 1-1 | walnut front" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1661923374]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.32, 0.252)
+layers = 8
+mesh = ExtResource("40_ujojk")
+
+[node name="Drawer 1-2 | drawer bottom" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=503372556]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.445, -0.008)
+layers = 8
+mesh = ExtResource("41_i70u0")
+
+[node name="Drawer 1-2 | drawer rear" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1943414974]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.52, -0.212)
+layers = 8
+mesh = ExtResource("42_5uiji")
+
+[node name="Drawer 1-2 | drawer side" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1497706221]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("43_1ikc1")
+
+[node name="Drawer 1-2 | drawer side_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=611549120]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("44_2ghjt")
+
+[node name="Drawer 1-2 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2068209280]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.585, 0.27)
+layers = 8
+mesh = ExtResource("45_ve2kq")
+
+[node name="Drawer 1-2 | runner" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1756943650]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("46_26tm8")
+
+[node name="Drawer 1-2 | runner_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=70235734]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("47_kys2k")
+
+[node name="Drawer 1-2 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1560241544]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.601, 0.284)
+layers = 8
+mesh = ExtResource("48_12pym")
+
+[node name="Drawer 1-2 | walnut front" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1772149301]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.52, 0.252)
+layers = 8
+mesh = ExtResource("49_fhnnw")
+
+[node name="Drawer 1-3 | drawer bottom" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1413124614]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.645, -0.008)
+layers = 8
+mesh = ExtResource("50_k6n10")
+
+[node name="Drawer 1-3 | drawer rear" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1241315378]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.72, -0.212)
+layers = 8
+mesh = ExtResource("51_p2ybl")
+
+[node name="Drawer 1-3 | drawer side" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=587808278]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("52_eg2l6")
+
+[node name="Drawer 1-3 | drawer side_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1853158857]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("53_0j2tu")
+
+[node name="Drawer 1-3 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1653468429]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.785, 0.27)
+layers = 8
+mesh = ExtResource("54_dbb6a")
+
+[node name="Drawer 1-3 | runner" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1544966951]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("55_qca4u")
+
+[node name="Drawer 1-3 | runner_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=341811261]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("56_pbl85")
+
+[node name="Drawer 1-3 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=998230412]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.801, 0.284)
+layers = 8
+mesh = ExtResource("57_sioah")
+
+[node name="Drawer 1-3 | walnut front" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1415094717]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.72, 0.252)
+layers = 8
+mesh = ExtResource("58_cnpir")
+
+[node name="Drawer 2-1 | drawer bottom" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=368700758]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.245, -0.008)
+layers = 8
+mesh = ExtResource("59_3lufu")
+
+[node name="Drawer 2-1 | drawer rear" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1910517257]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.32, -0.212)
+layers = 8
+mesh = ExtResource("60_2yqu5")
+
+[node name="Drawer 2-1 | drawer side" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1146194575]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("61_8cpoo")
+
+[node name="Drawer 2-1 | drawer side_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2126635790]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("62_yhmfd")
+
+[node name="Drawer 2-1 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=792413123]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.385, 0.27)
+layers = 8
+mesh = ExtResource("63_1ohks")
+
+[node name="Drawer 2-1 | runner" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=955338244]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("64_u4p2w")
+
+[node name="Drawer 2-1 | runner_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=99490626]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("65_23d3l")
+
+[node name="Drawer 2-1 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1963819856]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.401, 0.284)
+layers = 8
+mesh = ExtResource("66_cigde")
+
+[node name="Drawer 2-1 | walnut front" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1386047638]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.32, 0.252)
+layers = 8
+mesh = ExtResource("67_x7kf4")
+
+[node name="Drawer 2-2 | drawer bottom" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1691622416]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.445, -0.008)
+layers = 8
+mesh = ExtResource("68_ht2mu")
+
+[node name="Drawer 2-2 | drawer rear" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=803701288]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.52, -0.212)
+layers = 8
+mesh = ExtResource("69_kuh6n")
+
+[node name="Drawer 2-2 | drawer side" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=450757828]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("70_m0y7w")
+
+[node name="Drawer 2-2 | drawer side_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1910678732]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("71_1ja62")
+
+[node name="Drawer 2-2 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=24556543]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.585, 0.27)
+layers = 8
+mesh = ExtResource("72_lajem")
+
+[node name="Drawer 2-2 | runner" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=274018561]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("73_lw4hc")
+
+[node name="Drawer 2-2 | runner_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=481680238]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("74_ujwbx")
+
+[node name="Drawer 2-2 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=303824230]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.601, 0.284)
+layers = 8
+mesh = ExtResource("75_yciup")
+
+[node name="Drawer 2-2 | walnut front" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=360303488]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.52, 0.252)
+layers = 8
+mesh = ExtResource("76_5bcqb")
+
+[node name="Drawer 2-3 | drawer bottom" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1051977155]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.645, -0.008)
+layers = 8
+mesh = ExtResource("77_xgutm")
+
+[node name="Drawer 2-3 | drawer rear" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1533995477]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.72, -0.212)
+layers = 8
+mesh = ExtResource("78_qbyct")
+
+[node name="Drawer 2-3 | drawer side" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1506126254]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("79_q8d27")
+
+[node name="Drawer 2-3 | drawer side_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=869661288]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("80_ivpcl")
+
+[node name="Drawer 2-3 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=263685055]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.785, 0.27)
+layers = 8
+mesh = ExtResource("81_q3erw")
+
+[node name="Drawer 2-3 | runner" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1769403218]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("82_u0348")
+
+[node name="Drawer 2-3 | runner_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2100558060]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("83_b4ns5")
+
+[node name="Drawer 2-3 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1711517480]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.801, 0.284)
+layers = 8
+mesh = ExtResource("84_xa1ic")
+
+[node name="Drawer 2-3 | walnut front" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=881685449]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.72, 0.252)
+layers = 8
+mesh = ExtResource("85_uvvr0")
+
+[node name="Sled | floor rail" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1027783284]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.023, 0)
+layers = 8
+mesh = ExtResource("86_6fk3l")
+
+[node name="Sled | floor rail_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=274554497]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.023, 0)
+layers = 8
+mesh = ExtResource("87_vivr3")
+
+[node name="Sled | protective pad" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=637340525]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.005, 0.135)
+layers = 8
+mesh = ExtResource("88_4wino")
+
+[node name="Sled | protective pad_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=649396200]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.005, -0.135)
+layers = 8
+mesh = ExtResource("89_wtnat")
+
+[node name="Sled | protective pad_002" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1154843348]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.005, 0.135)
+layers = 8
+mesh = ExtResource("90_4l11a")
+
+[node name="Sled | protective pad_003" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1976039818]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.005, -0.135)
+layers = 8
+mesh = ExtResource("91_t2qf4")
+
+[node name="Sled | upright" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=800224562]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.11, 0.164)
+layers = 8
+mesh = ExtResource("92_bm0c3")
+
+[node name="Sled | upright_001" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1610223423]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.11, -0.164)
+layers = 8
+mesh = ExtResource("93_cvy61")
+
+[node name="Sled | upright_002" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1099118553]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.11, 0.164)
+layers = 8
+mesh = ExtResource("94_nas66")
+
+[node name="Sled | upright_003" type="MeshInstance3D" parent="Comoda_Infantil/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=91017597]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.11, -0.164)
+layers = 8
+mesh = ExtResource("95_nd4sy")
+
+[node name="Colisao" type="StaticBody3D" parent="Comoda_Infantil" unique_id=662960530]
+
+[node name="Shape" type="CollisionShape3D" parent="Comoda_Infantil/Colisao" unique_id=672450867]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.423, -0.0225)
+shape = SubResource("Box_dresser")
+
+[node name="Prateleira_Azul" type="Node3D" parent="." unique_id=677710475]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.35, 4.4, -1.9)
+metadata/_edit_group_ = true
+
+[node name="Mesh" type="MeshInstance3D" parent="Prateleira_Azul" unique_id=352798196]
+layers = 8
+material_override = SubResource("Mat_blue")
+mesh = ExtResource("96_0d0v0")
+
+[node name="Colisao" type="StaticBody3D" parent="Prateleira_Azul" unique_id=401895095]
+
+[node name="Shape" type="CollisionShape3D" parent="Prateleira_Azul/Colisao" unique_id=788931082]
+shape = SubResource("ShelfShape")
+
+[node name="Prateleira_Salvia" type="Node3D" parent="." unique_id=1134717351]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.35, 5, -1.9)
+metadata/_edit_group_ = true
+
+[node name="Mesh" type="MeshInstance3D" parent="Prateleira_Salvia" unique_id=1258044467]
+layers = 8
+material_override = SubResource("Mat_sage")
+mesh = ExtResource("96_0d0v0")
+
+[node name="Colisao" type="StaticBody3D" parent="Prateleira_Salvia" unique_id=425040076]
+
+[node name="Shape" type="CollisionShape3D" parent="Prateleira_Salvia/Colisao" unique_id=516082631]
+shape = SubResource("ShelfShape")
+
+[node name="Cama_Irmao_Azul" type="Node3D" parent="." unique_id=1436330531]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.9, 2.85, -4.8)
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="Cama_Irmao_Azul" unique_id=236531676]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.12491298)
+
+[node name="STUDIO" type="Node3D" parent="Cama_Irmao_Azul/Modelo" unique_id=1084220856]
+metadata/extras = {
+"front": "-Y",
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Bedding | folded return" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=540646307]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.827, -0.405875)
+layers = 8
+mesh = ExtResource("74_lajem")
+
+[node name="Bedding | sewn pillow" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=66882421]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.841, -0.686325)
+layers = 8
+mesh = ExtResource("75_lw4hc")
+
+[node name="Bedding | softly draped quilt" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1987439572]
+layers = 8
+mesh = ExtResource("76_ujwbx")
+
+[node name="Desk | integrated study surface" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=402297093]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.759, -0.459)
+layers = 8
+mesh = ExtResource("77_yciup")
+
+[node name="Desk | oak cantilever bracket" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1566380748]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.709, 0.946)
+layers = 8
+mesh = ExtResource("78_5bcqb")
+
+[node name="Desk | oak cantilever bracket_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1438274673]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.709, -0.946)
+layers = 8
+mesh = ExtResource("79_xgutm")
+
+[node name="Desk | organizer divider" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1204099868]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.318, 1.022, -0.866)
+layers = 8
+mesh = ExtResource("80_qbyct")
+
+[node name="Desk | organizer divider_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=375608890]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.318, 1.022, -0.866)
+layers = 8
+mesh = ExtResource("81_q8d27")
+
+[node name="Desk | organizer shelf" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=203681692]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.814, -0.873)
+layers = 8
+mesh = ExtResource("82_ivpcl")
+
+[node name="Desk | organizer shelf_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=204598902]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.251, -0.873)
+layers = 8
+mesh = ExtResource("83_q3erw")
+
+[node name="Guard | front partial tube" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=278653807]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.252, 1.881, 1.052)
+layers = 8
+mesh = ExtResource("84_u0348")
+
+[node name="Guard | front partial tube_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=81763336]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.252, 2.025, 1.052)
+layers = 8
+mesh = ExtResource("85_b4ns5")
+
+[node name="Guard | long steel tube" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1635788025]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.542, 1.88, 0)
+layers = 8
+mesh = ExtResource("86_xa1ic")
+
+[node name="Guard | long steel tube_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=2019781363]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.542, 2.025, 0)
+layers = 8
+mesh = ExtResource("87_uvvr0")
+
+[node name="Guard | long steel tube_002" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=743444474]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.542, 1.88, 0)
+layers = 8
+mesh = ExtResource("88_6fk3l")
+
+[node name="Guard | long steel tube_003" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=474777937]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.542, 2.025, 0)
+layers = 8
+mesh = ExtResource("89_vivr3")
+
+[node name="Guard | rear steel tube" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1241260111]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.881, -1.052)
+layers = 8
+mesh = ExtResource("90_4wino")
+
+[node name="Guard | rear steel tube_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1601541327]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.025, -1.052)
+layers = 8
+mesh = ExtResource("91_wtnat")
+
+[node name="Loft ladder | step" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=999739473]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.172, 1.2853248)
+layers = 8
+mesh = ExtResource("92_4l11a")
+
+[node name="Loft ladder | step_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1961748975]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.42, 1.2540722)
+layers = 8
+mesh = ExtResource("93_t2qf4")
+
+[node name="Loft ladder | step_002" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=264468824]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.668, 1.2228197)
+layers = 8
+mesh = ExtResource("94_bm0c3")
+
+[node name="Loft ladder | step_003" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=2063621973]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.916, 1.1915671)
+layers = 8
+mesh = ExtResource("95_cvy61")
+
+[node name="Loft ladder | step_004" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=994875300]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 1.164, 1.1603146)
+layers = 8
+mesh = ExtResource("96_nas66")
+
+[node name="Loft ladder | step_005" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=170064081]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 1.412, 1.1290619)
+layers = 8
+mesh = ExtResource("97_nd4sy")
+
+[node name="Loft ladder | step_006" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=345190240]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 1.66, 1.0978093)
+layers = 8
+mesh = ExtResource("98_0d0v0")
+
+[node name="Loft ladder | stile" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1471823558]
+transform = Transform3D(-1, -5.551283e-09, -8.706884e-08, 5.551283e-09, 0.9919029, -0.12699854, 8.706884e-08, -0.12699854, -0.99190295, 0.139, 0.935, 1.191)
+layers = 8
+mesh = ExtResource("99_78a2v")
+
+[node name="Loft ladder | stile_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=2081185990]
+transform = Transform3D(-1, -5.551283e-09, -8.706884e-08, 5.551283e-09, 0.9919029, -0.12699854, 8.706884e-08, -0.12699854, -0.99190295, 0.493, 0.935, 1.191)
+layers = 8
+mesh = ExtResource("100_i0a5q")
+
+[node name="Loft | deep side bearer" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=94568148]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.524, 1.51, 0)
+layers = 8
+mesh = ExtResource("101_shdax")
+
+[node name="Loft | deep side bearer_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1553335311]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.524, 1.51, 0)
+layers = 8
+mesh = ExtResource("102_vj7k4")
+
+[node name="Loft | end bearer" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1195502430]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.51, 1.04)
+layers = 8
+mesh = ExtResource("103_ddtxd")
+
+[node name="Loft | end bearer_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1770458785]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.51, -1.04)
+layers = 8
+mesh = ExtResource("104_h4dx3")
+
+[node name="Loft | mattress slat" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1633106357]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.948)
+layers = 8
+mesh = ExtResource("105_0o6se")
+
+[node name="Loft | mattress slat_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=574129715]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.7756)
+layers = 8
+mesh = ExtResource("106_45ryx")
+
+[node name="Loft | mattress slat_002" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1060475225]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.6032)
+layers = 8
+mesh = ExtResource("107_djxvj")
+
+[node name="Loft | mattress slat_003" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=715962886]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.4308)
+layers = 8
+mesh = ExtResource("108_p84h1")
+
+[node name="Loft | mattress slat_004" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=373957785]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.2584)
+layers = 8
+mesh = ExtResource("109_2b51l")
+
+[node name="Loft | mattress slat_005" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=199323381]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.086)
+layers = 8
+mesh = ExtResource("110_k4u42")
+
+[node name="Loft | mattress slat_006" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1266919427]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.0864)
+layers = 8
+mesh = ExtResource("111_jjur6")
+
+[node name="Loft | mattress slat_007" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1014366178]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.2588)
+layers = 8
+mesh = ExtResource("112_wmvgm")
+
+[node name="Loft | mattress slat_008" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1463663687]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.4312)
+layers = 8
+mesh = ExtResource("113_2wuqc")
+
+[node name="Loft | mattress slat_009" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=383625144]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.6036)
+layers = 8
+mesh = ExtResource("114_ruky2")
+
+[node name="Loft | mattress slat_010" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=279648497]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.776)
+layers = 8
+mesh = ExtResource("115_bjjrf")
+
+[node name="Loft | mattress slat_011" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=65111671]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.9484)
+layers = 8
+mesh = ExtResource("116_w6oll")
+
+[node name="Loft | non-slip floor pad" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1639557091]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.534, 0.005, 1.043)
+layers = 8
+mesh = ExtResource("117_en63g")
+
+[node name="Loft | non-slip floor pad_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1817834359]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.534, 0.005, -1.043)
+layers = 8
+mesh = ExtResource("118_82qtl")
+
+[node name="Loft | non-slip floor pad_002" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1100886929]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.534, 0.005, 1.043)
+layers = 8
+mesh = ExtResource("119_3ic1t")
+
+[node name="Loft | non-slip floor pad_003" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1875473771]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.534, 0.005, -1.043)
+layers = 8
+mesh = ExtResource("120_hoh8v")
+
+[node name="Loft | rear steel cross brace" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1342865734]
+transform = Transform3D(0, 0.63904315, 0.7691709, 0, 0.7691709, -0.63904315, -1, 0, 0, 0, 0.83500004, -1.067)
+layers = 8
+mesh = ExtResource("121_qwuj4")
+
+[node name="Loft | structural post" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1030897754]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.534, 1.022, 1.043)
+layers = 8
+mesh = ExtResource("122_5a6lw")
+
+[node name="Loft | structural post_001" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=450956020]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.534, 1.022, -1.043)
+layers = 8
+mesh = ExtResource("123_p2huv")
+
+[node name="Loft | structural post_002" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=226665003]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.534, 1.022, 1.043)
+layers = 8
+mesh = ExtResource("124_hetqp")
+
+[node name="Loft | structural post_003" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=1791714966]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.534, 1.022, -1.043)
+layers = 8
+mesh = ExtResource("125_taohm")
+
+[node name="Mattress | upholstered ticking" type="MeshInstance3D" parent="Cama_Irmao_Azul/Modelo/STUDIO" unique_id=153018750]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.698, -0.001)
+layers = 8
+mesh = ExtResource("126_5wyna")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Cama_Irmao_Azul" unique_id=304044429]
+
+[node name="@CollisionShape3D@3" type="CollisionShape3D" parent="Cama_Irmao_Azul/Colisao_Acompanha_Peca" unique_id=100528967]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.0205001, 0)
+shape = SubResource("BoxShape3D_italf")
+
+[node name="Cama_Irma_Salvia" type="Node3D" parent="." unique_id=1923068342]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.65, 2.85, -4.8)
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="Cama_Irma_Salvia" unique_id=989213059]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.12491298)
+
+[node name="STUDIO" type="Node3D" parent="Cama_Irma_Salvia/Modelo" unique_id=1821499063]
+metadata/extras = {
+"front": "-Y",
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Bedding | folded return" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1632536621]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.827, -0.405875)
+layers = 8
+mesh = ExtResource("74_lajem")
+
+[node name="Bedding | sewn pillow" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1203628917]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.841, -0.686325)
+layers = 8
+mesh = ExtResource("75_lw4hc")
+
+[node name="Bedding | softly draped quilt" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1308359205]
+layers = 8
+mesh = ExtResource("76_ujwbx")
+
+[node name="Desk | integrated study surface" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=886922829]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.759, -0.459)
+layers = 8
+mesh = ExtResource("77_yciup")
+
+[node name="Desk | oak cantilever bracket" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=460576398]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.709, 0.946)
+layers = 8
+mesh = ExtResource("78_5bcqb")
+
+[node name="Desk | oak cantilever bracket_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=711700878]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.709, -0.946)
+layers = 8
+mesh = ExtResource("79_xgutm")
+
+[node name="Desk | organizer divider" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1109694573]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.318, 1.022, -0.866)
+layers = 8
+mesh = ExtResource("80_qbyct")
+
+[node name="Desk | organizer divider_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1468805787]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.318, 1.022, -0.866)
+layers = 8
+mesh = ExtResource("81_q8d27")
+
+[node name="Desk | organizer shelf" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1752643239]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.814, -0.873)
+layers = 8
+mesh = ExtResource("82_ivpcl")
+
+[node name="Desk | organizer shelf_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=338794819]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.251, -0.873)
+layers = 8
+mesh = ExtResource("83_q3erw")
+
+[node name="Guard | front partial tube" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1156691836]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.252, 1.881, 1.052)
+layers = 8
+mesh = ExtResource("84_u0348")
+
+[node name="Guard | front partial tube_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1588638397]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.252, 2.025, 1.052)
+layers = 8
+mesh = ExtResource("85_b4ns5")
+
+[node name="Guard | long steel tube" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=141161187]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.542, 1.88, 0)
+layers = 8
+mesh = ExtResource("86_xa1ic")
+
+[node name="Guard | long steel tube_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1092144343]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.542, 2.025, 0)
+layers = 8
+mesh = ExtResource("87_uvvr0")
+
+[node name="Guard | long steel tube_002" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=827591241]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.542, 1.88, 0)
+layers = 8
+mesh = ExtResource("88_6fk3l")
+
+[node name="Guard | long steel tube_003" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1271077361]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.542, 2.025, 0)
+layers = 8
+mesh = ExtResource("89_vivr3")
+
+[node name="Guard | rear steel tube" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1828037039]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.881, -1.052)
+layers = 8
+mesh = ExtResource("90_4wino")
+
+[node name="Guard | rear steel tube_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1993542146]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.025, -1.052)
+layers = 8
+mesh = ExtResource("91_wtnat")
+
+[node name="Loft ladder | step" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1376758165]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.172, 1.2853248)
+layers = 8
+mesh = ExtResource("92_4l11a")
+
+[node name="Loft ladder | step_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1054674446]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.42, 1.2540722)
+layers = 8
+mesh = ExtResource("93_t2qf4")
+
+[node name="Loft ladder | step_002" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=606566278]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.668, 1.2228197)
+layers = 8
+mesh = ExtResource("94_bm0c3")
+
+[node name="Loft ladder | step_003" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=92887771]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.916, 1.1915671)
+layers = 8
+mesh = ExtResource("95_cvy61")
+
+[node name="Loft ladder | step_004" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=203351937]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 1.164, 1.1603146)
+layers = 8
+mesh = ExtResource("96_nas66")
+
+[node name="Loft ladder | step_005" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=263853618]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 1.412, 1.1290619)
+layers = 8
+mesh = ExtResource("97_nd4sy")
+
+[node name="Loft ladder | step_006" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=102670624]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 1.66, 1.0978093)
+layers = 8
+mesh = ExtResource("98_0d0v0")
+
+[node name="Loft ladder | stile" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1551274812]
+transform = Transform3D(-1, -5.551283e-09, -8.706884e-08, 5.551283e-09, 0.9919029, -0.12699854, 8.706884e-08, -0.12699854, -0.99190295, 0.139, 0.935, 1.191)
+layers = 8
+mesh = ExtResource("99_78a2v")
+
+[node name="Loft ladder | stile_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=2097769968]
+transform = Transform3D(-1, -5.551283e-09, -8.706884e-08, 5.551283e-09, 0.9919029, -0.12699854, 8.706884e-08, -0.12699854, -0.99190295, 0.493, 0.935, 1.191)
+layers = 8
+mesh = ExtResource("100_i0a5q")
+
+[node name="Loft | deep side bearer" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1653505088]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.524, 1.51, 0)
+layers = 8
+mesh = ExtResource("101_shdax")
+
+[node name="Loft | deep side bearer_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=2030268672]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.524, 1.51, 0)
+layers = 8
+mesh = ExtResource("102_vj7k4")
+
+[node name="Loft | end bearer" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=308419688]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.51, 1.04)
+layers = 8
+mesh = ExtResource("103_ddtxd")
+
+[node name="Loft | end bearer_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1391464223]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.51, -1.04)
+layers = 8
+mesh = ExtResource("104_h4dx3")
+
+[node name="Loft | mattress slat" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1652491966]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.948)
+layers = 8
+mesh = ExtResource("105_0o6se")
+
+[node name="Loft | mattress slat_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=377274056]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.7756)
+layers = 8
+mesh = ExtResource("106_45ryx")
+
+[node name="Loft | mattress slat_002" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1973494709]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.6032)
+layers = 8
+mesh = ExtResource("107_djxvj")
+
+[node name="Loft | mattress slat_003" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=484196684]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.4308)
+layers = 8
+mesh = ExtResource("108_p84h1")
+
+[node name="Loft | mattress slat_004" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=311138415]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.2584)
+layers = 8
+mesh = ExtResource("109_2b51l")
+
+[node name="Loft | mattress slat_005" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1880013355]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.086)
+layers = 8
+mesh = ExtResource("110_k4u42")
+
+[node name="Loft | mattress slat_006" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1886913581]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.0864)
+layers = 8
+mesh = ExtResource("111_jjur6")
+
+[node name="Loft | mattress slat_007" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1468621957]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.2588)
+layers = 8
+mesh = ExtResource("112_wmvgm")
+
+[node name="Loft | mattress slat_008" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1304243914]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.4312)
+layers = 8
+mesh = ExtResource("113_2wuqc")
+
+[node name="Loft | mattress slat_009" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1024311644]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.6036)
+layers = 8
+mesh = ExtResource("114_ruky2")
+
+[node name="Loft | mattress slat_010" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1625861655]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.776)
+layers = 8
+mesh = ExtResource("115_bjjrf")
+
+[node name="Loft | mattress slat_011" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=295333826]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.9484)
+layers = 8
+mesh = ExtResource("116_w6oll")
+
+[node name="Loft | non-slip floor pad" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=2053583411]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.534, 0.005, 1.043)
+layers = 8
+mesh = ExtResource("117_en63g")
+
+[node name="Loft | non-slip floor pad_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=251681641]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.534, 0.005, -1.043)
+layers = 8
+mesh = ExtResource("118_82qtl")
+
+[node name="Loft | non-slip floor pad_002" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1214190183]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.534, 0.005, 1.043)
+layers = 8
+mesh = ExtResource("119_3ic1t")
+
+[node name="Loft | non-slip floor pad_003" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=847265382]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.534, 0.005, -1.043)
+layers = 8
+mesh = ExtResource("120_hoh8v")
+
+[node name="Loft | rear steel cross brace" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=417758175]
+transform = Transform3D(0, 0.63904315, 0.7691709, 0, 0.7691709, -0.63904315, -1, 0, 0, 0, 0.83500004, -1.067)
+layers = 8
+mesh = ExtResource("121_qwuj4")
+
+[node name="Loft | structural post" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1378733460]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.534, 1.022, 1.043)
+layers = 8
+mesh = ExtResource("122_5a6lw")
+
+[node name="Loft | structural post_001" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1670007174]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.534, 1.022, -1.043)
+layers = 8
+mesh = ExtResource("123_p2huv")
+
+[node name="Loft | structural post_002" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=1686901315]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.534, 1.022, 1.043)
+layers = 8
+mesh = ExtResource("124_hetqp")
+
+[node name="Loft | structural post_003" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=522262211]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.534, 1.022, -1.043)
+layers = 8
+mesh = ExtResource("125_taohm")
+
+[node name="Mattress | upholstered ticking" type="MeshInstance3D" parent="Cama_Irma_Salvia/Modelo/STUDIO" unique_id=33643000]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.698, -0.001)
+layers = 8
+mesh = ExtResource("126_5wyna")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Cama_Irma_Salvia" unique_id=1802445494]
+
+[node name="@CollisionShape3D@3" type="CollisionShape3D" parent="Cama_Irma_Salvia/Colisao_Acompanha_Peca" unique_id=887075473]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.0205001, 0)
+shape = SubResource("BoxShape3D_italf")
+
+[node name="Cortina_Infantil_Fundos" type="Node3D" parent="." unique_id=1164947288]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.4, 3.05, -6.03)
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="Cortina_Infantil_Fundos" unique_id=1563181763]
+
+[node name="Curtain pair open - Original Interior Furnishing" type="Node3D" parent="Cortina_Infantil_Fundos/Modelo" unique_id=241307917]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.008, 0)
+metadata/extras = {
+"license": "CC0-1.0",
+"original_design": true
+}
+
+[node name="Closed wraparound curtain tieback" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1513355779]
+layers = 8
+mesh = ExtResource("127_5ucy8")
+
+[node name="Closed wraparound curtain tieback_001" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1545036855]
+layers = 8
+mesh = ExtResource("128_kltig")
+
+[node name="Curtain header suspension tab" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1177666022]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.98, 2.105, 0)
+layers = 8
+mesh = ExtResource("129_mcc8h")
+
+[node name="Curtain header suspension tab_001" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1934187400]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.92, 2.105, 0)
+layers = 8
+mesh = ExtResource("130_wrtub")
+
+[node name="Curtain header suspension tab_002" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=213032564]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.86, 2.105, 0)
+layers = 8
+mesh = ExtResource("131_77xoq")
+
+[node name="Curtain header suspension tab_003" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1095152320]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.8, 2.105, 0)
+layers = 8
+mesh = ExtResource("132_r1ne2")
+
+[node name="Curtain header suspension tab_004" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=878838466]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.74, 2.105, 0)
+layers = 8
+mesh = ExtResource("133_870jt")
+
+[node name="Curtain header suspension tab_005" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1192707462]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.68, 2.105, 0)
+layers = 8
+mesh = ExtResource("134_puj57")
+
+[node name="Curtain header suspension tab_006" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=717752739]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.62, 2.105, 0)
+layers = 8
+mesh = ExtResource("135_vdc2n")
+
+[node name="Curtain header suspension tab_007" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=76455285]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.56, 2.105, 0)
+layers = 8
+mesh = ExtResource("136_fgi7l")
+
+[node name="Curtain header suspension tab_008" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1502761018]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.56, 2.105, 0)
+layers = 8
+mesh = ExtResource("137_mbu1y")
+
+[node name="Curtain header suspension tab_009" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1473102561]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.62, 2.105, 0)
+layers = 8
+mesh = ExtResource("138_uehgk")
+
+[node name="Curtain header suspension tab_010" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1358264642]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.68, 2.105, 0)
+layers = 8
+mesh = ExtResource("139_e8xmb")
+
+[node name="Curtain header suspension tab_011" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1816806940]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.74, 2.105, 0)
+layers = 8
+mesh = ExtResource("140_b23rc")
+
+[node name="Curtain header suspension tab_012" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1014734955]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 2.105, 0)
+layers = 8
+mesh = ExtResource("141_ya1ct")
+
+[node name="Curtain header suspension tab_013" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1049088038]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.86, 2.105, 0)
+layers = 8
+mesh = ExtResource("142_w0tk1")
+
+[node name="Curtain header suspension tab_014" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=983654160]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.92, 2.105, 0)
+layers = 8
+mesh = ExtResource("143_g5waw")
+
+[node name="Curtain header suspension tab_015" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1353128160]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.98, 2.105, 0)
+layers = 8
+mesh = ExtResource("144_p5441")
+
+[node name="Curtain pole" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1234414614]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, 0, 2.16, 0)
+layers = 8
+mesh = ExtResource("145_dhgrx")
+
+[node name="Curtain suspension ring" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=393119819]
+layers = 8
+mesh = ExtResource("146_5280o")
+
+[node name="Curtain suspension ring_001" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1401052453]
+layers = 8
+mesh = ExtResource("147_18prn")
+
+[node name="Curtain suspension ring_002" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=927779447]
+layers = 8
+mesh = ExtResource("148_etfrn")
+
+[node name="Curtain suspension ring_003" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1681971242]
+layers = 8
+mesh = ExtResource("149_ydk0a")
+
+[node name="Curtain suspension ring_004" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=139954380]
+layers = 8
+mesh = ExtResource("150_guu3w")
+
+[node name="Curtain suspension ring_005" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=678557578]
+layers = 8
+mesh = ExtResource("151_qd3sd")
+
+[node name="Curtain suspension ring_006" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=970178120]
+layers = 8
+mesh = ExtResource("152_nt4xu")
+
+[node name="Curtain suspension ring_007" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=603150170]
+layers = 8
+mesh = ExtResource("153_agnjp")
+
+[node name="Curtain suspension ring_008" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=696961467]
+layers = 8
+mesh = ExtResource("154_gui2l")
+
+[node name="Curtain suspension ring_009" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=461505982]
+layers = 8
+mesh = ExtResource("155_qu4mc")
+
+[node name="Curtain suspension ring_010" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1819449937]
+layers = 8
+mesh = ExtResource("156_u8ghf")
+
+[node name="Curtain suspension ring_011" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=989200550]
+layers = 8
+mesh = ExtResource("157_7iwol")
+
+[node name="Curtain suspension ring_012" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1289277943]
+layers = 8
+mesh = ExtResource("158_qy5xu")
+
+[node name="Curtain suspension ring_013" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=65702608]
+layers = 8
+mesh = ExtResource("159_xhapl")
+
+[node name="Curtain suspension ring_014" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1882303660]
+layers = 8
+mesh = ExtResource("160_3n5jo")
+
+[node name="Curtain suspension ring_015" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=771956057]
+layers = 8
+mesh = ExtResource("161_o6mcl")
+
+[node name="Original pleated curtain" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=793893376]
+layers = 8
+mesh = ExtResource("162_iqtl2")
+
+[node name="Original pleated curtain_001" type="MeshInstance3D" parent="Cortina_Infantil_Fundos/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=2091252037]
+layers = 8
+mesh = ExtResource("163_we6tt")
+
+[node name="Cortina_Infantil_Lateral" type="Node3D" parent="." unique_id=560821014]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -7.47, 3.05, -3)
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="Cortina_Infantil_Lateral" unique_id=1086334051]
+
+[node name="Curtain pair open - Original Interior Furnishing" type="Node3D" parent="Cortina_Infantil_Lateral/Modelo" unique_id=931407862]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.008, 0)
+metadata/extras = {
+"license": "CC0-1.0",
+"original_design": true
+}
+
+[node name="Closed wraparound curtain tieback" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1439167303]
+layers = 8
+mesh = ExtResource("127_5ucy8")
+
+[node name="Closed wraparound curtain tieback_001" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1531521963]
+layers = 8
+mesh = ExtResource("128_kltig")
+
+[node name="Curtain header suspension tab" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1546883551]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.98, 2.105, 0)
+layers = 8
+mesh = ExtResource("129_mcc8h")
+
+[node name="Curtain header suspension tab_001" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1663146493]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.92, 2.105, 0)
+layers = 8
+mesh = ExtResource("130_wrtub")
+
+[node name="Curtain header suspension tab_002" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=477305497]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.86, 2.105, 0)
+layers = 8
+mesh = ExtResource("131_77xoq")
+
+[node name="Curtain header suspension tab_003" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=115744098]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.8, 2.105, 0)
+layers = 8
+mesh = ExtResource("132_r1ne2")
+
+[node name="Curtain header suspension tab_004" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1034115150]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.74, 2.105, 0)
+layers = 8
+mesh = ExtResource("133_870jt")
+
+[node name="Curtain header suspension tab_005" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=546060200]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.68, 2.105, 0)
+layers = 8
+mesh = ExtResource("134_puj57")
+
+[node name="Curtain header suspension tab_006" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1034750215]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.62, 2.105, 0)
+layers = 8
+mesh = ExtResource("135_vdc2n")
+
+[node name="Curtain header suspension tab_007" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=2031795983]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.56, 2.105, 0)
+layers = 8
+mesh = ExtResource("136_fgi7l")
+
+[node name="Curtain header suspension tab_008" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1636220421]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.56, 2.105, 0)
+layers = 8
+mesh = ExtResource("137_mbu1y")
+
+[node name="Curtain header suspension tab_009" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=2002633582]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.62, 2.105, 0)
+layers = 8
+mesh = ExtResource("138_uehgk")
+
+[node name="Curtain header suspension tab_010" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=91165060]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.68, 2.105, 0)
+layers = 8
+mesh = ExtResource("139_e8xmb")
+
+[node name="Curtain header suspension tab_011" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1519228837]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.74, 2.105, 0)
+layers = 8
+mesh = ExtResource("140_b23rc")
+
+[node name="Curtain header suspension tab_012" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=896052439]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 2.105, 0)
+layers = 8
+mesh = ExtResource("141_ya1ct")
+
+[node name="Curtain header suspension tab_013" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=460734320]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.86, 2.105, 0)
+layers = 8
+mesh = ExtResource("142_w0tk1")
+
+[node name="Curtain header suspension tab_014" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=652005169]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.92, 2.105, 0)
+layers = 8
+mesh = ExtResource("143_g5waw")
+
+[node name="Curtain header suspension tab_015" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=185578211]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.98, 2.105, 0)
+layers = 8
+mesh = ExtResource("144_p5441")
+
+[node name="Curtain pole" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1643007980]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, 0, 2.16, 0)
+layers = 8
+mesh = ExtResource("145_dhgrx")
+
+[node name="Curtain suspension ring" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=385594537]
+layers = 8
+mesh = ExtResource("146_5280o")
+
+[node name="Curtain suspension ring_001" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1543806497]
+layers = 8
+mesh = ExtResource("147_18prn")
+
+[node name="Curtain suspension ring_002" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1792326611]
+layers = 8
+mesh = ExtResource("148_etfrn")
+
+[node name="Curtain suspension ring_003" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=778553917]
+layers = 8
+mesh = ExtResource("149_ydk0a")
+
+[node name="Curtain suspension ring_004" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=328104436]
+layers = 8
+mesh = ExtResource("150_guu3w")
+
+[node name="Curtain suspension ring_005" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1020885828]
+layers = 8
+mesh = ExtResource("151_qd3sd")
+
+[node name="Curtain suspension ring_006" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=609330576]
+layers = 8
+mesh = ExtResource("152_nt4xu")
+
+[node name="Curtain suspension ring_007" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1099974423]
+layers = 8
+mesh = ExtResource("153_agnjp")
+
+[node name="Curtain suspension ring_008" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1206063882]
+layers = 8
+mesh = ExtResource("154_gui2l")
+
+[node name="Curtain suspension ring_009" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=2082754969]
+layers = 8
+mesh = ExtResource("155_qu4mc")
+
+[node name="Curtain suspension ring_010" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=469179971]
+layers = 8
+mesh = ExtResource("156_u8ghf")
+
+[node name="Curtain suspension ring_011" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=760861049]
+layers = 8
+mesh = ExtResource("157_7iwol")
+
+[node name="Curtain suspension ring_012" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=2083640721]
+layers = 8
+mesh = ExtResource("158_qy5xu")
+
+[node name="Curtain suspension ring_013" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1947663087]
+layers = 8
+mesh = ExtResource("159_xhapl")
+
+[node name="Curtain suspension ring_014" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=204214072]
+layers = 8
+mesh = ExtResource("160_3n5jo")
+
+[node name="Curtain suspension ring_015" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=230428779]
+layers = 8
+mesh = ExtResource("161_o6mcl")
+
+[node name="Original pleated curtain" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=1117679261]
+layers = 8
+mesh = ExtResource("162_iqtl2")
+
+[node name="Original pleated curtain_001" type="MeshInstance3D" parent="Cortina_Infantil_Lateral/Modelo/Curtain pair open - Original Interior Furnishing" unique_id=338418885]
+layers = 8
+mesh = ExtResource("163_we6tt")
+
+[node name="Cesto_Brinquedos" type="Node3D" parent="." unique_id=1087665146]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.55, 2.85, -1.65)
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="Cesto_Brinquedos" unique_id=479972305]
+transform = Transform3D(1.1220584, 0, 0, 0, 1.1220584, 0, 0, 0, 1.1220584, 0.00030311942, 0.0010285407, 0.0004885942)
+
+[node name="wicker_basket_01" type="MeshInstance3D" parent="Cesto_Brinquedos/Modelo" unique_id=1935234642]
+layers = 8
+mesh = ExtResource("164_8q1hl")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Cesto_Brinquedos" unique_id=1176397598]
+
+[node name="@CollisionShape3D@5" type="CollisionShape3D" parent="Cesto_Brinquedos/Colisao_Acompanha_Peca" unique_id=16357741]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.06587769, 0)
+shape = SubResource("BoxShape3D_pkv57")
+
+[node name="Tapete_Infantil_Trama" type="MeshInstance3D" parent="." unique_id=887078905]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.6, 2.866, -2.9)
+layers = 8
+material_override = SubResource("StandardMaterial3D_wjtpk")
+mesh = ExtResource("167_v7qrj")
+metadata/_edit_group_ = true

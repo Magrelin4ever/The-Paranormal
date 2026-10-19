@@ -1,9 +1,11 @@
 [gd_scene format=3]
 
 [ext_resource type="Script" path="res://prototype/house_environment.gd" id="1_house"]
-[ext_resource type="PackedScene" path="res://prototype/editor_pilot/sala_jantar_editavel.tscn" id="2_dining"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/casa_editavel.tscn" id="2_house"]
 
 [node name="CasaPrototipoVisual" type="Node3D"]
 script = ExtResource("1_house")
 
-[node name="SalaJantar_Editavel" parent="." instance=ExtResource("2_dining")]
+[node name="Casa_Editavel" parent="." instance=ExtResource("2_house")]
+
+[editable path="Casa_Editavel"]

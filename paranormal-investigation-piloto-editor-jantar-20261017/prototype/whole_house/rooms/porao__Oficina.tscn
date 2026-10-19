@@ -1,0 +1,952 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1539.res" id="1_fsyrh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1540.res" id="2_so5l2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1541.res" id="3_dc14l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1542.res" id="4_u47km"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1543.res" id="5_7iemm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1544.res" id="6_frek1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1545.res" id="7_qhqm7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1546.res" id="8_u81xe"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1547.res" id="9_hyhuh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1548.res" id="10_rujtr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1549.res" id="11_u47k4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1550.res" id="12_gvw8s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1551.res" id="13_rfu0l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1552.res" id="14_4nd5w"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1553.res" id="15_ij40t"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1554.res" id="16_u1qoh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1555.res" id="17_imep3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1556.res" id="18_rhjrd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1557.res" id="19_8o18y"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1558.res" id="20_vkh4s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1559.res" id="21_0twn0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1560.res" id="22_j0x6u"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1561.res" id="23_nx2bs"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1562.res" id="24_56p2r"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1563.res" id="25_k37ax"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1564.res" id="26_y862c"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1565.res" id="27_d8svn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1566.res" id="28_464re"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1567.res" id="29_jw03m"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1568.res" id="30_dw0v3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1569.res" id="31_n8ia0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1570.res" id="32_bw3dr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1571.res" id="33_3ltje"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1572.res" id="34_4at31"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1573.res" id="35_yhj4d"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1574.res" id="36_0nbqx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1575.res" id="37_otdsa"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1576.res" id="38_lv516"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1577.res" id="39_cupv4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1578.res" id="40_pix4g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1579.res" id="41_616sw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1580.res" id="42_6v412"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1581.res" id="43_xxxvu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1582.res" id="44_i63c5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1583.res" id="45_u3lnv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1584.res" id="46_hdmxa"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1585.res" id="47_ugh2g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1586.res" id="48_718wl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1587.res" id="49_npfgt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1588.res" id="50_1awja"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1589.res" id="51_usnfa"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1590.res" id="52_xrw6p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1591.res" id="53_4b5q0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1592.res" id="54_pfl0g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1593.res" id="55_q627i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1594.res" id="56_wnahr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1595.res" id="57_fji5k"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1596.res" id="58_hpkrk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1597.res" id="59_7n1bd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1598.res" id="60_8acne"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1599.res" id="61_ex63s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1600.res" id="62_5cd7c"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1601.res" id="63_o3cxv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1602.res" id="64_jhfqj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1603.res" id="65_ps5ik"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1604.res" id="66_t4j0n"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1605.res" id="67_esknl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1606.res" id="68_fyrxe"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1607.res" id="69_yuerl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1608.res" id="70_hrmun"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1609.res" id="71_rq76p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1610.res" id="72_r7akp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1611.res" id="73_edyxy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1612.res" id="74_654mm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1613.res" id="75_pp472"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1614.res" id="76_fobtl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1615.res" id="77_j5rj0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1616.res" id="78_w2waw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1617.res" id="79_se2ps"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1618.res" id="80_qxmsq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1619.res" id="81_lw8c3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1620.res" id="82_jeeeb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1621.res" id="83_586bi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1622.res" id="84_te1r0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1623.res" id="85_0g71u"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1624.res" id="86_c6yow"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1625.res" id="87_vxmul"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1626.res" id="88_4wcg6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1627.res" id="89_2lm0g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1628.res" id="90_skarg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1629.res" id="91_7mj8w"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1630.res" id="92_qbl12"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1631.res" id="93_12juh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1632.res" id="94_pblpn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1633.res" id="95_a40po"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1634.res" id="96_chnbx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1635.res" id="97_6oecc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1636.res" id="98_vx7jt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1637.res" id="99_s8eqd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1638.res" id="100_fjhm6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1639.res" id="101_3ci7o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1640.res" id="102_suf3g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1641.res" id="103_1jvu5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1642.res" id="104_rdwnl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1643.res" id="105_rmbb4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1644.res" id="106_54wmg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1645.res" id="107_6d7ak"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1646.res" id="108_gst71"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1647.res" id="109_1osj7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1648.res" id="110_mtjaa"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1649.res" id="111_gs2nm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1650.res" id="112_strqc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1651.res" id="113_jnl1i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1652.res" id="114_cgphu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1653.res" id="115_11llo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1654.res" id="116_e7231"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1655.res" id="117_axon1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1656.res" id="118_uuoum"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1657.res" id="119_n2xpw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1658.res" id="120_g6ev6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1659.res" id="121_cj5wq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1660.res" id="122_i05hw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1661.res" id="123_5f3y1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1662.res" id="124_rb212"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1663.res" id="125_2c72p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1664.res" id="126_me61s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1665.res" id="127_tjacc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1666.res" id="128_jfp87"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1667.res" id="129_56lv8"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0006.res" id="130_b2aqs"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1668.res" id="131_exonv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1669.res" id="132_k5en7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1670.res" id="133_wkkn1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1671.res" id="134_xf0mj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1672.res" id="135_sfb2l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1673.res" id="136_ts04s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1674.res" id="137_a4at7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1675.res" id="138_yx8ju"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1676.res" id="139_8coon"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0005.res" id="140_dn65g"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_1677.res" id="141_xab0o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0040.res" id="142_so5l2"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_o1o1y"]
+size = Vector3(1.5, 1.8, 0.65)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_u6fe4"]
+size = Vector3(0.93500006, 0.765, 0.61200005)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_oawa3"]
+size = Vector3(0.33639997, 0.35959998, 0.24359998)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_dc14l"]
+size = Vector3(1.3739518, 2.063442, 0.58130205)
+
+[node name="Oficina" type="Node3D" unique_id=1393355578]
+metadata/pavimento = "porao"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Modelo_BancadaOficina_015" type="Node3D" parent="." unique_id=661888823]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.35, -2.85, -6.8)
+metadata/origem_conversao = "Modelo_BancadaOficina"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(3.35, -2.85, -6.8)
+
+[node name="Asset_C2_07_BancadaOficina" type="Node3D" parent="Modelo_BancadaOficina_015" unique_id=415100392]
+
+[node name="Workbench with pegboard" type="Node3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina" unique_id=23941979]
+metadata/extras = {
+"license": "CC0-1.0",
+"original_design": true
+}
+
+[node name="Angle post return" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=2057431661]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.731, 0.45, 0.3235)
+layers = 2
+mesh = ExtResource("1_fsyrh")
+
+[node name="Angle post return_001" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=174772339]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.731, 0.45, -0.3235)
+layers = 2
+mesh = ExtResource("2_so5l2")
+
+[node name="Angle post return_002" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1898781280]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.731, 0.45, 0.3235)
+layers = 2
+mesh = ExtResource("3_dc14l")
+
+[node name="Angle post return_003" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=723947550]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.731, 0.45, -0.3235)
+layers = 2
+mesh = ExtResource("4_u47km")
+
+[node name="Pegboard frame upright" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=923240223]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.715, 1.35, -0.29)
+layers = 2
+mesh = ExtResource("5_7iemm")
+
+[node name="Pegboard frame upright_001" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1317164925]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.715, 1.35, -0.29)
+layers = 2
+mesh = ExtResource("6_frek1")
+
+[node name="Pegboard horizontal strip" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1455391961]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.92, -0.285)
+layers = 2
+mesh = ExtResource("7_qhqm7")
+
+[node name="Pegboard horizontal strip_001" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1468172465]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.969, -0.285)
+layers = 2
+mesh = ExtResource("8_u81xe")
+
+[node name="Pegboard horizontal strip_002" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1550758031]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.018, -0.285)
+layers = 2
+mesh = ExtResource("9_hyhuh")
+
+[node name="Pegboard horizontal strip_003" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=572189516]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.067, -0.285)
+layers = 2
+mesh = ExtResource("10_rujtr")
+
+[node name="Pegboard horizontal strip_004" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=380330652]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.116, -0.285)
+layers = 2
+mesh = ExtResource("11_u47k4")
+
+[node name="Pegboard horizontal strip_005" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1881470140]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.165, -0.285)
+layers = 2
+mesh = ExtResource("12_gvw8s")
+
+[node name="Pegboard horizontal strip_006" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1300239788]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.214, -0.285)
+layers = 2
+mesh = ExtResource("13_rfu0l")
+
+[node name="Pegboard horizontal strip_007" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=720150633]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.263, -0.285)
+layers = 2
+mesh = ExtResource("14_4nd5w")
+
+[node name="Pegboard horizontal strip_008" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=980971022]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.312, -0.285)
+layers = 2
+mesh = ExtResource("15_ij40t")
+
+[node name="Pegboard horizontal strip_009" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=477995525]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.361, -0.285)
+layers = 2
+mesh = ExtResource("16_u1qoh")
+
+[node name="Pegboard horizontal strip_010" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=45130086]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.41, -0.285)
+layers = 2
+mesh = ExtResource("17_imep3")
+
+[node name="Pegboard horizontal strip_011" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1112248302]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.459, -0.285)
+layers = 2
+mesh = ExtResource("18_rhjrd")
+
+[node name="Pegboard horizontal strip_012" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=317952076]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.508, -0.285)
+layers = 2
+mesh = ExtResource("19_8o18y")
+
+[node name="Pegboard horizontal strip_013" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1453523299]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.557, -0.285)
+layers = 2
+mesh = ExtResource("20_vkh4s")
+
+[node name="Pegboard horizontal strip_014" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1799517163]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.606, -0.285)
+layers = 2
+mesh = ExtResource("21_0twn0")
+
+[node name="Pegboard horizontal strip_015" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=596118838]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.655, -0.285)
+layers = 2
+mesh = ExtResource("22_j0x6u")
+
+[node name="Pegboard horizontal strip_016" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=8884888]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.704, -0.285)
+layers = 2
+mesh = ExtResource("23_nx2bs")
+
+[node name="Pegboard horizontal strip_017" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1703569771]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.753, -0.285)
+layers = 2
+mesh = ExtResource("24_56p2r")
+
+[node name="Pegboard vertical strip" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=205824671]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7305, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("25_k37ax")
+
+[node name="Pegboard vertical strip_001" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1855424297]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.6818, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("26_y862c")
+
+[node name="Pegboard vertical strip_002" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1029271087]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.6331, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("27_d8svn")
+
+[node name="Pegboard vertical strip_003" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1851631460]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5844, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("28_464re")
+
+[node name="Pegboard vertical strip_004" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1835155418]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5357, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("29_jw03m")
+
+[node name="Pegboard vertical strip_005" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=953651691]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.487, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("30_dw0v3")
+
+[node name="Pegboard vertical strip_006" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1620507084]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.4383, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("31_n8ia0")
+
+[node name="Pegboard vertical strip_007" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1212379337]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.3896, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("32_bw3dr")
+
+[node name="Pegboard vertical strip_008" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=637019263]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.3409, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("33_3ltje")
+
+[node name="Pegboard vertical strip_009" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=505072941]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.2922, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("34_4at31")
+
+[node name="Pegboard vertical strip_010" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=80993011]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.2435, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("35_yhj4d")
+
+[node name="Pegboard vertical strip_011" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=381702286]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.1948, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("36_0nbqx")
+
+[node name="Pegboard vertical strip_012" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=14488813]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.1461, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("37_otdsa")
+
+[node name="Pegboard vertical strip_013" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=594524756]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0974, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("38_lv516")
+
+[node name="Pegboard vertical strip_014" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1219389924]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0487, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("39_cupv4")
+
+[node name="Pegboard vertical strip_015" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1210191494]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("40_pix4g")
+
+[node name="Pegboard vertical strip_016" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1850647324]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0487, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("41_616sw")
+
+[node name="Pegboard vertical strip_017" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=727564991]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0974, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("42_6v412")
+
+[node name="Pegboard vertical strip_018" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1283968952]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.1461, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("43_xxxvu")
+
+[node name="Pegboard vertical strip_019" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1940452504]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.1948, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("44_i63c5")
+
+[node name="Pegboard vertical strip_020" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=778046851]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.2435, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("45_u3lnv")
+
+[node name="Pegboard vertical strip_021" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1195837303]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.2922, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("46_hdmxa")
+
+[node name="Pegboard vertical strip_022" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1717812061]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.3409, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("47_ugh2g")
+
+[node name="Pegboard vertical strip_023" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=133364563]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.3896, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("48_718wl")
+
+[node name="Pegboard vertical strip_024" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1282659127]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.4383, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("49_npfgt")
+
+[node name="Pegboard vertical strip_025" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1400863678]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.487, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("50_1awja")
+
+[node name="Pegboard vertical strip_026" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=666663577]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5357, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("51_usnfa")
+
+[node name="Pegboard vertical strip_027" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1219575843]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5844, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("52_xrw6p")
+
+[node name="Pegboard vertical strip_028" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1378658739]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.6331, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("53_4b5q0")
+
+[node name="Pegboard vertical strip_029" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1908331561]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.6818, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("54_pfl0g")
+
+[node name="Pegboard vertical strip_030" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=439003019]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7305, 1.34, -0.285)
+layers = 2
+mesh = ExtResource("55_q627i")
+
+[node name="Post web between mounting slots" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=480458981]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.0375, 0.308)
+layers = 2
+mesh = ExtResource("56_wnahr")
+
+[node name="Post web between mounting slots_001" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1543476611]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.1125, 0.308)
+layers = 2
+mesh = ExtResource("57_fji5k")
+
+[node name="Post web between mounting slots_002" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1348536222]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.1875, 0.308)
+layers = 2
+mesh = ExtResource("58_hpkrk")
+
+[node name="Post web between mounting slots_003" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=129334279]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.2625, 0.308)
+layers = 2
+mesh = ExtResource("59_7n1bd")
+
+[node name="Post web between mounting slots_004" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1376355525]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.3375, 0.308)
+layers = 2
+mesh = ExtResource("60_8acne")
+
+[node name="Post web between mounting slots_005" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1472825714]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.4125, 0.308)
+layers = 2
+mesh = ExtResource("61_ex63s")
+
+[node name="Post web between mounting slots_006" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=828535118]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.4875, 0.308)
+layers = 2
+mesh = ExtResource("62_5cd7c")
+
+[node name="Post web between mounting slots_007" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=583526298]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.5625, 0.308)
+layers = 2
+mesh = ExtResource("63_o3cxv")
+
+[node name="Post web between mounting slots_008" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=59384788]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.6375, 0.308)
+layers = 2
+mesh = ExtResource("64_jhfqj")
+
+[node name="Post web between mounting slots_009" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=734158462]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.7125, 0.308)
+layers = 2
+mesh = ExtResource("65_ps5ik")
+
+[node name="Post web between mounting slots_010" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=234423786]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.7875, 0.308)
+layers = 2
+mesh = ExtResource("66_t4j0n")
+
+[node name="Post web between mounting slots_011" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1134532564]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.8625, 0.308)
+layers = 2
+mesh = ExtResource("67_esknl")
+
+[node name="Post web between mounting slots_012" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1569550233]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.0375, -0.308)
+layers = 2
+mesh = ExtResource("68_fyrxe")
+
+[node name="Post web between mounting slots_013" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1193702271]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.1125, -0.308)
+layers = 2
+mesh = ExtResource("69_yuerl")
+
+[node name="Post web between mounting slots_014" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1130543753]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.1875, -0.308)
+layers = 2
+mesh = ExtResource("70_hrmun")
+
+[node name="Post web between mounting slots_015" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=153629739]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.2625, -0.308)
+layers = 2
+mesh = ExtResource("71_rq76p")
+
+[node name="Post web between mounting slots_016" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=124429568]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.3375, -0.308)
+layers = 2
+mesh = ExtResource("72_r7akp")
+
+[node name="Post web between mounting slots_017" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1601164843]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.4125, -0.308)
+layers = 2
+mesh = ExtResource("73_edyxy")
+
+[node name="Post web between mounting slots_018" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1896407348]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.4875, -0.308)
+layers = 2
+mesh = ExtResource("74_654mm")
+
+[node name="Post web between mounting slots_019" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=401774653]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.5625, -0.308)
+layers = 2
+mesh = ExtResource("75_pp472")
+
+[node name="Post web between mounting slots_020" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=263180340]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.6375, -0.308)
+layers = 2
+mesh = ExtResource("76_fobtl")
+
+[node name="Post web between mounting slots_021" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=955717994]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.7125, -0.308)
+layers = 2
+mesh = ExtResource("77_j5rj0")
+
+[node name="Post web between mounting slots_022" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=868465642]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.7875, -0.308)
+layers = 2
+mesh = ExtResource("78_w2waw")
+
+[node name="Post web between mounting slots_023" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=754284883]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.8625, -0.308)
+layers = 2
+mesh = ExtResource("79_se2ps")
+
+[node name="Post web between mounting slots_024" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=798186710]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.0375, 0.308)
+layers = 2
+mesh = ExtResource("80_qxmsq")
+
+[node name="Post web between mounting slots_025" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1346493652]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.1125, 0.308)
+layers = 2
+mesh = ExtResource("81_lw8c3")
+
+[node name="Post web between mounting slots_026" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1645335127]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.1875, 0.308)
+layers = 2
+mesh = ExtResource("82_jeeeb")
+
+[node name="Post web between mounting slots_027" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=86065518]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.2625, 0.308)
+layers = 2
+mesh = ExtResource("83_586bi")
+
+[node name="Post web between mounting slots_028" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=254004269]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.3375, 0.308)
+layers = 2
+mesh = ExtResource("84_te1r0")
+
+[node name="Post web between mounting slots_029" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=606084368]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.4125, 0.308)
+layers = 2
+mesh = ExtResource("85_0g71u")
+
+[node name="Post web between mounting slots_030" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1654020244]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.4875, 0.308)
+layers = 2
+mesh = ExtResource("86_c6yow")
+
+[node name="Post web between mounting slots_031" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=222472331]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.5625, 0.308)
+layers = 2
+mesh = ExtResource("87_vxmul")
+
+[node name="Post web between mounting slots_032" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=855282578]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.6375, 0.308)
+layers = 2
+mesh = ExtResource("88_4wcg6")
+
+[node name="Post web between mounting slots_033" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1281180433]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.7125, 0.308)
+layers = 2
+mesh = ExtResource("89_2lm0g")
+
+[node name="Post web between mounting slots_034" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=977787046]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.7875, 0.308)
+layers = 2
+mesh = ExtResource("90_skarg")
+
+[node name="Post web between mounting slots_035" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1421326164]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.8625, 0.308)
+layers = 2
+mesh = ExtResource("91_7mj8w")
+
+[node name="Post web between mounting slots_036" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=849142110]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.0375, -0.308)
+layers = 2
+mesh = ExtResource("92_qbl12")
+
+[node name="Post web between mounting slots_037" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=837049633]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.1125, -0.308)
+layers = 2
+mesh = ExtResource("93_12juh")
+
+[node name="Post web between mounting slots_038" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1655926363]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.1875, -0.308)
+layers = 2
+mesh = ExtResource("94_pblpn")
+
+[node name="Post web between mounting slots_039" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1997223826]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.2625, -0.308)
+layers = 2
+mesh = ExtResource("95_a40po")
+
+[node name="Post web between mounting slots_040" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1707772924]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.3375, -0.308)
+layers = 2
+mesh = ExtResource("96_chnbx")
+
+[node name="Post web between mounting slots_041" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=657753008]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.4125, -0.308)
+layers = 2
+mesh = ExtResource("97_6oecc")
+
+[node name="Post web between mounting slots_042" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1074182013]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.4875, -0.308)
+layers = 2
+mesh = ExtResource("98_vx7jt")
+
+[node name="Post web between mounting slots_043" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1561103000]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.5625, -0.308)
+layers = 2
+mesh = ExtResource("99_s8eqd")
+
+[node name="Post web between mounting slots_044" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1658925449]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.6375, -0.308)
+layers = 2
+mesh = ExtResource("100_fjhm6")
+
+[node name="Post web between mounting slots_045" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1055729527]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.7125, -0.308)
+layers = 2
+mesh = ExtResource("101_3ci7o")
+
+[node name="Post web between mounting slots_046" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=983565020]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.7875, -0.308)
+layers = 2
+mesh = ExtResource("102_suf3g")
+
+[node name="Post web between mounting slots_047" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=961343614]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.8625, -0.308)
+layers = 2
+mesh = ExtResource("103_1jvu5")
+
+[node name="Rear cross brace" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1855748125]
+layers = 2
+mesh = ExtResource("104_rdwnl")
+
+[node name="Rear diagonal brace" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=2020363827]
+layers = 2
+mesh = ExtResource("105_rmbb4")
+
+[node name="Seated peg hook" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=672483329]
+layers = 2
+mesh = ExtResource("106_54wmg")
+
+[node name="Seated peg hook_001" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1767727573]
+layers = 2
+mesh = ExtResource("107_6d7ak")
+
+[node name="Seated peg hook_002" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=656682596]
+layers = 2
+mesh = ExtResource("108_gst71")
+
+[node name="Shelf crossbeam" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=716612541]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.18, 0.3075)
+layers = 2
+mesh = ExtResource("109_1osj7")
+
+[node name="Shelf crossbeam_001" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=585207754]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.18, -0.3075)
+layers = 2
+mesh = ExtResource("110_mtjaa")
+
+[node name="Shelf crossbeam_002" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1393964981]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.842, 0.3075)
+layers = 2
+mesh = ExtResource("111_gs2nm")
+
+[node name="Shelf crossbeam_003" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=134556666]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.842, -0.3075)
+layers = 2
+mesh = ExtResource("112_strqc")
+
+[node name="Shelf deck" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=600400321]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.218, 0)
+layers = 2
+mesh = ExtResource("113_jnl1i")
+
+[node name="Shelf deck_001" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=744667091]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.88, 0)
+layers = 2
+mesh = ExtResource("114_cgphu")
+
+[node name="Shelf depth beam" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1353911113]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.715, 0.18, 0)
+layers = 2
+mesh = ExtResource("115_11llo")
+
+[node name="Shelf depth beam_001" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=102271071]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.715, 0.18, 0)
+layers = 2
+mesh = ExtResource("116_e7231")
+
+[node name="Shelf depth beam_002" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1758368250]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.715, 0.842, 0)
+layers = 2
+mesh = ExtResource("117_axon1")
+
+[node name="Shelf depth beam_003" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1846741571]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.715, 0.842, 0)
+layers = 2
+mesh = ExtResource("118_uuoum")
+
+[node name="Slotted post side rail" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1825050366]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.45, 0.32)
+layers = 2
+mesh = ExtResource("119_n2xpw")
+
+[node name="Slotted post side rail_001" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=320996051]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.45, 0.296)
+layers = 2
+mesh = ExtResource("120_g6ev6")
+
+[node name="Slotted post side rail_002" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=30027104]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.45, -0.296)
+layers = 2
+mesh = ExtResource("121_cj5wq")
+
+[node name="Slotted post side rail_003" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1774841298]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7485, 0.45, -0.32)
+layers = 2
+mesh = ExtResource("122_i05hw")
+
+[node name="Slotted post side rail_004" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1540369255]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.45, 0.32)
+layers = 2
+mesh = ExtResource("123_5f3y1")
+
+[node name="Slotted post side rail_005" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1177610957]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.45, 0.296)
+layers = 2
+mesh = ExtResource("124_rb212")
+
+[node name="Slotted post side rail_006" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=635400184]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.45, -0.296)
+layers = 2
+mesh = ExtResource("125_2c72p")
+
+[node name="Slotted post side rail_007" type="MeshInstance3D" parent="Modelo_BancadaOficina_015/Asset_C2_07_BancadaOficina/Workbench with pegboard" unique_id=1709345745]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7485, 0.45, -0.32)
+layers = 2
+mesh = ExtResource("126_me61s")
+
+[node name="Hitbox_C2_07_BancadaOficina" type="StaticBody3D" parent="Modelo_BancadaOficina_015" unique_id=758142487]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.9, 0)
+
+[node name="Forma" type="CollisionShape3D" parent="Modelo_BancadaOficina_015/Hitbox_C2_07_BancadaOficina" unique_id=1653463380]
+shape = SubResource("BoxShape3D_o1o1y")
+
+[node name="Modelo_vintage_oil_lamp_016" type="Node3D" parent="." unique_id=1095378159]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.72, -1.93, -6.54)
+metadata/origem_conversao = "Modelo_vintage_oil_lamp"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(3.72, -1.93, -6.54)
+
+[node name="Asset_08_vintage_oil_lamp" type="Node3D" parent="Modelo_vintage_oil_lamp_016" unique_id=905328973]
+transform = Transform3D(0.34, 0, 0, 0, 0.34, 0, 0, 0, 0.34, 0, 0, 0)
+
+[node name="vintage_oil_lamp_glass" type="MeshInstance3D" parent="Modelo_vintage_oil_lamp_016/Asset_08_vintage_oil_lamp" unique_id=1106012792]
+layers = 2
+mesh = ExtResource("127_tjacc")
+
+[node name="vintage_oil_lamp" type="MeshInstance3D" parent="Modelo_vintage_oil_lamp_016/Asset_08_vintage_oil_lamp" unique_id=179276063]
+layers = 2
+mesh = ExtResource("128_jfp87")
+
+[node name="vintage_oil_lamp_flame" type="MeshInstance3D" parent="Modelo_vintage_oil_lamp_016/Asset_08_vintage_oil_lamp" unique_id=1555229482]
+layers = 2
+mesh = ExtResource("129_56lv8")
+surface_material_override/0 = ExtResource("130_b2aqs")
+
+[node name="Modelo_tool_cart_017" type="Node3D" parent="." unique_id=1575119578]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.15, -2.85, -5.45)
+metadata/origem_conversao = "Modelo_tool_cart"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(1.15, -2.85, -5.45)
+
+[node name="Asset_09_tool_cart" type="Node3D" parent="Modelo_tool_cart_017" unique_id=48461561]
+transform = Transform3D(0.85, 0, 0, 0, 0.85, 0, 0, 0, 0.85, 0, 0, 0)
+
+[node name="tool_cart" type="MeshInstance3D" parent="Modelo_tool_cart_017/Asset_09_tool_cart" unique_id=1411487987]
+layers = 2
+mesh = ExtResource("131_exonv")
+
+[node name="Hitbox_09_tool_cart" type="StaticBody3D" parent="Modelo_tool_cart_017" unique_id=551905431]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.38249993, 0)
+
+[node name="Forma" type="CollisionShape3D" parent="Modelo_tool_cart_017/Hitbox_09_tool_cart" unique_id=1128191319]
+shape = SubResource("BoxShape3D_u6fe4")
+
+[node name="Modelo_metal_trash_can_018" type="Node3D" parent="." unique_id=1626147638]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.55, -2.85, -6.6)
+metadata/origem_conversao = "Modelo_metal_trash_can"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(-0.55, -2.85, -6.6)
+
+[node name="Asset_10_metal_trash_can" type="Node3D" parent="Modelo_metal_trash_can_018" unique_id=353227862]
+transform = Transform3D(0.58, 0, 0, 0, 0.58, 0, 0, 0, 0.58, 0, 0, 0)
+
+[node name="metal_trash_can_handle_left" type="MeshInstance3D" parent="Modelo_metal_trash_can_018/Asset_10_metal_trash_can" unique_id=1607038477]
+transform = Transform3D(-0.25881875, 0.965926, 0, -0.965926, -0.25881875, 0, 0, 0, 1, 0.22699839, 0.6497124, -0.00019631586)
+layers = 2
+mesh = ExtResource("132_k5en7")
+
+[node name="metal_trash_can_lid" type="MeshInstance3D" parent="Modelo_metal_trash_can_018/Asset_10_metal_trash_can" unique_id=170529111]
+transform = Transform3D(0.2514696, -0.9678652, 0, 0.9678652, 0.2514696, 0, 0, 0, 1, 0.12573448, 0.28585112, -7.379672e-06)
+layers = 2
+mesh = ExtResource("133_wkkn1")
+
+[node name="metal_trash_can" type="MeshInstance3D" parent="Modelo_metal_trash_can_018/Asset_10_metal_trash_can" unique_id=1620482262]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5, 0, 0)
+layers = 2
+mesh = ExtResource("134_xf0mj")
+
+[node name="metal_trash_can_handle_right" type="MeshInstance3D" parent="Modelo_metal_trash_can_018/Asset_10_metal_trash_can" unique_id=283778533]
+transform = Transform3D(-0.25881875, 0.965926, 0, -0.965926, -0.25881875, 0, 0, 0, 1, 0.7945747, 0.6497124, -0.00019631586)
+layers = 2
+mesh = ExtResource("135_sfb2l")
+
+[node name="metal_trash_can_rust" type="MeshInstance3D" parent="Modelo_metal_trash_can_018/Asset_10_metal_trash_can" unique_id=490836236]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5, 0, 0)
+layers = 2
+mesh = ExtResource("136_ts04s")
+
+[node name="metal_trash_can_rust_handle_left" type="MeshInstance3D" parent="Modelo_metal_trash_can_018/Asset_10_metal_trash_can" unique_id=268942090]
+transform = Transform3D(-0.25881875, 0.965926, 0, -0.965926, -0.25881875, 0, 0, 0, 1, -0.7730016, 0.6497124, -0.00019631586)
+layers = 2
+mesh = ExtResource("137_a4at7")
+
+[node name="metal_trash_can_rust_handle_right" type="MeshInstance3D" parent="Modelo_metal_trash_can_018/Asset_10_metal_trash_can" unique_id=419743786]
+transform = Transform3D(0.7907629, 0.6121226, 0, -0.6121226, 0.7907629, 0, 0, 0, 1, -0.22699833, 0.6497124, -0.00019631586)
+layers = 2
+mesh = ExtResource("138_yx8ju")
+
+[node name="metal_trash_can_rust_lid" type="MeshInstance3D" parent="Modelo_metal_trash_can_018/Asset_10_metal_trash_can" unique_id=299360885]
+transform = Transform3D(0.2514696, -0.9678652, 0, 0.9678652, 0.2514696, 0, 0, 0, 1, -0.87426555, 0.28585112, -7.379672e-06)
+layers = 2
+mesh = ExtResource("139_8coon")
+
+[node name="Hitbox_10_metal_trash_can" type="StaticBody3D" parent="Modelo_metal_trash_can_018" unique_id=1455866426]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.17980003, 0)
+
+[node name="Forma" type="CollisionShape3D" parent="Modelo_metal_trash_can_018/Hitbox_10_metal_trash_can" unique_id=1145547820]
+shape = SubResource("BoxShape3D_oawa3")
+
+[node name="Placa_OFICINA_019" type="Node3D" parent="." unique_id=918467708]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.35, -0.4, -7.88)
+metadata/origem_conversao = "Placa_OFICINA"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &""
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(3.35, -0.4, -7.88)
+
+[node name="Placa_OFICINA" type="Node3D" parent="Placa_OFICINA_019" unique_id=294859581]
+
+[node name="@MeshInstance3D@199" type="MeshInstance3D" parent="Placa_OFICINA_019/Placa_OFICINA" unique_id=1143304022]
+layers = 2
+material_override = ExtResource("140_dn65g")
+mesh = ExtResource("141_xab0o")
+
+[node name="@Label3D@200" type="Label3D" parent="Placa_OFICINA_019/Placa_OFICINA" unique_id=2002564863]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.026)
+layers = 2
+pixel_size = 0.004
+modulate = Color(0.93333334, 0.8862745, 0.7882353, 1)
+outline_modulate = Color(0.09803922, 0.09019608, 0.078431375, 1)
+text = "OFICINA"
+font_size = 30
+outline_size = 5
+
+[node name="PartsShelf" type="Node3D" parent="." unique_id=700007002]
+transform = Transform3D(-3.14722e-08, 0, -0.72, 0, 0.72, 0, 0.72, 0, -3.14722e-08, 4.52, -2.85, -3.85)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+
+[node name="Model" type="Node3D" parent="PartsShelf" unique_id=1365768231]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 5.9604645e-08, 0)
+
+[node name="wooden_bookshelf_worn" type="MeshInstance3D" parent="PartsShelf/Model" unique_id=708778979]
+layers = 2
+mesh = ExtResource("142_so5l2")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="PartsShelf" unique_id=1687149110]
+
+[node name="Forma" type="CollisionShape3D" parent="PartsShelf/Colisao_Acompanha_Peca" unique_id=97211284]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.0317209, 0)
+shape = SubResource("BoxShape3D_dc14l")

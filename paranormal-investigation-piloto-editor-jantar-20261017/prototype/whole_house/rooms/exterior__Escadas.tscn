@@ -1,0 +1,14 @@
+[gd_scene format=3]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_o0on7"]
+size = Vector3(2.3, 0.14, 3.0600665)
+
+[node name="Escadas" type="Node3D" unique_id=1977536309]
+metadata/pavimento = "exterior"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Colisoes_Exterior" type="StaticBody3D" parent="." unique_id=1305429108]
+
+[node name="RampaAcessoSpawn" type="CollisionShape3D" parent="Colisoes_Exterior" unique_id=1669085461]
+transform = Transform3D(1, 0, 0, 0, 0.99997777, -0.0066665183, 0, 0.0066665183, 0.99997777, 0, -0.07999844, 9.499534)
+shape = SubResource("BoxShape3D_o0on7")

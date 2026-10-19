@@ -1,0 +1,288 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0043.res" id="1_rgepd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0044.res" id="2_opoqo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0045.res" id="3_8y070"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0046.res" id="4_ywh50"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0047.res" id="5_o4huw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0048.res" id="6_286lf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0049.res" id="7_30yei"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0050.res" id="8_arvk3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0051.res" id="9_cnhhj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0052.res" id="10_s8n0c"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0053.res" id="11_am08x"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0054.res" id="12_421hf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0055.res" id="13_uxr5l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0056.res" id="14_3upxq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0057.res" id="15_64vaq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0058.res" id="16_iqymg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0059.res" id="17_dtye8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0060.res" id="18_x3uul"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0061.res" id="19_8ymyf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0062.res" id="20_xnesu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0063.res" id="21_ea03j"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0064.res" id="22_tpcxf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0065.res" id="23_w4xau"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0066.res" id="24_g7tum"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0067.res" id="25_m0ur5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0068.res" id="26_cp588"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0069.res" id="27_4n5se"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0070.res" id="28_wt6jl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0071.res" id="29_5ok8i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0072.res" id="30_rwgna"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0073.res" id="31_r4qn5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0074.res" id="32_7d870"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0075.res" id="33_u83ax"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0076.res" id="34_jxg72"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0077.res" id="35_4jp33"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0078.res" id="36_vxmj4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0079.res" id="37_8kb37"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0080.res" id="38_8a4ug"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0081.res" id="39_0o0dw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0082.res" id="40_g34qc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0083.res" id="41_otovn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0084.res" id="42_nvnih"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0085.res" id="43_pbtdl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0086.res" id="44_iuv8n"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0087.res" id="45_r57wg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0088.res" id="46_xjg3e"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0089.res" id="47_382on"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0090.res" id="48_ltr4g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0091.res" id="49_brik2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0092.res" id="50_ld4lg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0093.res" id="51_35bdq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0094.res" id="52_55blt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0095.res" id="53_gpnth"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_italf"]
+size = Vector3(1.1389999, 2.0410001, 2.406826)
+
+[node name="Cama_Infantil_Loft_Studio" type="Node3D" unique_id=1436330531]
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="." unique_id=236531676]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.12491298)
+
+[node name="STUDIO" type="Node3D" parent="Modelo" unique_id=1084220856]
+metadata/extras = {
+"front": "-Y",
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Bedding | folded return" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=540646307]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.827, -0.405875)
+mesh = ExtResource("1_rgepd")
+
+[node name="Bedding | sewn pillow" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=66882421]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.841, -0.686325)
+mesh = ExtResource("2_opoqo")
+
+[node name="Bedding | softly draped quilt" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1987439572]
+mesh = ExtResource("3_8y070")
+
+[node name="Desk | integrated study surface" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=402297093]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.759, -0.459)
+mesh = ExtResource("4_ywh50")
+
+[node name="Desk | oak cantilever bracket" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1566380748]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.709, 0.946)
+mesh = ExtResource("5_o4huw")
+
+[node name="Desk | oak cantilever bracket_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1438274673]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.709, -0.946)
+mesh = ExtResource("6_286lf")
+
+[node name="Desk | organizer divider" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1204099868]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.318, 1.022, -0.866)
+mesh = ExtResource("7_30yei")
+
+[node name="Desk | organizer divider_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=375608890]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.318, 1.022, -0.866)
+mesh = ExtResource("8_arvk3")
+
+[node name="Desk | organizer shelf" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=203681692]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.814, -0.873)
+mesh = ExtResource("9_cnhhj")
+
+[node name="Desk | organizer shelf_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=204598902]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.251, -0.873)
+mesh = ExtResource("10_s8n0c")
+
+[node name="Guard | front partial tube" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=278653807]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.252, 1.881, 1.052)
+mesh = ExtResource("11_am08x")
+
+[node name="Guard | front partial tube_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=81763336]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.252, 2.025, 1.052)
+mesh = ExtResource("12_421hf")
+
+[node name="Guard | long steel tube" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1635788025]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.542, 1.88, 0)
+mesh = ExtResource("13_uxr5l")
+
+[node name="Guard | long steel tube_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=2019781363]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.542, 2.025, 0)
+mesh = ExtResource("14_3upxq")
+
+[node name="Guard | long steel tube_002" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=743444474]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.542, 1.88, 0)
+mesh = ExtResource("15_64vaq")
+
+[node name="Guard | long steel tube_003" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=474777937]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.542, 2.025, 0)
+mesh = ExtResource("16_iqymg")
+
+[node name="Guard | rear steel tube" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1241260111]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.881, -1.052)
+mesh = ExtResource("17_dtye8")
+
+[node name="Guard | rear steel tube_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1601541327]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.025, -1.052)
+mesh = ExtResource("18_x3uul")
+
+[node name="Loft ladder | step" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=999739473]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.172, 1.2853248)
+mesh = ExtResource("19_8ymyf")
+
+[node name="Loft ladder | step_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1961748975]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.42, 1.2540722)
+mesh = ExtResource("20_xnesu")
+
+[node name="Loft ladder | step_002" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=264468824]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.668, 1.2228197)
+mesh = ExtResource("21_ea03j")
+
+[node name="Loft ladder | step_003" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=2063621973]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 0.916, 1.1915671)
+mesh = ExtResource("22_tpcxf")
+
+[node name="Loft ladder | step_004" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=994875300]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 1.164, 1.1603146)
+mesh = ExtResource("23_w4xau")
+
+[node name="Loft ladder | step_005" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=170064081]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 1.412, 1.1290619)
+mesh = ExtResource("24_g7tum")
+
+[node name="Loft ladder | step_006" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=345190240]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.316, 1.66, 1.0978093)
+mesh = ExtResource("25_m0ur5")
+
+[node name="Loft ladder | stile" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1471823558]
+transform = Transform3D(-1, -5.551283e-09, -8.706884e-08, 5.551283e-09, 0.9919029, -0.12699854, 8.706884e-08, -0.12699854, -0.99190295, 0.139, 0.935, 1.191)
+mesh = ExtResource("26_cp588")
+
+[node name="Loft ladder | stile_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=2081185990]
+transform = Transform3D(-1, -5.551283e-09, -8.706884e-08, 5.551283e-09, 0.9919029, -0.12699854, 8.706884e-08, -0.12699854, -0.99190295, 0.493, 0.935, 1.191)
+mesh = ExtResource("27_4n5se")
+
+[node name="Loft | deep side bearer" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=94568148]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.524, 1.51, 0)
+mesh = ExtResource("28_wt6jl")
+
+[node name="Loft | deep side bearer_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1553335311]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.524, 1.51, 0)
+mesh = ExtResource("29_5ok8i")
+
+[node name="Loft | end bearer" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1195502430]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.51, 1.04)
+mesh = ExtResource("30_rwgna")
+
+[node name="Loft | end bearer_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1770458785]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.51, -1.04)
+mesh = ExtResource("31_r4qn5")
+
+[node name="Loft | mattress slat" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1633106357]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.948)
+mesh = ExtResource("32_7d870")
+
+[node name="Loft | mattress slat_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=574129715]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.7756)
+mesh = ExtResource("33_u83ax")
+
+[node name="Loft | mattress slat_002" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1060475225]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.6032)
+mesh = ExtResource("34_jxg72")
+
+[node name="Loft | mattress slat_003" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=715962886]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.4308)
+mesh = ExtResource("35_4jp33")
+
+[node name="Loft | mattress slat_004" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=373957785]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.2584)
+mesh = ExtResource("36_vxmj4")
+
+[node name="Loft | mattress slat_005" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=199323381]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, 0.086)
+mesh = ExtResource("37_8kb37")
+
+[node name="Loft | mattress slat_006" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1266919427]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.0864)
+mesh = ExtResource("38_8a4ug")
+
+[node name="Loft | mattress slat_007" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1014366178]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.2588)
+mesh = ExtResource("39_0o0dw")
+
+[node name="Loft | mattress slat_008" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1463663687]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.4312)
+mesh = ExtResource("40_g34qc")
+
+[node name="Loft | mattress slat_009" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=383625144]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.6036)
+mesh = ExtResource("41_otovn")
+
+[node name="Loft | mattress slat_010" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=279648497]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.776)
+mesh = ExtResource("42_nvnih")
+
+[node name="Loft | mattress slat_011" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=65111671]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.593, -0.9484)
+mesh = ExtResource("43_pbtdl")
+
+[node name="Loft | non-slip floor pad" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1639557091]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.534, 0.005, 1.043)
+mesh = ExtResource("44_iuv8n")
+
+[node name="Loft | non-slip floor pad_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1817834359]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.534, 0.005, -1.043)
+mesh = ExtResource("45_r57wg")
+
+[node name="Loft | non-slip floor pad_002" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1100886929]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.534, 0.005, 1.043)
+mesh = ExtResource("46_xjg3e")
+
+[node name="Loft | non-slip floor pad_003" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1875473771]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.534, 0.005, -1.043)
+mesh = ExtResource("47_382on")
+
+[node name="Loft | rear steel cross brace" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1342865734]
+transform = Transform3D(0, 0.63904315, 0.7691709, 0, 0.7691709, -0.63904315, -1, 0, 0, 0, 0.83500004, -1.067)
+mesh = ExtResource("48_ltr4g")
+
+[node name="Loft | structural post" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1030897754]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.534, 1.022, 1.043)
+mesh = ExtResource("49_brik2")
+
+[node name="Loft | structural post_001" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=450956020]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.534, 1.022, -1.043)
+mesh = ExtResource("50_ld4lg")
+
+[node name="Loft | structural post_002" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=226665003]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.534, 1.022, 1.043)
+mesh = ExtResource("51_35bdq")
+
+[node name="Loft | structural post_003" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=1791714966]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.534, 1.022, -1.043)
+mesh = ExtResource("52_55blt")
+
+[node name="Mattress | upholstered ticking" type="MeshInstance3D" parent="Modelo/STUDIO" unique_id=153018750]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.698, -0.001)
+mesh = ExtResource("53_gpnth")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="." unique_id=304044429]
+
+[node name="@CollisionShape3D@3" type="CollisionShape3D" parent="Colisao_Acompanha_Peca" unique_id=100528967]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.0205001, 0)
+shape = SubResource("BoxShape3D_italf")

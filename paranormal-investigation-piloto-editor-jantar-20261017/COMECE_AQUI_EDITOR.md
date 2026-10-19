@@ -1,3 +1,12 @@
+# Comece aqui — casa inteira editável
+
+O fluxo atual já inclui **porão, térreo, primeiro andar e sótão/segundo andar**. Abra `project.godot` no Godot 4.7.2 e siga o [Guia de edição da casa inteira](GUIA_EDICAO_CASA_INTEIRA.md). A composição principal editável está em `prototype/whole_house/casa_editavel.tscn`; os cômodos estão em `prototype/whole_house/rooms/`.
+
+Salve as cenas com **Ctrl+S** e use **F5**: o jogo carrega os mesmos arquivos salvos. A cozinha de Richard foi mantida. Consulte a [entrega e os testes](ENTREGA_CASA_INTEIRA.md) para os resultados e limitações.
+
+<details>
+<summary>Histórico: instruções do antigo piloto da sala de jantar</summary>
+
 # Piloto: arrastar móveis da sala de jantar
 
 Esta é uma **candidata separada**, feita a partir da C2 atual. Apenas a sala de jantar foi convertida. A planta, os outros cômodos, as portas e os controles continuam no sistema anterior. Não é uma conversão da casa inteira.
@@ -49,3 +58,5 @@ A visualização clara do editor usa a prévia de sol/ambiente do próprio edito
 - [ ] Verificar portas, caminhos livres e lanterna com o layout desejado.
 
 **Os outros cômodos não foram migrados.** O próximo passo depende da sua revisão deste fluxo.
+
+</details>

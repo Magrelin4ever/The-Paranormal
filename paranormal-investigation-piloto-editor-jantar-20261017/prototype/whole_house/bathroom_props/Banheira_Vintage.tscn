@@ -1,0 +1,297 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_01.res" id="1_bch4v"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/banheira_vintage_70d36601eaf1d52e.png" id="2_7jx2c"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/banheira_vintage_surface_normal.png" id="3_x8i0a"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_02.res" id="4_xxhw7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_03.res" id="5_0pigd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_04.res" id="6_565uo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_05.res" id="7_iy0qa"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_06.res" id="8_qc4vy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_07.res" id="9_cwfju"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_08.res" id="10_iwcbb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_09.res" id="11_ke2us"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_10.res" id="12_kjugc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_11.res" id="13_uf15d"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_12.res" id="14_kqk0y"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_13.res" id="15_x5322"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/banheira_vintage_0068ce215795c1e1.png" id="16_c3d10"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_14.res" id="17_cf1wf"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/banheira_vintage_8d5888eb8fbcd835.png" id="18_mkjka"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_15.res" id="19_6bhxq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Vintage_mesh_16.res" id="20_d77us"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_s4hig"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_557uy"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_21ai4"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_k266v"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_txo58"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_5al2p"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_gmh21"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_o3v86"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_7vbfr"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_5dxen"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_m3ymm"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_7rbyr"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_7jx2c")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_pb4jc"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("16_c3d10")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_qwsrj"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("18_mkjka")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_3q7mx"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("18_mkjka")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_tndu5"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("18_mkjka")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_x8i0a")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_jcuae"]
+size = Vector3(0.76200014, 0.8101176, 1.5800002)
+
+[node name="Banheira_Vintage" type="Node3D" unique_id=1257226850]
+metadata/_edit_group_ = true
+metadata/licenca = "CC0 1.0 — Innerscene; fonte e SHA em assets/models/bathroom_20261019/manifest.json"
+
+[node name="Modelo" type="Node3D" parent="." unique_id=585618502]
+
+[node name="Clawfoot" type="Node3D" parent="Modelo" unique_id=1896523139]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0009999983, 0)
+metadata/extras = {
+"description": "Slipper-style open bath raised on four sculpted metal feet.",
+"dimensions_m": [0.762, 1.58, 0.810118],
+"ground_plane": false,
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Bath | claw terminal" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=1244752796]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.282, 0.034, 0.571)
+mesh = ExtResource("1_bch4v")
+surface_material_override/0 = SubResource("StandardMaterial3D_s4hig")
+
+[node name="Bath | claw terminal_001" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=1811867071]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.282, 0.034, -0.571)
+mesh = ExtResource("4_xxhw7")
+surface_material_override/0 = SubResource("StandardMaterial3D_557uy")
+
+[node name="Bath | claw terminal_002" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=1289950296]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.282, 0.034, 0.571)
+mesh = ExtResource("5_0pigd")
+surface_material_override/0 = SubResource("StandardMaterial3D_21ai4")
+
+[node name="Bath | claw terminal_003" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=750912699]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.282, 0.034, -0.571)
+mesh = ExtResource("6_565uo")
+surface_material_override/0 = SubResource("StandardMaterial3D_k266v")
+
+[node name="Bath | foot mounting pad" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=402702594]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.19, 0.223, 0.4)
+mesh = ExtResource("7_iy0qa")
+surface_material_override/0 = SubResource("StandardMaterial3D_txo58")
+
+[node name="Bath | foot mounting pad_001" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=624764173]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.19, 0.223, -0.4)
+mesh = ExtResource("8_qc4vy")
+surface_material_override/0 = SubResource("StandardMaterial3D_5al2p")
+
+[node name="Bath | foot mounting pad_002" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=1764557650]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.19, 0.223, 0.4)
+mesh = ExtResource("9_cwfju")
+surface_material_override/0 = SubResource("StandardMaterial3D_gmh21")
+
+[node name="Bath | foot mounting pad_003" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=1504539597]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.19, 0.223, -0.4)
+mesh = ExtResource("10_iwcbb")
+surface_material_override/0 = SubResource("StandardMaterial3D_o3v86")
+
+[node name="Bath | sculpted claw foot" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=234596366]
+mesh = ExtResource("11_ke2us")
+surface_material_override/0 = SubResource("StandardMaterial3D_7vbfr")
+
+[node name="Bath | sculpted claw foot_001" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=43843149]
+mesh = ExtResource("12_kjugc")
+surface_material_override/0 = SubResource("StandardMaterial3D_5dxen")
+
+[node name="Bath | sculpted claw foot_002" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=1127380971]
+mesh = ExtResource("13_uf15d")
+surface_material_override/0 = SubResource("StandardMaterial3D_m3ymm")
+
+[node name="Bath | sculpted claw foot_003" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=1609931319]
+mesh = ExtResource("14_kqk0y")
+surface_material_override/0 = SubResource("StandardMaterial3D_7rbyr")
+
+[node name="Bath | slipper enamel shell" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=1235979432]
+transform = Transform3D(-1, 0, -1.8127032e-07, 0, 1, 0, 8.742278e-08, 0, -2.0734909, 0, 0.167, 0)
+mesh = ExtResource("15_x5322")
+surface_material_override/0 = SubResource("StandardMaterial3D_pb4jc")
+
+[node name="Waste | grille crossbar" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=328192198]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, 0, 0.191, 0)
+mesh = ExtResource("17_cf1wf")
+surface_material_override/0 = SubResource("StandardMaterial3D_qwsrj")
+
+[node name="Waste | open nickel flange" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=705300324]
+mesh = ExtResource("19_6bhxq")
+surface_material_override/0 = SubResource("StandardMaterial3D_3q7mx")
+
+[node name="Waste | open outlet tube" type="MeshInstance3D" parent="Modelo/Clawfoot" unique_id=414523999]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0, 0)
+mesh = ExtResource("20_d77us")
+surface_material_override/0 = SubResource("StandardMaterial3D_tndu5")
+
+[node name="Colisao_Move_Com_Peca" type="StaticBody3D" parent="." unique_id=1777101741]
+
+[node name="Forma" type="CollisionShape3D" parent="Colisao_Move_Com_Peca" unique_id=1627326100]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.4050588, 0)
+shape = SubResource("BoxShape3D_jcuae")

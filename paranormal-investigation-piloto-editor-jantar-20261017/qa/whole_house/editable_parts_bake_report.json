@@ -1,0 +1,11 @@
+{
+  "scenes": [
+    "/workspace/The-Paranormal/paranormal-investigation-piloto-editor-jantar-20261017/prototype/whole_house/rooms/terreo__Escritorio.tscn",
+    "/workspace/The-Paranormal/paranormal-investigation-piloto-editor-jantar-20261017/prototype/whole_house/rooms/terreo__Hall_Entrada.tscn",
+    "/workspace/The-Paranormal/paranormal-investigation-piloto-editor-jantar-20261017/prototype/whole_house/rooms/terreo__Area_Servico.tscn",
+    "/workspace/The-Paranormal/paranormal-investigation-piloto-editor-jantar-20261017/prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn"
+  ],
+  "source_glb_touched": false,
+  "offline": true,
+  "notes": "Hierarchy bake; global transforms remain unchanged by adding identity editable roots."
+}

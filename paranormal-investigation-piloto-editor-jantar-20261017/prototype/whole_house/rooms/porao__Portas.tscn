@@ -1,0 +1,463 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://prototype/interactive_door.gd" id="1_jlyf3"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0001.res" id="2_31ar5"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_0830.res" id="3_mycce"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0002.res" id="4_sylbp"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0831.res" id="5_cs6wc"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0832.res" id="6_glaoj"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0833.res" id="7_x5o5k"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0834.res" id="8_dchr8"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0835.res" id="9_hu8vt"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0836.res" id="10_bm881"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_0837.res" id="11_w23la"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0838.res" id="12_s33fg"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0839.res" id="13_w8rwn"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0840.res" id="14_gt8dl"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0841.res" id="15_47h06"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0842.res" id="16_cqi3l"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0843.res" id="17_bfj2t"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_0844.res" id="18_pxeup"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0845.res" id="19_0dvuo"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0846.res" id="20_3ddpr"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0847.res" id="21_l8ohp"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0848.res" id="22_73flk"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0849.res" id="23_s4s3h"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0850.res" id="24_1g2pk"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_0851.res" id="25_ao3mg"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0852.res" id="26_ap6ky"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0853.res" id="27_hswgc"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0854.res" id="28_wtjas"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0855.res" id="29_ykyoh"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0856.res" id="30_4svg6"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0857.res" id="31_eshim"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_0858.res" id="32_qgbsy"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0859.res" id="33_sqni1"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0860.res" id="34_5dyf5"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0861.res" id="35_3gvf8"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0862.res" id="36_5q3yq"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0863.res" id="37_vunk1"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0864.res" id="38_a57d1"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_0865.res" id="39_exwvt"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0866.res" id="40_71bld"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0867.res" id="41_sqvbm"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0868.res" id="42_3vew3"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0869.res" id="43_jhjcb"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0870.res" id="44_usfui"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_0871.res" id="45_asjk0"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_q8su5"]
+size = Vector3(1.55, 2.15, 0.09)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_tdwqs"]
+size = Vector3(1.9, 2.15, 0.14)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_gbust"]
+size = Vector3(0.09, 2.15, 1.4)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_n36hd"]
+size = Vector3(0.14, 2.15, 1.75)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_jxq7s"]
+size = Vector3(0.09, 2.15, 1.4)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_83iyy"]
+size = Vector3(0.14, 2.15, 1.75)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_gbpkt"]
+size = Vector3(0.09, 2.15, 1.4)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_cckqt"]
+size = Vector3(0.14, 2.15, 1.75)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ed4lu"]
+size = Vector3(1.35, 2.15, 0.09)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_bxt5k"]
+size = Vector3(1.7, 2.15, 0.14)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_7mahq"]
+size = Vector3(0.09, 2.15, 1.3)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ova3f"]
+size = Vector3(0.14, 2.15, 1.65)
+
+[node name="Portas" type="Node3D" unique_id=478692975]
+metadata/pavimento = "porao"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Porta_porao" type="AnimatableBody3D" parent="." unique_id=819002509]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.775, -2.85, 1.7)
+collision_mask = 0
+script = ExtResource("1_jlyf3")
+metadata/pavimento = &"porao"
+metadata/interativo = "porta"
+
+[node name="@MeshInstance3D@3" type="MeshInstance3D" parent="Porta_porao" unique_id=226258317]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.775, 1.075, 0)
+layers = 2
+material_override = ExtResource("2_31ar5")
+mesh = ExtResource("3_mycce")
+
+[node name="@CollisionShape3D@4" type="CollisionShape3D" parent="Porta_porao" unique_id=563566423]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.775, 1.075, 0)
+shape = SubResource("BoxShape3D_q8su5")
+
+[node name="AlvoInteracao" type="Area3D" parent="Porta_porao" unique_id=502321276]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1.7749999, 1.7)
+top_level = true
+collision_layer = 2
+collision_mask = 0
+
+[node name="@CollisionShape3D@5" type="CollisionShape3D" parent="Porta_porao/AlvoInteracao" unique_id=633292692]
+shape = SubResource("BoxShape3D_tdwqs")
+
+[node name="RosetaMaçaneta" type="MeshInstance3D" parent="Porta_porao" unique_id=88442743]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.271, 1, -0.044)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("5_cs6wc")
+
+[node name="HasteMaçaneta" type="MeshInstance3D" parent="Porta_porao" unique_id=909844666]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.271, 1, -0.068)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("6_glaoj")
+
+[node name="AlavancaMaçaneta" type="MeshInstance3D" parent="Porta_porao" unique_id=387832287]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 1.236, 1, -0.087)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("7_x5o5k")
+
+[node name="@MeshInstance3D@6" type="MeshInstance3D" parent="Porta_porao" unique_id=1063974515]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.271, 1, 0.044)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("8_dchr8")
+
+[node name="@MeshInstance3D@7" type="MeshInstance3D" parent="Porta_porao" unique_id=1699340392]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.271, 1, 0.068)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("9_hu8vt")
+
+[node name="@MeshInstance3D@8" type="MeshInstance3D" parent="Porta_porao" unique_id=1311603357]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 1.236, 1, 0.087)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("10_bm881")
+
+[node name="@AnimatableBody3D@9" type="AnimatableBody3D" parent="." unique_id=1212324221]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -2.85, 4.55)
+collision_mask = 0
+script = ExtResource("1_jlyf3")
+angulo_abertura_graus = -95.0
+metadata/pavimento = &"porao"
+metadata/interativo = "porta"
+
+[node name="@MeshInstance3D@10" type="MeshInstance3D" parent="@AnimatableBody3D@9" unique_id=1331839380]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.075, 0.7)
+layers = 2
+material_override = ExtResource("2_31ar5")
+mesh = ExtResource("11_w23la")
+
+[node name="@CollisionShape3D@11" type="CollisionShape3D" parent="@AnimatableBody3D@9" unique_id=187495265]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.075, 0.7)
+shape = SubResource("BoxShape3D_gbust")
+
+[node name="AlvoInteracao" type="Area3D" parent="@AnimatableBody3D@9" unique_id=792048020]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.7749999, 5.25)
+top_level = true
+collision_layer = 2
+collision_mask = 0
+
+[node name="@CollisionShape3D@12" type="CollisionShape3D" parent="@AnimatableBody3D@9/AlvoInteracao" unique_id=310946209]
+shape = SubResource("BoxShape3D_n36hd")
+
+[node name="RosetaMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@9" unique_id=61862155]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, -0.044, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("12_s33fg")
+
+[node name="HasteMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@9" unique_id=1517114189]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, -0.068, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("13_w8rwn")
+
+[node name="AlavancaMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@9" unique_id=969202165]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, -0.087, 1, 1.113)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("14_gt8dl")
+
+[node name="@MeshInstance3D@13" type="MeshInstance3D" parent="@AnimatableBody3D@9" unique_id=1428518410]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 0.044, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("15_47h06")
+
+[node name="@MeshInstance3D@14" type="MeshInstance3D" parent="@AnimatableBody3D@9" unique_id=1785771331]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 0.068, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("16_cqi3l")
+
+[node name="@MeshInstance3D@15" type="MeshInstance3D" parent="@AnimatableBody3D@9" unique_id=507285898]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 0.087, 1, 1.113)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("17_bfj2t")
+
+[node name="@AnimatableBody3D@16" type="AnimatableBody3D" parent="." unique_id=378664798]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -2.85, -0.7)
+collision_mask = 0
+script = ExtResource("1_jlyf3")
+angulo_abertura_graus = -95.0
+metadata/pavimento = &"porao"
+metadata/interativo = "porta"
+
+[node name="@MeshInstance3D@17" type="MeshInstance3D" parent="@AnimatableBody3D@16" unique_id=116145661]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.075, 0.7)
+layers = 2
+material_override = ExtResource("2_31ar5")
+mesh = ExtResource("18_pxeup")
+
+[node name="@CollisionShape3D@18" type="CollisionShape3D" parent="@AnimatableBody3D@16" unique_id=1007665861]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.075, 0.7)
+shape = SubResource("BoxShape3D_jxq7s")
+
+[node name="AlvoInteracao" type="Area3D" parent="@AnimatableBody3D@16" unique_id=88515561]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.7749999, 0)
+top_level = true
+collision_layer = 2
+collision_mask = 0
+
+[node name="@CollisionShape3D@19" type="CollisionShape3D" parent="@AnimatableBody3D@16/AlvoInteracao" unique_id=1327176497]
+shape = SubResource("BoxShape3D_83iyy")
+
+[node name="RosetaMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@16" unique_id=1842667709]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, -0.044, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("19_0dvuo")
+
+[node name="HasteMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@16" unique_id=1832797612]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, -0.068, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("20_3ddpr")
+
+[node name="AlavancaMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@16" unique_id=1505082819]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, -0.087, 1, 1.113)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("21_l8ohp")
+
+[node name="@MeshInstance3D@20" type="MeshInstance3D" parent="@AnimatableBody3D@16" unique_id=1527015488]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 0.044, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("22_73flk")
+
+[node name="@MeshInstance3D@21" type="MeshInstance3D" parent="@AnimatableBody3D@16" unique_id=1941643053]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 0.068, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("23_s4s3h")
+
+[node name="@MeshInstance3D@22" type="MeshInstance3D" parent="@AnimatableBody3D@16" unique_id=1297167837]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 0.087, 1, 1.113)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("24_1g2pk")
+
+[node name="@AnimatableBody3D@23" type="AnimatableBody3D" parent="." unique_id=1525958757]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -2.85, -6.05)
+collision_mask = 0
+script = ExtResource("1_jlyf3")
+angulo_abertura_graus = -95.0
+metadata/pavimento = &"porao"
+metadata/interativo = "porta"
+
+[node name="@MeshInstance3D@24" type="MeshInstance3D" parent="@AnimatableBody3D@23" unique_id=920919406]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.075, 0.7)
+layers = 2
+material_override = ExtResource("2_31ar5")
+mesh = ExtResource("25_ao3mg")
+
+[node name="@CollisionShape3D@25" type="CollisionShape3D" parent="@AnimatableBody3D@23" unique_id=468663921]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.075, 0.7)
+shape = SubResource("BoxShape3D_gbpkt")
+
+[node name="AlvoInteracao" type="Area3D" parent="@AnimatableBody3D@23" unique_id=399315479]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.7749999, -5.3500004)
+top_level = true
+collision_layer = 2
+collision_mask = 0
+
+[node name="@CollisionShape3D@26" type="CollisionShape3D" parent="@AnimatableBody3D@23/AlvoInteracao" unique_id=982637208]
+shape = SubResource("BoxShape3D_cckqt")
+
+[node name="RosetaMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@23" unique_id=468046877]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, -0.044, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("26_ap6ky")
+
+[node name="HasteMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@23" unique_id=440870291]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, -0.068, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("27_hswgc")
+
+[node name="AlavancaMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@23" unique_id=1571045543]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, -0.087, 1, 1.113)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("28_wtjas")
+
+[node name="@MeshInstance3D@27" type="MeshInstance3D" parent="@AnimatableBody3D@23" unique_id=1310139863]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 0.044, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("29_ykyoh")
+
+[node name="@MeshInstance3D@28" type="MeshInstance3D" parent="@AnimatableBody3D@23" unique_id=1349156290]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 0.068, 1, 1.148)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("30_4svg6")
+
+[node name="@MeshInstance3D@29" type="MeshInstance3D" parent="@AnimatableBody3D@23" unique_id=762512904]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 0.087, 1, 1.113)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("31_eshim")
+
+[node name="@AnimatableBody3D@30" type="AnimatableBody3D" parent="." unique_id=285155962]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.675, -2.85, -3)
+collision_mask = 0
+script = ExtResource("1_jlyf3")
+metadata/pavimento = &"porao"
+metadata/interativo = "porta"
+
+[node name="@MeshInstance3D@31" type="MeshInstance3D" parent="@AnimatableBody3D@30" unique_id=409271867]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.675, 1.075, 0)
+layers = 2
+material_override = ExtResource("2_31ar5")
+mesh = ExtResource("32_qgbsy")
+
+[node name="@CollisionShape3D@32" type="CollisionShape3D" parent="@AnimatableBody3D@30" unique_id=1063843830]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.675, 1.075, 0)
+shape = SubResource("BoxShape3D_ed4lu")
+
+[node name="AlvoInteracao" type="Area3D" parent="@AnimatableBody3D@30" unique_id=589549187]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, -1.7749999, -3)
+top_level = true
+collision_layer = 2
+collision_mask = 0
+
+[node name="@CollisionShape3D@33" type="CollisionShape3D" parent="@AnimatableBody3D@30/AlvoInteracao" unique_id=609219949]
+shape = SubResource("BoxShape3D_bxt5k")
+
+[node name="RosetaMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@30" unique_id=184158232]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.107, 1, -0.044)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("33_sqni1")
+
+[node name="HasteMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@30" unique_id=471466745]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.107, 1, -0.068)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("34_5dyf5")
+
+[node name="AlavancaMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@30" unique_id=607740883]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 1.072, 1, -0.087)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("35_3gvf8")
+
+[node name="@MeshInstance3D@34" type="MeshInstance3D" parent="@AnimatableBody3D@30" unique_id=12588690]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.107, 1, 0.044)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("36_5q3yq")
+
+[node name="@MeshInstance3D@35" type="MeshInstance3D" parent="@AnimatableBody3D@30" unique_id=776530214]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.107, 1, 0.068)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("37_vunk1")
+
+[node name="@MeshInstance3D@36" type="MeshInstance3D" parent="@AnimatableBody3D@30" unique_id=828952871]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 1.072, 1, 0.087)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("38_a57d1")
+
+[node name="@AnimatableBody3D@37" type="AnimatableBody3D" parent="." unique_id=295717974]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.25, -2.85, -6.9)
+collision_mask = 0
+script = ExtResource("1_jlyf3")
+angulo_abertura_graus = -95.0
+metadata/pavimento = &"porao"
+metadata/interativo = "porta"
+
+[node name="@MeshInstance3D@38" type="MeshInstance3D" parent="@AnimatableBody3D@37" unique_id=261041323]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.075, 0.65)
+layers = 2
+material_override = ExtResource("2_31ar5")
+mesh = ExtResource("39_exwvt")
+
+[node name="@CollisionShape3D@39" type="CollisionShape3D" parent="@AnimatableBody3D@37" unique_id=107002572]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.075, 0.65)
+shape = SubResource("BoxShape3D_7mahq")
+
+[node name="AlvoInteracao" type="Area3D" parent="@AnimatableBody3D@37" unique_id=1241899477]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.25, -1.7749999, -6.25)
+top_level = true
+collision_layer = 2
+collision_mask = 0
+
+[node name="@CollisionShape3D@40" type="CollisionShape3D" parent="@AnimatableBody3D@37/AlvoInteracao" unique_id=711039014]
+shape = SubResource("BoxShape3D_ova3f")
+
+[node name="RosetaMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@37" unique_id=1720640393]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, -0.044, 1, 1.066)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("40_71bld")
+
+[node name="HasteMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@37" unique_id=522617115]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, -0.068, 1, 1.066)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("41_sqvbm")
+
+[node name="AlavancaMaçaneta" type="MeshInstance3D" parent="@AnimatableBody3D@37" unique_id=1960078266]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, -0.087, 1, 1.031)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("42_3vew3")
+
+[node name="@MeshInstance3D@41" type="MeshInstance3D" parent="@AnimatableBody3D@37" unique_id=1644120881]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 0.044, 1, 1.066)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("43_jhjcb")
+
+[node name="@MeshInstance3D@42" type="MeshInstance3D" parent="@AnimatableBody3D@37" unique_id=1442192940]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 0.068, 1, 1.066)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("44_usfui")
+
+[node name="@MeshInstance3D@43" type="MeshInstance3D" parent="@AnimatableBody3D@37" unique_id=483749689]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 0.087, 1, 1.031)
+layers = 2
+material_override = ExtResource("4_sylbp")
+mesh = ExtResource("45_asjk0")

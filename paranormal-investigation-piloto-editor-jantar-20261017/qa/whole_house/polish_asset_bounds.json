@@ -1,0 +1,72 @@
+[
+	{
+		"meshes": 42,
+		"min": [
+			-0.910404086112976,
+			0.0,
+			-1.14049994945526
+		],
+		"path": "res://prototype/assets/models/real_house_20261019/hush_wingback_bed.glb",
+		"size": [
+			1.82080817222595,
+			1.46449995040894,
+			2.26449990272522
+		]
+	},
+	{
+		"meshes": 53,
+		"min": [
+			-0.569499969482422,
+			0.0,
+			-1.07850003242493
+		],
+		"path": "res://prototype/assets/models/real_house_20261019/studio_loft_study_bed.glb",
+		"size": [
+			1.13899993896484,
+			2.04100012779236,
+			2.40682601928711
+		]
+	},
+	{
+		"meshes": 37,
+		"min": [
+			-1.05999994277954,
+			0.0,
+			-0.0390000008046627
+		],
+		"path": "res://prototype/assets/models/innerscene/curtain-pair-open-original-interior-furnishing.glb",
+		"size": [
+			2.11999988555908,
+			2.19349980354309,
+			0.0780000016093254
+		]
+	},
+	{
+		"meshes": 1,
+		"min": [
+			-0.458093911409378,
+			-0.00000000372529029846191,
+			-0.220058232545853
+		],
+		"path": "res://prototype/assets/models/polyhaven/small_wooden_table_01/small_wooden_table_01_1k.gltf",
+		"size": [
+			0.916187822818756,
+			0.533085763454437,
+			0.43996262550354
+		]
+	},
+	{
+		"meshes": 3,
+		"min": [
+			-0.396660029888153,
+			0.0000529646276845597,
+			-0.420312613248825
+		],
+		"path": "res://prototype/assets/models/polyhaven/potted_plant_02/potted_plant_02_1k.gltf",
+		"size": [
+			0.701157033443451,
+			0.841178715229034,
+			0.657386541366577
+		]
+	}
+]

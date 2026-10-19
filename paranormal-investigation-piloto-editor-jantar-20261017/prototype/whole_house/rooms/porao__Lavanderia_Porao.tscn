@@ -1,0 +1,989 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1414.res" id="1_rmavm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1415.res" id="2_fv8gp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1416.res" id="3_nnf1f"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1417.res" id="4_1h1nf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1418.res" id="5_ykklb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1419.res" id="6_1hakb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1420.res" id="7_kewau"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1421.res" id="8_iwj3q"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1422.res" id="9_6omo6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1423.res" id="10_e03tc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1424.res" id="11_dlnfj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1425.res" id="12_asrgo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1426.res" id="13_mqa0e"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1427.res" id="14_h5u3g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1428.res" id="15_j5ja7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1429.res" id="16_lif7n"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1430.res" id="17_oesht"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1431.res" id="18_cbopp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1432.res" id="19_yklnn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1433.res" id="20_p8wyp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1434.res" id="21_84nhg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1435.res" id="22_kft7b"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1436.res" id="23_0cj0t"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1437.res" id="24_rklbp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1438.res" id="25_mcubx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1439.res" id="26_52qnj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1440.res" id="27_s1fy7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1441.res" id="28_2hyhi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1442.res" id="29_qsfmt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1443.res" id="30_r035i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1444.res" id="31_g7pa2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1445.res" id="32_4g6sx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1446.res" id="33_xr7lo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1447.res" id="34_ttyeb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1448.res" id="35_65sqg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1449.res" id="36_bpbry"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1450.res" id="37_pq6ok"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1451.res" id="38_meqgl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1452.res" id="39_klo5b"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1453.res" id="40_odvl6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1454.res" id="41_y21ou"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1455.res" id="42_gk5vd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1456.res" id="43_a1fye"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1457.res" id="44_eoywn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1458.res" id="45_avkp6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1459.res" id="46_a1tsk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1460.res" id="47_c3xgq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1461.res" id="48_u81wg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1462.res" id="49_gf5n7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1463.res" id="50_oakdk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1464.res" id="51_rswfx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1465.res" id="52_6hrbf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1466.res" id="53_3vgpv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1467.res" id="54_ep25p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1468.res" id="55_118g3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1469.res" id="56_hqrjo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1470.res" id="57_cy5ew"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1471.res" id="58_viowr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1472.res" id="59_qijtv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1473.res" id="60_oir3y"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1474.res" id="61_cvt72"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1475.res" id="62_lq48y"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1476.res" id="63_0rab5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1477.res" id="64_jh47j"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1478.res" id="65_0vuvf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1479.res" id="66_8btoi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1480.res" id="67_cx0rw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1481.res" id="68_uqh6g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1482.res" id="69_3yl8q"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1483.res" id="70_bmbad"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1484.res" id="71_hpaql"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1485.res" id="72_5ek80"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1486.res" id="73_61i4w"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1487.res" id="74_lvfkj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1488.res" id="75_cj6aa"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1489.res" id="76_uhyxr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1490.res" id="77_s2jrx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1491.res" id="78_l3j8o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1492.res" id="79_yvy7n"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1493.res" id="80_y0gr8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1494.res" id="81_mrkcu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1495.res" id="82_c2l7i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1496.res" id="83_5q4wy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1497.res" id="84_5c32b"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1498.res" id="85_3kpj5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1499.res" id="86_kpfse"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1500.res" id="87_7p8o0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1501.res" id="88_lq1qf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1502.res" id="89_x0rks"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1503.res" id="90_wfsk6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1504.res" id="91_g6sgh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1505.res" id="92_lle7w"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1506.res" id="93_lhbxr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1507.res" id="94_hd4ry"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1508.res" id="95_41ik0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1509.res" id="96_t45qi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1510.res" id="97_tvixm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1511.res" id="98_dhxd4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1512.res" id="99_5veh2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1513.res" id="100_f4yus"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1514.res" id="101_ibyc5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1515.res" id="102_l4cbt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1516.res" id="103_eu128"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1517.res" id="104_dvgfd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1518.res" id="105_fxnvr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1519.res" id="106_gc2ij"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1520.res" id="107_c1wgl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1521.res" id="108_gcs4i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1522.res" id="109_dhh4j"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1523.res" id="110_n04ti"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1524.res" id="111_uke56"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1525.res" id="112_t21c2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1526.res" id="113_rsxcx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1527.res" id="114_o1hkt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1528.res" id="115_3uhwt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1529.res" id="116_dxoyr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1530.res" id="117_46xx5"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0005.res" id="118_o3c4s"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_1531.res" id="119_4jml4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1532.res" id="120_uy0fw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0009.res" id="121_4g6sx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0010.res" id="122_xr7lo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0011.res" id="123_ttyeb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0012.res" id="124_65sqg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0013.res" id="125_bpbry"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0014.res" id="126_pq6ok"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0015.res" id="127_meqgl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0016.res" id="128_klo5b"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0017.res" id="129_odvl6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0018.res" id="130_y21ou"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0019.res" id="131_gk5vd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0020.res" id="132_a1fye"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0021.res" id="133_eoywn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0022.res" id="134_avkp6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0023.res" id="135_a1tsk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0024.res" id="136_c3xgq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0025.res" id="137_u81wg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0026.res" id="138_gf5n7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0027.res" id="139_oakdk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0028.res" id="140_rswfx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0029.res" id="141_6hrbf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0030.res" id="142_3vgpv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0031.res" id="143_ep25p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0032.res" id="144_118g3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0033.res" id="145_hqrjo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0034.res" id="146_cy5ew"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0035.res" id="147_viowr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0036.res" id="148_qijtv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0037.res" id="149_oir3y"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0038.res" id="150_cvt72"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0039.res" id="151_lq48y"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_72ajy"]
+size = Vector3(0.62, 0.88, 0.62)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_25sct"]
+size = Vector3(0.62, 0.88, 0.64)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_tvgv2"]
+size = Vector3(0.70199996, 0.216, 0.54)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_0rab5"]
+size = Vector3(0.638, 1.105184, 0.57449996)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_jh47j"]
+size = Vector3(0.37150964, 1.5561838, 1.0777609)
+
+[node name="Lavanderia_Porao" type="Node3D" unique_id=269243514]
+metadata/pavimento = "porao"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Tapete_005" type="Node3D" parent="." unique_id=296900048]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.25, -2.828, -1.05)
+metadata/origem_conversao = "Tapete"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(-6.25, -2.828, -1.05)
+
+[node name="Peca_rug_detail_1211" type="MeshInstance3D" parent="Tapete_005" unique_id=90086705]
+layers = 2
+mesh = ExtResource("1_rmavm")
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/material_original = &"rug_detail"
+metadata/_edit_group_ = true
+
+[node name="Peca_rug_detail_1212" type="MeshInstance3D" parent="Tapete_005" unique_id=443670297]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.019000053, -1.0249999)
+layers = 2
+mesh = ExtResource("2_fv8gp")
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/material_original = &"rug_detail"
+metadata/_edit_group_ = true
+
+[node name="Peca_rug_detail_1213" type="MeshInstance3D" parent="Tapete_005" unique_id=2097773495]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.019000053, 1.025)
+layers = 2
+mesh = ExtResource("3_nnf1f")
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/material_original = &"rug_detail"
+metadata/_edit_group_ = true
+
+[node name="Modelo_LavadoraSecadora_006" type="Node3D" parent="." unique_id=1538331560]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.85, -2.85, -2.05)
+metadata/origem_conversao = "Modelo_LavadoraSecadora"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(-7.85, -2.85, -2.05)
+
+[node name="Asset_C2_00_LavadoraSecadora" type="Node3D" parent="Modelo_LavadoraSecadora_006" unique_id=2107333288]
+
+[node name="Washer-dryer" type="Node3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora" unique_id=1123857932]
+metadata/extras = {
+"license": "CC0-1.0",
+"original_design": true
+}
+
+[node name="Adjustable rubber foot" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=788064588]
+layers = 2
+mesh = ExtResource("4_1h1nf")
+
+[node name="Adjustable rubber foot_001" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1756457924]
+layers = 2
+mesh = ExtResource("5_ykklb")
+
+[node name="Adjustable rubber foot_002" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1220787905]
+layers = 2
+mesh = ExtResource("6_1hakb")
+
+[node name="Adjustable rubber foot_003" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=968346893]
+layers = 2
+mesh = ExtResource("7_kewau")
+
+[node name="Circular-aperture front facade" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1163823920]
+layers = 2
+mesh = ExtResource("8_iwj3q")
+
+[node name="Control spindle collar" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=160175078]
+layers = 2
+mesh = ExtResource("9_6omo6")
+
+[node name="Dark motor-side drum enclosure" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1286083479]
+layers = 2
+mesh = ExtResource("10_e03tc")
+
+[node name="Detergent drawer face" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1706107638]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.18538, 0.773, 0.27725)
+layers = 2
+mesh = ExtResource("11_dlnfj")
+
+[node name="Detergent drawer finger pull" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=768623732]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.18538, 0.798, 0.28825)
+layers = 2
+mesh = ExtResource("12_asrgo")
+
+[node name="Door latch grip" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=334588475]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.17935814, 0.41932, 0.285)
+layers = 2
+mesh = ExtResource("13_mqa0e")
+
+[node name="Drain filter service cap" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=2143151399]
+layers = 2
+mesh = ExtResource("14_h5u3g")
+
+[node name="Drum rear radial spoke" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=92535677]
+layers = 2
+mesh = ExtResource("15_j5ja7")
+
+[node name="Drum rear radial spoke_001" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1211849696]
+layers = 2
+mesh = ExtResource("16_lif7n")
+
+[node name="Drum rear radial spoke_002" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=699540523]
+layers = 2
+mesh = ExtResource("17_oesht")
+
+[node name="Drum rear radial spoke_003" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1604223418]
+layers = 2
+mesh = ExtResource("18_cbopp")
+
+[node name="Drum rear radial spoke_004" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=703970592]
+layers = 2
+mesh = ExtResource("19_yklnn")
+
+[node name="Drum rear radial spoke_005" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1378328805]
+layers = 2
+mesh = ExtResource("20_p8wyp")
+
+[node name="Drum rear radial spoke_006" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=916872683]
+layers = 2
+mesh = ExtResource("21_84nhg")
+
+[node name="Drum rear radial spoke_007" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1848324994]
+layers = 2
+mesh = ExtResource("22_kft7b")
+
+[node name="Finite cabinet floor" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=735533246]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.035, -0.006375)
+layers = 2
+mesh = ExtResource("23_0cj0t")
+
+[node name="Finite convex door glass" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=476745898]
+layers = 2
+mesh = ExtResource("24_rklbp")
+
+[node name="Finite stainless drum cylinder" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1585671264]
+layers = 2
+mesh = ExtResource("25_mcubx")
+
+[node name="Folded top lid" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=2117976585]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.839, -0.006375)
+layers = 2
+mesh = ExtResource("26_52qnj")
+
+[node name="Generic laundry programme display" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=508981381]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.1495, 0.773, 0.27465)
+layers = 2
+mesh = ExtResource("27_s1fy7")
+
+[node name="Inner glazing retaining lip" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1969510089]
+layers = 2
+mesh = ExtResource("28_2hyhi")
+
+[node name="Internal laundry drum lifter" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=448699753]
+layers = 2
+mesh = ExtResource("29_qsfmt")
+
+[node name="Internal laundry drum lifter_001" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1392509035]
+layers = 2
+mesh = ExtResource("30_r035i")
+
+[node name="Internal laundry drum lifter_002" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=2113917360]
+layers = 2
+mesh = ExtResource("31_g7pa2")
+
+[node name="Knob raised index" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=870763320]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.78572, 0.29425)
+layers = 2
+mesh = ExtResource("32_4g6sx")
+
+[node name="Left folded cabinet panel" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1037113282]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.292, 0.424, -0.006375)
+layers = 2
+mesh = ExtResource("33_xr7lo")
+
+[node name="Lower service plinth" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1598953812]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.068, 0.26125)
+layers = 2
+mesh = ExtResource("34_ttyeb")
+
+[node name="Perforated rear drum ring" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=787286257]
+layers = 2
+mesh = ExtResource("35_65sqg")
+
+[node name="Perforated rear drum ring_001" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1042378029]
+layers = 2
+mesh = ExtResource("36_bpbry")
+
+[node name="Perforated rear drum ring_002" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=2136566136]
+layers = 2
+mesh = ExtResource("37_pq6ok")
+
+[node name="Profiled polished door rim" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=383013872]
+layers = 2
+mesh = ExtResource("38_meqgl")
+
+[node name="Rear hose retaining clip" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=477240023]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.18652, 0.35616, -0.275)
+layers = 2
+mesh = ExtResource("39_klo5b")
+
+[node name="Rear hose retaining clip_001" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=636463896]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.18652, 0.16112, -0.275)
+layers = 2
+mesh = ExtResource("40_odvl6")
+
+[node name="Rear retained drain hose" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1489182956]
+layers = 2
+mesh = ExtResource("41_y21ou")
+
+[node name="Rear retained drain hose_001" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1685414880]
+layers = 2
+mesh = ExtResource("42_gk5vd")
+
+[node name="Rear retained drain hose_002" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=615230607]
+layers = 2
+mesh = ExtResource("43_a1fye")
+
+[node name="Rear retained drain hose_003" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=400097158]
+layers = 2
+mesh = ExtResource("44_eoywn")
+
+[node name="Rear retained drain hose_004" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1647094030]
+layers = 2
+mesh = ExtResource("45_avkp6")
+
+[node name="Rear service enclosure" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=17640285]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.424, -0.263)
+layers = 2
+mesh = ExtResource("46_a1tsk")
+
+[node name="Right folded cabinet panel" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1057820714]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.292, 0.424, -0.006375)
+layers = 2
+mesh = ExtResource("47_c3xgq")
+
+[node name="Seated assembly screw" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=672802939]
+layers = 2
+mesh = ExtResource("48_u81wg")
+
+[node name="Seated assembly screw_001" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1861165284]
+layers = 2
+mesh = ExtResource("49_gf5n7")
+
+[node name="Seated assembly screw_002" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=240605280]
+layers = 2
+mesh = ExtResource("50_oakdk")
+
+[node name="Seated assembly screw_003" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=773483469]
+layers = 2
+mesh = ExtResource("51_rswfx")
+
+[node name="Seated black door bellows" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=299197994]
+layers = 2
+mesh = ExtResource("52_6hrbf")
+
+[node name="Seated door hinge" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1318702129]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.19548021, 0.39432, 0.25225)
+layers = 2
+mesh = ExtResource("53_3vgpv")
+
+[node name="Seated drain hose return elbow" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=395895723]
+layers = 2
+mesh = ExtResource("54_ep25p")
+
+[node name="Seated water inlet connector" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1557700241]
+layers = 2
+mesh = ExtResource("55_118g3")
+
+[node name="Turned control knob" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=1796876669]
+layers = 2
+mesh = ExtResource("56_hqrjo")
+
+[node name="Upper control fascia" type="MeshInstance3D" parent="Modelo_LavadoraSecadora_006/Asset_C2_00_LavadoraSecadora/Washer-dryer" unique_id=438686697]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.768, 0.26125)
+layers = 2
+mesh = ExtResource("57_cy5ew")
+
+[node name="Hitbox_C2_00_LavadoraSecadora" type="StaticBody3D" parent="Modelo_LavadoraSecadora_006" unique_id=1597032305]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.44000006, 0)
+
+[node name="Forma" type="CollisionShape3D" parent="Modelo_LavadoraSecadora_006/Hitbox_C2_00_LavadoraSecadora" unique_id=1926546746]
+shape = SubResource("BoxShape3D_72ajy")
+
+[node name="Modelo_Secadora_007" type="Node3D" parent="." unique_id=1911008785]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.95, -2.85, -2.05)
+metadata/origem_conversao = "Modelo_Secadora"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(-6.95, -2.85, -2.05)
+
+[node name="Asset_C2_01_Secadora" type="Node3D" parent="Modelo_Secadora_007" unique_id=13951650]
+
+[node name="Tumble dryer" type="Node3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora" unique_id=655418257]
+metadata/extras = {
+"license": "CC0-1.0",
+"original_design": true
+}
+
+[node name="Adjustable rubber foot" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=216106973]
+layers = 2
+mesh = ExtResource("58_viowr")
+
+[node name="Adjustable rubber foot_001" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1393938366]
+layers = 2
+mesh = ExtResource("59_qijtv")
+
+[node name="Adjustable rubber foot_002" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1752129363]
+layers = 2
+mesh = ExtResource("60_oir3y")
+
+[node name="Adjustable rubber foot_003" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=260258279]
+layers = 2
+mesh = ExtResource("61_cvt72")
+
+[node name="Circular-aperture front facade" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1800479672]
+layers = 2
+mesh = ExtResource("62_lq48y")
+
+[node name="Control spindle collar" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=634044387]
+layers = 2
+mesh = ExtResource("63_0rab5")
+
+[node name="Dark motor-side drum enclosure" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=991459693]
+layers = 2
+mesh = ExtResource("64_jh47j")
+
+[node name="Detergent drawer face" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=363014290]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.18538, 0.767, 0.28875)
+layers = 2
+mesh = ExtResource("65_0vuvf")
+
+[node name="Detergent drawer finger pull" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1906419463]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.18538, 0.792, 0.29975)
+layers = 2
+mesh = ExtResource("66_8btoi")
+
+[node name="Door latch grip" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=721289286]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.17935814, 0.41653, 0.2965)
+layers = 2
+mesh = ExtResource("67_cx0rw")
+
+[node name="Drum rear radial spoke" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=2068709933]
+layers = 2
+mesh = ExtResource("68_uqh6g")
+
+[node name="Drum rear radial spoke_001" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=982950687]
+layers = 2
+mesh = ExtResource("69_3yl8q")
+
+[node name="Drum rear radial spoke_002" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1747905164]
+layers = 2
+mesh = ExtResource("70_bmbad")
+
+[node name="Drum rear radial spoke_003" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1372463755]
+layers = 2
+mesh = ExtResource("71_hpaql")
+
+[node name="Drum rear radial spoke_004" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1826575057]
+layers = 2
+mesh = ExtResource("72_5ek80")
+
+[node name="Drum rear radial spoke_005" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1663857315]
+layers = 2
+mesh = ExtResource("73_61i4w")
+
+[node name="Drum rear radial spoke_006" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=134995091]
+layers = 2
+mesh = ExtResource("74_lvfkj")
+
+[node name="Drum rear radial spoke_007" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=809935059]
+layers = 2
+mesh = ExtResource("75_cj6aa")
+
+[node name="Finite cabinet floor" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=192988255]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.035, -0.006375)
+layers = 2
+mesh = ExtResource("76_uhyxr")
+
+[node name="Finite convex door glass" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1184199965]
+layers = 2
+mesh = ExtResource("77_s2jrx")
+
+[node name="Finite stainless drum cylinder" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1410749493]
+layers = 2
+mesh = ExtResource("78_l3j8o")
+
+[node name="Folded top lid" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1506140285]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.833, -0.006375)
+layers = 2
+mesh = ExtResource("79_yvy7n")
+
+[node name="Generic laundry programme display" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=64799742]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.1495, 0.767, 0.28615)
+layers = 2
+mesh = ExtResource("80_y0gr8")
+
+[node name="Inner glazing retaining lip" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=318239574]
+layers = 2
+mesh = ExtResource("81_mrkcu")
+
+[node name="Internal laundry drum lifter" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=9525706]
+layers = 2
+mesh = ExtResource("82_c2l7i")
+
+[node name="Internal laundry drum lifter_001" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=837356782]
+layers = 2
+mesh = ExtResource("83_5q4wy")
+
+[node name="Internal laundry drum lifter_002" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=392448175]
+layers = 2
+mesh = ExtResource("84_5c32b")
+
+[node name="Knob raised index" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=622738649]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.77972, 0.30575)
+layers = 2
+mesh = ExtResource("85_3kpj5")
+
+[node name="Left folded cabinet panel" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=889464971]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.292, 0.421, -0.006375)
+layers = 2
+mesh = ExtResource("86_kpfse")
+
+[node name="Lint filter service vent dark recess" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=471765598]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.1196, 0.068, 0.28375)
+layers = 2
+mesh = ExtResource("87_7p8o0")
+
+[node name="Lint filter service vent horizontal louvre" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1744210714]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.1196, 0.0452, 0.29775)
+layers = 2
+mesh = ExtResource("88_lq1qf")
+
+[node name="Lint filter service vent horizontal louvre_001" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1399752561]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.1196, 0.0566, 0.29775)
+layers = 2
+mesh = ExtResource("89_x0rks")
+
+[node name="Lint filter service vent horizontal louvre_002" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=603174913]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.1196, 0.068, 0.29775)
+layers = 2
+mesh = ExtResource("90_wfsk6")
+
+[node name="Lint filter service vent horizontal louvre_003" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1527040813]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.1196, 0.0794, 0.29775)
+layers = 2
+mesh = ExtResource("91_g6sgh")
+
+[node name="Lint filter service vent horizontal louvre_004" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1656883507]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.1196, 0.0908, 0.29775)
+layers = 2
+mesh = ExtResource("92_lle7w")
+
+[node name="Lower service plinth" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=28538480]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.068, 0.27275)
+layers = 2
+mesh = ExtResource("93_lhbxr")
+
+[node name="Perforated rear drum ring" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1448759830]
+layers = 2
+mesh = ExtResource("94_hd4ry")
+
+[node name="Perforated rear drum ring_001" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=432966082]
+layers = 2
+mesh = ExtResource("95_41ik0")
+
+[node name="Perforated rear drum ring_002" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=473301893]
+layers = 2
+mesh = ExtResource("96_t45qi")
+
+[node name="Profiled polished door rim" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1061239965]
+layers = 2
+mesh = ExtResource("97_tvixm")
+
+[node name="Rear hose retaining clip" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=492237228]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.18652, 0.35364, -0.2865)
+layers = 2
+mesh = ExtResource("98_dhxd4")
+
+[node name="Rear hose retaining clip_001" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=574844495]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.18652, 0.15998, -0.2865)
+layers = 2
+mesh = ExtResource("99_5veh2")
+
+[node name="Rear retained drain hose" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1828057520]
+layers = 2
+mesh = ExtResource("100_f4yus")
+
+[node name="Rear retained drain hose_001" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1480792985]
+layers = 2
+mesh = ExtResource("101_ibyc5")
+
+[node name="Rear retained drain hose_002" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=205608353]
+layers = 2
+mesh = ExtResource("102_l4cbt")
+
+[node name="Rear retained drain hose_003" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=756345311]
+layers = 2
+mesh = ExtResource("103_eu128")
+
+[node name="Rear retained drain hose_004" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=266157580]
+layers = 2
+mesh = ExtResource("104_dvgfd")
+
+[node name="Rear service enclosure" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=755033735]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.421, -0.2745)
+layers = 2
+mesh = ExtResource("105_fxnvr")
+
+[node name="Right folded cabinet panel" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1471352882]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.292, 0.421, -0.006375)
+layers = 2
+mesh = ExtResource("106_gc2ij")
+
+[node name="Seated assembly screw" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1020446788]
+layers = 2
+mesh = ExtResource("107_c1wgl")
+
+[node name="Seated assembly screw_001" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1080082864]
+layers = 2
+mesh = ExtResource("108_gcs4i")
+
+[node name="Seated assembly screw_002" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1620628320]
+layers = 2
+mesh = ExtResource("109_dhh4j")
+
+[node name="Seated assembly screw_003" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1019878953]
+layers = 2
+mesh = ExtResource("110_n04ti")
+
+[node name="Seated black door bellows" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1084946377]
+layers = 2
+mesh = ExtResource("111_uke56")
+
+[node name="Seated door hinge" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=295821963]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.19548021, 0.39153, 0.26375)
+layers = 2
+mesh = ExtResource("112_t21c2")
+
+[node name="Seated drain hose return elbow" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=147087411]
+layers = 2
+mesh = ExtResource("113_rsxcx")
+
+[node name="Seated water inlet connector" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=1409198003]
+layers = 2
+mesh = ExtResource("114_o1hkt")
+
+[node name="Turned control knob" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=812208266]
+layers = 2
+mesh = ExtResource("115_3uhwt")
+
+[node name="Upper control fascia" type="MeshInstance3D" parent="Modelo_Secadora_007/Asset_C2_01_Secadora/Tumble dryer" unique_id=824775914]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.762, 0.27275)
+layers = 2
+mesh = ExtResource("116_dxoyr")
+
+[node name="Hitbox_C2_01_Secadora" type="StaticBody3D" parent="Modelo_Secadora_007" unique_id=1853997168]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.44000006, 0)
+
+[node name="Forma" type="CollisionShape3D" parent="Modelo_Secadora_007/Hitbox_C2_01_Secadora" unique_id=631362329]
+shape = SubResource("BoxShape3D_25sct")
+
+[node name="Modelo_wicker_basket_01_008" type="Node3D" parent="." unique_id=596475301]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.45, -2.85, -1.65)
+metadata/origem_conversao = "Modelo_wicker_basket_01"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(-5.45, -2.85, -1.65)
+
+[node name="Asset_02_wicker_basket_01" type="Node3D" parent="Modelo_wicker_basket_01_008" unique_id=479972305]
+transform = Transform3D(1.35, 0, 0, 0, 1.35, 0, 0, 0, 1.35, 0, 0, 0)
+
+[node name="wicker_basket_01" type="MeshInstance3D" parent="Modelo_wicker_basket_01_008/Asset_02_wicker_basket_01" unique_id=1935234642]
+layers = 2
+mesh = ExtResource("117_46xx5")
+
+[node name="Hitbox_02_wicker_basket_01" type="StaticBody3D" parent="Modelo_wicker_basket_01_008" unique_id=20996654]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.10800004, 0)
+
+[node name="Forma" type="CollisionShape3D" parent="Modelo_wicker_basket_01_008/Hitbox_02_wicker_basket_01" unique_id=1527497794]
+shape = SubResource("BoxShape3D_tvgv2")
+
+[node name="Placa_LAVANDERIA_009" type="Node3D" parent="." unique_id=1083460305]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, -0.4, -2.91)
+metadata/origem_conversao = "Placa_LAVANDERIA"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &""
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(-6, -0.4, -2.91)
+
+[node name="Placa_LAVANDERIA" type="Node3D" parent="Placa_LAVANDERIA_009" unique_id=144503837]
+
+[node name="@MeshInstance3D@195" type="MeshInstance3D" parent="Placa_LAVANDERIA_009/Placa_LAVANDERIA" unique_id=1229460932]
+layers = 2
+material_override = ExtResource("118_o3c4s")
+mesh = ExtResource("119_4jml4")
+
+[node name="@Label3D@196" type="Label3D" parent="Placa_LAVANDERIA_009/Placa_LAVANDERIA" unique_id=668083650]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.026)
+layers = 2
+pixel_size = 0.004
+modulate = Color(0.93333334, 0.8862745, 0.7882353, 1)
+outline_modulate = Color(0.09803922, 0.09019608, 0.078431375, 1)
+text = "LAVANDERIA"
+font_size = 30
+outline_size = 5
+
+[node name="Modelo_hanging_picture_frame_02_020" type="Node3D" parent="." unique_id=2055655308]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4, -1.05, -2.865)
+metadata/origem_conversao = "Modelo_hanging_picture_frame_02"
+metadata/fase_conversao = "_mobiliar_porao"
+metadata/pavimento = &"porao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(-4, -1.05, -2.865)
+
+[node name="Asset_11_hanging_picture_frame_02" type="Node3D" parent="Modelo_hanging_picture_frame_02_020" unique_id=324642746]
+transform = Transform3D(0.82, 0, 0, 0, 0.82, 0, 0, 0, 0.82, 0, 0, 0)
+
+[node name="hanging_picture_frame_02" type="MeshInstance3D" parent="Modelo_hanging_picture_frame_02_020/Asset_11_hanging_picture_frame_02" unique_id=1613101328]
+layers = 2
+mesh = ExtResource("120_uy0fw")
+
+[node name="LaundryTub" type="Node3D" parent="." unique_id=700010002]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.55, -2.85, -6.75)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+
+[node name="Model" type="Node3D" parent="LaundryTub" unique_id=921692979]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.00015786843, 0.0067500174)
+metadata/_edit_group_ = true
+metadata/source_cc0 = "Innerscene original GLB"
+
+[node name="Model" type="Node3D" parent="LaundryTub/Model" unique_id=1089879742]
+
+[node name="Laundry Tub" type="Node3D" parent="LaundryTub/Model/Model" unique_id=366040625]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.011473779, 0)
+metadata/extras = {
+"description": "Deep washing tub with ribbed washboard, drain and a four-leg metal support stand.",
+"dimensions_m": [0.638, 0.5745, 1.105026],
+"ground_plane": false,
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Mixer | aerator outlet" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=441745564]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 1.03808, -0.138)
+layers = 2
+mesh = ExtResource("121_4g6sx")
+
+[node name="Mixer | cartridge body" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=1984274646]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 1.0025, -0.263)
+layers = 2
+mesh = ExtResource("122_xr7lo")
+
+[node name="Mixer | curved spout" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=1527046148]
+layers = 2
+mesh = ExtResource("123_ttyeb")
+
+[node name="Mixer | lever pivot" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=427113649]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 1.102, -0.263)
+layers = 2
+mesh = ExtResource("124_65sqg")
+
+[node name="Mixer | lifting lever" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=1049579255]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.111, -0.241)
+layers = 2
+mesh = ExtResource("125_bpbry")
+
+[node name="Mixer | mounting flange" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=891988221]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0.913, -0.263)
+layers = 2
+mesh = ExtResource("126_pq6ok")
+
+[node name="Utility | deep composite tub" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=1537050654]
+layers = 2
+mesh = ExtResource("127_meqgl")
+
+[node name="Utility | steel support leg" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=17245783]
+transform = Transform3D(-0.6345469, 0.04067247, 0.7718133, -7.8231096e-08, 0.9986144, -0.05262433, -0.77288425, -0.033392668, -0.6336676, -0.24415, 0.32750002, 0.20045)
+layers = 2
+mesh = ExtResource("128_klo5b")
+
+[node name="Utility | steel support leg_001" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=1957081722]
+transform = Transform3D(0.634547, 0.040672664, 0.7718133, -8.195639e-08, 0.9986144, -0.05262445, -0.77288425, 0.033392623, 0.6336677, -0.24415, 0.32750002, -0.20045)
+layers = 2
+mesh = ExtResource("129_odvl6")
+
+[node name="Utility | steel support leg_002" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=126534319]
+transform = Transform3D(-0.6345469, -0.04067247, -0.7718133, 7.8231096e-08, 0.9986144, -0.05262433, 0.77288425, -0.033392668, -0.6336676, 0.24415, 0.32750002, 0.20045)
+layers = 2
+mesh = ExtResource("130_y21ou")
+
+[node name="Utility | steel support leg_003" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=1414700305]
+transform = Transform3D(0.634547, -0.040672664, -0.7718133, 8.195639e-08, 0.9986144, -0.05262445, 0.77288425, 0.033392623, 0.6336677, 0.24415, 0.32750002, -0.20045)
+layers = 2
+mesh = ExtResource("131_gk5vd")
+
+[node name="Utility | upper cradle" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=1264773995]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.644, 0.208)
+layers = 2
+mesh = ExtResource("132_a1fye")
+
+[node name="Utility | upper cradle_001" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=469532802]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.644, -0.208)
+layers = 2
+mesh = ExtResource("133_eoywn")
+
+[node name="Utility | washing-board rib" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=1415018621]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.235, 0.83, -0.199)
+layers = 2
+mesh = ExtResource("134_avkp6")
+
+[node name="Utility | washing-board rib_001" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=836810835]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.188, 0.83, -0.199)
+layers = 2
+mesh = ExtResource("135_a1tsk")
+
+[node name="Utility | washing-board rib_002" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=2006170603]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.141, 0.83, -0.199)
+layers = 2
+mesh = ExtResource("136_c3xgq")
+
+[node name="Utility | washing-board rib_003" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=499083064]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.094, 0.83, -0.199)
+layers = 2
+mesh = ExtResource("137_u81wg")
+
+[node name="Utility | washing-board rib_004" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=2074555217]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.047, 0.83, -0.199)
+layers = 2
+mesh = ExtResource("138_gf5n7")
+
+[node name="Utility | washing-board rib_005" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=310459135]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.83, -0.199)
+layers = 2
+mesh = ExtResource("139_oakdk")
+
+[node name="Utility | washing-board rib_006" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=973910461]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.047, 0.83, -0.199)
+layers = 2
+mesh = ExtResource("140_rswfx")
+
+[node name="Utility | washing-board rib_007" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=142404634]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.094, 0.83, -0.199)
+layers = 2
+mesh = ExtResource("141_6hrbf")
+
+[node name="Utility | washing-board rib_008" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=1139252455]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.141, 0.83, -0.199)
+layers = 2
+mesh = ExtResource("142_3vgpv")
+
+[node name="Utility | washing-board rib_009" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=143855827]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.188, 0.83, -0.199)
+layers = 2
+mesh = ExtResource("143_ep25p")
+
+[node name="Utility | washing-board rib_010" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=196353172]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.235, 0.83, -0.199)
+layers = 2
+mesh = ExtResource("144_118g3")
+
+[node name="Waste | grille crossbar" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=494418494]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, 0, 0.625, 0)
+layers = 2
+mesh = ExtResource("145_hqrjo")
+
+[node name="Waste | open nickel flange" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=2021563342]
+layers = 2
+mesh = ExtResource("146_cy5ew")
+
+[node name="Waste | open outlet tube" type="MeshInstance3D" parent="LaundryTub/Model/Model/Laundry Tub" unique_id=319904848]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0, 0)
+layers = 2
+mesh = ExtResource("147_viowr")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="LaundryTub" unique_id=920072587]
+
+[node name="Forma" type="CollisionShape3D" parent="LaundryTub/Colisao_Acompanha_Peca" unique_id=1202534592]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5525919, 8.940697e-08)
+shape = SubResource("BoxShape3D_0rab5")
+
+[node name="LaundryShelf" type="Node3D" parent="." unique_id=700010003]
+transform = Transform3D(-3.14722e-08, 0, 0.72, 0, 0.72, 0, -0.72, 0, -3.14722e-08, -8.7, -2.85, -4.6)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+
+[node name="Model" type="Node3D" parent="LaundryShelf" unique_id=920791081]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.000436306, 0)
+
+[node name="wooden_display_shelves_01" type="MeshInstance3D" parent="LaundryShelf/Model" unique_id=1335314727]
+layers = 2
+mesh = ExtResource("148_qijtv")
+
+[node name="wooden_display_shelves_01_drawer_03" type="MeshInstance3D" parent="LaundryShelf/Model" unique_id=2075910303]
+layers = 2
+mesh = ExtResource("149_oir3y")
+
+[node name="wooden_display_shelves_01_drawer_02" type="MeshInstance3D" parent="LaundryShelf/Model" unique_id=1668320503]
+layers = 2
+mesh = ExtResource("150_cvt72")
+
+[node name="wooden_display_shelves_01_drawer_01" type="MeshInstance3D" parent="LaundryShelf/Model" unique_id=716488540]
+layers = 2
+mesh = ExtResource("151_lq48y")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="LaundryShelf" unique_id=323969360]
+
+[node name="Forma" type="CollisionShape3D" parent="LaundryShelf/Colisao_Acompanha_Peca" unique_id=669905953]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.77809167, 0)
+shape = SubResource("BoxShape3D_jh47j")

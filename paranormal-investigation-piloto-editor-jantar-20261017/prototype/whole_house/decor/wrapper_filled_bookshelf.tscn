@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="PackedScene" path="res://prototype/assets/models/innerscene/filled-bookshelf-large-original-interior-furnishing.glb" id="1_model"]
+
+[node name="wrapper_filled_bookshelf" type="Node3D"]
+metadata/_edit_group_ = true
+metadata/source_cc0 = "Innerscene original GLB"
+[node name="Model" parent="." instance=ExtResource("1_model")]

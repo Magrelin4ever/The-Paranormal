@@ -1,0 +1,969 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0308.res" id="1_5u8wo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0309.res" id="2_mb8ug"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0310.res" id="3_fsdqv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0311.res" id="4_xcubo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0312.res" id="5_t5byb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0313.res" id="6_ue0jo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0314.res" id="7_80u3a"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0315.res" id="8_xv4yp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0316.res" id="9_45mnl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0317.res" id="10_4uo37"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0318.res" id="11_jx2ja"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0319.res" id="12_0eryo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0320.res" id="13_t1igk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0321.res" id="14_abt0t"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0322.res" id="15_ub4kl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0323.res" id="16_2jify"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0324.res" id="17_tls53"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0325.res" id="18_y736k"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0326.res" id="19_4w64e"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0327.res" id="20_qw2vo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0328.res" id="21_gnjl5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0329.res" id="22_httco"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0330.res" id="23_bckvv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0331.res" id="24_3ixnr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0332.res" id="25_qogl7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0333.res" id="26_nm06q"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0334.res" id="27_au3ie"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0335.res" id="28_kyvkj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0336.res" id="29_dpe8d"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0337.res" id="30_3lvbm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0338.res" id="31_aj0bb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0339.res" id="32_3nxg4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0340.res" id="33_sujl2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0341.res" id="34_rav1b"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0342.res" id="35_xvc0m"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0343.res" id="36_eebvx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0344.res" id="37_midre"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0345.res" id="38_d1387"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0346.res" id="39_g03gm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0347.res" id="40_lhlhd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0348.res" id="41_tmbv0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0349.res" id="42_fsjj6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0350.res" id="43_na7ye"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0351.res" id="44_y2qrx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0352.res" id="45_rsk4a"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0353.res" id="46_l4xq3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0354.res" id="47_c0ojc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0355.res" id="48_o3vgb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0356.res" id="49_h30v4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0357.res" id="50_5kdn8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0358.res" id="51_sjarb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0359.res" id="52_gg4q0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0360.res" id="53_bm0wx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0361.res" id="54_71kl1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0362.res" id="55_rdv6n"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0363.res" id="56_ppu1q"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0364.res" id="57_nltuy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0365.res" id="58_pktg3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0366.res" id="59_0mopx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0367.res" id="60_a2uc2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0368.res" id="61_fui2o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0369.res" id="62_1krs6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0370.res" id="63_60fjr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0371.res" id="64_hd7ll"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0372.res" id="65_gxhyb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0373.res" id="66_b7uwq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0374.res" id="67_duf72"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0375.res" id="68_50qam"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0376.res" id="69_dqrgs"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0377.res" id="70_btg01"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0378.res" id="71_imchg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0379.res" id="72_oq26f"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/editor_resources/mesh_0380.res" id="73_idsgk"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Wood026/Wood026_Color_2K.jpg" id="74_fsdqv"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Wood026/Wood026_NormalGL_2K.jpg" id="75_xcubo"]
+
+[sub_resource type="BoxShape3D" id="Box_dresser"]
+size = Vector3(1.42, 0.846, 0.549)
+
+[sub_resource type="StandardMaterial3D" id="Mat_walnut"]
+albedo_color = Color(0.3, 0.2, 0.13, 1)
+roughness = 0.72
+
+[sub_resource type="BoxShape3D" id="ShelfShape"]
+size = Vector3(1.35, 0.18, 0.38)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_fsdqv"]
+albedo_color = Color(0.5529412, 0.4627451, 0.36078432, 1)
+albedo_texture = ExtResource("74_fsdqv")
+roughness = 0.8
+normal_enabled = true
+normal_texture = ExtResource("75_xcubo")
+uv1_scale = Vector3(1.4, 1.4, 1.4)
+uv1_triplanar = true
+uv1_world_triplanar = true
+
+[sub_resource type="BoxMesh" id="BoxMesh_xcubo"]
+size = Vector3(1.5, 2.16, 0.57)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_t5byb"]
+albedo_color = Color(0.38039216, 0.3137255, 0.25490198, 1)
+albedo_texture = ExtResource("74_fsdqv")
+roughness = 0.8
+normal_enabled = true
+normal_texture = ExtResource("75_xcubo")
+uv1_scale = Vector3(1.4, 1.4, 1.4)
+uv1_triplanar = true
+uv1_world_triplanar = true
+
+[sub_resource type="BoxMesh" id="BoxMesh_ue0jo"]
+size = Vector3(1.53, 0.16, 0.62)
+
+[sub_resource type="BoxMesh" id="BoxMesh_80u3a"]
+size = Vector3(1.57, 0.09, 0.64)
+
+[sub_resource type="BoxMesh" id="BoxMesh_xv4yp"]
+size = Vector3(0.735, 1.96, 0.045)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_45mnl"]
+albedo_color = Color(0.4745098, 0.43529412, 0.36862746, 1)
+metallic = 0.75
+roughness = 0.8
+
+[sub_resource type="BoxMesh" id="BoxMesh_4uo37"]
+size = Vector3(0.025, 0.25, 0.035)
+
+[sub_resource type="BoxMesh" id="BoxMesh_jx2ja"]
+size = Vector3(0.735, 1.96, 0.045)
+
+[sub_resource type="BoxMesh" id="BoxMesh_0eryo"]
+size = Vector3(0.025, 0.25, 0.035)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_t1igk"]
+size = Vector3(1.57, 2.2, 0.65)
+
+[node name="Closet_Casal" type="Node3D" unique_id=1080001294]
+metadata/pavimento = "primeiro"
+metadata/edicao = "Closet do casal: cômodas realistas e estantes para vestir."
+
+[node name="Comoda_Vestir" type="Node3D" parent="." unique_id=1357653645]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.65, 2.85, 1.65)
+metadata/_edit_group_ = true
+metadata/uso = "vestir"
+
+[node name="Modelo" type="Node3D" parent="Comoda_Vestir" unique_id=996807527]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.0225)
+
+[node name="PROFILE 140 | Six-drawer dresser" type="Node3D" parent="Comoda_Vestir/Modelo" unique_id=1166583105]
+metadata/extras = {
+"front": "-Y",
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Case | back" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=18534268]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.52, -0.23)
+layers = 8
+mesh = ExtResource("1_5u8wo")
+
+[node name="Case | bottom" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=18730950]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.209, 0)
+layers = 8
+mesh = ExtResource("2_mb8ug")
+
+[node name="Case | centre divider" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1626378527]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.517, -0.012)
+layers = 8
+mesh = ExtResource("3_fsdqv")
+
+[node name="Case | curved end cheek" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1683850614]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.678, 0.521, 0)
+layers = 8
+mesh = ExtResource("4_xcubo")
+
+[node name="Case | curved end cheek_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=895587777]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.678, 0.521, 0)
+layers = 8
+mesh = ExtResource("5_t5byb")
+
+[node name="Case | horizontal divider" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1930890533]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.421, 0)
+layers = 8
+mesh = ExtResource("6_ue0jo")
+
+[node name="Case | horizontal divider_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1734077812]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.621, 0)
+layers = 8
+mesh = ExtResource("7_80u3a")
+
+[node name="Case | rounded top" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2059468573]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.827, 0)
+layers = 8
+mesh = ExtResource("8_xv4yp")
+
+[node name="Drawer 1-1 | drawer bottom" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1324321092]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.245, -0.008)
+layers = 8
+mesh = ExtResource("9_45mnl")
+
+[node name="Drawer 1-1 | drawer rear" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2055873522]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.32, -0.212)
+layers = 8
+mesh = ExtResource("10_4uo37")
+
+[node name="Drawer 1-1 | drawer side" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1522217531]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("11_jx2ja")
+
+[node name="Drawer 1-1 | drawer side_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1488722670]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("12_0eryo")
+
+[node name="Drawer 1-1 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=969130219]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.385, 0.27)
+layers = 8
+mesh = ExtResource("13_t1igk")
+
+[node name="Drawer 1-1 | runner" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1420371315]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("14_abt0t")
+
+[node name="Drawer 1-1 | runner_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2084135410]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("15_ub4kl")
+
+[node name="Drawer 1-1 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1738927566]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.401, 0.284)
+layers = 8
+mesh = ExtResource("16_2jify")
+
+[node name="Drawer 1-1 | walnut front" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1661923374]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.32, 0.252)
+layers = 8
+mesh = ExtResource("17_tls53")
+
+[node name="Drawer 1-2 | drawer bottom" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=503372556]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.445, -0.008)
+layers = 8
+mesh = ExtResource("18_y736k")
+
+[node name="Drawer 1-2 | drawer rear" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1943414974]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.52, -0.212)
+layers = 8
+mesh = ExtResource("19_4w64e")
+
+[node name="Drawer 1-2 | drawer side" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1497706221]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("20_qw2vo")
+
+[node name="Drawer 1-2 | drawer side_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=611549120]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("21_gnjl5")
+
+[node name="Drawer 1-2 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2068209280]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.585, 0.27)
+layers = 8
+mesh = ExtResource("22_httco")
+
+[node name="Drawer 1-2 | runner" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1756943650]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("23_bckvv")
+
+[node name="Drawer 1-2 | runner_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=70235734]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("24_3ixnr")
+
+[node name="Drawer 1-2 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1560241544]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.601, 0.284)
+layers = 8
+mesh = ExtResource("25_qogl7")
+
+[node name="Drawer 1-2 | walnut front" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1772149301]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.52, 0.252)
+layers = 8
+mesh = ExtResource("26_nm06q")
+
+[node name="Drawer 1-3 | drawer bottom" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1413124614]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.645, -0.008)
+layers = 8
+mesh = ExtResource("27_au3ie")
+
+[node name="Drawer 1-3 | drawer rear" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1241315378]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.72, -0.212)
+layers = 8
+mesh = ExtResource("28_kyvkj")
+
+[node name="Drawer 1-3 | drawer side" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=587808278]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("29_dpe8d")
+
+[node name="Drawer 1-3 | drawer side_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1853158857]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("30_3lvbm")
+
+[node name="Drawer 1-3 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1653468429]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.785, 0.27)
+layers = 8
+mesh = ExtResource("31_aj0bb")
+
+[node name="Drawer 1-3 | runner" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1544966951]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("32_3nxg4")
+
+[node name="Drawer 1-3 | runner_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=341811261]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("33_sujl2")
+
+[node name="Drawer 1-3 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=998230412]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.801, 0.284)
+layers = 8
+mesh = ExtResource("34_rav1b")
+
+[node name="Drawer 1-3 | walnut front" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1415094717]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.72, 0.252)
+layers = 8
+mesh = ExtResource("35_xvc0m")
+
+[node name="Drawer 2-1 | drawer bottom" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=368700758]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.245, -0.008)
+layers = 8
+mesh = ExtResource("36_eebvx")
+
+[node name="Drawer 2-1 | drawer rear" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1910517257]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.32, -0.212)
+layers = 8
+mesh = ExtResource("37_midre")
+
+[node name="Drawer 2-1 | drawer side" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1146194575]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("38_d1387")
+
+[node name="Drawer 2-1 | drawer side_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2126635790]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("39_g03gm")
+
+[node name="Drawer 2-1 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=792413123]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.385, 0.27)
+layers = 8
+mesh = ExtResource("40_lhlhd")
+
+[node name="Drawer 2-1 | runner" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=955338244]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("41_tmbv0")
+
+[node name="Drawer 2-1 | runner_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=99490626]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("42_fsjj6")
+
+[node name="Drawer 2-1 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1963819856]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.401, 0.284)
+layers = 8
+mesh = ExtResource("43_na7ye")
+
+[node name="Drawer 2-1 | walnut front" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1386047638]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.32, 0.252)
+layers = 8
+mesh = ExtResource("44_y2qrx")
+
+[node name="Drawer 2-2 | drawer bottom" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1691622416]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.445, -0.008)
+layers = 8
+mesh = ExtResource("45_rsk4a")
+
+[node name="Drawer 2-2 | drawer rear" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=803701288]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.52, -0.212)
+layers = 8
+mesh = ExtResource("46_l4xq3")
+
+[node name="Drawer 2-2 | drawer side" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=450757828]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("47_c0ojc")
+
+[node name="Drawer 2-2 | drawer side_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1910678732]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("48_o3vgb")
+
+[node name="Drawer 2-2 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=24556543]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.585, 0.27)
+layers = 8
+mesh = ExtResource("49_h30v4")
+
+[node name="Drawer 2-2 | runner" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=274018561]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("50_5kdn8")
+
+[node name="Drawer 2-2 | runner_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=481680238]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("51_sjarb")
+
+[node name="Drawer 2-2 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=303824230]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.601, 0.284)
+layers = 8
+mesh = ExtResource("52_gg4q0")
+
+[node name="Drawer 2-2 | walnut front" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=360303488]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.52, 0.252)
+layers = 8
+mesh = ExtResource("53_bm0wx")
+
+[node name="Drawer 2-3 | drawer bottom" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1051977155]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.645, -0.008)
+layers = 8
+mesh = ExtResource("54_71kl1")
+
+[node name="Drawer 2-3 | drawer rear" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1533995477]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.72, -0.212)
+layers = 8
+mesh = ExtResource("55_rdv6n")
+
+[node name="Drawer 2-3 | drawer side" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1506126254]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("56_ppu1q")
+
+[node name="Drawer 2-3 | drawer side_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=869661288]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("57_nltuy")
+
+[node name="Drawer 2-3 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=263685055]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.785, 0.27)
+layers = 8
+mesh = ExtResource("58_pktg3")
+
+[node name="Drawer 2-3 | runner" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1769403218]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("59_0mopx")
+
+[node name="Drawer 2-3 | runner_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2100558060]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("60_a2uc2")
+
+[node name="Drawer 2-3 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1711517480]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.801, 0.284)
+layers = 8
+mesh = ExtResource("61_fui2o")
+
+[node name="Drawer 2-3 | walnut front" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=881685449]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.72, 0.252)
+layers = 8
+mesh = ExtResource("62_1krs6")
+
+[node name="Sled | floor rail" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1027783284]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.023, 0)
+layers = 8
+mesh = ExtResource("63_60fjr")
+
+[node name="Sled | floor rail_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=274554497]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.023, 0)
+layers = 8
+mesh = ExtResource("64_hd7ll")
+
+[node name="Sled | protective pad" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=637340525]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.005, 0.135)
+layers = 8
+mesh = ExtResource("65_gxhyb")
+
+[node name="Sled | protective pad_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=649396200]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.005, -0.135)
+layers = 8
+mesh = ExtResource("66_b7uwq")
+
+[node name="Sled | protective pad_002" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1154843348]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.005, 0.135)
+layers = 8
+mesh = ExtResource("67_duf72")
+
+[node name="Sled | protective pad_003" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1976039818]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.005, -0.135)
+layers = 8
+mesh = ExtResource("68_50qam")
+
+[node name="Sled | upright" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=800224562]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.11, 0.164)
+layers = 8
+mesh = ExtResource("69_dqrgs")
+
+[node name="Sled | upright_001" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1610223423]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.11, -0.164)
+layers = 8
+mesh = ExtResource("70_btg01")
+
+[node name="Sled | upright_002" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1099118553]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.11, 0.164)
+layers = 8
+mesh = ExtResource("71_imchg")
+
+[node name="Sled | upright_003" type="MeshInstance3D" parent="Comoda_Vestir/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=91017597]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.11, -0.164)
+layers = 8
+mesh = ExtResource("72_oq26f")
+
+[node name="Colisao" type="StaticBody3D" parent="Comoda_Vestir" unique_id=779161828]
+
+[node name="Shape" type="CollisionShape3D" parent="Comoda_Vestir/Colisao" unique_id=941702228]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.423, -0.0225)
+shape = SubResource("Box_dresser")
+
+[node name="Comoda_Acessorios" type="Node3D" parent="." unique_id=1272426580]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6.25, 2.85, -0.41)
+metadata/_edit_group_ = true
+metadata/uso = "acessorios"
+
+[node name="Modelo" type="Node3D" parent="Comoda_Acessorios" unique_id=1468720468]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.0225)
+
+[node name="PROFILE 140 | Six-drawer dresser" type="Node3D" parent="Comoda_Acessorios/Modelo" unique_id=1885796901]
+metadata/extras = {
+"front": "-Y",
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Case | back" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=430243849]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.52, -0.23)
+layers = 8
+mesh = ExtResource("1_5u8wo")
+
+[node name="Case | bottom" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1162315954]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.209, 0)
+layers = 8
+mesh = ExtResource("2_mb8ug")
+
+[node name="Case | centre divider" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1645019373]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.517, -0.012)
+layers = 8
+mesh = ExtResource("3_fsdqv")
+
+[node name="Case | curved end cheek" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1122484752]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.678, 0.521, 0)
+layers = 8
+mesh = ExtResource("4_xcubo")
+
+[node name="Case | curved end cheek_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=143356885]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.678, 0.521, 0)
+layers = 8
+mesh = ExtResource("5_t5byb")
+
+[node name="Case | horizontal divider" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=732700386]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.421, 0)
+layers = 8
+mesh = ExtResource("6_ue0jo")
+
+[node name="Case | horizontal divider_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=473561368]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.621, 0)
+layers = 8
+mesh = ExtResource("7_80u3a")
+
+[node name="Case | rounded top" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1157321578]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.827, 0)
+layers = 8
+mesh = ExtResource("8_xv4yp")
+
+[node name="Drawer 1-1 | drawer bottom" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=458211111]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.245, -0.008)
+layers = 8
+mesh = ExtResource("9_45mnl")
+
+[node name="Drawer 1-1 | drawer rear" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1576913461]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.32, -0.212)
+layers = 8
+mesh = ExtResource("10_4uo37")
+
+[node name="Drawer 1-1 | drawer side" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1901759196]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("11_jx2ja")
+
+[node name="Drawer 1-1 | drawer side_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=440998717]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("12_0eryo")
+
+[node name="Drawer 1-1 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1812717280]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.385, 0.27)
+layers = 8
+mesh = ExtResource("13_t1igk")
+
+[node name="Drawer 1-1 | runner" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1774629837]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("14_abt0t")
+
+[node name="Drawer 1-1 | runner_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1295900552]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("15_ub4kl")
+
+[node name="Drawer 1-1 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2129492536]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.401, 0.284)
+layers = 8
+mesh = ExtResource("16_2jify")
+
+[node name="Drawer 1-1 | walnut front" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=139482633]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.32, 0.252)
+layers = 8
+mesh = ExtResource("17_tls53")
+
+[node name="Drawer 1-2 | drawer bottom" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=170438090]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.445, -0.008)
+layers = 8
+mesh = ExtResource("18_y736k")
+
+[node name="Drawer 1-2 | drawer rear" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1836297786]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.52, -0.212)
+layers = 8
+mesh = ExtResource("19_4w64e")
+
+[node name="Drawer 1-2 | drawer side" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1555301435]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("20_qw2vo")
+
+[node name="Drawer 1-2 | drawer side_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1402822618]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("21_gnjl5")
+
+[node name="Drawer 1-2 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1468999933]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.585, 0.27)
+layers = 8
+mesh = ExtResource("22_httco")
+
+[node name="Drawer 1-2 | runner" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=897970839]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("23_bckvv")
+
+[node name="Drawer 1-2 | runner_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=48858877]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("24_3ixnr")
+
+[node name="Drawer 1-2 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1353374238]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.601, 0.284)
+layers = 8
+mesh = ExtResource("25_qogl7")
+
+[node name="Drawer 1-2 | walnut front" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=211302723]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.52, 0.252)
+layers = 8
+mesh = ExtResource("26_nm06q")
+
+[node name="Drawer 1-3 | drawer bottom" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=836600663]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.645, -0.008)
+layers = 8
+mesh = ExtResource("27_au3ie")
+
+[node name="Drawer 1-3 | drawer rear" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1310289443]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.72, -0.212)
+layers = 8
+mesh = ExtResource("28_kyvkj")
+
+[node name="Drawer 1-3 | drawer side" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1890565619]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.631, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("29_dpe8d")
+
+[node name="Drawer 1-3 | drawer side_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=911825248]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.025, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("30_3lvbm")
+
+[node name="Drawer 1-3 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1849938289]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.785, 0.27)
+layers = 8
+mesh = ExtResource("31_aj0bb")
+
+[node name="Drawer 1-3 | runner" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1371125041]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.623, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("32_3nxg4")
+
+[node name="Drawer 1-3 | runner_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1299368549]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.033, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("33_sujl2")
+
+[node name="Drawer 1-3 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2128712635]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.801, 0.284)
+layers = 8
+mesh = ExtResource("34_rav1b")
+
+[node name="Drawer 1-3 | walnut front" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1109401137]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.328, 0.72, 0.252)
+layers = 8
+mesh = ExtResource("35_xvc0m")
+
+[node name="Drawer 2-1 | drawer bottom" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=956613021]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.245, -0.008)
+layers = 8
+mesh = ExtResource("36_eebvx")
+
+[node name="Drawer 2-1 | drawer rear" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=995405554]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.32, -0.212)
+layers = 8
+mesh = ExtResource("37_midre")
+
+[node name="Drawer 2-1 | drawer side" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1015425199]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("38_d1387")
+
+[node name="Drawer 2-1 | drawer side_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=780215211]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.32, -0.008)
+layers = 8
+mesh = ExtResource("39_g03gm")
+
+[node name="Drawer 2-1 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1454970502]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.385, 0.27)
+layers = 8
+mesh = ExtResource("40_lhlhd")
+
+[node name="Drawer 2-1 | runner" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1022513278]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("41_tmbv0")
+
+[node name="Drawer 2-1 | runner_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1268085745]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.296, -0.012)
+layers = 8
+mesh = ExtResource("42_fsjj6")
+
+[node name="Drawer 2-1 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1912590748]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.401, 0.284)
+layers = 8
+mesh = ExtResource("43_na7ye")
+
+[node name="Drawer 2-1 | walnut front" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1697933857]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.32, 0.252)
+layers = 8
+mesh = ExtResource("44_y2qrx")
+
+[node name="Drawer 2-2 | drawer bottom" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1117734711]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.445, -0.008)
+layers = 8
+mesh = ExtResource("45_rsk4a")
+
+[node name="Drawer 2-2 | drawer rear" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=987420924]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.52, -0.212)
+layers = 8
+mesh = ExtResource("46_l4xq3")
+
+[node name="Drawer 2-2 | drawer side" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1804555004]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("47_c0ojc")
+
+[node name="Drawer 2-2 | drawer side_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1243565719]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.52, -0.008)
+layers = 8
+mesh = ExtResource("48_o3vgb")
+
+[node name="Drawer 2-2 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=737040274]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.585, 0.27)
+layers = 8
+mesh = ExtResource("49_h30v4")
+
+[node name="Drawer 2-2 | runner" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1703436771]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("50_5kdn8")
+
+[node name="Drawer 2-2 | runner_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=690391180]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.496, -0.012)
+layers = 8
+mesh = ExtResource("51_sjarb")
+
+[node name="Drawer 2-2 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1829083315]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.601, 0.284)
+layers = 8
+mesh = ExtResource("52_gg4q0")
+
+[node name="Drawer 2-2 | walnut front" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1379021149]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.52, 0.252)
+layers = 8
+mesh = ExtResource("53_bm0wx")
+
+[node name="Drawer 2-3 | drawer bottom" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1302831969]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.645, -0.008)
+layers = 8
+mesh = ExtResource("54_71kl1")
+
+[node name="Drawer 2-3 | drawer rear" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=305192542]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.72, -0.212)
+layers = 8
+mesh = ExtResource("55_rdv6n")
+
+[node name="Drawer 2-3 | drawer side" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2122075199]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("56_ppu1q")
+
+[node name="Drawer 2-3 | drawer side_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=358549688]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.631, 0.72, -0.008)
+layers = 8
+mesh = ExtResource("57_nltuy")
+
+[node name="Drawer 2-3 | recessed grip shadow" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=481704870]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.785, 0.27)
+layers = 8
+mesh = ExtResource("58_pktg3")
+
+[node name="Drawer 2-3 | runner" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=337143732]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.033, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("59_0mopx")
+
+[node name="Drawer 2-3 | runner_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=77042333]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.623, 0.696, -0.012)
+layers = 8
+mesh = ExtResource("60_a2uc2")
+
+[node name="Drawer 2-3 | sculpted walnut grip" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1727218215]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.801, 0.284)
+layers = 8
+mesh = ExtResource("61_fui2o")
+
+[node name="Drawer 2-3 | walnut front" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1956962526]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.328, 0.72, 0.252)
+layers = 8
+mesh = ExtResource("62_1krs6")
+
+[node name="Sled | floor rail" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1469692542]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.023, 0)
+layers = 8
+mesh = ExtResource("63_60fjr")
+
+[node name="Sled | floor rail_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=734871600]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.023, 0)
+layers = 8
+mesh = ExtResource("64_hd7ll")
+
+[node name="Sled | protective pad" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=891711822]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.005, 0.135)
+layers = 8
+mesh = ExtResource("65_gxhyb")
+
+[node name="Sled | protective pad_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2070364898]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.005, -0.135)
+layers = 8
+mesh = ExtResource("66_b7uwq")
+
+[node name="Sled | protective pad_002" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1328781984]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.005, 0.135)
+layers = 8
+mesh = ExtResource("67_duf72")
+
+[node name="Sled | protective pad_003" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1600865576]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.005, -0.135)
+layers = 8
+mesh = ExtResource("68_50qam")
+
+[node name="Sled | upright" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1068172386]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.11, 0.164)
+layers = 8
+mesh = ExtResource("69_dqrgs")
+
+[node name="Sled | upright_001" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1492383197]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.536, 0.11, -0.164)
+layers = 8
+mesh = ExtResource("70_btg01")
+
+[node name="Sled | upright_002" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=2017123593]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.11, 0.164)
+layers = 8
+mesh = ExtResource("71_imchg")
+
+[node name="Sled | upright_003" type="MeshInstance3D" parent="Comoda_Acessorios/Modelo/PROFILE 140 | Six-drawer dresser" unique_id=1515494087]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.536, 0.11, -0.164)
+layers = 8
+mesh = ExtResource("72_oq26f")
+
+[node name="Colisao" type="StaticBody3D" parent="Comoda_Acessorios" unique_id=266433860]
+
+[node name="Shape" type="CollisionShape3D" parent="Comoda_Acessorios/Colisao" unique_id=642791938]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.423, -0.0225)
+shape = SubResource("Box_dresser")
+
+[node name="Estante_Madeira" type="Node3D" parent="." unique_id=1266566066]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 6.2, 4.95, -0.55)
+metadata/_edit_group_ = true
+
+[node name="Mesh" type="MeshInstance3D" parent="Estante_Madeira" unique_id=1367011286]
+layers = 8
+material_override = SubResource("Mat_walnut")
+mesh = ExtResource("73_idsgk")
+
+[node name="Colisao" type="StaticBody3D" parent="Estante_Madeira" unique_id=1368084162]
+
+[node name="Shape" type="CollisionShape3D" parent="Estante_Madeira/Colisao" unique_id=1494229748]
+shape = SubResource("ShelfShape")
+
+[node name="Armario_Roupeiro_Editavel" type="Node3D" parent="." unique_id=297661900]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, 7.15, 2.85, 0.65)
+metadata/_edit_group_ = true
+metadata/edicao = "Raiz do armário; mover e girar leva portas, puxadores e colisão."
+
+[node name="Caixa" type="MeshInstance3D" parent="Armario_Roupeiro_Editavel" unique_id=858597806]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.08, 0)
+layers = 8
+material_override = SubResource("StandardMaterial3D_fsdqv")
+mesh = SubResource("BoxMesh_xcubo")
+
+[node name="Soco" type="MeshInstance3D" parent="Armario_Roupeiro_Editavel" unique_id=1006230019]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.08, 0.02)
+layers = 8
+material_override = SubResource("StandardMaterial3D_t5byb")
+mesh = SubResource("BoxMesh_ue0jo")
+
+[node name="Cornija" type="MeshInstance3D" parent="Armario_Roupeiro_Editavel" unique_id=167787587]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.15, 0.01)
+layers = 8
+material_override = SubResource("StandardMaterial3D_t5byb")
+mesh = SubResource("BoxMesh_80u3a")
+
+[node name="Porta_Esquerda" type="MeshInstance3D" parent="Armario_Roupeiro_Editavel" unique_id=1572987975]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.375, 1.12, 0.302)
+layers = 8
+material_override = SubResource("StandardMaterial3D_fsdqv")
+mesh = SubResource("BoxMesh_xv4yp")
+
+[node name="Puxador_-1_0" type="MeshInstance3D" parent="Armario_Roupeiro_Editavel" unique_id=1160812410]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.1, 1.12, 0.342)
+layers = 8
+material_override = SubResource("StandardMaterial3D_45mnl")
+mesh = SubResource("BoxMesh_4uo37")
+
+[node name="Porta_Direita" type="MeshInstance3D" parent="Armario_Roupeiro_Editavel" unique_id=1903156014]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.375, 1.12, 0.302)
+layers = 8
+material_override = SubResource("StandardMaterial3D_fsdqv")
+mesh = SubResource("BoxMesh_jx2ja")
+
+[node name="Puxador_1_0" type="MeshInstance3D" parent="Armario_Roupeiro_Editavel" unique_id=464774258]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.1, 1.12, 0.342)
+layers = 8
+material_override = SubResource("StandardMaterial3D_45mnl")
+mesh = SubResource("BoxMesh_0eryo")
+
+[node name="Colisao_Acompanha_Armario" type="StaticBody3D" parent="Armario_Roupeiro_Editavel" unique_id=1628419469]
+
+[node name="Forma" type="CollisionShape3D" parent="Armario_Roupeiro_Editavel/Colisao_Acompanha_Armario" unique_id=1486983282]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.1, 0)
+shape = SubResource("BoxShape3D_t1igk")

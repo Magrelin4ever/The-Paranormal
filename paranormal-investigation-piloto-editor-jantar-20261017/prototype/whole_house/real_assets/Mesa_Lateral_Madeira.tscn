@@ -1,0 +1,21 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0133.res" id="1_px0yl"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_crd0p"]
+size = Vector3(0.58, 0.33747417, 0.27852184)
+
+[node name="Mesa_Lateral_Madeira" type="Node3D" unique_id=2044907895]
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="." unique_id=93248423]
+transform = Transform3D(0.63305795, 0, 0, 0, 0.63305795, 0, 0, 0, 0.63305795, 0, 2.3583246e-09, 4.8696995e-05)
+
+[node name="small_wooden_table_01" type="MeshInstance3D" parent="Modelo" unique_id=219876446]
+mesh = ExtResource("1_px0yl")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="." unique_id=1762914172]
+
+[node name="@CollisionShape3D@4" type="CollisionShape3D" parent="Colisao_Acompanha_Peca" unique_id=206082138]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.16873708, 0)
+shape = SubResource("BoxShape3D_crd0p")

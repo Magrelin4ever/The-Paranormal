@@ -1,0 +1,127 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_01.res" id="1_01dxi"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/banheira_familiar_0068ce215795c1e1.png" id="2_173kt"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/banheira_familiar_surface_normal.png" id="3_ng3mw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_02.res" id="4_sonuv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_03.res" id="5_xpq5c"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_04.res" id="6_00wij"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/banheira_familiar_8d5888eb8fbcd835.png" id="7_pe6pq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_05.res" id="8_1eokr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Banheira_Familiar_mesh_06.res" id="9_2kcay"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_du2un"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("2_173kt")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_ng3mw")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_q4d87"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("2_173kt")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_ng3mw")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_1w14n"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("2_173kt")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_ng3mw")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_pdf8e"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("7_pe6pq")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_ng3mw")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_h1ts1"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("7_pe6pq")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_ng3mw")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_etvva"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("7_pe6pq")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_ng3mw")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_jj0e1"]
+size = Vector3(0.802, 0.527, 1.709)
+
+[node name="Banheira_Familiar" type="Node3D" unique_id=584978887]
+metadata/_edit_group_ = true
+metadata/licenca = "CC0 1.0 — Innerscene; fonte e SHA em assets/models/bathroom_20261019/manifest.json"
+
+[node name="Modelo" type="Node3D" parent="." unique_id=416343954]
+
+[node name="Inset Bath" type="Node3D" parent="Modelo" unique_id=1768923361]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.013, 0)
+metadata/extras = {
+"description": "Rectangular installation flange surrounding a deep sloped soaking cavity.",
+"dimensions_m": [0.802, 1.709, 0.527],
+"ground_plane": false,
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Bath | broad end installation deck" type="MeshInstance3D" parent="Modelo/Inset Bath" unique_id=1011879535]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.499, 0.803)
+mesh = ExtResource("1_01dxi")
+surface_material_override/0 = SubResource("StandardMaterial3D_du2un")
+
+[node name="Bath | broad end installation deck_001" type="MeshInstance3D" parent="Modelo/Inset Bath" unique_id=593249639]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.499, -0.803)
+mesh = ExtResource("4_sonuv")
+surface_material_override/0 = SubResource("StandardMaterial3D_q4d87")
+
+[node name="Bath | rectangular inset shell" type="MeshInstance3D" parent="Modelo/Inset Bath" unique_id=525103789]
+mesh = ExtResource("5_xpq5c")
+surface_material_override/0 = SubResource("StandardMaterial3D_1w14n")
+
+[node name="Waste | grille crossbar" type="MeshInstance3D" parent="Modelo/Inset Bath" unique_id=1247108049]
+transform = Transform3D(1.1920929e-07, 0.99999994, -5.9604645e-08, 1.7881393e-07, 0, -0.99999994, -0.99999994, 5.9604645e-08, -1.1920929e-07, 0, 0.024, 0)
+mesh = ExtResource("6_00wij")
+surface_material_override/0 = SubResource("StandardMaterial3D_pdf8e")
+
+[node name="Waste | open nickel flange" type="MeshInstance3D" parent="Modelo/Inset Bath" unique_id=1869270945]
+mesh = ExtResource("8_1eokr")
+surface_material_override/0 = SubResource("StandardMaterial3D_h1ts1")
+
+[node name="Waste | open outlet tube" type="MeshInstance3D" parent="Modelo/Inset Bath" unique_id=1787749410]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0, 0)
+mesh = ExtResource("9_2kcay")
+surface_material_override/0 = SubResource("StandardMaterial3D_etvva")
+
+[node name="Colisao_Move_Com_Peca" type="StaticBody3D" parent="." unique_id=50904218]
+
+[node name="Forma" type="CollisionShape3D" parent="Colisao_Move_Com_Peca" unique_id=921267371]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.2635, 0)
+shape = SubResource("BoxShape3D_jj0e1")

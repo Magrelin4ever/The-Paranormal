@@ -1,0 +1,92 @@
+{
+	"all_props_native_editable": true,
+	"assets": [
+		{
+			"asset": "Cama_Casal_Hush",
+			"collider": true,
+			"size": [
+				1.82080817222595,
+				1.46449995040894,
+				2.26449990272522
+			],
+			"source": "res://prototype/assets/models/real_house_20261019/hush_wingback_bed.glb"
+		},
+		{
+			"asset": "Cama_Infantil_Loft_Studio",
+			"collider": true,
+			"size": [
+				1.13899993896484,
+				2.04100012779236,
+				2.40682601928711
+			],
+			"source": "res://prototype/assets/models/real_house_20261019/studio_loft_study_bed.glb"
+		},
+		{
+			"asset": "Cortina_Linho_Aberta",
+			"collider": false,
+			"size": [
+				2.11999988555908,
+				2.19349980354309,
+				0.0780000016093254
+			],
+			"source": "res://prototype/assets/models/innerscene/curtain-pair-open-original-interior-furnishing.glb"
+		},
+		{
+			"asset": "Mesa_Lateral_Madeira",
+			"collider": true,
+			"size": [
+				0.579999983310699,
+				0.337474167346954,
+				0.278521835803986
+			],
+			"source": "res://prototype/assets/models/polyhaven/small_wooden_table_01/small_wooden_table_01_1k.gltf"
+		},
+		{
+			"asset": "Planta_Vaso_Desgastado",
+			"collider": false,
+			"size": [
+				0.479999989271164,
+				0.575856447219849,
+				0.450035452842712
+			],
+			"source": "res://prototype/assets/models/polyhaven/potted_plant_02/potted_plant_02_1k.gltf"
+		},
+		{
+			"asset": "Luminaria_Mesa_Desligada",
+			"collider": false,
+			"size": [
+				0.329999983310699,
+				1.46018195152283,
+				1.00420665740967
+			],
+			"source": "res://prototype/assets/models/polyhaven/desk_lamp_arm_01/desk_lamp_arm_01_1k.gltf"
+		},
+		{
+			"asset": "Livro_Anotacoes",
+			"collider": false,
+			"size": [
+				0.240000009536743,
+				0.0103924032300711,
+				0.0821705982089043
+			],
+			"source": "res://prototype/assets/models/polyhaven/binder_notebook/binder_notebook_1k.gltf"
+		},
+		{
+			"asset": "Cesto_Vime",
+			"collider": true,
+			"size": [
+				0.429999977350235,
+				0.131755381822586,
+				0.331024289131165
+			],
+			"source": "res://prototype/assets/models/polyhaven/wicker_basket_01/wicker_basket_01_1k.gltf"
+		}
+	],
+	"lights_added": 0,
+	"rooms": [
+		"primeiro__Suite_Casal.tscn",
+		"primeiro__Quarto_Infantil.tscn",
+		"sotao__Arquivo_Sotao.tscn",
+		"terreo__Biblioteca.tscn"
+	]
+}

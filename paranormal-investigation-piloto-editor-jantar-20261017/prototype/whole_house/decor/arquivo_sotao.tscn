@@ -1,0 +1,69 @@
+[gd_scene load_steps=11 format=3]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/decor/wrapper_filled_bookshelf.tscn" id="1_model"]
+[ext_resource type="PackedScene" path="res://prototype/whole_house/decor/wrapper_desk_with_chair.tscn" id="2_model"]
+[ext_resource type="PackedScene" path="res://prototype/assets/models/polyhaven/vintage_cabinet_01/vintage_cabinet_01_1k.gltf" id="3_model"]
+[ext_resource type="PackedScene" path="res://prototype/assets/models/polyhaven/book_encyclopedia_set_01/book_encyclopedia_set_01_1k.gltf" id="4_model"]
+[ext_resource type="PackedScene" path="res://prototype/assets/models/polyhaven/binder_notebook/binder_notebook_1k.gltf" id="5_model"]
+[sub_resource type="BoxShape3D" id="1_shape"]
+size = Vector3(1.45, 1.9, 0.42)
+[sub_resource type="BoxShape3D" id="2_shape"]
+size = Vector3(1.25, 1.35, 0.75)
+[sub_resource type="BoxShape3D" id="3_shape"]
+size = Vector3(0.95, 1.75, 0.55)
+[sub_resource type="BoxShape3D" id="4_shape"]
+size = Vector3(0.7, 0.4, 0.5)
+[sub_resource type="BoxShape3D" id="5_shape"]
+size = Vector3(0.35, 0.3, 0.35)
+[node name="Decor_arquivo_sotao" type="Node3D"]
+metadata/ambient_role = "arquivo_sotao"
+metadata/_edit_group_ = true
+[node name="MemoryBookcase" type="Node3D" parent="." unique_id=700013000]
+position = Vector3(-2.45, 0.95, 1.8)
+scale = Vector3(1, 1, 1)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="MemoryBookcase" instance=ExtResource("1_model")]
+[node name="Collision" type="StaticBody3D" parent="MemoryBookcase"]
+[node name="Shape" type="CollisionShape3D" parent="MemoryBookcase/Collision"]
+position = Vector3(0, 0.95, 0)
+shape = SubResource("1_shape")
+[node name="MemoryDesk" type="Node3D" parent="." unique_id=700013001]
+position = Vector3(-0.25, 0.72, 1.8)
+scale = Vector3(0.9, 0.9, 0.9)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="MemoryDesk" instance=ExtResource("2_model")]
+[node name="Collision" type="StaticBody3D" parent="MemoryDesk"]
+[node name="Shape" type="CollisionShape3D" parent="MemoryDesk/Collision"]
+position = Vector3(0, 0.68, 0)
+shape = SubResource("2_shape")
+[node name="ArchiveCabinet" type="Node3D" parent="." unique_id=700013002]
+position = Vector3(1.75, 1.0, 1.8)
+scale = Vector3(0.68, 0.68, 0.68)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="ArchiveCabinet" instance=ExtResource("3_model")]
+[node name="Collision" type="StaticBody3D" parent="ArchiveCabinet"]
+[node name="Shape" type="CollisionShape3D" parent="ArchiveCabinet/Collision"]
+position = Vector3(0, 0.88, 0)
+shape = SubResource("3_shape")
+[node name="ArchiveBooks" type="Node3D" parent="." unique_id=700013003]
+position = Vector3(-1.6, 1.9, 1.8)
+scale = Vector3(0.5, 0.5, 0.5)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="ArchiveBooks" instance=ExtResource("4_model")]
+[node name="Collision" type="StaticBody3D" parent="ArchiveBooks"]
+[node name="Shape" type="CollisionShape3D" parent="ArchiveBooks/Collision"]
+position = Vector3(0, 2.0, 0)
+shape = SubResource("4_shape")
+[node name="ArchiveBinder" type="Node3D" parent="." unique_id=700013004]
+position = Vector3(-0.25, 1.55, 1.8)
+scale = Vector3(0.55, 0.55, 0.55)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="ArchiveBinder" instance=ExtResource("5_model")]
+[node name="Collision" type="StaticBody3D" parent="ArchiveBinder"]
+[node name="Shape" type="CollisionShape3D" parent="ArchiveBinder/Collision"]
+position = Vector3(0, 1.5, 0)
+shape = SubResource("5_shape")

@@ -1,0 +1,29 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0137.res" id="1_k881c"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/polyhaven/desk_lamp_arm_01/textures/desk_lamp_arm_01_diff_1k.jpg" id="2_iudlo"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/polyhaven/desk_lamp_arm_01/textures/desk_lamp_arm_01_arm_1k.jpg" id="3_13hig"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/polyhaven/desk_lamp_arm_01/textures/desk_lamp_arm_01_nor_gl_1k.jpg" id="4_eltey"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_iygej"]
+resource_name = "desk_lamp_arm_01_light"
+cull_mode = 2
+albedo_texture = ExtResource("2_iudlo")
+metallic = 1.0
+metallic_texture = ExtResource("3_13hig")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("3_13hig")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_texture = ExtResource("4_eltey")
+metadata/_gltf_primary_texture_coord = 0
+
+[node name="Luminaria_Mesa_Desligada" type="Node3D" unique_id=228660796]
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="." unique_id=826429775]
+transform = Transform3D(1.6358553, 0, 0, 0, 1.6358553, 0, 0, 0, 1.6358553, 0.028804973, 0.14394508, -0.016847342)
+
+[node name="desk_lamp_arm_01" type="MeshInstance3D" parent="Modelo" unique_id=475541138]
+mesh = ExtResource("1_k881c")
+surface_material_override/1 = SubResource("StandardMaterial3D_iygej")

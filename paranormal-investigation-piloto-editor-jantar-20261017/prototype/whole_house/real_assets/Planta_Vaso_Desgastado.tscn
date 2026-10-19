@@ -1,0 +1,22 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0134.res" id="1_crs7s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0135.res" id="2_wk34s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0136.res" id="3_h4tnr"]
+
+[node name="Planta_Vaso_Desgastado" type="Node3D" unique_id=1745180903]
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="." unique_id=1317771934]
+transform = Transform3D(0.6845827, 0, 0, 0, 0.6845827, 0, 0, 0, 0.6845827, 0.031546608, -3.625867e-05, 0.062721014)
+
+[node name="potted_plant_02_pot" type="MeshInstance3D" parent="Modelo" unique_id=110235275]
+mesh = ExtResource("1_crs7s")
+
+[node name="potted_plant_02_leaves" type="MeshInstance3D" parent="Modelo" unique_id=1515876872]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0029038284, 0.3052897, 0.00068591087)
+mesh = ExtResource("2_wk34s")
+
+[node name="potted_plant_02_dirt" type="MeshInstance3D" parent="Modelo" unique_id=621364460]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.12862031, 0.31752804, -0.13355805)
+mesh = ExtResource("3_h4tnr")

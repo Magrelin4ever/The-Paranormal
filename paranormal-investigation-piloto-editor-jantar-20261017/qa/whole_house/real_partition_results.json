@@ -1,0 +1,71 @@
+{
+	"failures": [],
+	"parts": [
+		{
+			"aabb_preserved": true,
+			"after_bounds": "[P: (-1.71, 0.030001, 6.1), S: (3.4325, 1.91, 1.05)]",
+			"before_bounds": "[P: (-1.71, 0.030001, 6.1), S: (3.4325, 1.91, 1.05)]",
+			"parts": [
+				{
+					"colliders": 1,
+					"name": "Console_Entrada",
+					"triangles": 4028
+				},
+				{
+					"colliders": 1,
+					"name": "Banco_Sapateira",
+					"triangles": 10836
+				}
+			],
+			"scene": "terreo__Hall_Entrada.tscn",
+			"triangles_after": 14864,
+			"triangles_before": 14864
+		},
+		{
+			"aabb_preserved": true,
+			"after_bounds": "[P: (2.01, 0.022, -7.86), S: (4.633986, 2.57, 1.26)]",
+			"before_bounds": "[P: (2.01, 0.022, -7.86), S: (4.633986, 2.57, 1.26)]",
+			"parts": [
+				{
+					"colliders": 1,
+					"name": "Bancada_Principal",
+					"triangles": 14051
+				},
+				{
+					"colliders": 1,
+					"name": "Bancada_Retorno",
+					"triangles": 7881
+				},
+				{
+					"colliders": 1,
+					"name": "Armario_Aereo_Esquerdo",
+					"triangles": 2164
+				},
+				{
+					"colliders": 1,
+					"name": "Armario_Sobrejanela",
+					"triangles": 3420
+				},
+				{
+					"colliders": 1,
+					"name": "Armario_Aereo_Direito",
+					"triangles": 2242
+				},
+				{
+					"colliders": 1,
+					"name": "Aspirador",
+					"triangles": 1382
+				},
+				{
+					"colliders": 1,
+					"name": "Balde",
+					"triangles": 808
+				}
+			],
+			"scene": "terreo__Area_Servico.tscn",
+			"triangles_after": 31948,
+			"triangles_before": 31948
+		}
+	],
+	"passed": true
+}

@@ -1,0 +1,54 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Suporte_Papel_mesh_01.res" id="1_ambw1"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/suporte_papel_70d36601eaf1d52e.png" id="2_yvh77"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/suporte_papel_surface_normal.png" id="3_3v0c3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Suporte_Papel_mesh_02.res" id="4_bvyvr"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_gktvc"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_yvh77")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_3v0c3")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_66lyh"]
+resource_name = "Satin champagne bronze"
+cull_mode = 2
+albedo_texture = ExtResource("2_yvh77")
+metallic = 0.8
+roughness = 0.32
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_3v0c3")
+metadata/_gltf_primary_texture_coord = 0
+
+[node name="Suporte_Papel" type="Node3D" unique_id=1486281301]
+metadata/_edit_group_ = true
+metadata/licenca = "CC0 1.0 — Innerscene; fonte e SHA em assets/models/bathroom_20261019/manifest.json"
+
+[node name="Modelo" type="Node3D" parent="." unique_id=781355708]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0037287697, -3.7252903e-09, -0.02727124)
+
+[node name="Roll Holder" type="Node3D" parent="Modelo" unique_id=274715081]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.051999994, 0)
+metadata/extras = {
+"description": "Open-ended spindle on a substantial wall rosette with a raised retaining tip.",
+"dimensions_m": [0.204542, 0.110542, 0.064],
+"ground_plane": false,
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Roll holder | open spindle" type="MeshInstance3D" parent="Modelo/Roll Holder" unique_id=1133562911]
+mesh = ExtResource("1_ambw1")
+surface_material_override/0 = SubResource("StandardMaterial3D_gktvc")
+
+[node name="Roll holder | wall rosette" type="MeshInstance3D" parent="Modelo/Roll Holder" unique_id=139391785]
+transform = Transform3D(-1, -4.371139e-08, -4.371139e-08, 4.371139e-08, 0, -1, 4.371139e-08, -1, 0, -0.074, 0.084, -0.017)
+mesh = ExtResource("4_bvyvr")
+surface_material_override/0 = SubResource("StandardMaterial3D_66lyh")

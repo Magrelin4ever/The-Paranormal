@@ -1,0 +1,21 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0140.res" id="1_j5xfd"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_pkv57"]
+size = Vector3(0.42999998, 0.13175538, 0.3310243)
+
+[node name="Cesto_Vime" type="Node3D" unique_id=1087665146]
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="." unique_id=479972305]
+transform = Transform3D(1.1220584, 0, 0, 0, 1.1220584, 0, 0, 0, 1.1220584, 0.00030311942, 0.0010285407, 0.0004885942)
+
+[node name="wicker_basket_01" type="MeshInstance3D" parent="Modelo" unique_id=1935234642]
+mesh = ExtResource("1_j5xfd")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="." unique_id=1176397598]
+
+[node name="@CollisionShape3D@5" type="CollisionShape3D" parent="Colisao_Acompanha_Peca" unique_id=16357741]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.06587769, 0)
+shape = SubResource("BoxShape3D_pkv57")

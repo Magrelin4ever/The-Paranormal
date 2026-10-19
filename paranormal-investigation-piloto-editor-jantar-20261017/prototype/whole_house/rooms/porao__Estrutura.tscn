@@ -1,0 +1,1258 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0227.res" id="1_elulk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0228.res" id="2_vf5r2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0229.res" id="3_0a882"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0230.res" id="4_ef1qf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0231.res" id="5_am4aj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0232.res" id="6_qh8i8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0233.res" id="7_gdujg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0234.res" id="8_c628o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0235.res" id="9_if1lh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0236.res" id="10_wa4pg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0237.res" id="11_5xi40"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0238.res" id="12_h8cxj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0239.res" id="13_s5jcy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0240.res" id="14_yqdnl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0241.res" id="15_gd1yi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0242.res" id="16_tja2x"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0243.res" id="17_82d5b"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0244.res" id="18_h7wmf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0245.res" id="19_ip27q"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0246.res" id="20_prxdu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0247.res" id="21_rdijc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0248.res" id="22_txynn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0249.res" id="23_els3e"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0250.res" id="24_hpvgw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0251.res" id="25_w3qak"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0252.res" id="26_7yd8w"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0253.res" id="27_8fwwa"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0254.res" id="28_dq1pn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0255.res" id="29_fy2oj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0256.res" id="30_qwbvt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0257.res" id="31_hsegk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0258.res" id="32_2jf3p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0259.res" id="33_ckohx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0260.res" id="34_b4y42"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0261.res" id="35_fj3si"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0262.res" id="36_03xoe"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0263.res" id="37_4phwm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0264.res" id="38_hvehu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0265.res" id="39_v3ct0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0266.res" id="40_lc13i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0267.res" id="41_xy60f"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0268.res" id="42_ue6kc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0269.res" id="43_041kn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0270.res" id="44_ocop0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0271.res" id="45_kdjr5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0272.res" id="46_wob1b"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0273.res" id="47_ujeed"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0274.res" id="48_k4mun"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0275.res" id="49_k2u8j"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0276.res" id="50_3n1x1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0277.res" id="51_afbtm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0278.res" id="52_e0k4a"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0279.res" id="53_xkxqw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0280.res" id="54_fmynf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0281.res" id="55_gj600"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0282.res" id="56_ah75s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0283.res" id="57_b0og1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0284.res" id="58_hnbv8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0285.res" id="59_lfrso"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0286.res" id="60_qe6qe"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0287.res" id="61_2l1m8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0288.res" id="62_tma40"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0289.res" id="63_n2noo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0290.res" id="64_jrq6w"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0291.res" id="65_0qmdf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0292.res" id="66_s7mwf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0293.res" id="67_5r4dj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0294.res" id="68_a02hs"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0295.res" id="69_gosl8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0296.res" id="70_yclv4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0297.res" id="71_vegpm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0298.res" id="72_cxwqa"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0299.res" id="73_8211o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0300.res" id="74_vnydl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0301.res" id="75_2v0py"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0302.res" id="76_f231h"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0303.res" id="77_6u7qy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0304.res" id="78_qclec"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0305.res" id="79_fqkss"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0306.res" id="80_fpqrd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0307.res" id="81_u5cal"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_0308.res" id="82_vuy13"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_th1nd"]
+size = Vector3(3.625, 1.45, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_q07gt"]
+size = Vector3(3.625, 0.55, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_tm4jy"]
+size = Vector3(3.625, 0.85, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ongil"]
+size = Vector3(1.55, 1.45, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_8erne"]
+size = Vector3(1.55, 0.85, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_iyluo"]
+size = Vector3(8.25, 1.45, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_wvaub"]
+size = Vector3(8.25, 0.55, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_j5fug"]
+size = Vector3(8.25, 0.85, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_laqrk"]
+size = Vector3(1.55, 1.45, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_q5fop"]
+size = Vector3(1.55, 0.85, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_dk23t"]
+size = Vector3(3.625, 1.45, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_6whx1"]
+size = Vector3(3.625, 0.55, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_5kape"]
+size = Vector3(3.625, 0.85, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_qf7ft"]
+size = Vector3(3.625, 1.45, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_fm8rw"]
+size = Vector3(3.625, 0.55, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_br57n"]
+size = Vector3(3.625, 0.85, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_y1rmf"]
+size = Vector3(1.55, 1.45, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ngnmi"]
+size = Vector3(1.55, 0.85, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_lj1gw"]
+size = Vector3(8.25, 1.45, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_buccl"]
+size = Vector3(8.25, 0.55, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ca2vd"]
+size = Vector3(8.25, 0.85, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_vf0tp"]
+size = Vector3(1.55, 1.45, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_cl2gk"]
+size = Vector3(1.55, 0.85, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_pqnpi"]
+size = Vector3(3.625, 1.45, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_nekhq"]
+size = Vector3(3.625, 0.55, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_2wucs"]
+size = Vector3(3.625, 0.85, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_afdp2"]
+size = Vector3(0.22, 2.85, 16)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_5oy2e"]
+size = Vector3(0.22, 2.85, 16)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_82hu5"]
+size = Vector3(8.525, 2.15, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_y13wh"]
+size = Vector3(8.525, 0.7, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_wqpur"]
+size = Vector3(1.55, 0.7, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_6xtm0"]
+size = Vector3(8.525, 2.15, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_0r7l5"]
+size = Vector3(8.525, 0.7, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_48rtc"]
+size = Vector3(0.22, 2.15, 1.95)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_0o723"]
+size = Vector3(0.22, 0.7, 1.95)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_8cade"]
+size = Vector3(0.22, 0.7, 1.4)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_1gvmc"]
+size = Vector3(0.22, 2.15, 3.95)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_orcf8"]
+size = Vector3(0.22, 0.7, 3.95)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_gsgcu"]
+size = Vector3(0.22, 0.7, 1.4)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_4k2pu"]
+size = Vector3(0.22, 2.15, 3.85)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_bccrv"]
+size = Vector3(0.22, 0.7, 3.85)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_cr3w1"]
+size = Vector3(0.22, 0.7, 1.4)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_a1b0v"]
+size = Vector3(0.22, 2.15, 2.05)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_5y71x"]
+size = Vector3(0.22, 0.7, 2.05)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_dy1kx"]
+size = Vector3(2.675, 2.15, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_bnj7v"]
+size = Vector3(2.675, 0.7, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_gm7ta"]
+size = Vector3(1.35, 0.7, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_e3jic"]
+size = Vector3(2.675, 2.15, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_wpfax"]
+size = Vector3(2.675, 0.7, 0.22)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_8whew"]
+size = Vector3(0.22, 2.15, 1.1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_djtn3"]
+size = Vector3(0.22, 0.7, 1.1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_f8pfe"]
+size = Vector3(0.22, 0.7, 1.3)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_3a5vi"]
+size = Vector3(0.22, 2.15, 2.8)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_vxfs7"]
+size = Vector3(0.22, 0.7, 2.8)
+
+[node name="Estrutura" type="Node3D" unique_id=1868964089]
+metadata/pavimento = "porao"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Peca_wall_basement_0050" type="MeshInstance3D" parent="." unique_id=1379402006]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.4875, -2.125, 8)
+layers = 2
+mesh = ExtResource("1_elulk")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0050" unique_id=1414638780]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0050/Colisao_Acompanha_Peca" unique_id=86472811]
+shape = SubResource("BoxShape3D_th1nd")
+
+[node name="Peca_wall_basement_0051" type="MeshInstance3D" parent="." unique_id=605022282]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.4875, -1.125, 8)
+layers = 2
+mesh = ExtResource("2_vf5r2")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0051" unique_id=1152838069]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0051/Colisao_Acompanha_Peca" unique_id=161757871]
+shape = SubResource("BoxShape3D_q07gt")
+
+[node name="Peca_wall_basement_0052" type="MeshInstance3D" parent="." unique_id=1361548820]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.4875, -0.425, 8)
+layers = 2
+mesh = ExtResource("3_0a882")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0052" unique_id=1361606416]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0052/Colisao_Acompanha_Peca" unique_id=259767442]
+shape = SubResource("BoxShape3D_tm4jy")
+
+[node name="Peca_wall_basement_0053" type="MeshInstance3D" parent="." unique_id=412069083]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.9, -2.125, 8)
+layers = 2
+mesh = ExtResource("4_ef1qf")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0053" unique_id=702441564]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0053/Colisao_Acompanha_Peca" unique_id=295862430]
+shape = SubResource("BoxShape3D_ongil")
+
+[node name="Peca_wall_basement_0054" type="MeshInstance3D" parent="." unique_id=1565912645]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.9, -0.425, 8)
+layers = 2
+mesh = ExtResource("5_am4aj")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0054" unique_id=440904162]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0054/Colisao_Acompanha_Peca" unique_id=1196529286]
+shape = SubResource("BoxShape3D_8erne")
+
+[node name="Peca_wall_basement_0055" type="MeshInstance3D" parent="." unique_id=734427075]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -2.125, 8)
+layers = 2
+mesh = ExtResource("6_qh8i8")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0055" unique_id=1849842772]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0055/Colisao_Acompanha_Peca" unique_id=1753543156]
+shape = SubResource("BoxShape3D_iyluo")
+
+[node name="Peca_wall_basement_0056" type="MeshInstance3D" parent="." unique_id=238730161]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1.125, 8)
+layers = 2
+mesh = ExtResource("7_gdujg")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0056" unique_id=1220272202]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0056/Colisao_Acompanha_Peca" unique_id=841624058]
+shape = SubResource("BoxShape3D_wvaub")
+
+[node name="Peca_wall_basement_0057" type="MeshInstance3D" parent="." unique_id=931121648]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.425, 8)
+layers = 2
+mesh = ExtResource("8_c628o")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0057" unique_id=692264221]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0057/Colisao_Acompanha_Peca" unique_id=2060097051]
+shape = SubResource("BoxShape3D_j5fug")
+
+[node name="Peca_wall_basement_0058" type="MeshInstance3D" parent="." unique_id=2006146535]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.9, -2.125, 8)
+layers = 2
+mesh = ExtResource("9_if1lh")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0058" unique_id=1168712282]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0058/Colisao_Acompanha_Peca" unique_id=391881070]
+shape = SubResource("BoxShape3D_laqrk")
+
+[node name="Peca_wall_basement_0059" type="MeshInstance3D" parent="." unique_id=714893472]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.9, -0.425, 8)
+layers = 2
+mesh = ExtResource("10_wa4pg")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0059" unique_id=247233568]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0059/Colisao_Acompanha_Peca" unique_id=1989290465]
+shape = SubResource("BoxShape3D_q5fop")
+
+[node name="Peca_wall_basement_0060" type="MeshInstance3D" parent="." unique_id=1408518215]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.4875, -2.125, 8)
+layers = 2
+mesh = ExtResource("11_5xi40")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0060" unique_id=1020155735]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0060/Colisao_Acompanha_Peca" unique_id=599619162]
+shape = SubResource("BoxShape3D_dk23t")
+
+[node name="Peca_wall_basement_0061" type="MeshInstance3D" parent="." unique_id=1659552174]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.4875, -1.125, 8)
+layers = 2
+mesh = ExtResource("12_h8cxj")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0061" unique_id=703282774]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0061/Colisao_Acompanha_Peca" unique_id=1821707073]
+shape = SubResource("BoxShape3D_6whx1")
+
+[node name="Peca_wall_basement_0062" type="MeshInstance3D" parent="." unique_id=1316022832]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.4875, -0.425, 8)
+layers = 2
+mesh = ExtResource("13_s5jcy")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0062" unique_id=131881124]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0062/Colisao_Acompanha_Peca" unique_id=707908124]
+shape = SubResource("BoxShape3D_5kape")
+
+[node name="Peca_wall_basement_0063" type="MeshInstance3D" parent="." unique_id=1906403792]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.4875, -2.125, -8)
+layers = 2
+mesh = ExtResource("14_yqdnl")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0063" unique_id=1582079641]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0063/Colisao_Acompanha_Peca" unique_id=874377235]
+shape = SubResource("BoxShape3D_qf7ft")
+
+[node name="Peca_wall_basement_0064" type="MeshInstance3D" parent="." unique_id=1779682130]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.4875, -1.125, -8)
+layers = 2
+mesh = ExtResource("15_gd1yi")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0064" unique_id=1048387437]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0064/Colisao_Acompanha_Peca" unique_id=939642943]
+shape = SubResource("BoxShape3D_fm8rw")
+
+[node name="Peca_wall_basement_0065" type="MeshInstance3D" parent="." unique_id=757625196]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.4875, -0.425, -8)
+layers = 2
+mesh = ExtResource("16_tja2x")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0065" unique_id=1366758033]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0065/Colisao_Acompanha_Peca" unique_id=726590323]
+shape = SubResource("BoxShape3D_br57n")
+
+[node name="Peca_wall_basement_0066" type="MeshInstance3D" parent="." unique_id=1854254386]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.9, -2.125, -8)
+layers = 2
+mesh = ExtResource("17_82d5b")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0066" unique_id=1080767824]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0066/Colisao_Acompanha_Peca" unique_id=1682817489]
+shape = SubResource("BoxShape3D_y1rmf")
+
+[node name="Peca_wall_basement_0067" type="MeshInstance3D" parent="." unique_id=1527118027]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.9, -0.425, -8)
+layers = 2
+mesh = ExtResource("18_h7wmf")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0067" unique_id=1674259686]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0067/Colisao_Acompanha_Peca" unique_id=373384469]
+shape = SubResource("BoxShape3D_ngnmi")
+
+[node name="Peca_wall_basement_0068" type="MeshInstance3D" parent="." unique_id=788573895]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -2.125, -8)
+layers = 2
+mesh = ExtResource("19_ip27q")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0068" unique_id=362144676]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0068/Colisao_Acompanha_Peca" unique_id=1783428268]
+shape = SubResource("BoxShape3D_lj1gw")
+
+[node name="Peca_wall_basement_0069" type="MeshInstance3D" parent="." unique_id=1879642001]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1.125, -8)
+layers = 2
+mesh = ExtResource("20_prxdu")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0069" unique_id=2040559493]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0069/Colisao_Acompanha_Peca" unique_id=1603493338]
+shape = SubResource("BoxShape3D_buccl")
+
+[node name="Peca_wall_basement_0070" type="MeshInstance3D" parent="." unique_id=466358201]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.425, -8)
+layers = 2
+mesh = ExtResource("21_rdijc")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0070" unique_id=571365620]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0070/Colisao_Acompanha_Peca" unique_id=1301331556]
+shape = SubResource("BoxShape3D_ca2vd")
+
+[node name="Peca_wall_basement_0071" type="MeshInstance3D" parent="." unique_id=1795867086]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.9, -2.125, -8)
+layers = 2
+mesh = ExtResource("22_txynn")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0071" unique_id=1810986092]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0071/Colisao_Acompanha_Peca" unique_id=509570726]
+shape = SubResource("BoxShape3D_vf0tp")
+
+[node name="Peca_wall_basement_0072" type="MeshInstance3D" parent="." unique_id=759211630]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.9, -0.425, -8)
+layers = 2
+mesh = ExtResource("23_els3e")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0072" unique_id=275988228]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0072/Colisao_Acompanha_Peca" unique_id=881404016]
+shape = SubResource("BoxShape3D_cl2gk")
+
+[node name="Peca_wall_basement_0073" type="MeshInstance3D" parent="." unique_id=1085484350]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.4875, -2.125, -8)
+layers = 2
+mesh = ExtResource("24_hpvgw")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0073" unique_id=1743652515]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0073/Colisao_Acompanha_Peca" unique_id=283173653]
+shape = SubResource("BoxShape3D_pqnpi")
+
+[node name="Peca_wall_basement_0074" type="MeshInstance3D" parent="." unique_id=1054466170]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.4875, -1.125, -8)
+layers = 2
+mesh = ExtResource("25_w3qak")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0074" unique_id=826545929]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0074/Colisao_Acompanha_Peca" unique_id=1508369751]
+shape = SubResource("BoxShape3D_nekhq")
+
+[node name="Peca_wall_basement_0075" type="MeshInstance3D" parent="." unique_id=1781321454]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.4875, -0.425, -8)
+layers = 2
+mesh = ExtResource("26_7yd8w")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0075" unique_id=1897239330]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0075/Colisao_Acompanha_Peca" unique_id=1791327655]
+shape = SubResource("BoxShape3D_2wucs")
+
+[node name="Peca_wall_basement_0076" type="MeshInstance3D" parent="." unique_id=274641325]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.3, -1.425, 0)
+layers = 2
+mesh = ExtResource("27_8fwwa")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0076" unique_id=1526390793]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0076/Colisao_Acompanha_Peca" unique_id=1327375323]
+shape = SubResource("BoxShape3D_afdp2")
+
+[node name="Peca_wall_basement_0077" type="MeshInstance3D" parent="." unique_id=588939297]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.3, -1.425, 0)
+layers = 2
+mesh = ExtResource("28_dq1pn")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0077" unique_id=560380978]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0077/Colisao_Acompanha_Peca" unique_id=1003098622]
+shape = SubResource("BoxShape3D_5oy2e")
+
+[node name="Peca_trim_light_0078" type="MeshInstance3D" parent="." unique_id=468929034]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.675, -1.125, 8)
+layers = 2
+mesh = ExtResource("29_fy2oj")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0079" type="MeshInstance3D" parent="." unique_id=353634088]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.125, -1.125, 8)
+layers = 2
+mesh = ExtResource("30_qwbvt")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0083" type="MeshInstance3D" parent="." unique_id=859094683]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.9, -1.125, 8)
+layers = 2
+mesh = ExtResource("31_hsegk")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_glass_0084" type="MeshInstance3D" parent="." unique_id=2117363069]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.9, -1.125, 8.015)
+layers = 2
+mesh = ExtResource("32_2jf3p")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"glass"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0085" type="MeshInstance3D" parent="." unique_id=186791767]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.125, -1.125, 8)
+layers = 2
+mesh = ExtResource("33_ckohx")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0086" type="MeshInstance3D" parent="." unique_id=270868182]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.675, -1.125, 8)
+layers = 2
+mesh = ExtResource("34_b4y42")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0090" type="MeshInstance3D" parent="." unique_id=1237733488]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.9, -1.125, 8)
+layers = 2
+mesh = ExtResource("35_fj3si")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_glass_0091" type="MeshInstance3D" parent="." unique_id=976216264]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.9, -1.125, 8.015)
+layers = 2
+mesh = ExtResource("36_03xoe")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"glass"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0092" type="MeshInstance3D" parent="." unique_id=1074080825]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.675, -1.125, -8)
+layers = 2
+mesh = ExtResource("37_4phwm")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0093" type="MeshInstance3D" parent="." unique_id=1018744003]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.125, -1.125, -8)
+layers = 2
+mesh = ExtResource("38_hvehu")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0097" type="MeshInstance3D" parent="." unique_id=1542878702]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.9, -1.125, -8)
+layers = 2
+mesh = ExtResource("39_v3ct0")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_glass_0098" type="MeshInstance3D" parent="." unique_id=686858221]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.9, -1.125, -7.985)
+layers = 2
+mesh = ExtResource("40_lc13i")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"glass"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0099" type="MeshInstance3D" parent="." unique_id=275882086]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.125, -1.125, -8)
+layers = 2
+mesh = ExtResource("41_xy60f")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0100" type="MeshInstance3D" parent="." unique_id=1251422913]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.675, -1.125, -8)
+layers = 2
+mesh = ExtResource("42_ue6kc")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0104" type="MeshInstance3D" parent="." unique_id=171341838]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.9, -1.125, -8)
+layers = 2
+mesh = ExtResource("43_041kn")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_glass_0105" type="MeshInstance3D" parent="." unique_id=1487644005]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.9, -1.125, -7.985)
+layers = 2
+mesh = ExtResource("44_ocop0")
+metadata/fase_conversao = "_montar_pisos_e_estrutura"
+metadata/pavimento = &"porao"
+metadata/material_original = &"glass"
+metadata/_edit_group_ = true
+
+[node name="Peca_wall_basement_0634" type="MeshInstance3D" parent="." unique_id=1380659397]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0375, -1.775, 1.7)
+layers = 2
+mesh = ExtResource("45_kdjr5")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0634" unique_id=1548842838]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0634/Colisao_Acompanha_Peca" unique_id=187651115]
+shape = SubResource("BoxShape3D_82hu5")
+
+[node name="Peca_wall_basement_0635" type="MeshInstance3D" parent="." unique_id=1443889245]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.0375, -0.35, 1.7)
+layers = 2
+mesh = ExtResource("46_wob1b")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0635" unique_id=1333712300]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0635/Colisao_Acompanha_Peca" unique_id=2030295565]
+shape = SubResource("BoxShape3D_y13wh")
+
+[node name="Peca_wall_basement_0636" type="MeshInstance3D" parent="." unique_id=404477027]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.35, 1.7)
+layers = 2
+mesh = ExtResource("47_ujeed")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0636" unique_id=887538063]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0636/Colisao_Acompanha_Peca" unique_id=1938608629]
+shape = SubResource("BoxShape3D_wqpur")
+
+[node name="Peca_wall_basement_0637" type="MeshInstance3D" parent="." unique_id=1618463349]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.0375, -1.775, 1.7)
+layers = 2
+mesh = ExtResource("48_k4mun")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0637" unique_id=507384015]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0637/Colisao_Acompanha_Peca" unique_id=1934540430]
+shape = SubResource("BoxShape3D_6xtm0")
+
+[node name="Peca_wall_basement_0638" type="MeshInstance3D" parent="." unique_id=1669357457]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.0375, -0.35, 1.7)
+layers = 2
+mesh = ExtResource("49_k2u8j")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0638" unique_id=1519399265]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0638/Colisao_Acompanha_Peca" unique_id=700735051]
+shape = SubResource("BoxShape3D_0r7l5")
+
+[node name="Peca_trim_light_0639" type="MeshInstance3D" parent="." unique_id=831379253]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.775, -1.775, 1.7)
+layers = 2
+mesh = ExtResource("50_3n1x1")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0640" type="MeshInstance3D" parent="." unique_id=2037339269]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.775, -1.775, 1.7)
+layers = 2
+mesh = ExtResource("51_afbtm")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_wall_basement_0642" type="MeshInstance3D" parent="." unique_id=1560387508]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.775, -7.025)
+layers = 2
+mesh = ExtResource("52_e0k4a")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0642" unique_id=1995191066]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0642/Colisao_Acompanha_Peca" unique_id=180128686]
+shape = SubResource("BoxShape3D_48rtc")
+
+[node name="Peca_wall_basement_0643" type="MeshInstance3D" parent="." unique_id=269432420]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -0.35, -7.025)
+layers = 2
+mesh = ExtResource("53_xkxqw")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0643" unique_id=502131115]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0643/Colisao_Acompanha_Peca" unique_id=2094882737]
+shape = SubResource("BoxShape3D_0o723")
+
+[node name="Peca_wall_basement_0644" type="MeshInstance3D" parent="." unique_id=603385634]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -0.35, -5.35)
+layers = 2
+mesh = ExtResource("54_fmynf")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0644" unique_id=160332605]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0644/Colisao_Acompanha_Peca" unique_id=942703488]
+shape = SubResource("BoxShape3D_8cade")
+
+[node name="Peca_wall_basement_0645" type="MeshInstance3D" parent="." unique_id=2036110850]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.775, -2.675)
+layers = 2
+mesh = ExtResource("55_gj600")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0645" unique_id=1550765619]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0645/Colisao_Acompanha_Peca" unique_id=531654997]
+shape = SubResource("BoxShape3D_1gvmc")
+
+[node name="Peca_wall_basement_0646" type="MeshInstance3D" parent="." unique_id=1368749538]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -0.35, -2.675)
+layers = 2
+mesh = ExtResource("56_ah75s")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0646" unique_id=1244672167]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0646/Colisao_Acompanha_Peca" unique_id=1094297537]
+shape = SubResource("BoxShape3D_orcf8")
+
+[node name="Peca_wall_basement_0647" type="MeshInstance3D" parent="." unique_id=952470963]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -0.35, 0)
+layers = 2
+mesh = ExtResource("57_b0og1")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0647" unique_id=1123007674]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0647/Colisao_Acompanha_Peca" unique_id=111772040]
+shape = SubResource("BoxShape3D_gsgcu")
+
+[node name="Peca_wall_basement_0648" type="MeshInstance3D" parent="." unique_id=1550621622]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.775, 2.625)
+layers = 2
+mesh = ExtResource("58_hnbv8")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0648" unique_id=103543791]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0648/Colisao_Acompanha_Peca" unique_id=1186578431]
+shape = SubResource("BoxShape3D_4k2pu")
+
+[node name="Peca_wall_basement_0649" type="MeshInstance3D" parent="." unique_id=1946880955]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -0.35, 2.625)
+layers = 2
+mesh = ExtResource("59_lfrso")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0649" unique_id=1709863105]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0649/Colisao_Acompanha_Peca" unique_id=905209142]
+shape = SubResource("BoxShape3D_bccrv")
+
+[node name="Peca_wall_basement_0650" type="MeshInstance3D" parent="." unique_id=471186948]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -0.35, 5.25)
+layers = 2
+mesh = ExtResource("60_qe6qe")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0650" unique_id=741290954]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0650/Colisao_Acompanha_Peca" unique_id=1017463012]
+shape = SubResource("BoxShape3D_cr3w1")
+
+[node name="Peca_wall_basement_0651" type="MeshInstance3D" parent="." unique_id=123092358]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.775, 6.975)
+layers = 2
+mesh = ExtResource("61_2l1m8")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0651" unique_id=269584154]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0651/Colisao_Acompanha_Peca" unique_id=723642300]
+shape = SubResource("BoxShape3D_a1b0v")
+
+[node name="Peca_wall_basement_0652" type="MeshInstance3D" parent="." unique_id=137389216]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -0.35, 6.975)
+layers = 2
+mesh = ExtResource("62_tma40")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0652" unique_id=1995211179]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0652/Colisao_Acompanha_Peca" unique_id=780091066]
+shape = SubResource("BoxShape3D_5y71x")
+
+[node name="Peca_trim_light_0653" type="MeshInstance3D" parent="." unique_id=780648175]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.775, 4.55)
+layers = 2
+mesh = ExtResource("63_n2noo")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0654" type="MeshInstance3D" parent="." unique_id=2026731498]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.775, 5.95)
+layers = 2
+mesh = ExtResource("64_jrq6w")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0656" type="MeshInstance3D" parent="." unique_id=770450573]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.775, -0.7)
+layers = 2
+mesh = ExtResource("65_0qmdf")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0657" type="MeshInstance3D" parent="." unique_id=2011822871]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.775, 0.7)
+layers = 2
+mesh = ExtResource("66_s7mwf")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0659" type="MeshInstance3D" parent="." unique_id=1970662111]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.775, -6.05)
+layers = 2
+mesh = ExtResource("67_5r4dj")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0660" type="MeshInstance3D" parent="." unique_id=1103044677]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, -1.775, -4.65)
+layers = 2
+mesh = ExtResource("68_a02hs")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_wall_basement_0662" type="MeshInstance3D" parent="." unique_id=1295373122]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.0125, -1.775, -3)
+layers = 2
+mesh = ExtResource("69_gosl8")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0662" unique_id=1411303639]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0662/Colisao_Acompanha_Peca" unique_id=1237977586]
+shape = SubResource("BoxShape3D_dy1kx")
+
+[node name="Peca_wall_basement_0663" type="MeshInstance3D" parent="." unique_id=415298482]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.0125, -0.35, -3)
+layers = 2
+mesh = ExtResource("70_yclv4")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0663" unique_id=1610719599]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0663/Colisao_Acompanha_Peca" unique_id=1428573546]
+shape = SubResource("BoxShape3D_bnj7v")
+
+[node name="Peca_wall_basement_0664" type="MeshInstance3D" parent="." unique_id=1086220489]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6, -0.35, -3)
+layers = 2
+mesh = ExtResource("71_vegpm")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0664" unique_id=926188782]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0664/Colisao_Acompanha_Peca" unique_id=380427650]
+shape = SubResource("BoxShape3D_gm7ta")
+
+[node name="Peca_wall_basement_0665" type="MeshInstance3D" parent="." unique_id=2030105946]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.9875, -1.775, -3)
+layers = 2
+mesh = ExtResource("72_cxwqa")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0665" unique_id=753141676]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0665/Colisao_Acompanha_Peca" unique_id=1314789949]
+shape = SubResource("BoxShape3D_e3jic")
+
+[node name="Peca_wall_basement_0666" type="MeshInstance3D" parent="." unique_id=596506170]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.9875, -0.35, -3)
+layers = 2
+mesh = ExtResource("73_8211o")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0666" unique_id=386921532]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0666/Colisao_Acompanha_Peca" unique_id=1566828356]
+shape = SubResource("BoxShape3D_wpfax")
+
+[node name="Peca_trim_light_0667" type="MeshInstance3D" parent="." unique_id=2002438859]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.675, -1.775, -3)
+layers = 2
+mesh = ExtResource("74_vnydl")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0668" type="MeshInstance3D" parent="." unique_id=40471273]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.325, -1.775, -3)
+layers = 2
+mesh = ExtResource("75_2v0py")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_wall_basement_0670" type="MeshInstance3D" parent="." unique_id=1950363708]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.25, -1.775, -7.45)
+layers = 2
+mesh = ExtResource("76_f231h")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0670" unique_id=1879405965]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0670/Colisao_Acompanha_Peca" unique_id=833785332]
+shape = SubResource("BoxShape3D_8whew")
+
+[node name="Peca_wall_basement_0671" type="MeshInstance3D" parent="." unique_id=1811008557]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.25, -0.35, -7.45)
+layers = 2
+mesh = ExtResource("77_6u7qy")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0671" unique_id=555436374]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0671/Colisao_Acompanha_Peca" unique_id=326715114]
+shape = SubResource("BoxShape3D_djtn3")
+
+[node name="Peca_wall_basement_0672" type="MeshInstance3D" parent="." unique_id=238228522]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.25, -0.35, -6.25)
+layers = 2
+mesh = ExtResource("78_qclec")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0672" unique_id=602318716]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0672/Colisao_Acompanha_Peca" unique_id=2116958193]
+shape = SubResource("BoxShape3D_f8pfe")
+
+[node name="Peca_wall_basement_0673" type="MeshInstance3D" parent="." unique_id=511720762]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.25, -1.775, -4.2)
+layers = 2
+mesh = ExtResource("79_fqkss")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0673" unique_id=1259833386]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0673/Colisao_Acompanha_Peca" unique_id=428455134]
+shape = SubResource("BoxShape3D_3a5vi")
+
+[node name="Peca_wall_basement_0674" type="MeshInstance3D" parent="." unique_id=2098787814]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.25, -0.35, -4.2)
+layers = 2
+mesh = ExtResource("80_fpqrd")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"wall_basement"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Peca_wall_basement_0674" unique_id=518551275]
+
+[node name="Forma" type="CollisionShape3D" parent="Peca_wall_basement_0674/Colisao_Acompanha_Peca" unique_id=2130558121]
+shape = SubResource("BoxShape3D_vxfs7")
+
+[node name="Peca_trim_light_0675" type="MeshInstance3D" parent="." unique_id=776121621]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.25, -1.775, -6.9)
+layers = 2
+mesh = ExtResource("81_u5cal")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_light_0676" type="MeshInstance3D" parent="." unique_id=1547805603]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.25, -1.775, -5.6)
+layers = 2
+mesh = ExtResource("82_vuy13")
+metadata/fase_conversao = "_montar_paredes_internas"
+metadata/pavimento = &"porao"
+metadata/material_original = &"trim_light"
+metadata/_edit_group_ = true

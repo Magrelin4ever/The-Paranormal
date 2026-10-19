@@ -1,0 +1,37 @@
+{
+  "checks": {
+    "c15_roots": {
+      "ok": true,
+      "detail": "mesa/cadeira roots"
+    },
+    "c15_colliders": {
+      "ok": true,
+      "detail": "colliders retained"
+    },
+    "hall_roots": {
+      "ok": true,
+      "detail": "console/banco roots"
+    },
+    "hall_partition_metadata": {
+      "ok": true,
+      "detail": "partition policy"
+    },
+    "service_roots": {
+      "ok": true,
+      "detail": "five editable roots"
+    },
+    "service_colliders": {
+      "ok": true,
+      "detail": "existing colliders retained"
+    },
+    "kitchen_no_root_edit_group": {
+      "ok": true,
+      "detail": "root grouping removed"
+    },
+    "kitchen_components": {
+      "ok": true,
+      "detail": "imported meshes marked"
+    }
+  },
+  "pass": true
+}

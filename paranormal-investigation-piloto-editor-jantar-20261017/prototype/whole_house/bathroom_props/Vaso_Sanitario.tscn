@@ -1,0 +1,196 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_01.res" id="1_sxjdk"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/vaso_sanitario_0068ce215795c1e1.png" id="2_7w4e1"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/vaso_sanitario_surface_normal.png" id="3_debmx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_02.res" id="4_mjxmp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_03.res" id="5_0rwne"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/vaso_sanitario_8d5888eb8fbcd835.png" id="6_0px2o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_04.res" id="7_wxndm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_05.res" id="8_amjc7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_06.res" id="9_8rn83"]
+[ext_resource type="Texture2D" path="res://prototype/assets/models/bathroom_20261019/vaso_sanitario_d966172d8b7db081.png" id="10_gnph8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_07.res" id="11_qo1nl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_08.res" id="12_8t6s2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_09.res" id="13_s14rr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/bathroom_props/resources/Vaso_Sanitario_mesh_10.res" id="14_7mmck"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_s28tn"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("2_7w4e1")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_debmx")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_3mxug"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("2_7w4e1")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_debmx")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_6amk0"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("6_0px2o")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_debmx")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_36s4q"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("6_0px2o")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_debmx")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_yknic"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("2_7w4e1")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_debmx")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_cfkug"]
+resource_name = "Warm ivory satin cabinet enamel"
+cull_mode = 2
+albedo_texture = ExtResource("10_gnph8")
+roughness = 0.4
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_debmx")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_xxj2k"]
+resource_name = "Glazed ivory ceramic"
+cull_mode = 2
+albedo_texture = ExtResource("2_7w4e1")
+roughness = 0.2
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_debmx")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ky68r"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("6_0px2o")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_debmx")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_41b7l"]
+resource_name = "Polished stainless steel"
+cull_mode = 2
+albedo_texture = ExtResource("6_0px2o")
+metallic = 0.94
+roughness = 0.16
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_debmx")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_iw8ok"]
+resource_name = "Warm ivory satin cabinet enamel"
+cull_mode = 2
+albedo_texture = ExtResource("10_gnph8")
+roughness = 0.4
+normal_enabled = true
+normal_scale = 0.1
+normal_texture = ExtResource("3_debmx")
+metadata/_gltf_primary_texture_coord = 0
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_1fswj"]
+size = Vector3(0.43200007, 0.93216, 0.74112004)
+
+[node name="Vaso_Sanitario" type="Node3D" unique_id=160812643]
+metadata/_edit_group_ = true
+metadata/licenca = "CC0 1.0 — Innerscene; fonte e SHA em assets/models/bathroom_20261019/manifest.json"
+
+[node name="Modelo" type="Node3D" parent="." unique_id=988626763]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.08543998)
+
+[node name="Compact WC" type="Node3D" parent="Modelo" unique_id=374657263]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.006, 0)
+metadata/extras = {
+"description": "Hollow toilet bowl, separate seat ring, rear cistern and dual-flush control.",
+"dimensions_m": [0.432, 0.74112, 0.93216],
+"ground_plane": false,
+"original_design": true,
+"units": "meters"
+}
+
+[node name="WC | ceramic pedestal" type="MeshInstance3D" parent="Modelo/Compact WC" unique_id=1661045111]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1.33, 0, 0, 0)
+mesh = ExtResource("1_sxjdk")
+surface_material_override/0 = SubResource("StandardMaterial3D_s28tn")
+
+[node name="WC | cistern cover" type="MeshInstance3D" parent="Modelo/Compact WC" unique_id=438343201]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.817, -0.354)
+mesh = ExtResource("4_mjxmp")
+surface_material_override/0 = SubResource("StandardMaterial3D_3mxug")
+
+[node name="WC | dual-flush button" type="MeshInstance3D" parent="Modelo/Compact WC" unique_id=1560984474]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.019, 0.831, -0.354)
+mesh = ExtResource("5_0rwne")
+surface_material_override/0 = SubResource("StandardMaterial3D_6amk0")
+
+[node name="WC | dual-flush button_001" type="MeshInstance3D" parent="Modelo/Compact WC" unique_id=1841219167]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.019, 0.831, -0.354)
+mesh = ExtResource("7_wxndm")
+surface_material_override/0 = SubResource("StandardMaterial3D_36s4q")
+
+[node name="WC | open sanitary bowl" type="MeshInstance3D" parent="Modelo/Compact WC" unique_id=38006222]
+transform = Transform3D(-1, 0, -1.236602e-07, 0, 1, 0, 8.742278e-08, 0, -1.4145077, 0, 0.127, 0)
+mesh = ExtResource("8_amjc7")
+surface_material_override/0 = SubResource("StandardMaterial3D_yknic")
+
+[node name="WC | raised lid" type="MeshInstance3D" parent="Modelo/Compact WC" unique_id=1203011050]
+transform = Transform3D(1, 0, 0, 0, 0, -1.32, 0, 1, 0, 0, 0.657, -0.268)
+mesh = ExtResource("9_8rn83")
+surface_material_override/0 = SubResource("StandardMaterial3D_cfkug")
+
+[node name="WC | rear cistern" type="MeshInstance3D" parent="Modelo/Compact WC" unique_id=438368577]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.596, -0.354)
+mesh = ExtResource("11_qo1nl")
+surface_material_override/0 = SubResource("StandardMaterial3D_xxj2k")
+
+[node name="WC | seat hinge" type="MeshInstance3D" parent="Modelo/Compact WC" unique_id=683189307]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, -0.094, 0.425, -0.246)
+mesh = ExtResource("12_8t6s2")
+surface_material_override/0 = SubResource("StandardMaterial3D_ky68r")
+
+[node name="WC | seat hinge_001" type="MeshInstance3D" parent="Modelo/Compact WC" unique_id=1692301717]
+transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, 0.094, 0.425, -0.246)
+mesh = ExtResource("13_s14rr")
+surface_material_override/0 = SubResource("StandardMaterial3D_41b7l")
+
+[node name="WC | separate seat ring" type="MeshInstance3D" parent="Modelo/Compact WC" unique_id=919670103]
+transform = Transform3D(-1, 0, -1.15398066e-07, 0, 1, 0, 8.742278e-08, 0, -1.32, 0, 0, 0)
+mesh = ExtResource("14_7mmck")
+surface_material_override/0 = SubResource("StandardMaterial3D_iw8ok")
+
+[node name="Colisao_Move_Com_Peca" type="StaticBody3D" parent="." unique_id=2096460854]
+
+[node name="Forma" type="CollisionShape3D" parent="Colisao_Move_Com_Peca" unique_id=1459055739]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.46608, 0)
+shape = SubResource("BoxShape3D_1fswj")

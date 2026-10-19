@@ -33,6 +33,20 @@ const C15_LANTERNA_BASE := [1.0, 0.55, 0.65]
 const C15_LANTERNA_LOCAL := [1.0, 0.50, 0.38]
 
 func _ready() -> void:
+	# Fonte única de layout: cenas persistentes, editáveis no viewport 3D.
+	# O construtor legado abaixo é mantido apenas para histórico/ferramentas offline.
+	_raiz_visual = get_node_or_null("Casa_Editavel") as Node3D
+	if _raiz_visual == null:
+		push_error("Casa_Editavel ausente. Abra prototype/house_environment.tscn.")
+		return
+	_criar_ambiente()
+	_apagar_luzes_internas()
+	_criar_ambiencia()
+	_posicionar_jogador()
+	_montar_dica_controles()
+	_montar_filtro_visual()
+
+func _construir_legado_apenas_ferramentas() -> void:
 	_criar_materiais()
 	_raiz_visual = Node3D.new()
 	_raiz_visual.name = "AmbienteDaCasa"
@@ -1265,6 +1279,8 @@ func _atenuar_tecido_sala(modelo: Node3D, matiz: Color) -> void:
 				if textura_local == null:
 					var imagem := material_original.albedo_texture.get_image()
 					if imagem != null and not imagem.is_empty():
+						if imagem.is_compressed():
+							imagem.decompress()
 						imagem.adjust_bcs(0.82, 1.04, 0.28)
 						textura_local = ImageTexture.create_from_image(imagem)
 						cache_texturas[chave_textura] = textura_local

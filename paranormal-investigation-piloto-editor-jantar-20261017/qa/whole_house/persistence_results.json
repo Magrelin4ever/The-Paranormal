@@ -1,0 +1,310 @@
+{
+	"artifacts": [
+		"user://qa_whole_house_porao_room.tscn",
+		"user://qa_whole_house_terreo_room.tscn",
+		"user://qa_whole_house_primeiro_room.tscn",
+		"user://qa_whole_house_sotao_room.tscn"
+	],
+	"checks": [
+		{
+			"detail": "0",
+			"name": "master_sem_overrides_de_mobiliario",
+			"pass": true
+		},
+		{
+			"detail": "40",
+			"name": "master_tem_40_cenas_nativas",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "main_carrega",
+			"pass": true
+		},
+		{
+			"detail": "476",
+			"name": "pavimento_nativo_Porao",
+			"pass": true
+		},
+		{
+			"detail": "5787",
+			"name": "pavimento_nativo_Terreo",
+			"pass": true
+		},
+		{
+			"detail": "1491",
+			"name": "pavimento_nativo_Primeiro_Andar",
+			"pass": true
+		},
+		{
+			"detail": "890",
+			"name": "pavimento_nativo_Sotao_Segundo_Andar",
+			"pass": true
+		},
+		{
+			"detail": "28",
+			"name": "28_portas_interativas",
+			"pass": true
+		},
+		{
+			"detail": "0",
+			"name": "zero_luzes_internas_ativas",
+			"pass": true
+		},
+		{
+			"detail": "0",
+			"name": "zero_materiais_emissivos_internos_ativos",
+			"pass": true
+		},
+		{
+			"detail": "antes=8644 depois=8644",
+			"name": "runtime_nao_recria_geometria",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porao_movel_selecionavel",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porao_colisao_filha",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porao_colisao_acompanha_movimento",
+			"pass": true
+		},
+		{
+			"detail": "0",
+			"name": "porao_salvar_cena",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porao_reabrir_cena",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porao_transform_persiste",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porao_asset_adicional_persiste",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porao_composicao_jogo_carrega",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porao_jogo_usa_transform_salvo",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porao_jogo_usa_asset_adicionado",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porao_jogo_usa_colisao_movida",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "terreo_movel_selecionavel",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "terreo_colisao_filha",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "terreo_colisao_acompanha_movimento",
+			"pass": true
+		},
+		{
+			"detail": "0",
+			"name": "terreo_salvar_cena",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "terreo_reabrir_cena",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "terreo_transform_persiste",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "terreo_asset_adicional_persiste",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "terreo_composicao_jogo_carrega",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "terreo_jogo_usa_transform_salvo",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "terreo_jogo_usa_asset_adicionado",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "terreo_jogo_usa_colisao_movida",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "primeiro_movel_selecionavel",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "primeiro_colisao_filha",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "primeiro_colisao_acompanha_movimento",
+			"pass": true
+		},
+		{
+			"detail": "0",
+			"name": "primeiro_salvar_cena",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "primeiro_reabrir_cena",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "primeiro_transform_persiste",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "primeiro_asset_adicional_persiste",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "primeiro_composicao_jogo_carrega",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "primeiro_jogo_usa_transform_salvo",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "primeiro_jogo_usa_asset_adicionado",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "primeiro_jogo_usa_colisao_movida",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "sotao_movel_selecionavel",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "sotao_colisao_filha",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "sotao_colisao_acompanha_movimento",
+			"pass": true
+		},
+		{
+			"detail": "0",
+			"name": "sotao_salvar_cena",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "sotao_reabrir_cena",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "sotao_transform_persiste",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "sotao_asset_adicional_persiste",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "sotao_composicao_jogo_carrega",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "sotao_jogo_usa_transform_salvo",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "sotao_jogo_usa_asset_adicionado",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "sotao_jogo_usa_colisao_movida",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porta_preserva_rotacao_editada_aberta",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "porta_retorna_a_rotacao_editada",
+			"pass": true
+		},
+		{
+			"detail": "",
+			"name": "alvo_interacao_acompanha_edicao",
+			"pass": true
+		}
+	],
+	"engine": "4.7.2-stable (official)",
+	"failures": [],
+	"inventory_meshes": {
+		"Porao": 476,
+		"Primeiro_Andar": 1491,
+		"Sotao_Segundo_Andar": 890,
+		"Terreo": 5787
+	},
+	"passed": true,
+	"test": "whole_house_persistence_test"
+}

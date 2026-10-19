@@ -1,0 +1,230 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0001.res" id="1_6ai08"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0002.res" id="2_ad665"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0003.res" id="3_2od8k"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0004.res" id="4_xr4vs"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0005.res" id="5_w3iuj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0006.res" id="6_elaky"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0007.res" id="7_ltw5l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0008.res" id="8_0seti"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0009.res" id="9_poves"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0010.res" id="10_2172u"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0011.res" id="11_ljytf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0012.res" id="12_pn2bh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0013.res" id="13_rl0h2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0014.res" id="14_564c5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0015.res" id="15_uqv5u"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0016.res" id="16_8e83w"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0017.res" id="17_0vdd1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0018.res" id="18_v4p0i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0019.res" id="19_1wcp6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0020.res" id="20_uunil"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0021.res" id="21_ch3hn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0022.res" id="22_5xm3w"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0023.res" id="23_8nerx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0024.res" id="24_t4nl5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0025.res" id="25_tn8wm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0026.res" id="26_ywkf1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0027.res" id="27_ipywb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0028.res" id="28_gjmuq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0029.res" id="29_lbf3k"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0030.res" id="30_apke0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0031.res" id="31_knwor"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0032.res" id="32_6isf2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0033.res" id="33_qx4yq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0034.res" id="34_h7ku8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0035.res" id="35_h3q8u"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0036.res" id="36_fkbp4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0037.res" id="37_4g7ki"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0038.res" id="38_nhiou"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0039.res" id="39_lsrnh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0040.res" id="40_py7x4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0041.res" id="41_5brh1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/polish_resources/polish_mesh_0042.res" id="42_1jo4g"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_fmof8"]
+size = Vector3(1.8208082, 1.4645, 2.2645)
+
+[node name="Cama_Casal_Hush" type="Node3D" unique_id=1153509553]
+metadata/_edit_group_ = true
+
+[node name="Modelo" type="Node3D" parent="." unique_id=1535656441]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.008249998)
+
+[node name="HUSH" type="Node3D" parent="Modelo" unique_id=246050008]
+metadata/extras = {
+"front": "-Y",
+"original_design": true,
+"units": "meters"
+}
+
+[node name="Bed | centre support" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1890225241]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.282, 0)
+mesh = ExtResource("1_6ai08")
+
+[node name="Bed | centre support foot" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1891684629]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.12, 0.64576)
+mesh = ExtResource("2_ad665")
+
+[node name="Bed | centre support foot_001" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=107689406]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.12, -0.64576)
+mesh = ExtResource("3_2od8k")
+
+[node name="Bed | end bearer" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1805876479]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.31, 1.009)
+mesh = ExtResource("4_xr4vs")
+
+[node name="Bed | end bearer_001" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1660414839]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.31, -1.009)
+mesh = ExtResource("5_w3iuj")
+
+[node name="Bed | sprung oak slat" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1388107592]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, 0.91819)
+mesh = ExtResource("6_elaky")
+
+[node name="Bed | sprung oak slat_001" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=2094798253]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, 0.76515836)
+mesh = ExtResource("7_ltw5l")
+
+[node name="Bed | sprung oak slat_002" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=742818177]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, 0.61212665)
+mesh = ExtResource("8_0seti")
+
+[node name="Bed | sprung oak slat_003" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1404928189]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, 0.459095)
+mesh = ExtResource("9_poves")
+
+[node name="Bed | sprung oak slat_004" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=2099832416]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, 0.30606332)
+mesh = ExtResource("10_2172u")
+
+[node name="Bed | sprung oak slat_005" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=990019303]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, 0.15303166)
+mesh = ExtResource("11_ljytf")
+
+[node name="Bed | sprung oak slat_006" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1106408509]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, 0)
+mesh = ExtResource("12_pn2bh")
+
+[node name="Bed | sprung oak slat_007" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=331678453]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, -0.15303166)
+mesh = ExtResource("13_rl0h2")
+
+[node name="Bed | sprung oak slat_008" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=511886514]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, -0.30606332)
+mesh = ExtResource("14_564c5")
+
+[node name="Bed | sprung oak slat_009" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1654346296]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, -0.459095)
+mesh = ExtResource("15_uqv5u")
+
+[node name="Bed | sprung oak slat_010" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1344160042]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, -0.61212665)
+mesh = ExtResource("16_8e83w")
+
+[node name="Bed | sprung oak slat_011" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=243775796]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, -0.76515836)
+mesh = ExtResource("17_0vdd1")
+
+[node name="Bed | sprung oak slat_012" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=185241109]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, -0.91819)
+mesh = ExtResource("18_v4p0i")
+
+[node name="Bed | substantial side rail" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=854725865]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.814, 0.31, 0)
+mesh = ExtResource("19_1wcp6")
+
+[node name="Bed | substantial side rail_001" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1266050341]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.814, 0.31, 0)
+mesh = ExtResource("20_uunil")
+
+[node name="Bedding | folded return" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1279334605]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.635, -0.357135)
+mesh = ExtResource("21_ch3hn")
+
+[node name="Bedding | sewn pillow" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1006321642]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.39004, 0.649, -0.633609)
+mesh = ExtResource("22_5xm3w")
+
+[node name="Bedding | sewn pillow_001" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1657574546]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.39004, 0.649, -0.633609)
+mesh = ExtResource("23_8nerx")
+
+[node name="Bedding | softly draped quilt" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1738064755]
+mesh = ExtResource("24_t4nl5")
+
+[node name="Foot | protective glide" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1500841627]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.74, 0.004, 0.93)
+mesh = ExtResource("25_tn8wm")
+
+[node name="Foot | protective glide_001" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1394583036]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.74, 0.004, -0.93)
+mesh = ExtResource("26_ywkf1")
+
+[node name="Foot | protective glide_002" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=165967391]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.74, 0.004, 0.93)
+mesh = ExtResource("27_ipywb")
+
+[node name="Foot | protective glide_003" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1371074585]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.74, 0.004, -0.93)
+mesh = ExtResource("28_gjmuq")
+
+[node name="Headboard | stitched vertical channel" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1469765426]
+mesh = ExtResource("29_lbf3k")
+
+[node name="Headboard | stitched vertical channel_001" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=581918452]
+mesh = ExtResource("30_apke0")
+
+[node name="Headboard | stitched vertical channel_002" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=290140972]
+mesh = ExtResource("31_knwor")
+
+[node name="Headboard | tall padded field" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=107312989]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.827, -1.061)
+mesh = ExtResource("32_6isf2")
+
+[node name="Headboard | upholstered wing" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1675136961]
+transform = Transform3D(0.9939561, 0, -0.10977831, 0, 1, 0, 0.10977831, 0, 0.9939561, -0.824, 0.843, -0.897)
+mesh = ExtResource("33_qx4yq")
+
+[node name="Headboard | upholstered wing_001" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1951362498]
+transform = Transform3D(0.9939561, 0, 0.10977831, 0, 1, 0, -0.10977831, 0, 0.9939561, 0.824, 0.843, -0.897)
+mesh = ExtResource("34_h7ku8")
+
+[node name="Leg | tapered furniture foot" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=365763433]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.74, 0.0715, 0.93)
+mesh = ExtResource("35_h3q8u")
+
+[node name="Leg | tapered furniture foot_001" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=174910497]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.74, 0.0715, -0.93)
+mesh = ExtResource("36_fkbp4")
+
+[node name="Leg | tapered furniture foot_002" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=1654862928]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.74, 0.0715, 0.93)
+mesh = ExtResource("37_4g7ki")
+
+[node name="Leg | tapered furniture foot_003" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=305369259]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.74, 0.0715, -0.93)
+mesh = ExtResource("38_nhiou")
+
+[node name="Mattress | upholstered ticking" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=729983739]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.506, 0.042)
+mesh = ExtResource("39_lsrnh")
+
+[node name="Upholstered | padded foot rail" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=184711050]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.308, 1.066)
+mesh = ExtResource("40_py7x4")
+
+[node name="Upholstered | padded side rail" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=849556401]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.85, 0.308, 0)
+mesh = ExtResource("41_5brh1")
+
+[node name="Upholstered | padded side rail_001" type="MeshInstance3D" parent="Modelo/HUSH" unique_id=459963171]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.85, 0.308, 0)
+mesh = ExtResource("42_1jo4g")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="." unique_id=60363362]
+
+[node name="@CollisionShape3D@2" type="CollisionShape3D" parent="Colisao_Acompanha_Peca" unique_id=2107316187]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.73225, 0)
+shape = SubResource("BoxShape3D_fmof8")

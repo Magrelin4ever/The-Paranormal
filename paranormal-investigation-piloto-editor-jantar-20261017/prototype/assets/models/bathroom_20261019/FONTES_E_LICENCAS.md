@@ -1,0 +1,10 @@
+# Banheiros: assets CC0 usados na casa
+
+Os modelos foram disponibilizados pela biblioteca oficial da Innerscene como originais em domínio público (CC0), com materiais PBR embutidos e escala em metros. As páginas foram abertas para conferir licença e dimensões antes do download. A origem e o SHA-256 de cada arquivo estão em `manifest.json`.
+
+- **banheira_vintage.glb** — [página oficial](https://www.innerscene.com/tools/library/3d-parts/clawfoot-clawfoot-bathtub-fd250e8d), autor Innerscene, licença [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); dimensões declaradas largura × profundidade × altura: [0.762, 1.58, 0.81] m; cerca de 9000 triângulos. SHA-256: `1b3d66e54f0a22c17e0a5dd2d77b95762f75bf580fff63701734ba2eb5c13096`.
+- **banheira_familiar.glb** — [página oficial](https://www.innerscene.com/tools/library/3d-parts/inset-bath-inset-bathtub-118db49b), autor Innerscene, licença [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); dimensões declaradas largura × profundidade × altura: [0.802, 1.71, 0.527] m; cerca de 5000 triângulos. SHA-256: `6c1686eec1ead4a7d7debaa859f1a4ca09aeefeea95e2e85eaf5ece3093f4b03`.
+- **vaso_sanitario.glb** — [página oficial](https://www.innerscene.com/tools/library/3d-parts/compact-wc-close-coupled-toilet-84214efd), autor Innerscene, licença [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); dimensões declaradas largura × profundidade × altura: [0.432, 0.741, 0.932] m; cerca de 5000 triângulos. SHA-256: `3dd8c8d52d77f16966c22eac82742658945cd9652fde3241b43babddaa158e3a`.
+- **suporte_papel.glb** — [página oficial](https://www.innerscene.com/tools/library/3d-parts/roll-holder-toilet-roll-holder-cb0a7419), autor Innerscene, licença [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); dimensões declaradas largura × profundidade × altura: [0.205, 0.111, 0.064] m; cerca de 1000 triângulos. SHA-256: `075beb3e4f2b958f921583ec91c7c2f4555ba6064b77a3f8f9d1a45dbaad103c`.
+
+A banheira familiar é uma banheira real embutida; a suíte usa a banheira vintage com pés. Nenhum tanque de lavanderia foi usado como banheira. Nenhuma luz interna foi adicionada.

@@ -116,7 +116,10 @@ func _atualizar_penumbra_lanterna() -> void:
 	if material == null:
 		return
 	var ativa := flashlight_active and flashlight != null and flashlight_mid != null and flashlight_core != null and flashlight.is_visible_in_tree() and flashlight_mid.is_visible_in_tree() and flashlight_core.is_visible_in_tree()
-	material.set_shader_parameter("flashlight_darkening_active", 1.0 if ativa else 0.0)
+	# O escurecimento base é sempre aplicado: desligar a lanterna não pode
+	# remover o filtro e clarear a casa. Só a abertura do feixe acompanha o estado.
+	material.set_shader_parameter("flashlight_darkening_active", 1.0)
+	material.set_shader_parameter("flashlight_beam_enabled", 1.0 if ativa else 0.0)
 	if not ativa:
 		return
 	var viewport_size := camera.get_viewport().get_visible_rect().size

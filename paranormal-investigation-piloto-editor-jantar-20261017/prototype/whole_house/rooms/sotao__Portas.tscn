@@ -1,0 +1,84 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://prototype/interactive_door.gd" id="1_rxoyp"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0001.res" id="2_tyknl"]
+[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_1024.res" id="3_jwlxj"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0002.res" id="4_aj3ij"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1025.res" id="5_v7pop"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1026.res" id="6_snlpl"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1027.res" id="7_0eavj"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1028.res" id="8_krktj"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1029.res" id="9_aqbid"]
+[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1030.res" id="10_xdcqi"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_adxj6"]
+size = Vector3(2, 2.1, 0.09)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_dm26b"]
+size = Vector3(2.35, 2.1, 0.14)
+
+[node name="@Node3D@9" type="Node3D" unique_id=237517203]
+metadata/pavimento = "sotao"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Porta_sotao" type="AnimatableBody3D" parent="." unique_id=1310489114]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1, 5.7, -0.15)
+collision_mask = 0
+script = ExtResource("1_rxoyp")
+metadata/pavimento = &"sotao"
+metadata/interativo = "porta"
+
+[node name="@MeshInstance3D@182" type="MeshInstance3D" parent="Porta_sotao" unique_id=1395078981]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1.05, 0)
+layers = 16
+material_override = ExtResource("2_tyknl")
+mesh = ExtResource("3_jwlxj")
+
+[node name="@CollisionShape3D@183" type="CollisionShape3D" parent="Porta_sotao" unique_id=1174355608]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1.05, 0)
+shape = SubResource("BoxShape3D_adxj6")
+
+[node name="AlvoInteracao" type="Area3D" parent="Porta_sotao" unique_id=1388299820]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 6.75, -0.15)
+top_level = true
+collision_layer = 2
+collision_mask = 0
+
+[node name="@CollisionShape3D@184" type="CollisionShape3D" parent="Porta_sotao/AlvoInteracao" unique_id=1762663658]
+shape = SubResource("BoxShape3D_dm26b")
+
+[node name="RosetaMaçaneta" type="MeshInstance3D" parent="Porta_sotao" unique_id=306174897]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.64, 1, -0.044)
+layers = 16
+material_override = ExtResource("4_aj3ij")
+mesh = ExtResource("5_v7pop")
+
+[node name="HasteMaçaneta" type="MeshInstance3D" parent="Porta_sotao" unique_id=1214913851]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.64, 1, -0.068)
+layers = 16
+material_override = ExtResource("4_aj3ij")
+mesh = ExtResource("6_snlpl")
+
+[node name="AlavancaMaçaneta" type="MeshInstance3D" parent="Porta_sotao" unique_id=1699219991]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 1.605, 1, -0.087)
+layers = 16
+material_override = ExtResource("4_aj3ij")
+mesh = ExtResource("7_0eavj")
+
+[node name="@MeshInstance3D@185" type="MeshInstance3D" parent="Porta_sotao" unique_id=682808919]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.64, 1, 0.044)
+layers = 16
+material_override = ExtResource("4_aj3ij")
+mesh = ExtResource("8_krktj")
+
+[node name="@MeshInstance3D@186" type="MeshInstance3D" parent="Porta_sotao" unique_id=321096859]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, -1, 0, 1, -4.371139e-08, 1.64, 1, 0.068)
+layers = 16
+material_override = ExtResource("4_aj3ij")
+mesh = ExtResource("9_aqbid")
+
+[node name="@MeshInstance3D@187" type="MeshInstance3D" parent="Porta_sotao" unique_id=937767885]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, 1.605, 1, 0.087)
+layers = 16
+material_override = ExtResource("4_aj3ij")
+mesh = ExtResource("10_xdcqi")

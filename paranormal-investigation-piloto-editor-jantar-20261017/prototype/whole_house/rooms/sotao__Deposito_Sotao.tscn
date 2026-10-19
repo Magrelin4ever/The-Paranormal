@@ -1,0 +1,389 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2754.res" id="1_xpsrc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2755.res" id="2_gd4mi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2756.res" id="3_tv17o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0036.res" id="4_hnjes"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0037.res" id="5_ldevl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0038.res" id="6_e1d0h"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0039.res" id="7_ldvcd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_1364.res" id="8_cbab0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_1365.res" id="9_vrirx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_1366.res" id="10_j7tax"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0001.res" id="11_b1len"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0002.res" id="12_gvy64"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0003.res" id="13_js3a0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0004.res" id="14_48rdx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0005.res" id="15_xoa8e"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0006.res" id="16_pel1h"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0007.res" id="17_leoa3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/editor_resources/mesh_0008.res" id="18_irtts"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2639.res" id="19_b1len"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4172.res" id="20_gvy64"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2681.res" id="21_js3a0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1665.res" id="22_48rdx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1666.res" id="23_xoa8e"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1667.res" id="24_pel1h"]
+[ext_resource type="Material" path="res://prototype/whole_house/resources/material_4175.res" id="25_leoa3"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_2kpvd"]
+size = Vector3(0.37150964, 1.5561838, 1.0777609)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_6h17p"]
+size = Vector3(0.8252729, 0.3496183, 0.40895373)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_i0nwp"]
+size = Vector3(0.8252729, 0.3496183, 0.40895373)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ql1o0"]
+size = Vector3(2.0217605, 2.2350516, 0.6698035)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_lng65"]
+size = Vector3(0.799, 0.99639994, 0.7238)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_70t5w"]
+size = Vector3(0.54, 0.39600003, 0.324)
+
+[node name="Deposito_Sotao" type="Node3D" unique_id=779782409]
+metadata/pavimento = "sotao"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Tapete_101" type="Node3D" parent="." unique_id=413029015]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, 5.72, 2.7)
+metadata/origem_conversao = "Tapete"
+metadata/fase_conversao = "_mobiliar_sotao"
+metadata/pavimento = &"sotao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(-2, 5.72, 2.7)
+
+[node name="Peca_rug_1314" type="MeshInstance3D" parent="Tapete_101" unique_id=1257124852]
+layers = 16
+mesh = ExtResource("1_xpsrc")
+metadata/fase_conversao = "_mobiliar_sotao"
+metadata/pavimento = &"sotao"
+metadata/material_original = &"rug"
+metadata/_edit_group_ = true
+
+[node name="Peca_rug_detail_1315" type="MeshInstance3D" parent="Tapete_101" unique_id=2038454385]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.019000053, -1)
+layers = 16
+mesh = ExtResource("2_gd4mi")
+metadata/fase_conversao = "_mobiliar_sotao"
+metadata/pavimento = &"sotao"
+metadata/material_original = &"rug_detail"
+metadata/_edit_group_ = true
+
+[node name="Peca_rug_detail_1316" type="MeshInstance3D" parent="Tapete_101" unique_id=1788969276]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.019000053, 1)
+layers = 16
+mesh = ExtResource("3_tv17o")
+metadata/fase_conversao = "_mobiliar_sotao"
+metadata/pavimento = &"sotao"
+metadata/material_original = &"rug_detail"
+metadata/_edit_group_ = true
+
+[node name="SeasonalRack" type="Node3D" parent="." unique_id=700014000]
+transform = Transform3D(-3.14722e-08, 0, 0.72, 0, 0.72, 0, -0.72, 0, -3.14722e-08, -6.7, 5.7, 3.8)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+
+[node name="Model" type="Node3D" parent="SeasonalRack" unique_id=1241205919]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.000436306, 0)
+
+[node name="wooden_display_shelves_01" type="MeshInstance3D" parent="SeasonalRack/Model" unique_id=1335314727]
+layers = 16
+mesh = ExtResource("4_hnjes")
+
+[node name="wooden_display_shelves_01_drawer_03" type="MeshInstance3D" parent="SeasonalRack/Model" unique_id=2075910303]
+layers = 16
+mesh = ExtResource("5_ldevl")
+
+[node name="wooden_display_shelves_01_drawer_02" type="MeshInstance3D" parent="SeasonalRack/Model" unique_id=1668320503]
+layers = 16
+mesh = ExtResource("6_e1d0h")
+
+[node name="wooden_display_shelves_01_drawer_01" type="MeshInstance3D" parent="SeasonalRack/Model" unique_id=716488540]
+layers = 16
+mesh = ExtResource("7_ldvcd")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="SeasonalRack" unique_id=2134866478]
+
+[node name="Forma" type="CollisionShape3D" parent="SeasonalRack/Colisao_Acompanha_Peca" unique_id=683594899]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.7780919, 0)
+shape = SubResource("BoxShape3D_2kpvd")
+
+[node name="SeasonalCrateA" type="Node3D" parent="." unique_id=700014001]
+transform = Transform3D(0.72, 0, 0, 0, 0.72, 0, 0, 0, 0.72, -5.9, 5.7, 1.45)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+
+[node name="Model" type="Node3D" parent="SeasonalCrateA" unique_id=777043350]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.007933346, -0.008337244)
+
+[node name="wooden_crate_01_lid" type="MeshInstance3D" parent="SeasonalCrateA/Model" unique_id=911265591]
+layers = 16
+mesh = ExtResource("8_cbab0")
+
+[node name="wooden_crate_01" type="MeshInstance3D" parent="SeasonalCrateA/Model" unique_id=2136822921]
+layers = 16
+mesh = ExtResource("9_vrirx")
+
+[node name="wooden_crate_01_latch" type="MeshInstance3D" parent="SeasonalCrateA/Model" unique_id=1873078028]
+layers = 16
+mesh = ExtResource("10_j7tax")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="SeasonalCrateA" unique_id=442407625]
+
+[node name="Forma" type="CollisionShape3D" parent="SeasonalCrateA/Colisao_Acompanha_Peca" unique_id=1834052852]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.17480941, -1.4901161e-08)
+shape = SubResource("BoxShape3D_6h17p")
+
+[node name="SeasonalCrateB" type="Node3D" parent="." unique_id=700014002]
+transform = Transform3D(0.72, 0, 0, 0, 0.72, 0, 0, 0, 0.72, -5.9, 5.951725, 1.45)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+
+[node name="Model" type="Node3D" parent="SeasonalCrateB" unique_id=79290880]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.007933346, -0.008337244)
+
+[node name="wooden_crate_01_lid" type="MeshInstance3D" parent="SeasonalCrateB/Model" unique_id=453790525]
+layers = 16
+mesh = ExtResource("8_cbab0")
+
+[node name="wooden_crate_01" type="MeshInstance3D" parent="SeasonalCrateB/Model" unique_id=1797145258]
+layers = 16
+mesh = ExtResource("9_vrirx")
+
+[node name="wooden_crate_01_latch" type="MeshInstance3D" parent="SeasonalCrateB/Model" unique_id=1426305754]
+layers = 16
+mesh = ExtResource("10_j7tax")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="SeasonalCrateB" unique_id=915774124]
+
+[node name="Forma" type="CollisionShape3D" parent="SeasonalCrateB/Colisao_Acompanha_Peca" unique_id=397840901]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.17480941, -1.4901161e-08)
+shape = SubResource("BoxShape3D_i0nwp")
+
+[node name="SeasonalCabinet" type="Node3D" parent="." unique_id=700014003]
+transform = Transform3D(-2.9723743e-08, 0, -0.68, 0, 0.68, 0, 0.68, 0, -2.9723743e-08, 6.1, 5.7, 4.7)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+
+[node name="Model" type="Node3D" parent="SeasonalCabinet" unique_id=509259733]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0005844832, -0.057130784)
+
+[node name="vintage_cabinet_01_body" type="MeshInstance3D" parent="SeasonalCabinet/Model" unique_id=1749842822]
+layers = 16
+mesh = ExtResource("11_b1len")
+
+[node name="vintage_cabinet_01_door_02" type="MeshInstance3D" parent="SeasonalCabinet/Model" unique_id=1554804183]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8850763, 0.48414105, 0.34365305)
+layers = 16
+mesh = ExtResource("12_gvy64")
+
+[node name="vintage_cabinet_01_door_01" type="MeshInstance3D" parent="SeasonalCabinet/Model" unique_id=1639902288]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.89839536, 1.61977, 0.11083947)
+layers = 16
+mesh = ExtResource("13_js3a0")
+
+[node name="vintage_cabinet_01_door_03" type="MeshInstance3D" parent="SeasonalCabinet/Model" unique_id=1502567537]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.29299593, 1.6607823, 0.11083947)
+layers = 16
+mesh = ExtResource("14_48rdx")
+
+[node name="vintage_cabinet_01_door_04" type="MeshInstance3D" parent="SeasonalCabinet/Model" unique_id=2036038040]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8983953, 1.516335, 0.11083947)
+layers = 16
+mesh = ExtResource("15_xoa8e")
+
+[node name="vintage_cabinet_01_door_05" type="MeshInstance3D" parent="SeasonalCabinet/Model" unique_id=1957426402]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.8850762, 0.48414105, 0.34365305)
+layers = 16
+mesh = ExtResource("16_pel1h")
+
+[node name="vintage_cabinet_01_door_06" type="MeshInstance3D" parent="SeasonalCabinet/Model" unique_id=1010669609]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.44984794, 0.48414105, 0.34365305)
+layers = 16
+mesh = ExtResource("17_leoa3")
+
+[node name="vintage_cabinet_01_door_07" type="MeshInstance3D" parent="SeasonalCabinet/Model" unique_id=1115842054]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.44984794, 0.48414105, 0.34365305)
+layers = 16
+mesh = ExtResource("18_irtts")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="SeasonalCabinet" unique_id=469752123]
+
+[node name="Forma" type="CollisionShape3D" parent="SeasonalCabinet/Colisao_Acompanha_Peca" unique_id=1737138095]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.1175259, -2.682209e-07)
+shape = SubResource("BoxShape3D_ql1o0")
+
+[node name="Caixa_Memorias_Base" type="Node3D" parent="." unique_id=2144106798]
+transform = Transform3D(1.1407889, 0, -0.16032742, 0, 1.1520001, 0, 0.16032742, 0, 1.1407889, -5.75, 5.7, 4.85)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+
+[node name="Model" type="Node3D" parent="Caixa_Memorias_Base" unique_id=911425554]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.007933346, -0.008337244)
+
+[node name="wooden_crate_01_lid" type="MeshInstance3D" parent="Caixa_Memorias_Base/Model" unique_id=148735601]
+layers = 16
+mesh = ExtResource("8_cbab0")
+
+[node name="wooden_crate_01" type="MeshInstance3D" parent="Caixa_Memorias_Base/Model" unique_id=319823218]
+layers = 16
+mesh = ExtResource("9_vrirx")
+
+[node name="wooden_crate_01_latch" type="MeshInstance3D" parent="Caixa_Memorias_Base/Model" unique_id=993987631]
+layers = 16
+mesh = ExtResource("10_j7tax")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Caixa_Memorias_Base" unique_id=668486899]
+
+[node name="Forma" type="CollisionShape3D" parent="Caixa_Memorias_Base/Colisao_Acompanha_Peca" unique_id=1226809051]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.17480941, -1.4901161e-08)
+shape = SubResource("BoxShape3D_6h17p")
+
+[node name="Caixa_Memorias_Topo" type="Node3D" parent="." unique_id=1001262819]
+transform = Transform3D(1.1491939, 0, 0.08035946, 0, 1.1520001, 0, -0.08035946, 0, 1.1491939, -5.75, 6.10276, 4.85)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+
+[node name="Model" type="Node3D" parent="Caixa_Memorias_Topo" unique_id=1256535390]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.007933346, -0.008337244)
+
+[node name="wooden_crate_01_lid" type="MeshInstance3D" parent="Caixa_Memorias_Topo/Model" unique_id=379035385]
+layers = 16
+mesh = ExtResource("8_cbab0")
+
+[node name="wooden_crate_01" type="MeshInstance3D" parent="Caixa_Memorias_Topo/Model" unique_id=1760901945]
+layers = 16
+mesh = ExtResource("9_vrirx")
+
+[node name="wooden_crate_01_latch" type="MeshInstance3D" parent="Caixa_Memorias_Topo/Model" unique_id=1900154030]
+layers = 16
+mesh = ExtResource("10_j7tax")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Caixa_Memorias_Topo" unique_id=249523427]
+
+[node name="Forma" type="CollisionShape3D" parent="Caixa_Memorias_Topo/Colisao_Acompanha_Peca" unique_id=961838303]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.17480941, -1.4901161e-08)
+shape = SubResource("BoxShape3D_6h17p")
+
+[node name="Caixa_Tecidos_Estacao" type="Node3D" parent="." unique_id=582257809]
+transform = Transform3D(1.1268262, 0, 0.23951429, 0, 1.1520001, 0, -0.23951429, 0, 1.1268262, -4.6, 5.7, 4.75)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+
+[node name="Model" type="Node3D" parent="Caixa_Tecidos_Estacao" unique_id=313555555]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.007933346, -0.008337244)
+
+[node name="wooden_crate_01_lid" type="MeshInstance3D" parent="Caixa_Tecidos_Estacao/Model" unique_id=559594230]
+layers = 16
+mesh = ExtResource("8_cbab0")
+
+[node name="wooden_crate_01" type="MeshInstance3D" parent="Caixa_Tecidos_Estacao/Model" unique_id=347349654]
+layers = 16
+mesh = ExtResource("9_vrirx")
+
+[node name="wooden_crate_01_latch" type="MeshInstance3D" parent="Caixa_Tecidos_Estacao/Model" unique_id=1053302971]
+layers = 16
+mesh = ExtResource("10_j7tax")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Caixa_Tecidos_Estacao" unique_id=969416072]
+
+[node name="Forma" type="CollisionShape3D" parent="Caixa_Tecidos_Estacao/Colisao_Acompanha_Peca" unique_id=573342284]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.17480941, -1.4901161e-08)
+shape = SubResource("BoxShape3D_6h17p")
+
+[node name="Caixa_Documentos_Antigos" type="Node3D" parent="." unique_id=1944803423]
+transform = Transform3D(1.0425693, 0, -0.054638743, 0, 1.044, 0, 0.054638743, 0, 1.0425693, -5.8, 5.7, 5.5)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+
+[node name="Model" type="Node3D" parent="Caixa_Documentos_Antigos" unique_id=563414289]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.007933346, -0.008337244)
+
+[node name="wooden_crate_01_lid" type="MeshInstance3D" parent="Caixa_Documentos_Antigos/Model" unique_id=286364568]
+layers = 16
+mesh = ExtResource("8_cbab0")
+
+[node name="wooden_crate_01" type="MeshInstance3D" parent="Caixa_Documentos_Antigos/Model" unique_id=514858640]
+layers = 16
+mesh = ExtResource("9_vrirx")
+
+[node name="wooden_crate_01_latch" type="MeshInstance3D" parent="Caixa_Documentos_Antigos/Model" unique_id=1530969453]
+layers = 16
+mesh = ExtResource("10_j7tax")
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Caixa_Documentos_Antigos" unique_id=1731127688]
+
+[node name="Forma" type="CollisionShape3D" parent="Caixa_Documentos_Antigos/Colisao_Acompanha_Peca" unique_id=907494478]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.17480941, -1.4901161e-08)
+shape = SubResource("BoxShape3D_6h17p")
+
+[node name="Poltrona_Guardada" type="Node3D" parent="." unique_id=1211064765]
+transform = Transform3D(0.819152, 0, -0.5735764, 0, 1, 0, 0.5735764, 0, 0.819152, 4.8, 5.7, 1)
+metadata/origem_conversao = "Modelo_ArmChair_01"
+metadata/fase_conversao = "_mobiliar_terreo"
+metadata/pavimento = &"terreo"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(4.15, 0, -0.8)
+
+[node name="Asset_71_ArmChair_01" type="Node3D" parent="Poltrona_Guardada" unique_id=1307803649]
+transform = Transform3D(-4.1088704e-08, 0, 0.94, 0, 0.94, 0, -0.94, 0, -4.1088704e-08, 0, 0, 0)
+
+[node name="ArmChair_01" type="MeshInstance3D" parent="Poltrona_Guardada/Asset_71_ArmChair_01" unique_id=1232616503]
+layers = 16
+mesh = ExtResource("19_b1len")
+surface_material_override/0 = ExtResource("20_gvy64")
+
+[node name="Hitbox_71_ArmChair_01" type="StaticBody3D" parent="Poltrona_Guardada" unique_id=1325510598]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 0, 0.49819997, 0)
+
+[node name="Forma" type="CollisionShape3D" parent="Poltrona_Guardada/Hitbox_71_ArmChair_01" unique_id=20264463]
+shape = SubResource("BoxShape3D_lng65")
+
+[node name="Mesa_Guardada" type="Node3D" parent="." unique_id=1064789010]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5.85, 5.7, 1.35)
+metadata/origem_conversao = "Modelo_small_wooden_table_01"
+metadata/fase_conversao = "_mobiliar_terreo"
+metadata/pavimento = &"terreo"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(4.15, 0, -1.55)
+
+[node name="Asset_75_small_wooden_table_01" type="Node3D" parent="Mesa_Guardada" unique_id=1159729155]
+transform = Transform3D(0.72, 0, 0, 0, 0.72, 0, 0, 0, 0.72, 0, 0, 0)
+
+[node name="small_wooden_table_01" type="MeshInstance3D" parent="Mesa_Guardada/Asset_75_small_wooden_table_01" unique_id=1860744824]
+layers = 16
+mesh = ExtResource("21_js3a0")
+
+[node name="Hitbox_75_small_wooden_table_01" type="StaticBody3D" parent="Mesa_Guardada" unique_id=1626520128]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.19800001, 0)
+
+[node name="Forma" type="CollisionShape3D" parent="Mesa_Guardada/Hitbox_75_small_wooden_table_01" unique_id=801435994]
+shape = SubResource("BoxShape3D_70t5w")
+
+[node name="Lamparina_Sotao_Apagada" type="Node3D" parent="." unique_id=357096619]
+transform = Transform3D(0.9781476, 0, 0.2079117, 0, 1, 0, -0.2079117, 0, 0.9781476, 5.85, 6.083822, 1.35)
+metadata/origem_conversao = "Modelo_vintage_oil_lamp"
+metadata/fase_conversao = "_mobiliar_terreo"
+metadata/pavimento = &"terreo"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(4.15, 0.4, -1.55)
+
+[node name="Asset_76_vintage_oil_lamp" type="Node3D" parent="Lamparina_Sotao_Apagada" unique_id=350163237]
+transform = Transform3D(0.38, 0, 0, 0, 0.38, 0, 0, 0, 0.38, 0, 0, 0)
+
+[node name="vintage_oil_lamp_glass" type="MeshInstance3D" parent="Lamparina_Sotao_Apagada/Asset_76_vintage_oil_lamp" unique_id=1202264190]
+layers = 16
+mesh = ExtResource("22_48rdx")
+
+[node name="vintage_oil_lamp" type="MeshInstance3D" parent="Lamparina_Sotao_Apagada/Asset_76_vintage_oil_lamp" unique_id=1952521968]
+layers = 16
+mesh = ExtResource("23_xoa8e")
+
+[node name="vintage_oil_lamp_flame" type="MeshInstance3D" parent="Lamparina_Sotao_Apagada/Asset_76_vintage_oil_lamp" unique_id=50273934]
+layers = 16
+mesh = ExtResource("24_pel1h")
+surface_material_override/0 = ExtResource("25_leoa3")

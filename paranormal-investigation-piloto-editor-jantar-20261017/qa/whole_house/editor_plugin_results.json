@@ -1,0 +1,13 @@
+{
+	"asset_assignment_survives_save_reload": true,
+	"editor_viewports_tested": 4,
+	"floor_preview_filter_correct": true,
+	"new_asset_floor_assignment": true,
+	"passed": true,
+	"plugin_enabled": true,
+	"preview_excluded": 2941,
+	"preview_included": 5784,
+	"preview_strategy": "native editor visibility restored before save via _apply_changes",
+	"scene_file_unchanged": true,
+	"undo_restores_original_layer": true
+}

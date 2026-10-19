@@ -1,0 +1,56 @@
+[gd_scene load_steps=9 format=3]
+[ext_resource type="PackedScene" path="res://prototype/assets/models/polyhaven/worn_metal_rack/worn_metal_rack_1k.gltf" id="1_model"]
+[ext_resource type="PackedScene" path="res://prototype/assets/models/polyhaven/wooden_crate_01/wooden_crate_01_1k.gltf" id="2_model"]
+[ext_resource type="PackedScene" path="res://prototype/assets/models/polyhaven/wooden_crate_01/wooden_crate_01_1k.gltf" id="3_model"]
+[ext_resource type="PackedScene" path="res://prototype/assets/models/polyhaven/vintage_cabinet_01/vintage_cabinet_01_1k.gltf" id="4_model"]
+[sub_resource type="BoxShape3D" id="1_shape"]
+size = Vector3(1.2, 1.8, 0.5)
+[sub_resource type="BoxShape3D" id="2_shape"]
+size = Vector3(0.7, 0.5, 0.7)
+[sub_resource type="BoxShape3D" id="3_shape"]
+size = Vector3(0.7, 0.5, 0.7)
+[sub_resource type="BoxShape3D" id="4_shape"]
+size = Vector3(1.0, 1.9, 0.55)
+[node name="Decor_deposito" type="Node3D"]
+metadata/ambient_role = "deposito"
+metadata/_edit_group_ = true
+[node name="StorageRack" type="Node3D" parent="." unique_id=700008000]
+position = Vector3(-7.2, 0.9, -1.8)
+scale = Vector3(0.8, 0.8, 0.8)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="StorageRack" instance=ExtResource("1_model")]
+[node name="Collision" type="StaticBody3D" parent="StorageRack"]
+[node name="Shape" type="CollisionShape3D" parent="StorageRack/Collision"]
+position = Vector3(0, 0.9, 0)
+shape = SubResource("1_shape")
+[node name="StorageCrateA" type="Node3D" parent="." unique_id=700008001]
+position = Vector3(-6.2, 0.25, -1.7)
+scale = Vector3(0.75, 0.75, 0.75)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="StorageCrateA" instance=ExtResource("2_model")]
+[node name="Collision" type="StaticBody3D" parent="StorageCrateA"]
+[node name="Shape" type="CollisionShape3D" parent="StorageCrateA/Collision"]
+position = Vector3(0, 0.25, 0)
+shape = SubResource("2_shape")
+[node name="StorageCrateB" type="Node3D" parent="." unique_id=700008002]
+position = Vector3(-5.5, 0.25, -1.7)
+scale = Vector3(0.75, 0.75, 0.75)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="StorageCrateB" instance=ExtResource("3_model")]
+[node name="Collision" type="StaticBody3D" parent="StorageCrateB"]
+[node name="Shape" type="CollisionShape3D" parent="StorageCrateB/Collision"]
+position = Vector3(0, 0.25, 0)
+shape = SubResource("3_shape")
+[node name="SeasonalCabinet" type="Node3D" parent="." unique_id=700008003]
+position = Vector3(-4.35, 1.0, -1.8)
+scale = Vector3(0.75, 0.75, 0.75)
+metadata/_edit_group_ = true
+metadata/persistent_prop = true
+[node name="Model" parent="SeasonalCabinet" instance=ExtResource("4_model")]
+[node name="Collision" type="StaticBody3D" parent="SeasonalCabinet"]
+[node name="Shape" type="CollisionShape3D" parent="SeasonalCabinet/Collision"]
+position = Vector3(0, 0.95, 0)
+shape = SubResource("4_shape")

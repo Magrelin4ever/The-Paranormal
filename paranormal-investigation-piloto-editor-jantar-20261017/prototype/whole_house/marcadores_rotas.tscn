@@ -1,0 +1,402 @@
+[gd_scene format=3]
+
+; Apenas QA. Não é instanciado no jogo.
+[node name="MarcadoresRotas" type="Node3D"]
+
+[node name="porao_Lavanderia_Norte" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "porao_Lavanderia_Norte"
+metadata/pavimento = "porao"
+metadata/audit_bounds_min = Vector3(-9.15, -2.85, -7.85)
+metadata/audit_bounds_max = Vector3(-2.75, -2.85, -3.15)
+metadata/audit_y = -2.85
+
+[node name="Saida_1" type="Marker3D" parent="porao_Lavanderia_Norte" groups=["whole_house_exit"]]
+position = Vector3(-6, -2.85, -3)
+metadata/audit_room_id = "porao_Lavanderia_Norte"
+
+[node name="Saida_2" type="Marker3D" parent="porao_Lavanderia_Norte" groups=["whole_house_exit"]]
+position = Vector3(-2.6, -2.85, -5.35)
+metadata/audit_room_id = "porao_Lavanderia_Norte"
+
+[node name="porao_Deposito_Centro" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "porao_Deposito_Centro"
+metadata/pavimento = "porao"
+metadata/audit_bounds_min = Vector3(-9.15, -2.85, -2.85)
+metadata/audit_bounds_max = Vector3(-2.75, -2.85, 1.55)
+metadata/audit_y = -2.85
+
+[node name="Saida_1" type="Marker3D" parent="porao_Deposito_Centro" groups=["whole_house_exit"]]
+position = Vector3(-6, -2.85, -3)
+metadata/audit_room_id = "porao_Deposito_Centro"
+
+[node name="Saida_2" type="Marker3D" parent="porao_Deposito_Centro" groups=["whole_house_exit"]]
+position = Vector3(-2.6, -2.85, 0)
+metadata/audit_room_id = "porao_Deposito_Centro"
+
+[node name="porao_Frente_Oeste" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "porao_Frente_Oeste"
+metadata/pavimento = "porao"
+metadata/audit_bounds_min = Vector3(-9.15, -2.85, 1.8499999999999999)
+metadata/audit_bounds_max = Vector3(-2.75, -2.85, 7.85)
+metadata/audit_y = -2.85
+
+[node name="Saida_1" type="Marker3D" parent="porao_Frente_Oeste" groups=["whole_house_exit"]]
+position = Vector3(-2.6, -2.85, 5.25)
+metadata/audit_room_id = "porao_Frente_Oeste"
+
+[node name="porao_Oficina" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "porao_Oficina"
+metadata/pavimento = "porao"
+metadata/audit_bounds_min = Vector3(-2.45, -2.85, -7.85)
+metadata/audit_bounds_max = Vector3(5.1, -2.85, 1.55)
+metadata/audit_y = -2.85
+
+[node name="Saida_1" type="Marker3D" parent="porao_Oficina" groups=["whole_house_exit"]]
+position = Vector3(-2.6, -2.85, -5.35)
+metadata/audit_room_id = "porao_Oficina"
+
+[node name="Saida_2" type="Marker3D" parent="porao_Oficina" groups=["whole_house_exit"]]
+position = Vector3(-2.6, -2.85, 0)
+metadata/audit_room_id = "porao_Oficina"
+
+[node name="Saida_3" type="Marker3D" parent="porao_Oficina" groups=["whole_house_exit"]]
+position = Vector3(5.25, -2.85, -6.25)
+metadata/audit_room_id = "porao_Oficina"
+
+[node name="Saida_4" type="Marker3D" parent="porao_Oficina" groups=["whole_house_exit"]]
+position = Vector3(0, -2.85, 1.7)
+metadata/audit_room_id = "porao_Oficina"
+
+[node name="Saida_5" type="Marker3D" parent="porao_Oficina" groups=["whole_house_exit"]]
+position = Vector3(5.25, -2.85, -0.4)
+metadata/audit_room_id = "porao_Oficina"
+
+[node name="porao_Baia_Escada" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "porao_Baia_Escada"
+metadata/pavimento = "porao"
+metadata/audit_bounds_min = Vector3(5.4, -2.85, -7.85)
+metadata/audit_bounds_max = Vector3(9.15, -2.85, -2.9499999999999997)
+metadata/audit_y = -2.85
+
+[node name="Saida_1" type="Marker3D" parent="porao_Baia_Escada" groups=["whole_house_exit"]]
+position = Vector3(5.25, -2.85, -6.25)
+metadata/audit_room_id = "porao_Baia_Escada"
+
+[node name="porao_Apoio_Escada" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "porao_Apoio_Escada"
+metadata/pavimento = "porao"
+metadata/audit_bounds_min = Vector3(5.4, -2.85, -2.65)
+metadata/audit_bounds_max = Vector3(9.15, -2.85, 1.55)
+metadata/audit_y = -2.85
+
+[node name="Saida_1" type="Marker3D" parent="porao_Apoio_Escada" groups=["whole_house_exit"]]
+position = Vector3(5.25, -2.85, -0.4)
+metadata/audit_room_id = "porao_Apoio_Escada"
+
+[node name="porao_Frente_Leste" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "porao_Frente_Leste"
+metadata/pavimento = "porao"
+metadata/audit_bounds_min = Vector3(-2.45, -2.85, 1.8499999999999999)
+metadata/audit_bounds_max = Vector3(9.15, -2.85, 7.85)
+metadata/audit_y = -2.85
+
+[node name="Saida_1" type="Marker3D" parent="porao_Frente_Leste" groups=["whole_house_exit"]]
+position = Vector3(0, -2.85, 1.7)
+metadata/audit_room_id = "porao_Frente_Leste"
+
+[node name="Saida_2" type="Marker3D" parent="porao_Frente_Leste" groups=["whole_house_exit"]]
+position = Vector3(-2.6, -2.85, 5.25)
+metadata/audit_room_id = "porao_Frente_Leste"
+
+[node name="terreo_Cozinha_Richard" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "terreo_Cozinha_Richard"
+metadata/pavimento = "terreo"
+metadata/audit_bounds_min = Vector3(-9.15, 0, -7.85)
+metadata/audit_bounds_max = Vector3(-2.0, 0, -2.9499999999999997)
+metadata/audit_y = 0
+
+[node name="Saida_1" type="Marker3D" parent="terreo_Cozinha_Richard" groups=["whole_house_exit"]]
+position = Vector3(-1.85, 0, -5.35)
+metadata/audit_room_id = "terreo_Cozinha_Richard"
+
+[node name="Saida_2" type="Marker3D" parent="terreo_Cozinha_Richard" groups=["whole_house_exit"]]
+position = Vector3(-5.55, 0, -2.8)
+metadata/audit_room_id = "terreo_Cozinha_Richard"
+
+[node name="terreo_Sala_Jantar" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "terreo_Sala_Jantar"
+metadata/pavimento = "terreo"
+metadata/audit_bounds_min = Vector3(-9.15, 0, -2.65)
+metadata/audit_bounds_max = Vector3(-2.0, 0, 2.35)
+metadata/audit_y = 0
+
+[node name="Saida_1" type="Marker3D" parent="terreo_Sala_Jantar" groups=["whole_house_exit"]]
+position = Vector3(-1.85, 0, -0.2)
+metadata/audit_room_id = "terreo_Sala_Jantar"
+
+[node name="Saida_2" type="Marker3D" parent="terreo_Sala_Jantar" groups=["whole_house_exit"]]
+position = Vector3(-5.55, 0, -2.8)
+metadata/audit_room_id = "terreo_Sala_Jantar"
+
+[node name="Saida_3" type="Marker3D" parent="terreo_Sala_Jantar" groups=["whole_house_exit"]]
+position = Vector3(-5.55, 0, 2.5)
+metadata/audit_room_id = "terreo_Sala_Jantar"
+
+[node name="terreo_Sala_Estar" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "terreo_Sala_Estar"
+metadata/pavimento = "terreo"
+metadata/audit_bounds_min = Vector3(-9.15, 0, 2.65)
+metadata/audit_bounds_max = Vector3(-2.0, 0, 7.85)
+metadata/audit_y = 0
+
+[node name="Saida_1" type="Marker3D" parent="terreo_Sala_Estar" groups=["whole_house_exit"]]
+position = Vector3(-1.85, 0, 5.15)
+metadata/audit_room_id = "terreo_Sala_Estar"
+
+[node name="Saida_2" type="Marker3D" parent="terreo_Sala_Estar" groups=["whole_house_exit"]]
+position = Vector3(-5.55, 0, 2.5)
+metadata/audit_room_id = "terreo_Sala_Estar"
+
+[node name="terreo_Area_Servico" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "terreo_Area_Servico"
+metadata/pavimento = "terreo"
+metadata/audit_bounds_min = Vector3(2.0, 0, -7.85)
+metadata/audit_bounds_max = Vector3(9.15, 0, -2.9499999999999997)
+metadata/audit_y = 0
+
+[node name="Saida_1" type="Marker3D" parent="terreo_Area_Servico" groups=["whole_house_exit"]]
+position = Vector3(1.85, 0, -5.35)
+metadata/audit_room_id = "terreo_Area_Servico"
+
+[node name="Saida_2" type="Marker3D" parent="terreo_Area_Servico" groups=["whole_house_exit"]]
+position = Vector3(5.55, 0, -2.8)
+metadata/audit_room_id = "terreo_Area_Servico"
+
+[node name="terreo_Biblioteca" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "terreo_Biblioteca"
+metadata/pavimento = "terreo"
+metadata/audit_bounds_min = Vector3(2.0, 0, -2.65)
+metadata/audit_bounds_max = Vector3(9.15, 0, 2.35)
+metadata/audit_y = 0
+
+[node name="Saida_1" type="Marker3D" parent="terreo_Biblioteca" groups=["whole_house_exit"]]
+position = Vector3(1.85, 0, -0.2)
+metadata/audit_room_id = "terreo_Biblioteca"
+
+[node name="Saida_2" type="Marker3D" parent="terreo_Biblioteca" groups=["whole_house_exit"]]
+position = Vector3(5.55, 0, -2.8)
+metadata/audit_room_id = "terreo_Biblioteca"
+
+[node name="Saida_3" type="Marker3D" parent="terreo_Biblioteca" groups=["whole_house_exit"]]
+position = Vector3(5.55, 0, 2.5)
+metadata/audit_room_id = "terreo_Biblioteca"
+
+[node name="terreo_Escritorio" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "terreo_Escritorio"
+metadata/pavimento = "terreo"
+metadata/audit_bounds_min = Vector3(2.0, 0, 2.65)
+metadata/audit_bounds_max = Vector3(9.15, 0, 7.85)
+metadata/audit_y = 0
+
+[node name="Saida_1" type="Marker3D" parent="terreo_Escritorio" groups=["whole_house_exit"]]
+position = Vector3(1.85, 0, 5.15)
+metadata/audit_room_id = "terreo_Escritorio"
+
+[node name="Saida_2" type="Marker3D" parent="terreo_Escritorio" groups=["whole_house_exit"]]
+position = Vector3(5.55, 0, 2.5)
+metadata/audit_room_id = "terreo_Escritorio"
+
+[node name="terreo_Hall_Entrada" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "terreo_Hall_Entrada"
+metadata/pavimento = "terreo"
+metadata/audit_bounds_min = Vector3(-1.7000000000000002, 0, -7.85)
+metadata/audit_bounds_max = Vector3(1.7000000000000002, 0, 7.85)
+metadata/audit_y = 0
+
+[node name="Saida_1" type="Marker3D" parent="terreo_Hall_Entrada" groups=["whole_house_exit"]]
+position = Vector3(0, 0, 7.5)
+metadata/audit_room_id = "terreo_Hall_Entrada"
+
+[node name="Saida_2" type="Marker3D" parent="terreo_Hall_Entrada" groups=["whole_house_exit"]]
+position = Vector3(0, 0, 3.5)
+metadata/audit_room_id = "terreo_Hall_Entrada"
+
+[node name="Saida_3" type="Marker3D" parent="terreo_Hall_Entrada" groups=["whole_house_exit"]]
+position = Vector3(-1.85, 0, -5.35)
+metadata/audit_room_id = "terreo_Hall_Entrada"
+
+[node name="Saida_4" type="Marker3D" parent="terreo_Hall_Entrada" groups=["whole_house_exit"]]
+position = Vector3(1.85, 0, -5.35)
+metadata/audit_room_id = "terreo_Hall_Entrada"
+
+[node name="Saida_5" type="Marker3D" parent="terreo_Hall_Entrada" groups=["whole_house_exit"]]
+position = Vector3(-1.85, 0, -0.2)
+metadata/audit_room_id = "terreo_Hall_Entrada"
+
+[node name="Saida_6" type="Marker3D" parent="terreo_Hall_Entrada" groups=["whole_house_exit"]]
+position = Vector3(1.85, 0, -0.2)
+metadata/audit_room_id = "terreo_Hall_Entrada"
+
+[node name="Saida_7" type="Marker3D" parent="terreo_Hall_Entrada" groups=["whole_house_exit"]]
+position = Vector3(-1.85, 0, 5.15)
+metadata/audit_room_id = "terreo_Hall_Entrada"
+
+[node name="Saida_8" type="Marker3D" parent="terreo_Hall_Entrada" groups=["whole_house_exit"]]
+position = Vector3(1.85, 0, 5.15)
+metadata/audit_room_id = "terreo_Hall_Entrada"
+
+[node name="primeiro_Quarto_Infantil" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "primeiro_Quarto_Infantil"
+metadata/pavimento = "primeiro"
+metadata/audit_bounds_min = Vector3(-7.449999999999999, 2.85, -6.05)
+metadata/audit_bounds_max = Vector3(-1.95, 2.85, -0.9500000000000001)
+metadata/audit_y = 2.85
+
+[node name="Saida_1" type="Marker3D" parent="primeiro_Quarto_Infantil" groups=["whole_house_exit"]]
+position = Vector3(-1.8, 2.85, -3.25)
+metadata/audit_room_id = "primeiro_Quarto_Infantil"
+
+[node name="Saida_2" type="Marker3D" parent="primeiro_Quarto_Infantil" groups=["whole_house_exit"]]
+position = Vector3(-4.4, 2.85, -0.8)
+metadata/audit_room_id = "primeiro_Quarto_Infantil"
+
+[node name="primeiro_Closet_Infantil" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "primeiro_Closet_Infantil"
+metadata/pavimento = "primeiro"
+metadata/audit_bounds_min = Vector3(-7.449999999999999, 2.85, -0.65)
+metadata/audit_bounds_max = Vector3(-1.95, 2.85, 1.85)
+metadata/audit_y = 2.85
+
+[node name="Saida_1" type="Marker3D" parent="primeiro_Closet_Infantil" groups=["whole_house_exit"]]
+position = Vector3(-1.8, 2.85, 0.55)
+metadata/audit_room_id = "primeiro_Closet_Infantil"
+
+[node name="Saida_2" type="Marker3D" parent="primeiro_Closet_Infantil" groups=["whole_house_exit"]]
+position = Vector3(-4.4, 2.85, -0.8)
+metadata/audit_room_id = "primeiro_Closet_Infantil"
+
+[node name="Saida_3" type="Marker3D" parent="primeiro_Closet_Infantil" groups=["whole_house_exit"]]
+position = Vector3(-4.4, 2.85, 2)
+metadata/audit_room_id = "primeiro_Closet_Infantil"
+
+[node name="primeiro_Banheiro_Familiar" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "primeiro_Banheiro_Familiar"
+metadata/pavimento = "primeiro"
+metadata/audit_bounds_min = Vector3(-7.449999999999999, 2.85, 2.15)
+metadata/audit_bounds_max = Vector3(-1.95, 2.85, 6.05)
+metadata/audit_y = 2.85
+
+[node name="Saida_1" type="Marker3D" parent="primeiro_Banheiro_Familiar" groups=["whole_house_exit"]]
+position = Vector3(-1.8, 2.85, 4)
+metadata/audit_room_id = "primeiro_Banheiro_Familiar"
+
+[node name="Saida_2" type="Marker3D" parent="primeiro_Banheiro_Familiar" groups=["whole_house_exit"]]
+position = Vector3(-4.4, 2.85, 2)
+metadata/audit_room_id = "primeiro_Banheiro_Familiar"
+
+[node name="primeiro_Suite_Casal" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "primeiro_Suite_Casal"
+metadata/pavimento = "primeiro"
+metadata/audit_bounds_min = Vector3(1.95, 2.85, -6.05)
+metadata/audit_bounds_max = Vector3(7.449999999999999, 2.85, -0.9500000000000001)
+metadata/audit_y = 2.85
+
+[node name="Saida_1" type="Marker3D" parent="primeiro_Suite_Casal" groups=["whole_house_exit"]]
+position = Vector3(1.8, 2.85, -3.25)
+metadata/audit_room_id = "primeiro_Suite_Casal"
+
+[node name="Saida_2" type="Marker3D" parent="primeiro_Suite_Casal" groups=["whole_house_exit"]]
+position = Vector3(4.4, 2.85, -0.8)
+metadata/audit_room_id = "primeiro_Suite_Casal"
+
+[node name="primeiro_Closet_Casal" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "primeiro_Closet_Casal"
+metadata/pavimento = "primeiro"
+metadata/audit_bounds_min = Vector3(1.95, 2.85, -0.65)
+metadata/audit_bounds_max = Vector3(7.449999999999999, 2.85, 1.85)
+metadata/audit_y = 2.85
+
+[node name="Saida_1" type="Marker3D" parent="primeiro_Closet_Casal" groups=["whole_house_exit"]]
+position = Vector3(1.8, 2.85, 0.55)
+metadata/audit_room_id = "primeiro_Closet_Casal"
+
+[node name="Saida_2" type="Marker3D" parent="primeiro_Closet_Casal" groups=["whole_house_exit"]]
+position = Vector3(4.4, 2.85, -0.8)
+metadata/audit_room_id = "primeiro_Closet_Casal"
+
+[node name="Saida_3" type="Marker3D" parent="primeiro_Closet_Casal" groups=["whole_house_exit"]]
+position = Vector3(4.4, 2.85, 2)
+metadata/audit_room_id = "primeiro_Closet_Casal"
+
+[node name="primeiro_Banheiro_Suite" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "primeiro_Banheiro_Suite"
+metadata/pavimento = "primeiro"
+metadata/audit_bounds_min = Vector3(1.95, 2.85, 2.15)
+metadata/audit_bounds_max = Vector3(7.449999999999999, 2.85, 6.05)
+metadata/audit_y = 2.85
+
+[node name="Saida_1" type="Marker3D" parent="primeiro_Banheiro_Suite" groups=["whole_house_exit"]]
+position = Vector3(1.8, 2.85, 4)
+metadata/audit_room_id = "primeiro_Banheiro_Suite"
+
+[node name="Saida_2" type="Marker3D" parent="primeiro_Banheiro_Suite" groups=["whole_house_exit"]]
+position = Vector3(4.4, 2.85, 2)
+metadata/audit_room_id = "primeiro_Banheiro_Suite"
+
+[node name="primeiro_Hall_Superior" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "primeiro_Hall_Superior"
+metadata/pavimento = "primeiro"
+metadata/audit_bounds_min = Vector3(-1.6500000000000001, 2.85, -6.05)
+metadata/audit_bounds_max = Vector3(1.6500000000000001, 2.85, 6.05)
+metadata/audit_y = 2.85
+
+[node name="Saida_1" type="Marker3D" parent="primeiro_Hall_Superior" groups=["whole_house_exit"]]
+position = Vector3(0, 2.85, -1.45)
+metadata/audit_room_id = "primeiro_Hall_Superior"
+
+[node name="Saida_2" type="Marker3D" parent="primeiro_Hall_Superior" groups=["whole_house_exit"]]
+position = Vector3(0, 2.85, 5.1)
+metadata/audit_room_id = "primeiro_Hall_Superior"
+
+[node name="Saida_3" type="Marker3D" parent="primeiro_Hall_Superior" groups=["whole_house_exit"]]
+position = Vector3(-1.8, 2.85, -3.25)
+metadata/audit_room_id = "primeiro_Hall_Superior"
+
+[node name="Saida_4" type="Marker3D" parent="primeiro_Hall_Superior" groups=["whole_house_exit"]]
+position = Vector3(1.8, 2.85, -3.25)
+metadata/audit_room_id = "primeiro_Hall_Superior"
+
+[node name="Saida_5" type="Marker3D" parent="primeiro_Hall_Superior" groups=["whole_house_exit"]]
+position = Vector3(-1.8, 2.85, 0.55)
+metadata/audit_room_id = "primeiro_Hall_Superior"
+
+[node name="Saida_6" type="Marker3D" parent="primeiro_Hall_Superior" groups=["whole_house_exit"]]
+position = Vector3(1.8, 2.85, 0.55)
+metadata/audit_room_id = "primeiro_Hall_Superior"
+
+[node name="Saida_7" type="Marker3D" parent="primeiro_Hall_Superior" groups=["whole_house_exit"]]
+position = Vector3(-1.8, 2.85, 4)
+metadata/audit_room_id = "primeiro_Hall_Superior"
+
+[node name="Saida_8" type="Marker3D" parent="primeiro_Hall_Superior" groups=["whole_house_exit"]]
+position = Vector3(1.8, 2.85, 4)
+metadata/audit_room_id = "primeiro_Hall_Superior"
+
+[node name="sotao_Sotao_Arquivo_E_Deposito" type="Node3D" parent="." groups=["whole_house_room"]]
+metadata/room_id = "sotao_Sotao_Arquivo_E_Deposito"
+metadata/pavimento = "sotao"
+metadata/audit_bounds_min = Vector3(-7.449999999999999, 5.7, -6.05)
+metadata/audit_bounds_max = Vector3(7.449999999999999, 5.7, 6.05)
+metadata/audit_y = 5.7
+
+[node name="Saida_1" type="Marker3D" parent="sotao_Sotao_Arquivo_E_Deposito" groups=["whole_house_exit"]]
+position = Vector3(0, 5.7, 0.85)
+metadata/audit_room_id = "sotao_Sotao_Arquivo_E_Deposito"
+
+[node name="Saida_2" type="Marker3D" parent="sotao_Sotao_Arquivo_E_Deposito" groups=["whole_house_exit"]]
+position = Vector3(-2, 5.7, 3)
+metadata/audit_room_id = "sotao_Sotao_Arquivo_E_Deposito"
+
+[node name="Saida_3" type="Marker3D" parent="sotao_Sotao_Arquivo_E_Deposito" groups=["whole_house_exit"]]
+position = Vector3(2, 5.7, 3)
+metadata/audit_room_id = "sotao_Sotao_Arquivo_E_Deposito"

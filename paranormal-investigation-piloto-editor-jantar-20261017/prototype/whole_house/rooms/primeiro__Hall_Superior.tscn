@@ -1,0 +1,43 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2751.res" id="1_x61cj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2752.res" id="2_01csh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_2753.res" id="3_73bsa"]
+
+[node name="Hall_Superior" type="Node3D" unique_id=1174132876]
+metadata/pavimento = "primeiro"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Tapete_100" type="Node3D" parent="." unique_id=1968176017]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.87, 3.75)
+metadata/origem_conversao = "Tapete"
+metadata/fase_conversao = "_mobiliar_primeiro_andar"
+metadata/pavimento = &"primeiro"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(0, 2.87, 3.75)
+
+[node name="Peca_rug_detail_1311" type="MeshInstance3D" parent="Tapete_100" unique_id=1002931445]
+layers = 8
+mesh = ExtResource("1_x61cj")
+metadata/fase_conversao = "_mobiliar_primeiro_andar"
+metadata/pavimento = &"primeiro"
+metadata/material_original = &"rug_detail"
+metadata/_edit_group_ = true
+
+[node name="Peca_rug_detail_1312" type="MeshInstance3D" parent="Tapete_100" unique_id=1074316172]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.019000053, -0.5)
+layers = 8
+mesh = ExtResource("2_01csh")
+metadata/fase_conversao = "_mobiliar_primeiro_andar"
+metadata/pavimento = &"primeiro"
+metadata/material_original = &"rug_detail"
+metadata/_edit_group_ = true
+
+[node name="Peca_rug_detail_1313" type="MeshInstance3D" parent="Tapete_100" unique_id=1367056156]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.019000053, 0.5)
+layers = 8
+mesh = ExtResource("3_73bsa")
+metadata/fase_conversao = "_mobiliar_primeiro_andar"
+metadata/pavimento = &"primeiro"
+metadata/material_original = &"rug_detail"
+metadata/_edit_group_ = true

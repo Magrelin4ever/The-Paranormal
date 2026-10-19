@@ -1,0 +1,22 @@
+{
+	"Banheira_Familiar": {
+		"bounds_min": "(-0.401, 0.0, -0.8545)",
+		"bounds_size": "(0.802, 0.527, 1.709)",
+		"floor_y": 0.0
+	},
+	"Banheira_Vintage": {
+		"bounds_min": "(-0.381, 0.0, -0.79)",
+		"bounds_size": "(0.762, 0.810118, 1.58)",
+		"floor_y": 0.0
+	},
+	"Suporte_Papel": {
+		"bounds_min": "(-0.102271, 0.0, -0.055271)",
+		"bounds_size": "(0.204542, 0.064, 0.110542)",
+		"floor_y": 0.0
+	},
+	"Vaso_Sanitario": {
+		"bounds_min": "(-0.216, 0.0, -0.37056)",
+		"bounds_size": "(0.432, 0.93216, 0.74112)",
+		"floor_y": 0.0
+	}
+}

@@ -1,0 +1,2420 @@
+[gd_scene format=3]
+
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1031.res" id="1_lwf5j"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1032.res" id="2_uufxb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1033.res" id="3_ipnbk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1034.res" id="4_bua4q"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1035.res" id="5_vyljy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1036.res" id="6_1axa0"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1037.res" id="7_bsdc6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1038.res" id="8_5tpwp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1039.res" id="9_53fh1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1040.res" id="10_d33td"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1041.res" id="11_1df7h"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1042.res" id="12_kxwyi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1043.res" id="13_2mrnq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1044.res" id="14_sdrge"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1045.res" id="15_gd87h"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1046.res" id="16_cgplw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1047.res" id="17_ac6vl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1048.res" id="18_c0kvq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1049.res" id="19_cykgn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1050.res" id="20_06vtw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1051.res" id="21_imk37"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1052.res" id="22_b5tli"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1053.res" id="23_uj3rj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1054.res" id="24_grpq7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1055.res" id="25_0n7kj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1056.res" id="26_rh58b"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1057.res" id="27_3a1x7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1058.res" id="28_o6qcq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1059.res" id="29_8mylg"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1060.res" id="30_prnbo"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1061.res" id="31_olfmb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1062.res" id="32_0qfeq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1063.res" id="33_ivq8c"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1064.res" id="34_8goni"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1065.res" id="35_3scvp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1066.res" id="36_rtvap"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1067.res" id="37_qf04f"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1068.res" id="38_8he0p"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1069.res" id="39_ycj60"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1070.res" id="40_q1clf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1071.res" id="41_jexei"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1072.res" id="42_5kxgq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1073.res" id="43_mapm1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1074.res" id="44_bql4g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1075.res" id="45_qmtxu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1076.res" id="46_m4y2b"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1077.res" id="47_n8rp6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1078.res" id="48_sya3a"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1079.res" id="49_wocjy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1080.res" id="50_snqxx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1081.res" id="51_3xhyv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1082.res" id="52_05yh2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1083.res" id="53_sv0i3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1084.res" id="54_4xdwi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1085.res" id="55_8rj4s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1086.res" id="56_2wilh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1087.res" id="57_6deaf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1088.res" id="58_d7kxv"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1089.res" id="59_ycr0t"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1090.res" id="60_nmtf2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1091.res" id="61_dxdef"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1092.res" id="62_8tkey"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1093.res" id="63_rxc1u"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1094.res" id="64_qyj7m"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1095.res" id="65_hrn3e"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1096.res" id="66_uhww8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1097.res" id="67_dlv82"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1098.res" id="68_xpgfh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1099.res" id="69_oykyi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1100.res" id="70_sjo0v"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1101.res" id="71_40v2h"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1102.res" id="72_c4hdr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1103.res" id="73_ep15j"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1104.res" id="74_1wl4m"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1105.res" id="75_q3pl8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1106.res" id="76_0tdhu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1107.res" id="77_csfqc"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1108.res" id="78_co47s"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1109.res" id="79_nbhyi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1110.res" id="80_1jj5f"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1111.res" id="81_2lokt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1112.res" id="82_c7gj3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1113.res" id="83_2te0m"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1114.res" id="84_aaf8x"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1115.res" id="85_tetnd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1116.res" id="86_2vq7l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1117.res" id="87_8ulna"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1118.res" id="88_q2pq5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1119.res" id="89_ulqg3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1120.res" id="90_hjpdy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1121.res" id="91_wlcr4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1122.res" id="92_yfhm7"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1123.res" id="93_chimu"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1124.res" id="94_bivki"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1125.res" id="95_uj6av"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1126.res" id="96_131nb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1127.res" id="97_yqfef"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1128.res" id="98_map26"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1129.res" id="99_5wtwt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1130.res" id="100_cughd"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1131.res" id="101_7lnp5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1132.res" id="102_v4gul"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1133.res" id="103_re2x6"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1134.res" id="104_wafnh"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1135.res" id="105_iv8c5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1136.res" id="106_5csbp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1137.res" id="107_du74e"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1138.res" id="108_lcxrl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1139.res" id="109_0w5gw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1140.res" id="110_bpv31"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1141.res" id="111_nplhb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1142.res" id="112_siinl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1143.res" id="113_xfr5a"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1144.res" id="114_hg1d8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1145.res" id="115_xenx3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1146.res" id="116_54xxi"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1147.res" id="117_hnrmy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1148.res" id="118_an6dl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1149.res" id="119_2yy0r"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1150.res" id="120_fpkth"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1151.res" id="121_pj16o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1152.res" id="122_i6k5f"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1153.res" id="123_j304q"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1154.res" id="124_ogkno"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1155.res" id="125_ffqgl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1156.res" id="126_3ueti"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1157.res" id="127_e42ve"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1158.res" id="128_54brr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1159.res" id="129_dalhf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1160.res" id="130_qpt74"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1161.res" id="131_2td0n"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1162.res" id="132_joyjk"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1163.res" id="133_7o0la"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1164.res" id="134_4d35e"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1165.res" id="135_u6egy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1166.res" id="136_hpqfl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1167.res" id="137_s2fy4"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1168.res" id="138_26a86"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1169.res" id="139_0fvc5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1170.res" id="140_xw357"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1171.res" id="141_17v8l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1172.res" id="142_d7voq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1173.res" id="143_yd32c"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1174.res" id="144_2yl4g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1175.res" id="145_tnif8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1176.res" id="146_ydsis"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1177.res" id="147_cev31"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1178.res" id="148_i136l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1179.res" id="149_6og5i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1180.res" id="150_lvaid"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1181.res" id="151_tv46v"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1182.res" id="152_xq11t"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1183.res" id="153_5kxlj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1184.res" id="154_v6f68"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1185.res" id="155_rechx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1186.res" id="156_30ali"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1187.res" id="157_8wrk3"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1188.res" id="158_8bmvl"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1189.res" id="159_80rbn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1190.res" id="160_td2af"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1191.res" id="161_d1gdf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1192.res" id="162_t3vt5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1193.res" id="163_l0tsw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1194.res" id="164_e4s62"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1195.res" id="165_7a0js"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1196.res" id="166_k5fjq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1197.res" id="167_wu123"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1198.res" id="168_2ccdm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1199.res" id="169_6h2ix"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1200.res" id="170_b8sjx"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1201.res" id="171_35qxt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1202.res" id="172_es2bj"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1203.res" id="173_dnv2c"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1204.res" id="174_smwgm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1205.res" id="175_7scu5"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1206.res" id="176_myyvf"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1207.res" id="177_h3v84"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1208.res" id="178_b1225"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1209.res" id="179_s14dp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1210.res" id="180_0v4ed"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1211.res" id="181_em53x"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1212.res" id="182_om3h8"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1213.res" id="183_sf847"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1214.res" id="184_yku8n"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1215.res" id="185_fpb3q"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1216.res" id="186_22j8m"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1217.res" id="187_70ssn"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1218.res" id="188_eb10o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1219.res" id="189_ktd8k"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1220.res" id="190_n43si"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1221.res" id="191_63m3i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1222.res" id="192_hu4ag"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1223.res" id="193_d73c2"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1224.res" id="194_or1dr"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1225.res" id="195_2ywpp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1226.res" id="196_vd74i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1227.res" id="197_wc1x1"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1228.res" id="198_cnycb"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1229.res" id="199_wh6rt"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1230.res" id="200_cis6c"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1231.res" id="201_476su"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1232.res" id="202_pjg7i"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1233.res" id="203_xyy4r"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1234.res" id="204_fko5o"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1235.res" id="205_tk6sw"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1236.res" id="206_hvolq"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1237.res" id="207_a5a7l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1238.res" id="208_eeljp"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1239.res" id="209_p377x"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1240.res" id="210_srgfy"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1241.res" id="211_ttr3g"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1242.res" id="212_030lm"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1243.res" id="213_xvcge"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1244.res" id="214_tgs5l"]
+[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1245.res" id="215_vtbf0"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_sg6od"]
+size = Vector3(1.48, 0.2, 4.7115684)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_37h2b"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_vhbug"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_x05ta"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_g5e8o"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_wd5vc"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_3afu3"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_2mslm"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_a5xdp"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_b6wqy"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_0xyb0"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_yylbp"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_kfw11"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ms3kn"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_wgcgi"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_0xqio"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_cpwye"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_tw7e7"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_fgrbg"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_14w1q"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_uhb32"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_lic4t"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ndqcm"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_3kkgc"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_38hlh"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_m55co"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_eo1hd"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_uspw4"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_fl0aq"]
+size = Vector3(0.095, 0.12, 4.3415685)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_kybud"]
+size = Vector3(1.48, 0.2, 4.3309975)
+
+[node name="@Node3D@10" type="Node3D" unique_id=2354337]
+metadata/pavimento = "terreo"
+metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+
+[node name="Escada_terreo_001" type="Node3D" parent="." unique_id=1542125946]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2.8)
+metadata/origem_conversao = "Escada_terreo"
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(0, 0, 2.8)
+
+[node name="Peca_wood_warm_0830" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1636797873]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 1.3465954, -1.8620703)
+layers = 4
+mesh = ExtResource("1_lwf5j")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"wood_warm"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_wood_warm_0830" unique_id=179514497]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_wood_warm_0830/Colisao_Acompanha_Peca" unique_id=1820045672]
+shape = SubResource("BoxShape3D_sg6od")
+
+[node name="Peca_trim_0831" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1237985986]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 0.20960115, -0.22448254)
+layers = 4
+mesh = ExtResource("2_uufxb")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0832" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=951351003]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("3_ipnbk")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0832" unique_id=334960267]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0832/Colisao_Acompanha_Peca" unique_id=702483867]
+shape = SubResource("BoxShape3D_37h2b")
+
+[node name="Peca_trim_0833" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1210098884]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("4_bua4q")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0834" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=880067431]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("5_vyljy")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0835" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1861156981]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("6_1axa0")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0836" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=818853010]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("7_bsdc6")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0837" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=999840358]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("8_5tpwp")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0838" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=436697306]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("9_53fh1")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0838" unique_id=1008135572]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0838/Colisao_Acompanha_Peca" unique_id=649113891]
+shape = SubResource("BoxShape3D_vhbug")
+
+[node name="Peca_trim_0839" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1765352095]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("10_d33td")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0840" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1347962384]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("11_1df7h")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0841" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1099888207]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("12_kxwyi")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0842" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=287547276]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("13_2mrnq")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0843" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1573681061]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("14_sdrge")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0844" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=552400252]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 0.39960113, -0.46448255)
+layers = 4
+mesh = ExtResource("15_gd87h")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0845" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=602199809]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("16_cgplw")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0845" unique_id=881780372]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0845/Colisao_Acompanha_Peca" unique_id=1804418087]
+shape = SubResource("BoxShape3D_x05ta")
+
+[node name="Peca_trim_0846" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=170233115]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("17_ac6vl")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0847" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1946037395]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("18_c0kvq")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0848" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1652012327]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("19_cykgn")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0849" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=136002671]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("20_06vtw")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0850" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=2024481425]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("21_imk37")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0851" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=64487803]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("22_b5tli")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0851" unique_id=114656265]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0851/Colisao_Acompanha_Peca" unique_id=904022840]
+shape = SubResource("BoxShape3D_g5e8o")
+
+[node name="Peca_trim_0852" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1439572312]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("23_uj3rj")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0853" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=248023775]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("24_grpq7")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0854" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=281793361]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("25_0n7kj")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0855" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1393159048]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("26_rh58b")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0856" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1660131748]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("27_3a1x7")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0857" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1693527137]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 0.58960116, -0.70448256)
+layers = 4
+mesh = ExtResource("28_o6qcq")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0858" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1572305470]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("29_8mylg")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0858" unique_id=279457904]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0858/Colisao_Acompanha_Peca" unique_id=2097250444]
+shape = SubResource("BoxShape3D_wd5vc")
+
+[node name="Peca_trim_0859" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1317832226]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("30_prnbo")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0860" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=498830110]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("31_olfmb")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0861" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1549017981]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("32_0qfeq")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0862" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=268369131]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("33_ivq8c")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0863" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=206757771]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("34_8goni")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0864" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1821592942]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("35_3scvp")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0864" unique_id=111794021]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0864/Colisao_Acompanha_Peca" unique_id=1223192774]
+shape = SubResource("BoxShape3D_3afu3")
+
+[node name="Peca_trim_0865" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=75930707]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("36_rtvap")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0866" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=563294696]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("37_qf04f")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0867" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1079753608]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("38_8he0p")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0868" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1825623020]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("39_ycj60")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0869" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1547902577]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("40_q1clf")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0870" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=380738305]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 0.77960116, -0.94448245)
+layers = 4
+mesh = ExtResource("41_jexei")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0871" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1883125457]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("42_5kxgq")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0871" unique_id=1050268658]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0871/Colisao_Acompanha_Peca" unique_id=2037720761]
+shape = SubResource("BoxShape3D_2mslm")
+
+[node name="Peca_trim_0872" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=2106251291]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("43_mapm1")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0873" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1897197508]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("44_bql4g")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0874" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=576137276]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("45_qmtxu")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0875" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1201096987]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("46_m4y2b")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0876" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1695575297]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("47_n8rp6")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0877" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1189222689]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("48_sya3a")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0877" unique_id=157945396]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0877/Colisao_Acompanha_Peca" unique_id=1158753025]
+shape = SubResource("BoxShape3D_a5xdp")
+
+[node name="Peca_trim_0878" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1190166926]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("49_wocjy")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0879" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=220159007]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("50_snqxx")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0880" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1770292583]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("51_3xhyv")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0881" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1564062921]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("52_05yh2")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0882" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1796711377]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("53_sv0i3")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0883" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=322622746]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 0.96960115, -1.1844825)
+layers = 4
+mesh = ExtResource("54_4xdwi")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0884" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1389635120]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("55_8rj4s")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0884" unique_id=376057968]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0884/Colisao_Acompanha_Peca" unique_id=1688153153]
+shape = SubResource("BoxShape3D_b6wqy")
+
+[node name="Peca_trim_0885" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1962073081]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("56_2wilh")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0886" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=621436196]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("57_6deaf")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0887" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1404344794]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("58_d7kxv")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0888" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=2086355819]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("59_ycr0t")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0889" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1962550496]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("60_nmtf2")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0890" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1738424871]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("61_dxdef")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0890" unique_id=1427413488]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0890/Colisao_Acompanha_Peca" unique_id=107787422]
+shape = SubResource("BoxShape3D_0xyb0")
+
+[node name="Peca_trim_0891" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1171250183]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("62_8tkey")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0892" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=740928553]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("63_rxc1u")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0893" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1702572411]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("64_qyj7m")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0894" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=27445165]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("65_hrn3e")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0895" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1854936092]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("66_uhww8")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0896" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=857450343]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 1.1596011, -1.4244823)
+layers = 4
+mesh = ExtResource("67_dlv82")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0897" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1690454757]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("68_xpgfh")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0897" unique_id=362716109]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0897/Colisao_Acompanha_Peca" unique_id=1871112967]
+shape = SubResource("BoxShape3D_yylbp")
+
+[node name="Peca_trim_0898" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1248240512]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("69_oykyi")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0899" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=396358570]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("70_sjo0v")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0900" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1466828056]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("71_40v2h")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0901" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1858262223]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("72_c4hdr")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0902" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1465565101]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("73_ep15j")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0903" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=2070685578]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("74_1wl4m")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0903" unique_id=1059006244]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0903/Colisao_Acompanha_Peca" unique_id=1881830143]
+shape = SubResource("BoxShape3D_kfw11")
+
+[node name="Peca_trim_0904" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1174053243]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("75_q3pl8")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0905" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1206442292]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("76_0tdhu")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0906" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=383549719]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("77_csfqc")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0907" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=413216057]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("78_co47s")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0908" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1466389794]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("79_nbhyi")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0909" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1467122559]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 1.349601, -1.6644824)
+layers = 4
+mesh = ExtResource("80_1jj5f")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0910" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1200699378]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("81_2lokt")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0910" unique_id=74175856]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0910/Colisao_Acompanha_Peca" unique_id=809318480]
+shape = SubResource("BoxShape3D_ms3kn")
+
+[node name="Peca_trim_0911" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=785666401]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("82_c7gj3")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0912" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1920967622]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("83_2te0m")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0913" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1803148629]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("84_aaf8x")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0914" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1840440436]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("85_tetnd")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0915" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=999686076]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("86_2vq7l")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0916" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1078886080]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("87_8ulna")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0916" unique_id=362491108]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0916/Colisao_Acompanha_Peca" unique_id=160390677]
+shape = SubResource("BoxShape3D_wgcgi")
+
+[node name="Peca_trim_0917" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=315877564]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("88_q2pq5")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0918" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=295612560]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("89_ulqg3")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0919" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=194689373]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("90_hjpdy")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0920" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1378145474]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("91_wlcr4")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0921" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=2058664277]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("92_yfhm7")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0922" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=56388547]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 1.5396011, -1.9044825)
+layers = 4
+mesh = ExtResource("93_chimu")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0923" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=2080549234]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("94_bivki")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0923" unique_id=2137477404]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0923/Colisao_Acompanha_Peca" unique_id=647017711]
+shape = SubResource("BoxShape3D_0xqio")
+
+[node name="Peca_trim_0924" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=789322590]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("95_uj6av")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0925" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=899250487]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("96_131nb")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0926" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=748251009]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("97_yqfef")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0927" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=310114812]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("98_map26")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0928" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=811747936]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("99_5wtwt")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0929" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1640994884]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("100_cughd")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0929" unique_id=1438804209]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0929/Colisao_Acompanha_Peca" unique_id=1732605541]
+shape = SubResource("BoxShape3D_cpwye")
+
+[node name="Peca_trim_0930" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=281063764]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("101_7lnp5")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0931" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1690809232]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("102_v4gul")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0932" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1863448196]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("103_re2x6")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0933" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1076638661]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("104_wafnh")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0934" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1007796641]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("105_iv8c5")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0935" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1755081533]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 1.7296011, -2.1444826)
+layers = 4
+mesh = ExtResource("106_5csbp")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0936" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1143180149]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("107_du74e")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0936" unique_id=1971035958]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0936/Colisao_Acompanha_Peca" unique_id=1181293205]
+shape = SubResource("BoxShape3D_tw7e7")
+
+[node name="Peca_trim_0937" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=360435661]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("108_lcxrl")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0938" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1639600672]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("109_0w5gw")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0939" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1563905675]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("110_bpv31")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0940" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1931319347]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("111_nplhb")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0941" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1628711910]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("112_siinl")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0942" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1504039665]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("113_xfr5a")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0942" unique_id=640633210]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0942/Colisao_Acompanha_Peca" unique_id=2082798672]
+shape = SubResource("BoxShape3D_fgrbg")
+
+[node name="Peca_trim_0943" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=689487806]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("114_hg1d8")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0944" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1016585503]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("115_xenx3")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0945" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=734725372]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("116_54xxi")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0946" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=872333570]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("117_hnrmy")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0947" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1025829287]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("118_an6dl")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0948" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=2032142508]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 1.9196011, -2.3844826)
+layers = 4
+mesh = ExtResource("119_2yy0r")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0949" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=438345484]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("120_fpkth")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0949" unique_id=340526462]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0949/Colisao_Acompanha_Peca" unique_id=999629994]
+shape = SubResource("BoxShape3D_14w1q")
+
+[node name="Peca_trim_0950" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1414208470]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("121_pj16o")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0951" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1844882341]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("122_i6k5f")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0952" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1871917314]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("123_j304q")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0953" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1216671196]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("124_ogkno")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0954" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=907630600]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("125_ffqgl")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0955" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=272167122]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("126_3ueti")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0955" unique_id=2085030835]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0955/Colisao_Acompanha_Peca" unique_id=39764612]
+shape = SubResource("BoxShape3D_uhb32")
+
+[node name="Peca_trim_0956" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1410422947]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("127_e42ve")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0957" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1377087542]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("128_54brr")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0958" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=839338915]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("129_dalhf")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0959" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1793369485]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("130_qpt74")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0960" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1522440545]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("131_2td0n")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0961" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=350223520]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 2.109601, -2.6244826)
+layers = 4
+mesh = ExtResource("132_joyjk")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0962" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=2135285990]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("133_7o0la")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0962" unique_id=36303749]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0962/Colisao_Acompanha_Peca" unique_id=1442508983]
+shape = SubResource("BoxShape3D_lic4t")
+
+[node name="Peca_trim_0963" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=794523871]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("134_4d35e")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0964" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1666772578]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("135_u6egy")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0965" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1499618898]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("136_hpqfl")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0966" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=451171872]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("137_s2fy4")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0967" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1535148246]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("138_26a86")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0968" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=410016934]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("139_0fvc5")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0968" unique_id=1072377144]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0968/Colisao_Acompanha_Peca" unique_id=583469166]
+shape = SubResource("BoxShape3D_ndqcm")
+
+[node name="Peca_trim_0969" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=748467673]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("140_xw357")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0970" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1541029798]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("141_17v8l")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0971" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1392338394]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("142_d7voq")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0972" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1833082841]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("143_yd32c")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0973" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=307253837]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("144_2yl4g")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0974" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1291019112]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 2.299601, -2.8644824)
+layers = 4
+mesh = ExtResource("145_tnif8")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0975" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=900022213]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("146_ydsis")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0975" unique_id=1949641833]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0975/Colisao_Acompanha_Peca" unique_id=1717919244]
+shape = SubResource("BoxShape3D_3kkgc")
+
+[node name="Peca_trim_0976" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=417986208]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("147_cev31")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0977" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=98595675]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("148_i136l")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0978" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=691407348]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("149_6og5i")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0979" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=2103211384]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("150_lvaid")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0980" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=248323152]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("151_tv46v")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0981" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1642583780]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("152_xq11t")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0981" unique_id=427904822]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0981/Colisao_Acompanha_Peca" unique_id=1954117692]
+shape = SubResource("BoxShape3D_38hlh")
+
+[node name="Peca_trim_0982" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=69098903]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("153_5kxlj")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0983" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1249409838]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("154_v6f68")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0984" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=92780179]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("155_rechx")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0985" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=69320968]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("156_30ali")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0986" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1318489241]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("157_8wrk3")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0987" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1187748281]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 2.4896011, -3.1044824)
+layers = 4
+mesh = ExtResource("158_8bmvl")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0988" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1702367207]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("159_80rbn")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0988" unique_id=1505589313]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0988/Colisao_Acompanha_Peca" unique_id=1924301483]
+shape = SubResource("BoxShape3D_m55co")
+
+[node name="Peca_trim_0989" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=484334378]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("160_td2af")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0990" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=999699263]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("161_d1gdf")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0991" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=2031675270]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("162_t3vt5")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0992" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1520015560]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("163_l0tsw")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0993" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=92418472]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("164_e4s62")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0994" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=377662948]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("165_7a0js")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_0994" unique_id=1444985074]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_0994/Colisao_Acompanha_Peca" unique_id=1158362373]
+shape = SubResource("BoxShape3D_eo1hd")
+
+[node name="Peca_trim_0995" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=2005202290]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("166_k5fjq")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0996" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1423008825]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("167_wu123")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0997" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=830148194]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("168_2ccdm")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0998" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1881352921]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("169_6h2ix")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_0999" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1187819399]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("170_b8sjx")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1000" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=207600312]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0, 2.679601, -3.3444824)
+layers = 4
+mesh = ExtResource("171_35qxt")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1001" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1059453257]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, -0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("172_es2bj")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_1001" unique_id=120642382]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_1001/Colisao_Acompanha_Peca" unique_id=1015566581]
+shape = SubResource("BoxShape3D_uspw4")
+
+[node name="Peca_trim_1002" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1439281524]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("173_dnv2c")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1003" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=708137200]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("174_smwgm")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1004" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=87118329]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("175_7scu5")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1005" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1221949850]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("176_myyvf")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1006" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1895100437]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("177_h3v84")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1007" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=93644399]
+transform = Transform3D(1, 0, 0, 0, 0.7840458, -0.6207029, 0, 0.6207029, 0.7840458, 0.82, 2.445, -1.8)
+layers = 4
+mesh = ExtResource("178_b1225")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Colisao_Acompanha_Peca" type="StaticBody3D" parent="Escada_terreo_001/Peca_trim_1007" unique_id=930920332]
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_001/Peca_trim_1007/Colisao_Acompanha_Peca" unique_id=446668114]
+shape = SubResource("BoxShape3D_fl0aq")
+
+[node name="Peca_trim_1008" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1295949226]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 0.48, 0)
+layers = 4
+mesh = ExtResource("179_s14dp")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1009" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=724078921]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.1925, -0.9)
+layers = 4
+mesh = ExtResource("180_0v4ed")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1010" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=721322496]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 1.905, -1.8)
+layers = 4
+mesh = ExtResource("181_em53x")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1011" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1228482898]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 2.6174998, -2.6999998)
+layers = 4
+mesh = ExtResource("182_om3h8")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1012" type="MeshInstance3D" parent="Escada_terreo_001" unique_id=1869714698]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.82, 3.33, -3.6)
+layers = 4
+mesh = ExtResource("183_sf847")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Escada_terreo_002" type="Node3D" parent="." unique_id=1604346221]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.8, -2.85, -7.15)
+metadata/origem_conversao = "Escada_terreo"
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(7.8, -2.85, -7.15)
+
+[node name="Escada_Servico_Porao_003" type="Node3D" parent="Escada_terreo_002" unique_id=515505040]
+metadata/origem_conversao = "Escada_Servico_Porao"
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"porao"
+metadata/_edit_group_ = true
+metadata/pivot_original = Vector3(7.8, -2.85, -7.15)
+
+[node name="RampaEscadaPorao" type="StaticBody3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=2104156194]
+transform = Transform3D(1, 0, 0, 0, 0.7361676, 0.67679924, 0, -0.67679924, 0.7361676, 0, 1.3513832, 1.6176796)
+
+[node name="Forma" type="CollisionShape3D" parent="Escada_terreo_002/Escada_Servico_Porao_003/RampaEscadaPorao" unique_id=1705286540]
+shape = SubResource("BoxShape3D_kybud")
+
+[node name="Peca_concrete_1013" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=874708116]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.1500001, 0.10333347)
+layers = 4
+mesh = ExtResource("184_yku8n")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1014" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=1416742881]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.09500003, 0.0149998665)
+layers = 4
+mesh = ExtResource("185_fpb3q")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1015" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=745449283]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.3399999, 0.30999994)
+layers = 4
+mesh = ExtResource("186_22j8m")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1016" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=1603582417]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.2850001, 0.22166681)
+layers = 4
+mesh = ExtResource("187_70ssn")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1017" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=2096321921]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.53, 0.5166669)
+layers = 4
+mesh = ExtResource("188_eb10o")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1018" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=126621745]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.4749999, 0.42833328)
+layers = 4
+mesh = ExtResource("189_ktd8k")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1019" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=1732480045]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.72, 0.72333336)
+layers = 4
+mesh = ExtResource("190_n43si")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1020" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=384689199]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.66499996, 0.63499975)
+layers = 4
+mesh = ExtResource("191_63m3i")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1021" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=967905051]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.90999997, 0.9299998)
+layers = 4
+mesh = ExtResource("192_hu4ag")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1022" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=1905176751]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.855, 0.8416667)
+layers = 4
+mesh = ExtResource("193_d73c2")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1023" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=337835511]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.0999999, 1.1366668)
+layers = 4
+mesh = ExtResource("194_or1dr")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1024" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=1354048971]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.045, 1.0483332)
+layers = 4
+mesh = ExtResource("195_2ywpp")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1025" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=557445106]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.29, 1.3433332)
+layers = 4
+mesh = ExtResource("196_vd74i")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1026" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=1136745040]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.235, 1.2550001)
+layers = 4
+mesh = ExtResource("197_wc1x1")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1027" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=239112630]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.4799999, 1.5499997)
+layers = 4
+mesh = ExtResource("198_cnycb")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1028" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=755775108]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.425, 1.4616666)
+layers = 4
+mesh = ExtResource("199_wh6rt")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1029" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=1274804394]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.67, 1.7566667)
+layers = 4
+mesh = ExtResource("200_cis6c")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1030" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=109956018]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.6149999, 1.668333)
+layers = 4
+mesh = ExtResource("201_476su")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1031" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=1457458118]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.8599999, 1.9633331)
+layers = 4
+mesh = ExtResource("202_pjg7i")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1032" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=292693759]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.805, 1.875)
+layers = 4
+mesh = ExtResource("203_xyy4r")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1033" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=2016210834]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.05, 2.17)
+layers = 4
+mesh = ExtResource("204_fko5o")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1034" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=2026104819]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.9949999, 2.0816665)
+layers = 4
+mesh = ExtResource("205_tk6sw")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1035" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=616452825]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.24, 2.3766665)
+layers = 4
+mesh = ExtResource("206_hvolq")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1036" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=247660267]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.185, 2.2883334)
+layers = 4
+mesh = ExtResource("207_a5a7l")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1037" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=153464949]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.4299998, 2.5833335)
+layers = 4
+mesh = ExtResource("208_eeljp")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1038" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=456457559]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.375, 2.495)
+layers = 4
+mesh = ExtResource("209_p377x")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1039" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=184880791]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.62, 2.79)
+layers = 4
+mesh = ExtResource("210_srgfy")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1040" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=2028509607]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.5649998, 2.7016664)
+layers = 4
+mesh = ExtResource("211_ttr3g")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1041" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=1058466693]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.81, 2.9966664)
+layers = 4
+mesh = ExtResource("212_030lm")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_trim_1042" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=1274435787]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.7549999, 2.9083333)
+layers = 4
+mesh = ExtResource("213_xvcge")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"trim"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1043" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=358725018]
+transform = Transform3D(1, 0, 0, 0, 0.7361676, 0.67679924, 0, -0.67679924, 0.7361676, -0.69000006, 1.3513832, 1.6176796)
+layers = 4
+mesh = ExtResource("214_tgs5l")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true
+
+[node name="Peca_concrete_1044" type="MeshInstance3D" parent="Escada_terreo_002/Escada_Servico_Porao_003" unique_id=995669196]
+transform = Transform3D(1, 0, 0, 0, 0.7361676, 0.67679924, 0, -0.67679924, 0.7361676, 0.6899996, 1.3513832, 1.6176796)
+layers = 4
+mesh = ExtResource("215_vtbf0")
+metadata/fase_conversao = "_montar_escadas"
+metadata/pavimento = &"terreo"
+metadata/material_original = &"concrete"
+metadata/_edit_group_ = true

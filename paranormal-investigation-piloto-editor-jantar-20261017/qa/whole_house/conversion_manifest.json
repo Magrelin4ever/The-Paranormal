@@ -1,0 +1,172 @@
+{
+	"boxes": 1388,
+	"doors": 28,
+	"failures": [],
+	"fonte_git": "584b69a",
+	"gerador": "offline; nao executar sobre edicoes",
+	"meshes": 2872,
+	"nodes": 8360,
+	"rooms": [
+		{
+			"nodes": 39,
+			"scene": "res://prototype/whole_house/rooms/porao__Pisos_E_Acabamentos.tscn"
+		},
+		{
+			"nodes": 105,
+			"scene": "res://prototype/whole_house/rooms/terreo__Pisos_E_Acabamentos.tscn"
+		},
+		{
+			"nodes": 76,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Pisos_E_Acabamentos.tscn"
+		},
+		{
+			"nodes": 48,
+			"scene": "res://prototype/whole_house/rooms/sotao__Pisos_E_Acabamentos.tscn"
+		},
+		{
+			"nodes": 9,
+			"scene": "res://prototype/whole_house/rooms/porao__Tetos.tscn"
+		},
+		{
+			"nodes": 9,
+			"scene": "res://prototype/whole_house/rooms/terreo__Tetos.tscn"
+		},
+		{
+			"nodes": 9,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Tetos.tscn"
+		},
+		{
+			"nodes": 191,
+			"scene": "res://prototype/whole_house/rooms/porao__Estrutura.tscn"
+		},
+		{
+			"nodes": 455,
+			"scene": "res://prototype/whole_house/rooms/terreo__Estrutura.tscn"
+		},
+		{
+			"nodes": 387,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Estrutura.tscn"
+		},
+		{
+			"nodes": 132,
+			"scene": "res://prototype/whole_house/rooms/sotao__Estrutura.tscn"
+		},
+		{
+			"nodes": 67,
+			"scene": "res://prototype/whole_house/rooms/porao__Portas.tscn"
+		},
+		{
+			"nodes": 127,
+			"scene": "res://prototype/whole_house/rooms/terreo__Portas.tscn"
+		},
+		{
+			"nodes": 111,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Portas.tscn"
+		},
+		{
+			"nodes": 12,
+			"scene": "res://prototype/whole_house/rooms/sotao__Portas.tscn"
+		},
+		{
+			"nodes": 279,
+			"scene": "res://prototype/whole_house/rooms/terreo__Escadas.tscn"
+		},
+		{
+			"nodes": 215,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Escadas.tscn"
+		},
+		{
+			"nodes": 16,
+			"scene": "res://prototype/whole_house/rooms/exterior__Telhado_E_Fachada.tscn"
+		},
+		{
+			"nodes": 140,
+			"scene": "res://prototype/whole_house/rooms/porao__Lavanderia_Porao.tscn"
+		},
+		{
+			"nodes": 29,
+			"scene": "res://prototype/whole_house/rooms/porao__Deposito.tscn"
+		},
+		{
+			"nodes": 159,
+			"scene": "res://prototype/whole_house/rooms/porao__Oficina.tscn"
+		},
+		{
+			"nodes": 6,
+			"scene": "res://prototype/whole_house/rooms/porao__Circulacao_Porao.tscn"
+		},
+		{
+			"nodes": 135,
+			"scene": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn"
+		},
+		{
+			"nodes": 228,
+			"scene": "res://prototype/whole_house/rooms/terreo__Area_Servico.tscn"
+		},
+		{
+			"nodes": 21,
+			"scene": "res://prototype/whole_house/rooms/terreo__Hall_Entrada.tscn"
+		},
+		{
+			"nodes": 909,
+			"scene": "res://prototype/whole_house/rooms/terreo__Sala_Estar.tscn"
+		},
+		{
+			"nodes": 715,
+			"scene": "res://prototype/whole_house/rooms/terreo__Escritorio.tscn"
+		},
+		{
+			"nodes": 3383,
+			"scene": "res://prototype/whole_house/rooms/terreo__Biblioteca.tscn"
+		},
+		{
+			"nodes": 43,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Quarto_Infantil.tscn"
+		},
+		{
+			"nodes": 26,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Suite_Casal.tscn"
+		},
+		{
+			"nodes": 9,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Closet_Infantil.tscn"
+		},
+		{
+			"nodes": 8,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Closet_Casal.tscn"
+		},
+		{
+			"nodes": 14,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Banheiro_Familiar.tscn"
+		},
+		{
+			"nodes": 14,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Banheiro_Suite.tscn"
+		},
+		{
+			"nodes": 5,
+			"scene": "res://prototype/whole_house/rooms/primeiro__Hall_Superior.tscn"
+		},
+		{
+			"nodes": 8,
+			"scene": "res://prototype/whole_house/rooms/sotao__Deposito_Sotao.tscn"
+		},
+		{
+			"nodes": 17,
+			"scene": "res://prototype/whole_house/rooms/sotao__Arquivo_Sotao.tscn"
+		},
+		{
+			"nodes": 103,
+			"scene": "res://prototype/whole_house/rooms/exterior__Exterior.tscn"
+		},
+		{
+			"nodes": 3,
+			"scene": "res://prototype/whole_house/rooms/exterior__Escadas.tscn"
+		},
+		{
+			"nodes": 98,
+			"scene": "res://prototype/whole_house/rooms/terreo__Sala_Jantar.tscn"
+		}
+	],
+	"triangles": 2
+}
