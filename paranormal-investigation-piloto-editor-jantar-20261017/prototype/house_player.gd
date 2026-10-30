@@ -16,6 +16,11 @@ var _dica_porta: Label
 func _ready() -> void:
 	_configurar_entradas()
 	_montar_corpo()
+	var state := get_node_or_null("/root/GameState")
+	if state != null and state.get("owned_equipment").has("battery"):
+		flashlight.spot_range = 22.0
+		flashlight_mid.spot_range = 21.0
+		flashlight_core.spot_range = 20.0
 	Input.mouse_mode = Input.MOUSE_MODE_CAPTURED
 	set_flashlight_active(flashlight_active)
 
@@ -29,6 +34,16 @@ func _adicionar_tecla(acao: String, tecla: Key) -> void:
 	evento.physical_keycode = tecla
 	InputMap.action_add_event(acao, evento)
 
+func _adicionar_botao_mouse(acao: String, botao: MouseButton) -> void:
+	if not InputMap.has_action(acao):
+		InputMap.add_action(acao)
+	for evento_existente in InputMap.action_get_events(acao):
+		if evento_existente is InputEventMouseButton and evento_existente.button_index == botao:
+			return
+	var evento := InputEventMouseButton.new()
+	evento.button_index = botao
+	InputMap.action_add_event(acao, evento)
+
 func _configurar_entradas() -> void:
 	_adicionar_tecla("move_forward", KEY_W)
 	_adicionar_tecla("move_back", KEY_S)
@@ -37,6 +52,8 @@ func _configurar_entradas() -> void:
 	_adicionar_tecla("sprint", KEY_SHIFT)
 	_adicionar_tecla("toggle_flashlight", KEY_F)
 	_adicionar_tecla("interagir", KEY_E)
+	_adicionar_tecla("trocar_ferramenta", KEY_Q)
+	_adicionar_botao_mouse("usar_ferramenta", MOUSE_BUTTON_LEFT)
 
 func _montar_corpo() -> void:
 	var colisor := CollisionShape3D.new()
@@ -180,8 +197,12 @@ func _criar_hud_interacao() -> void:
 
 func _unhandled_input(evento: InputEvent) -> void:
 	if evento is InputEventMouseMotion and Input.mouse_mode == Input.MOUSE_MODE_CAPTURED:
-		rotate_y(-evento.relative.x * SENSIBILIDADE_MOUSE)
-		head.rotate_x(-evento.relative.y * SENSIBILIDADE_MOUSE)
+		var sensibilidade := SENSIBILIDADE_MOUSE
+		var estado := get_node_or_null("/root/GameState")
+		if estado != null:
+			sensibilidade = float(estado.get("mouse_sensitivity"))
+		rotate_y(-evento.relative.x * sensibilidade)
+		head.rotate_x(-evento.relative.y * sensibilidade)
 		head.rotation.x = clampf(head.rotation.x, deg_to_rad(-85.0), deg_to_rad(85.0))
 	if evento.is_action_pressed("toggle_flashlight"):
 		if evento is InputEventKey and (evento as InputEventKey).echo:
@@ -191,8 +212,22 @@ func _unhandled_input(evento: InputEvent) -> void:
 		if evento is InputEventKey and (evento as InputEventKey).echo:
 			return
 		_interagir_com_porta()
+	if evento.is_action_pressed("trocar_ferramenta"):
+		if evento is InputEventKey and (evento as InputEventKey).echo:
+			return
+		var gerente := get_tree().get_first_node_in_group("investigation_manager")
+		if gerente != null and gerente.has_method("cycle_equipment"):
+			gerente.call("cycle_equipment")
+	if evento.is_action_pressed("usar_ferramenta"):
+		var gerente := get_tree().get_first_node_in_group("investigation_manager")
+		if gerente != null and gerente.has_method("use_equipment"):
+			gerente.call("use_equipment", self)
 	if evento.is_action_pressed("ui_cancel"):
-		Input.mouse_mode = Input.MOUSE_MODE_VISIBLE if Input.mouse_mode == Input.MOUSE_MODE_CAPTURED else Input.MOUSE_MODE_CAPTURED
+		var gerente := get_tree().get_first_node_in_group("investigation_manager")
+		if gerente != null and gerente.has_method("toggle_pause"):
+			gerente.call("toggle_pause")
+		else:
+			Input.mouse_mode = Input.MOUSE_MODE_VISIBLE if Input.mouse_mode == Input.MOUSE_MODE_CAPTURED else Input.MOUSE_MODE_CAPTURED
 
 func _porta_mirada() -> Node:
 	if camera == null or get_world_3d() == null:
@@ -209,25 +244,38 @@ func _porta_mirada() -> Node:
 	var alvo := resultado.get("collider") as Node
 	if alvo is Area3D:
 		alvo = alvo.get_parent()
-	return alvo if alvo != null and alvo.has_method("alternar") and alvo.has_method("texto_interacao") else null
+	while alvo != null and not alvo.has_method("texto_interacao"):
+		alvo = alvo.get_parent()
+	if alvo != null and alvo.has_method("texto_interacao") and (alvo.has_method("interagir") or alvo.has_method("alternar")):
+		return alvo
+	return null
 
 func _interagir_com_porta() -> void:
-	var porta := _porta_mirada()
-	if porta != null:
-		porta.call("alternar")
+	var alvo := _porta_mirada()
+	if alvo == null:
+		return
+	if alvo.has_method("interagir"):
+		alvo.call("interagir", self)
+	elif alvo.has_method("alternar"):
+		alvo.call("alternar")
 
 func _process(_delta: float) -> void:
 	_atualizar_penumbra_lanterna()
 	if _dica_porta == null:
 		return
-	var porta := _porta_mirada()
-	if porta == null:
+	var alvo := _porta_mirada()
+	if alvo == null:
 		_dica_porta.visible = false
 		return
-	_dica_porta.text = porta.call("texto_interacao")
+	_dica_porta.text = alvo.call("texto_interacao")
 	_dica_porta.visible = true
 
 func _physics_process(delta: float) -> void:
+	var gerente := get_tree().get_first_node_in_group("investigation_manager")
+	if gerente != null and bool(gerente.get("player_movement_locked")):
+		velocity = Vector3.ZERO
+		move_and_slide()
+		return
 	if not is_on_floor():
 		velocity.y -= GRAVIDADE * delta
 	var entrada := Input.get_vector("move_left", "move_right", "move_forward", "move_back")

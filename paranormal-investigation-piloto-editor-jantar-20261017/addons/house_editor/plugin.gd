@@ -42,6 +42,11 @@ func _enter_tree() -> void:
 	restore.text = "Restaurar visão completa"
 	restore.pressed.connect(_restore_view)
 	dock.add_child(restore)
+	var frame_overview := Button.new()
+	frame_overview.text = "Enquadrar casa inteira"
+	frame_overview.tooltip_text = "Enquadra a casa em perspectiva e oculta tetos no preview. Use o filtro de piso para inspecionar cada interior."
+	frame_overview.pressed.connect(_frame_house_overview)
+	dock.add_child(frame_overview)
 	var assets := Button.new()
 	assets.text = "Abrir assets prontos"
 	assets.pressed.connect(func(): EditorInterface.get_file_system_dock().navigate_to_path("res://prototype/whole_house/real_assets/"))
@@ -50,6 +55,10 @@ func _enter_tree() -> void:
 	toolbar_assets.text = "Assets"
 	toolbar_assets.pressed.connect(func(): assets.pressed.emit())
 	toolbar.add_child(toolbar_assets)
+	var toolbar_frame := Button.new()
+	toolbar_frame.text = "Vista geral"
+	toolbar_frame.pressed.connect(_frame_house_overview)
+	toolbar.add_child(toolbar_frame)
 	var assign := Button.new()
 	assign.text = "Aplicar piso à seleção"
 	assign.tooltip_text = "Depois de arrastar um GLB ou uma cena, selecione sua raiz e aplique a camada do piso escolhido. Ctrl+Z desfaz. Não move a posição do asset."
@@ -71,6 +80,7 @@ func _enter_tree() -> void:
 	scene_changed.connect(_scene_changed)
 	call_deferred("_apply_filter")
 	if OS.get_environment("HOUSE_EDITOR_QA") == "1": call_deferred("_qa_filter_test")
+	if OS.get_environment("HOUSE_EDITOR_OVERVIEW_QA") == "1": call_deferred("_qa_overview_test")
 
 func _exit_tree() -> void:
 	_restore_masks()
@@ -143,6 +153,91 @@ func _restore_view() -> void:
 	floors.select(0)
 	ceilings.button_pressed = true
 	_apply_filter()
+
+func _frame_house_overview() -> bool:
+	_restore_view()
+	ceilings.button_pressed = false
+	_apply_filter()
+	var edited := EditorInterface.get_edited_scene_root()
+	if edited == null:
+		if is_instance_valid(status): status.text = "Abra casa_editavel.tscn antes de enquadrar a residência."
+		return false
+	var included_floor_layers := 2 | 4 | 8 | 16
+	var bounds := AABB()
+	var first := true
+	for node in edited.find_children("*", "VisualInstance3D", true, false):
+		var visual := node as VisualInstance3D
+		if visual == null or (visual.layers & included_floor_layers) == 0 or not visual.is_visible_in_tree():
+			continue
+		var local_bounds: AABB = visual.get_aabb()
+		if local_bounds.size.length_squared() < 0.0001:
+			continue
+		var world_bounds: AABB = visual.global_transform * local_bounds
+		bounds = world_bounds if first else bounds.merge(world_bounds)
+		first = false
+	if first:
+		if is_instance_valid(status): status.text = "Nenhuma malha dos pavimentos foi encontrada para enquadrar."
+		return false
+	var target := bounds.position + bounds.size * 0.5
+	var viewports := 0
+	for index in range(4):
+		var viewport := EditorInterface.get_editor_viewport_3d(index)
+		if viewport == null or viewport.size.x < 100 or viewport.size.y < 100:
+			continue
+		var camera := viewport.get_camera_3d()
+		if camera == null:
+			continue
+		camera.current = true
+		var radius := maxf(bounds.size.length(), 20.0)
+		var direction := Vector3(1.4, 1.05, 1.8).normalized()
+		var aspect := float(viewport.size.x) / maxf(float(viewport.size.y), 1.0)
+		var projected_width := absf(direction.z) * bounds.size.x + absf(direction.x) * bounds.size.z
+		var tangent := tan(deg_to_rad(camera.fov) * 0.5)
+		var horizontal_fit := projected_width / (2.0 * tangent * maxf(aspect, 0.05))
+		var vertical_fit := bounds.size.y / (2.0 * tangent)
+		var fit_distance := maxf(radius, maxf(horizontal_fit, vertical_fit) * 1.15)
+		camera.global_position = target + direction * fit_distance
+		camera.look_at(target, Vector3.UP)
+		camera.near = 0.05
+		camera.far = fit_distance * 5.0
+		viewports += 1
+	if is_instance_valid(status):
+		status.text = "Casa inteira enquadrada: %s · %d viewport(s)." % [str(bounds.size), viewports]
+	return viewports > 0
+
+func _qa_overview_test() -> void:
+	var edited: Node
+	for attempt in range(120):
+		await get_tree().create_timer(0.25).timeout
+		edited = EditorInterface.get_edited_scene_root()
+		if edited != null and "casa_editavel.tscn" in edited.scene_file_path:
+			break
+	if edited == null or "casa_editavel.tscn" not in edited.scene_file_path:
+		push_error("QA da vista geral não encontrou casa_editavel.tscn.")
+		return
+	var framed := _frame_house_overview()
+	await get_tree().create_timer(1.0).timeout
+	var cameras: Array[Dictionary] = []
+	var saved_image := false
+	for index in range(4):
+		var viewport := EditorInterface.get_editor_viewport_3d(index)
+		if viewport == null or viewport.size.x < 100 or viewport.size.y < 100:
+			continue
+		var camera := viewport.get_camera_3d()
+		if camera == null:
+			continue
+		cameras.append({"index": index, "projection": camera.projection, "size": camera.size, "position": camera.global_position, "target_distance": camera.global_position.distance_to(edited.global_position), "far": camera.far, "viewport_size": viewport.size})
+		if not saved_image:
+			var image := viewport.get_texture().get_image()
+			if image != null and not image.is_empty():
+				saved_image = image.save_png("res://qa/whole_house/previews/editor_overview_verified.png") == OK
+	var result := {"scene": edited.scene_file_path, "framed": framed, "camera_count": cameras.size(), "cameras": cameras, "viewport_capture_saved": saved_image, "passed": framed and cameras.size() > 0 and saved_image and cameras.all(func(item: Dictionary) -> bool: return float(item["target_distance"]) > 5.0 and float(item["far"]) > float(item["target_distance"]))}
+	var file := FileAccess.open("res://qa/whole_house/editor_overview_results.json", FileAccess.WRITE)
+	file.store_string(JSON.stringify(result, "\t") + "\n")
+	file.close()
+	print("HOUSE_EDITOR_OVERVIEW_QA passed=%s cameras=%d capture=%s" % [result["passed"], cameras.size(), saved_image])
+	if OS.get_environment("HOUSE_EDITOR_OVERVIEW_QA") == "1":
+		get_tree().quit()
 
 func _assign_selected_floor() -> void:
 	var index := floors.selected

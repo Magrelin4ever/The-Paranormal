@@ -26,7 +26,7 @@ func _init() -> void:
 	_check("player_sets_beam_state", player_text.contains('set_shader_parameter("flashlight_beam_enabled", 1.0 if ativa else 0.0)'))
 	_check("three_beams_preserved", player_text.contains("LanternaFeixeAmplo") and player_text.contains("LanternaFaixaMedia") and player_text.contains("LanternaNucleo"), "os três SpotLight3D permanecem")
 
-	var strength := 0.74
+	var strength := 0.20
 	var center_on := _transmission(1.0, 1.0, 0.0, strength)
 	var edge_on := _transmission(1.0, 1.0, 1.0, strength)
 	var center_off := _transmission(1.0, 0.0, 0.0, strength)

@@ -1,0 +1,8 @@
+{
+  "closed_via_e": 28,
+  "doors": 28,
+  "failures": [],
+  "opened_via_e": 28,
+  "passed": true,
+  "test": "door_e_interaction"
+}

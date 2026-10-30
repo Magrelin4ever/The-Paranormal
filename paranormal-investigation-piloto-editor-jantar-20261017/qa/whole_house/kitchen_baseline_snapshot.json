@@ -1,0 +1,1530 @@
+{
+	"baseline_commit": "f3bd10257d0e39cc046fe1b60457fb2e75d18db3",
+	"bounds": {
+		"position": "(-9.299999, 0.0, -8.0)",
+		"size": "(7.449999, 2.466384, 5.2)"
+	},
+	"collision_shape_count": 17,
+	"material_resource_paths": [
+		"res://prototype/whole_house/resources/mesh_1678.res::StandardMaterial3D_5xx5m",
+		"res://prototype/whole_house/resources/material_0007.res",
+		"res://prototype/whole_house/resources/material_0008.res",
+		"res://prototype/whole_house/resources/material_0009.res",
+		"res://prototype/whole_house/resources/material_0010.res",
+		"res://prototype/whole_house/resources/material_0011.res",
+		"res://prototype/whole_house/resources/material_0012.res",
+		"res://prototype/whole_house/resources/material_0013.res",
+		"res://prototype/whole_house/resources/material_0014.res",
+		"res://prototype/whole_house/resources/material_0015.res",
+		"res://prototype/whole_house/resources/material_0016.res",
+		"res://prototype/whole_house/resources/material_0017.res",
+		"res://prototype/whole_house/resources/material_0018.res",
+		"res://prototype/whole_house/resources/material_0019.res",
+		"res://prototype/whole_house/resources/material_0020.res",
+		"res://prototype/whole_house/resources/material_0021.res",
+		"res://prototype/whole_house/resources/material_0022.res",
+		"res://prototype/whole_house/resources/material_0023.res",
+		"res://prototype/whole_house/resources/material_0024.res",
+		"res://prototype/whole_house/resources/material_0025.res",
+		"res://prototype/whole_house/resources/material_0026.res",
+		"res://prototype/whole_house/resources/material_0027.res",
+		"res://prototype/whole_house/resources/material_0028.res",
+		"res://prototype/whole_house/resources/material_0029.res",
+		"res://prototype/whole_house/resources/material_0030.res",
+		"res://prototype/whole_house/resources/material_0031.res",
+		"res://prototype/whole_house/resources/material_0032.res",
+		"res://prototype/whole_house/resources/material_0033.res",
+		"res://prototype/whole_house/resources/material_0034.res",
+		"res://prototype/whole_house/resources/material_0035.res",
+		"res://prototype/whole_house/resources/material_0036.res",
+		"res://prototype/whole_house/resources/material_0037.res",
+		"res://prototype/whole_house/resources/material_0038.res",
+		"res://prototype/whole_house/resources/material_0039.res",
+		"res://prototype/whole_house/resources/material_0040.res",
+		"res://prototype/whole_house/resources/material_0041.res",
+		"res://prototype/whole_house/resources/material_0042.res",
+		"res://prototype/whole_house/resources/material_0043.res",
+		"res://prototype/whole_house/resources/material_0044.res",
+		"res://prototype/whole_house/resources/material_0045.res",
+		"res://prototype/whole_house/resources/material_0046.res",
+		"res://prototype/whole_house/resources/material_0047.res",
+		"res://prototype/whole_house/resources/material_0048.res",
+		"res://prototype/whole_house/resources/material_0049.res",
+		"res://prototype/whole_house/resources/material_0050.res",
+		"res://prototype/whole_house/resources/material_0051.res",
+		"res://prototype/whole_house/resources/material_0052.res",
+		"res://prototype/whole_house/resources/material_0053.res",
+		"res://prototype/whole_house/resources/material_0054.res",
+		"res://prototype/whole_house/resources/material_0055.res",
+		"res://prototype/whole_house/resources/material_0056.res",
+		"res://prototype/whole_house/resources/material_0057.res",
+		"res://prototype/whole_house/resources/material_0058.res",
+		"res://prototype/whole_house/resources/material_0059.res",
+		"res://prototype/whole_house/resources/material_0060.res",
+		"res://prototype/whole_house/resources/material_0061.res",
+		"res://prototype/whole_house/resources/material_0062.res",
+		"res://prototype/whole_house/resources/material_0063.res",
+		"res://prototype/whole_house/resources/material_0064.res",
+		"res://prototype/whole_house/resources/material_0065.res",
+		"res://prototype/whole_house/resources/material_0066.res",
+		"res://prototype/whole_house/resources/material_0067.res",
+		"res://prototype/whole_house/resources/material_0068.res",
+		"res://prototype/whole_house/resources/material_0069.res",
+		"res://prototype/whole_house/resources/material_0070.res",
+		"res://prototype/whole_house/resources/material_0071.res",
+		"res://prototype/whole_house/resources/material_0072.res",
+		"res://prototype/whole_house/resources/material_0073.res",
+		"res://prototype/whole_house/resources/material_0074.res",
+		"res://prototype/whole_house/resources/material_0075.res",
+		"res://prototype/whole_house/resources/material_0076.res",
+		"res://prototype/whole_house/resources/material_0077.res",
+		"res://prototype/whole_house/resources/material_0078.res",
+		"res://prototype/whole_house/resources/material_0079.res",
+		"res://prototype/whole_house/resources/material_0080.res",
+		"res://prototype/whole_house/resources/material_0081.res",
+		"res://prototype/whole_house/resources/material_0082.res",
+		"res://prototype/whole_house/resources/material_0083.res",
+		"res://prototype/whole_house/resources/material_0084.res",
+		"res://prototype/whole_house/resources/material_0085.res",
+		"res://prototype/whole_house/resources/material_0086.res",
+		"res://prototype/whole_house/resources/material_0087.res",
+		"res://prototype/whole_house/resources/material_0088.res",
+		"res://prototype/whole_house/resources/material_0089.res",
+		"res://prototype/whole_house/resources/mesh_1736.res::StandardMaterial3D_lmkc2",
+		"res://prototype/whole_house/resources/mesh_1737.res::StandardMaterial3D_lmkc2",
+		"res://prototype/whole_house/resources/mesh_1738.res::StandardMaterial3D_lmkc2",
+		"res://prototype/whole_house/resources/mesh_1739.res::StandardMaterial3D_lmkc2",
+		"res://prototype/whole_house/resources/mesh_1746.res::StandardMaterial3D_lmkc2",
+		"res://prototype/whole_house/resources/mesh_1747.res::StandardMaterial3D_lmkc2",
+		"res://prototype/whole_house/resources/mesh_1748.res::StandardMaterial3D_lmkc2",
+		"res://prototype/whole_house/resources/mesh_1749.res::StandardMaterial3D_lmkc2",
+		"res://prototype/whole_house/resources/mesh_1750.res::StandardMaterial3D_1pc3g",
+		"res://prototype/whole_house/resources/material_0090.res",
+		"res://prototype/whole_house/resources/mesh_1754.res::StandardMaterial3D_70s5f",
+		"res://prototype/whole_house/resources/mesh_1755.res::StandardMaterial3D_g8lpi",
+		"res://prototype/whole_house/resources/mesh_1756.res::StandardMaterial3D_ourae",
+		"res://prototype/whole_house/resources/material_0091.res"
+	],
+	"mesh_count": 81,
+	"mesh_records": [
+		{
+			"bounds": {
+				"position": "(-9.299999, 0.003, -8.0)",
+				"size": "(7.449999, 0.018, 5.2)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1678.res",
+			"path": "/root/Cozinha_Richard/Peca_kitchen_floor_1214",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1678.res::StandardMaterial3D_5xx5m"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-5.575, 0.012, -5.4)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.858585, 0.841222, -6.780294)",
+				"size": "(0.325303, 0.411295, 0.531358)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1679.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_08_032_001",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0007.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0008.res"
+				},
+				{
+					"index": 2,
+					"material": "res://prototype/whole_house/resources/material_0009.res"
+				},
+				{
+					"index": 3,
+					"material": "res://prototype/whole_house/resources/material_0010.res"
+				},
+				{
+					"index": 4,
+					"material": "res://prototype/whole_house/resources/material_0011.res"
+				},
+				{
+					"index": 5,
+					"material": "res://prototype/whole_house/resources/material_0012.res"
+				},
+				{
+					"index": 6,
+					"material": "res://prototype/whole_house/resources/material_0013.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.578921, 1.042623, -6.509905)]"
+		},
+		{
+			"bounds": {
+				"position": "(-3.830379, 0.469813, -7.808403)",
+				"size": "(0.540764, 0.782059, 0.535857)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1680.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0014.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0015.res"
+				},
+				{
+					"index": 2,
+					"material": "res://prototype/whole_house/resources/material_0016.res"
+				},
+				{
+					"index": 3,
+					"material": "res://prototype/whole_house/resources/material_0017.res"
+				},
+				{
+					"index": 4,
+					"material": "res://prototype/whole_house/resources/material_0018.res"
+				},
+				{
+					"index": 5,
+					"material": "res://prototype/whole_house/resources/material_0019.res"
+				},
+				{
+					"index": 6,
+					"material": "res://prototype/whole_house/resources/material_0020.res"
+				},
+				{
+					"index": 7,
+					"material": "res://prototype/whole_house/resources/material_0021.res"
+				},
+				{
+					"index": 8,
+					"material": "res://prototype/whole_house/resources/material_0022.res"
+				},
+				{
+					"index": 9,
+					"material": "res://prototype/whole_house/resources/material_0023.res"
+				},
+				{
+					"index": 10,
+					"material": "res://prototype/whole_house/resources/material_0024.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-3.561192, 0.796021, -7.477365)]"
+		},
+		{
+			"bounds": {
+				"position": "(-4.912999, 0.112, -7.869999)",
+				"size": "(0.54, 0.702, 0.57009)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1681.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_001",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0025.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0026.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-4.642999, 0.540469, -7.320441)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.532998, 1.372, -7.869999)",
+				"size": "(0.54, 1.094384, 0.288)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1682.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_007",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0027.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0028.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.262998, 2.298887, -7.588907)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.099999, 1.372, -7.281042)",
+				"size": "(0.288, 1.094384, 0.491044)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1683.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_008",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0029.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0030.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.81953, 2.279045, -7.03552)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.099999, 1.372, -7.572999)",
+				"size": "(0.288, 1.094383, 0.291957)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1684.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_009",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0031.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0032.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.820712, 2.212122, -7.427021)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.824956, 1.372, -7.869999)",
+				"size": "(0.291958, 1.094383, 0.288)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1685.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_010",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0033.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0034.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.678977, 2.212122, -7.590704)]"
+		},
+		{
+			"bounds": {
+				"position": "(-3.832999, 0.112, -7.869999)",
+				"size": "(0.549, 2.354383, 0.54)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1686.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_011",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0035.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-3.558499, 1.192497, -7.589401)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.099999, 0.112, -6.791768)",
+				"size": "(0.558, 2.354383, 0.549)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1687.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_015",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0036.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.566526, 1.520177, -6.517268)]"
+		},
+		{
+			"bounds": {
+				"position": "(-4.372999, 0.112, -7.869999)",
+				"size": "(0.54, 0.702, 0.57009)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1688.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_016",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0037.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0038.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-4.102999, 0.540469, -7.320441)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.452999, 0.112, -7.869999)",
+				"size": "(0.54, 0.702, 0.57009)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1689.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_017",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0039.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0040.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-5.182999, 0.540469, -7.320441)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.992999, 0.112, -7.869999)",
+				"size": "(0.54, 0.702, 0.57009)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1690.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_018",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0041.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0042.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-5.722999, 0.540469, -7.320441)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.532999, 0.112, -7.869999)",
+				"size": "(0.54, 0.702, 0.57009)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1691.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_019",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0043.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0044.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.262999, 0.540873, -7.327846)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.099999, 0.112, -7.869998)",
+				"size": "(0.54, 0.702, 0.54)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1692.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_020",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0045.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0046.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.829999, 0.565369, -7.599998)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.559999, 0.112, -7.869998)",
+				"size": "(0.027, 0.702, 0.54)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1693.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_021",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0047.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0048.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.546499, 0.565369, -7.599998)]"
+		},
+		{
+			"bounds": {
+				"position": "(-3.831199, 0.1138, -7.329999)",
+				"size": "(0.5454, 2.35102, 0.018001)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1694.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_022",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0049.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-3.558499, 1.469213, -7.320999)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.1, 0.022, -7.87)",
+				"size": "(4.176001, 0.090001, 1.987233)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1695.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_023",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0050.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-5.691063, 0.067, -7.100857)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.099999, 0.770108, -7.869998)",
+				"size": "(3.267, 0.106892, 1.08)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1696.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_024",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0051.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.008439, 1.100841, -7.507438)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.099999, 0.814, -7.869999)",
+				"size": "(3.267, 0.027, 1.08)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1697.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_027",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0052.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-5.937736, 0.8275, -7.402869)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.099998, 1.372, -7.84)",
+				"size": "(0.272999, 1.094383, 0.267001)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1698.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_028",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0053.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.95448, 1.932425, -7.723982)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.099999, 0.112, -6.242769)",
+				"size": "(0.558, 2.354383, 0.405)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1699.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_029",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0054.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.561594, 1.770734, -6.040268)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.099999, 0.112, -7.329999)",
+				"size": "(0.558, 0.702, 0.550291)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1700.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_031",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0055.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0056.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.562037, 0.540469, -7.028084)]"
+		},
+		{
+			"bounds": {
+				"position": "(-3.283999, 0.112, -7.869999)",
+				"size": "(0.405, 2.354383, 0.54)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1701.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_032",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0057.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-3.081499, 1.641231, -7.599999)]"
+		},
+		{
+			"bounds": {
+				"position": "(-3.282199, 0.1138, -7.329999)",
+				"size": "(0.4014, 2.35102, 0.018)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1702.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_033",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0058.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-3.081499, 1.775847, -7.320999)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.922288, 0.849282, -6.782846)",
+				"size": "(0.0045, 0.400602, 0.534678)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1703.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_038",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0059.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.920038, 1.049584, -6.515507)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.516839, 0.524043, -7.754566)",
+				"size": "(0.517568, 0.319489, 0.403787)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1704.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_054",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0060.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.212588, 0.550254, -7.609928)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.361156, 0.83691, -7.824061)",
+				"size": "(0.213848, 0.419507, 0.256191)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1705.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_056",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0061.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.290885, 1.056143, -7.680035)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.536208, 0.805, -5.070569)",
+				"size": "(2.572416, 0.040503, 0.701138)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1706.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_058",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0062.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.25, 0.825251, -4.72)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.011037, 0.061935, -4.985468)",
+				"size": "(0.018, 0.705027, 0.538792)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1707.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_059",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0063.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-5.002038, 0.414448, -4.721129)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.038743, 0.022, -5.070457)",
+				"size": "(0.074445, 0.7848, 0.701025)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1708.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_060",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0064.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-5.001521, 0.4144, -4.719944)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.443501, 0.1138, -5.066069)",
+				"size": "(1.4364, 0.660693, 0.018001)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1709.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_061",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0065.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.725301, 0.444146, -5.057069)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.451694, 0.1021, -5.048069)",
+				"size": "(1.455362, 0.027, 0.636971)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1710.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_062",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0066.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.724012, 0.1156, -4.632421)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.463302, 0.022, -5.048069)",
+				"size": "(1.476, 0.754293, 0.648)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1711.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_063",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0067.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.725302, 0.257374, -4.62507)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.445302, 0.022, -5.048069)",
+				"size": "(1.44, 0.783, 0.63)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1712.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_064",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0068.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0069.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-6.725302, 0.534431, -4.733069)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.073863, 0.839719, -7.818727)",
+				"size": "(0.8235, 0.011004, 0.468)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1713.res",
+			"path": "/root/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/Plane002_001",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0070.res"
+				},
+				{
+					"index": 1,
+					"material": "res://prototype/whole_house/resources/material_0071.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, 0.9), Y: (0.0, 0.9, 0.0), Z: (-0.9, 0.0, -0.0), O: (-4.662112, 0.84409, -7.535366)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.271999, 0.416, -5.3535)",
+				"size": "(0.011999, 0.012, 0.407)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1714.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Freezer horizontal pull | grip",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0072.res"
+				}
+			],
+			"transform": "[X: (-1.0, 0.0, 0.0), Y: (-0.0, 0.0, -1.0), Z: (0.0, -1.0, 0.0), O: (-8.266, 0.422, -5.15)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.289, 0.417, -4.9565)",
+				"size": "(0.023001, 0.01, 0.01)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1715.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Freezer horizontal pull | standoff",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0073.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, -1.0), Y: (1.0, -0.0, -0.0), Z: (-0.0, -1.0, 0.0), O: (-8.277499, 0.422, -4.9515)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.289, 0.417, -5.3535)",
+				"size": "(0.023001, 0.01, 0.01)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1716.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Freezer horizontal pull | standoff_001",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0074.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, -1.0), Y: (1.0, -0.0, -0.0), Z: (-0.0, -1.0, 0.0), O: (-8.277499, 0.422, -5.3485)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.966499, 0.01, -5.4575)",
+				"size": "(0.632999, 1.814, 0.615)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1717.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Insulated refrigerator cabinet",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0075.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, -1.0), Y: (0.0, 1.0, 0.0), Z: (1.0, 0.0, -0.0), O: (-8.65, 0.917, -5.15)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.3425, 0.027, -5.452)",
+				"size": "(0.051001, 0.502, 0.604)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1718.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Lower freezer door",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0076.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, -1.0), Y: (0.0, 1.0, 0.0), Z: (1.0, 0.0, -0.0), O: (-8.316999, 0.278, -5.15)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.270999, 0.8935, -4.929)",
+				"size": "(0.011999, 0.457, 0.012)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1719.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Main offset refrigerator pull | grip",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0077.res"
+				}
+			],
+			"transform": "[X: (0.0, 0.0, 1.0), Y: (0.0, 1.0, 0.0), Z: (-1.0, 0.0, 0.0), O: (-8.264999, 1.122, -4.923)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.288, 0.8935, -4.928)",
+				"size": "(0.023001, 0.01, 0.01)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1720.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Main offset refrigerator pull | standoff",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0078.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, -1.0), Y: (1.0, -0.0, -0.0), Z: (-0.0, -1.0, 0.0), O: (-8.2765, 0.8985, -4.923)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.288, 1.3405, -4.928)",
+				"size": "(0.023001, 0.01, 0.01)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1721.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Main offset refrigerator pull | standoff_001",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0079.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, -1.0), Y: (1.0, -0.0, -0.0), Z: (-0.0, -1.0, 0.0), O: (-8.2765, 1.3455, -4.923)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.3425, 0.538, -5.452)",
+				"size": "(0.051001, 1.27, 0.604)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1722.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Main refrigerator door",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0080.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, -1.0), Y: (0.0, 1.0, 0.0), Z: (1.0, 0.0, -0.0), O: (-8.316999, 1.173, -5.15)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.4165, 0.0, -4.923)",
+				"size": "(0.024, 0.021, 0.024)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1723.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Recessed rubber foot",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0081.res"
+				}
+			],
+			"transform": "[X: (0.0, 0.0, 1.0), Y: (0.0, 1.0, 0.0), Z: (-1.0, 0.0, 0.0), O: (-8.4045, 0.0105, -4.911)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.907499, 0.0, -4.923)",
+				"size": "(0.024, 0.021, 0.024)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1724.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Recessed rubber foot_001",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0082.res"
+				}
+			],
+			"transform": "[X: (0.0, 0.0, 1.0), Y: (0.0, 1.0, 0.0), Z: (-1.0, 0.0, 0.0), O: (-8.895499, 0.0105, -4.911)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.4165, 0.0, -5.401)",
+				"size": "(0.024, 0.021, 0.024)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1725.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Recessed rubber foot_002",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0083.res"
+				}
+			],
+			"transform": "[X: (0.0, 0.0, 1.0), Y: (0.0, 1.0, 0.0), Z: (-1.0, 0.0, 0.0), O: (-8.4045, 0.0105, -5.389)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.907499, 0.0, -5.401)",
+				"size": "(0.024, 0.021, 0.024)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1726.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Recessed rubber foot_003",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0084.res"
+				}
+			],
+			"transform": "[X: (0.0, 0.0, 1.0), Y: (0.0, 1.0, 0.0), Z: (-1.0, 0.0, 0.0), O: (-8.895499, 0.0105, -5.389)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.346, 0.01, -5.394)",
+				"size": "(0.032, 0.032, 0.488)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1727.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Refrigerator toe grille",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0085.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, -1.0), Y: (0.0, 1.0, 0.0), Z: (1.0, 0.0, -0.0), O: (-8.33, 0.026, -5.15)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.3535, 0.0205, -5.4415)",
+				"size": "(0.061001, 0.029, 0.063)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1728.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Right door hinge",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0086.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, -1.0), Y: (0.0, 1.0, 0.0), Z: (1.0, 0.0, -0.0), O: (-8.323, 0.035, -5.41)]"
+		},
+		{
+			"bounds": {
+				"position": "(-8.3535, 1.7655, -5.4415)",
+				"size": "(0.061001, 0.029, 0.063)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1729.res",
+			"path": "/root/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Right door hinge_001",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0087.res"
+				}
+			],
+			"transform": "[X: (-0.0, 0.0, -1.0), Y: (0.0, 1.0, 0.0), Z: (1.0, 0.0, -0.0), O: (-8.323, 1.78, -5.41)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.88, 0.5925, -4.28)",
+				"size": "(0.36, 0.035, 0.36)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1730.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_049/AroBanquetaCozinha_52",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-6.7, 0.61, -4.1)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.9, 0.6325, -4.3)",
+				"size": "(0.4, 0.075, 0.4)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1731.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_049/AssentoBanquetaCozinha_52",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0089.res"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-6.7, 0.67, -4.1)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.890706, 0.008629, -4.290761)",
+				"size": "(0.091413, 0.622743, 0.091522)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1732.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_049/PernaBanquetaCozinha_52",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (0.996802, -0.079659, -0.006386), Y: (0.079915, 0.993614, 0.079659), Z: (0.0, -0.079915, 0.996802), O: (-6.845, 0.32, -4.245)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.890706, 0.008629, -4.000761)",
+				"size": "(0.091413, 0.622743, 0.091522)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1733.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_049/@MeshInstance3D@204",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (0.996802, -0.079659, 0.006386), Y: (0.079915, 0.993614, -0.079659), Z: (0.0, 0.079915, 0.996802), O: (-6.845, 0.32, -3.955)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.600706, 0.008629, -4.290761)",
+				"size": "(0.091413, 0.622743, 0.091522)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1734.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_049/@MeshInstance3D@205",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (0.996802, 0.079659, 0.006386), Y: (-0.079915, 0.993614, 0.079659), Z: (0.0, -0.079915, 0.996802), O: (-6.555, 0.32, -4.245)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.600706, 0.008629, -4.000761)",
+				"size": "(0.091413, 0.622743, 0.091522)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1735.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_049/@MeshInstance3D@206",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (0.996802, 0.079659, -0.006386), Y: (-0.079915, 0.993614, -0.079659), Z: (0.0, 0.079915, 0.996802), O: (-6.555, 0.32, -3.955)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.845, 0.269, -4.226)",
+				"size": "(0.29, 0.022, 0.022)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1736.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_049/Peca_kitchen_hardware_1226",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1736.res::StandardMaterial3D_lmkc2"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-6.7, 0.28, -4.215)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.845, 0.269, -3.996)",
+				"size": "(0.29, 0.022, 0.022)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1737.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_049/Peca_kitchen_hardware_1227",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1737.res::StandardMaterial3D_lmkc2"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-6.7, 0.28, -3.985)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.826, 0.269, -4.245)",
+				"size": "(0.022, 0.022, 0.29)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1738.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_049/Peca_kitchen_hardware_1228",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1738.res::StandardMaterial3D_lmkc2"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-6.815, 0.28, -4.1)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.596, 0.269, -4.245)",
+				"size": "(0.022, 0.022, 0.29)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1739.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_049/Peca_kitchen_hardware_1229",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1739.res::StandardMaterial3D_lmkc2"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-6.585, 0.28, -4.1)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.98, 0.5925, -4.28)",
+				"size": "(0.36, 0.035, 0.36)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1740.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_050/AroBanquetaCozinha_53",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-5.8, 0.61, -4.1)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.0, 0.6325, -4.3)",
+				"size": "(0.4, 0.075, 0.4)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1741.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_050/AssentoBanquetaCozinha_53",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0089.res"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-5.8, 0.67, -4.1)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.990706, 0.008629, -4.290761)",
+				"size": "(0.091413, 0.622743, 0.091522)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1742.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_050/PernaBanquetaCozinha_53",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (0.996802, -0.079659, -0.006386), Y: (0.079915, 0.993614, 0.079659), Z: (0.0, -0.079915, 0.996802), O: (-5.945, 0.32, -4.245)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.990706, 0.008629, -4.000761)",
+				"size": "(0.091413, 0.622743, 0.091522)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1743.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_050/@MeshInstance3D@207",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (0.996802, -0.079659, 0.006386), Y: (0.079915, 0.993614, -0.079659), Z: (0.0, 0.079915, 0.996802), O: (-5.945, 0.32, -3.955)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.700706, 0.008629, -4.290761)",
+				"size": "(0.091413, 0.622743, 0.091522)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1744.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_050/@MeshInstance3D@208",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (0.996802, 0.079659, 0.006386), Y: (-0.079915, 0.993614, 0.079659), Z: (0.0, -0.079915, 0.996802), O: (-5.655, 0.32, -4.245)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.700706, 0.008629, -4.000761)",
+				"size": "(0.091413, 0.622743, 0.091522)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1745.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_050/@MeshInstance3D@209",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (0.996802, 0.079659, -0.006386), Y: (-0.079915, 0.993614, -0.079659), Z: (0.0, 0.079915, 0.996802), O: (-5.655, 0.32, -3.955)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.945, 0.269, -4.226)",
+				"size": "(0.29, 0.022, 0.022)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1746.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_050/Peca_kitchen_hardware_1230",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1746.res::StandardMaterial3D_lmkc2"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-5.8, 0.28, -4.215)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.945, 0.269, -3.996)",
+				"size": "(0.29, 0.022, 0.022)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1747.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_050/Peca_kitchen_hardware_1231",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1747.res::StandardMaterial3D_lmkc2"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-5.8, 0.28, -3.985)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.926, 0.269, -4.245)",
+				"size": "(0.022, 0.022, 0.29)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1748.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_050/Peca_kitchen_hardware_1232",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1748.res::StandardMaterial3D_lmkc2"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-5.915, 0.28, -4.1)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.696001, 0.269, -4.245)",
+				"size": "(0.022, 0.022, 0.29)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1749.res",
+			"path": "/root/Cozinha_Richard/Banqueta_Cozinha_050/Peca_kitchen_hardware_1233",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1749.res::StandardMaterial3D_lmkc2"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-5.685, 0.28, -4.1)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.071172, 0.84558, -4.920968)",
+				"size": "(0.50383, 0.043316, 0.322208)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1750.res",
+			"path": "/root/Cozinha_Richard/Modelo_wooden_cutting_board_051/Asset_54_wooden_cutting_board/wooden_cutting_board",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1750.res::StandardMaterial3D_1pc3g"
+				}
+			],
+			"transform": "[X: (1.039781, 0.0, 0.146132), Y: (0.0, 1.05, 0.0), Z: (-0.146132, 0.0, 1.039781), O: (-6.82, 0.8455, -4.76)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.843312, 0.8885, -4.871079)",
+				"size": "(0.046623, 0.008, 0.152159)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1751.res",
+			"path": "/root/Cozinha_Richard/Faca_Ilha_052/Faca_Ilha_Lamina",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (0.990268, 0.0, 0.139173), Y: (0.0, 1.0, 0.0), Z: (-0.139173, 0.0, 0.990268), O: (-6.82, 0.8925, -4.795)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.8332, 0.8909, -4.8852)",
+				"size": "(0.026399, 0.0052, 0.026399)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1752.res",
+			"path": "/root/Cozinha_Richard/Faca_Ilha_052/Faca_Ilha_PontaArredondada",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0088.res"
+				}
+			],
+			"transform": "[X: (0.891241, 0.0, 0.125256), Y: (0.0, 0.4, 0.0), Z: (-0.125256, 0.0, 0.891241), O: (-6.82, 0.8935, -4.872)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.838302, 0.8835, -4.71043)",
+				"size": "(0.036603, 0.026, 0.080859)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1753.res",
+			"path": "/root/Cozinha_Richard/Faca_Ilha_052/Faca_Ilha_Cabo",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0090.res"
+				}
+			],
+			"transform": "[X: (0.990268, 0.0, 0.139173), Y: (-0.139173, -0.0, 0.990268), Z: (0.0, -1.0, -0.0), O: (-6.82, 0.8965, -4.67)]"
+		},
+		{
+			"bounds": {
+				"position": "(-6.734963, 0.87524, -4.795547)",
+				"size": "(0.068859, 0.082057, 0.065205)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1754.res",
+			"path": "/root/Cozinha_Richard/Modelo_yellow_onion_053/Asset_55_yellow_onion/yellow_onion",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1754.res::StandardMaterial3D_70s5f"
+				}
+			],
+			"transform": "[X: (0.95, 0.0, 0.0), Y: (0.0, 0.95, 0.0), Z: (0.0, 0.0, 0.95), O: (-6.7, 0.8755, -4.76)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.776848, 0.846048, -4.893916)",
+				"size": "(0.313082, 0.093693, 0.309143)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1755.res",
+			"path": "/root/Cozinha_Richard/Modelo_wooden_bowl_01_054/Asset_56_wooden_bowl_01/wooden_bowl_01",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1755.res::StandardMaterial3D_g8lpi"
+				}
+			],
+			"transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (-5.62, 0.8455, -4.74)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.720036, 0.865482, -4.837802)",
+				"size": "(0.089987, 0.066604, 0.08899)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1756.res",
+			"path": "/root/Cozinha_Richard/Modelo_food_apple_01_055/Asset_57_food_apple_01/food_apple_01",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1756.res::StandardMaterial3D_ourae"
+				}
+			],
+			"transform": "[X: (0.762955, 0.0, 0.162171), Y: (0.0, 0.78, 0.0), Z: (-0.162171, 0.0, 0.762955), O: (-5.675, 0.8655, -4.795)]"
+		},
+		{
+			"bounds": {
+				"position": "(-5.610731, 0.865483, -4.729667)",
+				"size": "(0.09304, 0.064896, 0.092231)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1756.res",
+			"path": "/root/Cozinha_Richard/Modelo_food_apple_01_056/Asset_58_food_apple_01/food_apple_01",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/mesh_1756.res::StandardMaterial3D_ourae"
+				}
+			],
+			"transform": "[X: (0.722803, 0.0, -0.234853), Y: (0.0, 0.76, 0.0), Z: (0.234853, 0.0, 0.722803), O: (-5.565, 0.8655, -4.685)]"
+		},
+		{
+			"bounds": {
+				"position": "(-7.209592, 0.848647, -5.138783)",
+				"size": "(0.339185, 0.005853, 0.277566)"
+			},
+			"layers": 4,
+			"mesh_resource": "res://prototype/whole_house/resources/mesh_1757.res",
+			"path": "/root/Cozinha_Richard/Pano_Ilha_057/Pano_Ilha_Base",
+			"surfaces": [
+				{
+					"index": 0,
+					"material": "res://prototype/whole_house/resources/material_0091.res"
+				}
+			],
+			"transform": "[X: (0.978148, 0.0, 0.207912), Y: (0.0, 1.0, 0.0), Z: (-0.207912, 0.0, 0.978148), O: (-7.04, 0.8485, -5.0)]"
+		}
+	],
+	"scene": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn",
+	"source_asset": "Kitchen004C16 — origem e termos desconhecidos; snapshot somente estrutural, não redistribuível",
+	"unique_mesh_resources": 80
+}

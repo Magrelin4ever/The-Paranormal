@@ -214,3 +214,10 @@ O GLB `kitchen004` continua com licença desconhecida, exclusivamente provisóri
 Madeira: [Wood026, AmbientCG](https://ambientcg.com/view?id=Wood026), CC0 1.0, mapas já existentes reutilizados sem alterar os originais. Capacho: Carpet012 CC0 já registrado acima, com tonalidade local de material. Os detalhes da folha frontal e da fechadura são geometria procedural própria, filhos da mesma porta interativa. Nenhuma luz interior ou emissão foi criada; o shader e os controles C18 foram preservados.
 
 C19 é uma prévia para Helena/Richard, sem aceitação visual antecipada. A aceitação provisória de C18 foi dada por Richard antes desta etapa. A licença desconhecida de `kitchen004` permanece bloqueando sua distribuição; este passe não modifica essa condição.
+
+
+## Entrega single-player — filtro de distribuição (2026-10-30)
+
+- Como a autoria e os termos de `kitchen004` não foram comprovados, a branch desta entrega remove o GLB original, os GLBs/texturas derivados e os meshes/materiais C16 sem outros usos. A nota `custom/kitchen004/DISTRIBUTION_BLOCKED.md` permanece como registro; `qa/whole_house/kitchen_baseline_snapshot.json` guarda apenas nomes, transforms e bounds para comparação estrutural, não os dados de geometria.
+- A cena da cozinha ativa foi reconstruída com meshes primitivos autorais do Godot e materiais com proveniência documentada. Os props Poly Haven CC0 usados em outras cenas permanecem com os glTFs e checksums de origem presentes no manifesto local.
+- O forno gerado por Tripo continua fora do projeto ativo e sem liberação de direitos; nenhum arquivo dele integra esta branch.

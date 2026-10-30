@@ -120,7 +120,7 @@ position = Vector3(-1.85, 0, -5.35)
 metadata/audit_room_id = "terreo_Cozinha_Richard"
 
 [node name="Saida_2" type="Marker3D" parent="terreo_Cozinha_Richard" groups=["whole_house_exit"]]
-position = Vector3(-5.55, 0, -2.8)
+position = Vector3(-5.19, 0, -2.81)
 metadata/audit_room_id = "terreo_Cozinha_Richard"
 
 [node name="terreo_Sala_Jantar" type="Node3D" parent="." groups=["whole_house_room"]]
@@ -135,7 +135,7 @@ position = Vector3(-1.85, 0, -0.2)
 metadata/audit_room_id = "terreo_Sala_Jantar"
 
 [node name="Saida_2" type="Marker3D" parent="terreo_Sala_Jantar" groups=["whole_house_exit"]]
-position = Vector3(-5.55, 0, -2.8)
+position = Vector3(-5.19, 0, -2.81)
 metadata/audit_room_id = "terreo_Sala_Jantar"
 
 [node name="Saida_3" type="Marker3D" parent="terreo_Sala_Jantar" groups=["whole_house_exit"]]

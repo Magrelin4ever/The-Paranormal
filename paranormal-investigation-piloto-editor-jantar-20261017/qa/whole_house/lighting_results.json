@@ -1,15 +1,15 @@
 {
   "camera_samples": {
     "center": {
-      "flashlight_off": 0.26,
+      "flashlight_off": 0.8,
       "flashlight_on": 1.0
     },
     "periphery": {
-      "flashlight_off": 0.26,
-      "flashlight_on": 0.26
+      "flashlight_off": 0.8,
+      "flashlight_on": 0.8
     },
     "variation": {
-      "mid_beam": 0.63
+      "mid_beam": 0.9
     }
   },
   "checks": [
@@ -39,17 +39,17 @@
       "pass": true
     },
     {
-      "detail": "centro=1.0000 periferia=0.2600",
+      "detail": "centro=1.0000 periferia=0.8000",
       "name": "center_beam_remains_legible",
       "pass": true
     },
     {
-      "detail": "desligado=0.2600 periferia=0.2600",
+      "detail": "desligado=0.8000 periferia=0.8000",
       "name": "off_matches_dark_periphery",
       "pass": true
     },
     {
-      "detail": "off centro=0.2600 borda=0.2600",
+      "detail": "off centro=0.8000 borda=0.8000",
       "name": "off_never_brighter",
       "pass": true
     },

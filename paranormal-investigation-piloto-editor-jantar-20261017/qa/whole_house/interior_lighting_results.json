@@ -6830,689 +6830,66 @@
 			},
 			{
 				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Peca_kitchen_floor_1214",
-				"resource": "res://prototype/whole_house/resources/mesh_1678.res::StandardMaterial3D_5xx5m",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_08_032_001",
-				"resource": "res://prototype/whole_house/resources/material_0007.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_08_032_001",
-				"resource": "res://prototype/whole_house/resources/material_0008.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_08_032_001",
-				"resource": "res://prototype/whole_house/resources/material_0009.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_08_032_001",
-				"resource": "res://prototype/whole_house/resources/material_0010.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_08_032_001",
-				"resource": "res://prototype/whole_house/resources/material_0011.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_08_032_001",
-				"resource": "res://prototype/whole_house/resources/material_0012.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_08_032_001",
-				"resource": "res://prototype/whole_house/resources/material_0013.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
-				"resource": "res://prototype/whole_house/resources/material_0014.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
-				"resource": "res://prototype/whole_house/resources/material_0015.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
-				"resource": "res://prototype/whole_house/resources/material_0016.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
-				"resource": "res://prototype/whole_house/resources/material_0017.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
-				"resource": "res://prototype/whole_house/resources/material_0018.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
-				"resource": "res://prototype/whole_house/resources/material_0019.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
-				"resource": "res://prototype/whole_house/resources/material_0020.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
-				"resource": "res://prototype/whole_house/resources/material_0021.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
-				"resource": "res://prototype/whole_house/resources/material_0022.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
-				"resource": "res://prototype/whole_house/resources/material_0023.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern15_048_001",
-				"resource": "res://prototype/whole_house/resources/material_0024.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_001",
-				"resource": "res://prototype/whole_house/resources/material_0025.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_001",
-				"resource": "res://prototype/whole_house/resources/material_0026.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_007",
-				"resource": "res://prototype/whole_house/resources/material_0027.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_007",
-				"resource": "res://prototype/whole_house/resources/material_0028.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_008",
-				"resource": "res://prototype/whole_house/resources/material_0029.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_008",
-				"resource": "res://prototype/whole_house/resources/material_0030.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_009",
-				"resource": "res://prototype/whole_house/resources/material_0031.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_009",
-				"resource": "res://prototype/whole_house/resources/material_0032.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_010",
-				"resource": "res://prototype/whole_house/resources/material_0033.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_010",
-				"resource": "res://prototype/whole_house/resources/material_0034.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_011",
-				"resource": "res://prototype/whole_house/resources/material_0035.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_015",
-				"resource": "res://prototype/whole_house/resources/material_0036.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_016",
-				"resource": "res://prototype/whole_house/resources/material_0037.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_016",
-				"resource": "res://prototype/whole_house/resources/material_0038.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_017",
-				"resource": "res://prototype/whole_house/resources/material_0039.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_017",
-				"resource": "res://prototype/whole_house/resources/material_0040.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_018",
-				"resource": "res://prototype/whole_house/resources/material_0041.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_018",
-				"resource": "res://prototype/whole_house/resources/material_0042.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_019",
-				"resource": "res://prototype/whole_house/resources/material_0043.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_019",
-				"resource": "res://prototype/whole_house/resources/material_0044.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_020",
-				"resource": "res://prototype/whole_house/resources/material_0045.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_020",
-				"resource": "res://prototype/whole_house/resources/material_0046.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_021",
-				"resource": "res://prototype/whole_house/resources/material_0047.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_021",
-				"resource": "res://prototype/whole_house/resources/material_0048.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_022",
-				"resource": "res://prototype/whole_house/resources/material_0049.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_023",
-				"resource": "res://prototype/whole_house/resources/material_0050.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_024",
-				"resource": "res://prototype/whole_house/resources/material_0051.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_027",
-				"resource": "res://prototype/whole_house/resources/material_0052.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_028",
-				"resource": "res://prototype/whole_house/resources/material_0053.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_029",
-				"resource": "res://prototype/whole_house/resources/material_0054.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_031",
-				"resource": "res://prototype/whole_house/resources/material_0055.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_031",
-				"resource": "res://prototype/whole_house/resources/material_0056.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_032",
-				"resource": "res://prototype/whole_house/resources/material_0057.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_033",
-				"resource": "res://prototype/whole_house/resources/material_0058.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_038",
-				"resource": "res://prototype/whole_house/resources/material_0059.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_054",
-				"resource": "res://prototype/whole_house/resources/material_0060.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_056",
-				"resource": "res://prototype/whole_house/resources/material_0061.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_058",
-				"resource": "res://prototype/whole_house/resources/material_0062.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_059",
-				"resource": "res://prototype/whole_house/resources/material_0063.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_060",
-				"resource": "res://prototype/whole_house/resources/material_0064.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_061",
-				"resource": "res://prototype/whole_house/resources/material_0065.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_062",
-				"resource": "res://prototype/whole_house/resources/material_0066.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_063",
-				"resource": "res://prototype/whole_house/resources/material_0067.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_064",
-				"resource": "res://prototype/whole_house/resources/material_0068.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_064",
-				"resource": "res://prototype/whole_house/resources/material_0069.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/Plane002_001",
-				"resource": "res://prototype/whole_house/resources/material_0070.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Cozinha_Richard_Preservada_047/Kitchen004C16/Plane002_001",
-				"resource": "res://prototype/whole_house/resources/material_0071.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Freezer horizontal pull | grip",
-				"resource": "res://prototype/whole_house/resources/material_0072.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Freezer horizontal pull | standoff",
-				"resource": "res://prototype/whole_house/resources/material_0073.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Freezer horizontal pull | standoff_001",
-				"resource": "res://prototype/whole_house/resources/material_0074.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Insulated refrigerator cabinet",
-				"resource": "res://prototype/whole_house/resources/material_0075.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Lower freezer door",
-				"resource": "res://prototype/whole_house/resources/material_0076.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Main offset refrigerator pull | grip",
-				"resource": "res://prototype/whole_house/resources/material_0077.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Main offset refrigerator pull | standoff",
-				"resource": "res://prototype/whole_house/resources/material_0078.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Main offset refrigerator pull | standoff_001",
-				"resource": "res://prototype/whole_house/resources/material_0079.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Main refrigerator door",
-				"resource": "res://prototype/whole_house/resources/material_0080.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Recessed rubber foot",
-				"resource": "res://prototype/whole_house/resources/material_0081.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Recessed rubber foot_001",
-				"resource": "res://prototype/whole_house/resources/material_0082.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Recessed rubber foot_002",
-				"resource": "res://prototype/whole_house/resources/material_0083.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Recessed rubber foot_003",
-				"resource": "res://prototype/whole_house/resources/material_0084.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Refrigerator toe grille",
-				"resource": "res://prototype/whole_house/resources/material_0085.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Right door hinge",
-				"resource": "res://prototype/whole_house/resources/material_0086.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column/Right door hinge_001",
-				"resource": "res://prototype/whole_house/resources/material_0087.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Banqueta_Cozinha_049/AroBanquetaCozinha_52",
-				"resource": "res://prototype/whole_house/resources/material_0088.res",
-				"unshaded": false,
-				"uses": 12
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Banqueta_Cozinha_049/AssentoBanquetaCozinha_52",
-				"resource": "res://prototype/whole_house/resources/material_0089.res",
+				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Armarios_e_bancada_fundo/Corpo_base",
+				"resource": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn::StandardMaterial3D_f5ujm",
 				"unshaded": false,
 				"uses": 2
 			},
 			{
 				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Banqueta_Cozinha_049/Peca_kitchen_hardware_1226",
-				"resource": "res://prototype/whole_house/resources/mesh_1736.res::StandardMaterial3D_lmkc2",
+				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Armarios_e_bancada_fundo/Rodape",
+				"resource": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn::StandardMaterial3D_jam5m",
 				"unshaded": false,
-				"uses": 1
+				"uses": 16
 			},
 			{
 				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Banqueta_Cozinha_049/Peca_kitchen_hardware_1227",
-				"resource": "res://prototype/whole_house/resources/mesh_1737.res::StandardMaterial3D_lmkc2",
+				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Armarios_e_bancada_fundo/Porta_inferior_00",
+				"resource": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn::StandardMaterial3D_wpdmw",
 				"unshaded": false,
-				"uses": 1
+				"uses": 16
 			},
 			{
 				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Banqueta_Cozinha_049/Peca_kitchen_hardware_1228",
-				"resource": "res://prototype/whole_house/resources/mesh_1738.res::StandardMaterial3D_lmkc2",
+				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Armarios_e_bancada_fundo/Puxador_00",
+				"resource": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn::StandardMaterial3D_xpl6m",
 				"unshaded": false,
-				"uses": 1
+				"uses": 39
 			},
 			{
 				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Banqueta_Cozinha_049/Peca_kitchen_hardware_1229",
-				"resource": "res://prototype/whole_house/resources/mesh_1739.res::StandardMaterial3D_lmkc2",
+				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Armarios_e_bancada_fundo/Tampo_pedra",
+				"resource": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn::StandardMaterial3D_mt0dw",
 				"unshaded": false,
-				"uses": 1
+				"uses": 4
 			},
 			{
 				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Banqueta_Cozinha_050/Peca_kitchen_hardware_1230",
-				"resource": "res://prototype/whole_house/resources/mesh_1746.res::StandardMaterial3D_lmkc2",
+				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Armarios_e_bancada_fundo/Cuba_pia",
+				"resource": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn::StandardMaterial3D_k3iba",
 				"unshaded": false,
-				"uses": 1
+				"uses": 11
 			},
 			{
 				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Banqueta_Cozinha_050/Peca_kitchen_hardware_1231",
-				"resource": "res://prototype/whole_house/resources/mesh_1747.res::StandardMaterial3D_lmkc2",
+				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Armarios_e_bancada_fundo/Cooktop_desligado",
+				"resource": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn::StandardMaterial3D_r8ba5",
 				"unshaded": false,
-				"uses": 1
+				"uses": 5
 			},
 			{
 				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Banqueta_Cozinha_050/Peca_kitchen_hardware_1232",
-				"resource": "res://prototype/whole_house/resources/mesh_1748.res::StandardMaterial3D_lmkc2",
+				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Ilha_de_preparo/Tigela_ceramica",
+				"resource": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn::StandardMaterial3D_absyd",
 				"unshaded": false,
-				"uses": 1
+				"uses": 6
 			},
 			{
 				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Banqueta_Cozinha_050/Peca_kitchen_hardware_1233",
-				"resource": "res://prototype/whole_house/resources/mesh_1749.res::StandardMaterial3D_lmkc2",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_wooden_cutting_board_051/Asset_54_wooden_cutting_board/wooden_cutting_board",
-				"resource": "res://prototype/whole_house/resources/mesh_1750.res::StandardMaterial3D_1pc3g",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Faca_Ilha_052/Faca_Ilha_Cabo",
-				"resource": "res://prototype/whole_house/resources/material_0090.res",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_yellow_onion_053/Asset_55_yellow_onion/yellow_onion",
-				"resource": "res://prototype/whole_house/resources/mesh_1754.res::StandardMaterial3D_70s5f",
-				"unshaded": false,
-				"uses": 1
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_wooden_bowl_01_054/Asset_56_wooden_bowl_01/wooden_bowl_01",
-				"resource": "res://prototype/whole_house/resources/mesh_1755.res::StandardMaterial3D_g8lpi",
-				"unshaded": false,
-				"uses": 2
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Modelo_food_apple_01_055/Asset_57_food_apple_01/food_apple_01",
-				"resource": "res://prototype/whole_house/resources/mesh_1756.res::StandardMaterial3D_ourae",
+				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Ilha_de_preparo/Maca",
+				"resource": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn::StandardMaterial3D_bhi2t",
 				"unshaded": false,
 				"uses": 3
-			},
-			{
-				"emission_enabled": false,
-				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Cozinha_Richard/Pano_Ilha_057/Pano_Ilha_Base",
-				"resource": "res://prototype/whole_house/resources/material_0091.res",
-				"unshaded": false,
-				"uses": 1
 			},
 			{
 				"emission_enabled": false,
@@ -14448,6 +13825,20 @@
 				"emission_enabled": false,
 				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Sala_Estar/Modelo_binder_notebook_039/Asset_28_binder_notebook/binder_notebook_closed",
 				"resource": "res://prototype/whole_house/resources/mesh_2638.res::StandardMaterial3D_7rtfl",
+				"unshaded": false,
+				"uses": 1
+			},
+			{
+				"emission_enabled": false,
+				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Sala_Estar/Modelo_wooden_bowl_01_040/Asset_29_wooden_bowl_01/wooden_bowl_01",
+				"resource": "res://prototype/whole_house/resources/mesh_1755.res::StandardMaterial3D_g8lpi",
+				"unshaded": false,
+				"uses": 1
+			},
+			{
+				"emission_enabled": false,
+				"first_mesh": "/root/QA_RuntimeRoot/Casa_Editavel/Terreo/Sala_Estar/Modelo_food_apple_01_041/Asset_30_food_apple_01/food_apple_01",
+				"resource": "res://prototype/whole_house/resources/mesh_1756.res::StandardMaterial3D_ourae",
 				"unshaded": false,
 				"uses": 1
 			},
@@ -57047,10 +56438,10 @@
 				"uses": 1
 			}
 		],
-		"meshes_checked": 8644,
+		"meshes_checked": 8665,
 		"shader_materials": [],
-		"surfaces_checked": 8822,
-		"unique_base_materials": 8149
+		"surfaces_checked": 8813,
+		"unique_base_materials": 8062
 	},
 	"lights": {
 		"checked": 4,

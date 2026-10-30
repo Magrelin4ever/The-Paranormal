@@ -10,7 +10,6 @@ const PLAYER_RADIUS_EXPECTED := 0.35
 const CONNECTED_FREE_RATIO := 0.95
 const FLOOR_CLEARANCE := 0.05
 const RESULT_PATH := "res://qa/whole_house/physics_rooms_results.json"
-const PRESERVED_LAYOUT_EXCEPTIONS := {"terreo_Cozinha_Richard":"Layout original preservado: cavidades atras dos modulos nao sao areas de passagem. Portas continuam obrigatoriamente conectadas; geometria e posicoes da cozinha nao sao alteradas para elevar uma metrica de QA."}
 
 var scene_path := DEFAULT_SCENE
 var failures: Array[String] = []
@@ -127,11 +126,7 @@ func _test_room(room: Dictionary, space: PhysicsDirectSpaceState3D, query: Physi
 	if exits.is_empty(): failures.append("%s: nenhum vão marcador" % room_id)
 	if clear_count == 0: failures.append("%s: sem célula livre para cápsula; AABB=%s..%s" % [room_id, str(min_v), str(max_v)])
 	elif ratio < CONNECTED_FREE_RATIO:
-		if PRESERVED_LAYOUT_EXCEPTIONS.has(room_id):
-			result["preserved_layout_exception"] = PRESERVED_LAYOUT_EXCEPTIONS[room_id]
-			warnings.append("%s: %.1f%%; %s" % [room_id,ratio*100.0,PRESERVED_LAYOUT_EXCEPTIONS[room_id]])
-		else:
-			failures.append("%s: espaço conectado %.1f%% < %.1f%% AABB=%s..%s" % [room_id, ratio*100.0, CONNECTED_FREE_RATIO*100.0, str(min_v), str(max_v)])
+		failures.append("%s: espaço conectado %.1f%% < %.1f%% AABB=%s..%s" % [room_id, ratio*100.0, CONNECTED_FREE_RATIO*100.0, str(min_v), str(max_v)])
 	if not exit_failures.is_empty(): failures.append("%s: vão sem célula livre ±%.2fm %s" % [room_id, EXIT_TOLERANCE, str(exit_failures)])
 	if not disconnected_exits.is_empty(): failures.append("%s: saídas não conectadas entre si %s" % [room_id, str(disconnected_exits)])
 

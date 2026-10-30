@@ -1,0 +1,18 @@
+{
+	"camera_count": 1,
+	"cameras": [
+		{
+			"far": 4000.01000976562,
+			"index": 0,
+			"position": "(55.5084, 44.3813, 71.36794)",
+			"projection": 0,
+			"size": 1.0,
+			"target_distance": 100.718734741211,
+			"viewport_size": "(926, 4895)"
+		}
+	],
+	"framed": true,
+	"passed": true,
+	"scene": "res://prototype/whole_house/casa_editavel.tscn",
+	"viewport_capture_saved": true
+}

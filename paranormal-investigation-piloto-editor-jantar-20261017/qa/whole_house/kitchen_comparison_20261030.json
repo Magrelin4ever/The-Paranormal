@@ -1,0 +1,23 @@
+{
+  "baseline_commit": "f3bd10257d0e39cc046fe1b60457fb2e75d18db3",
+  "baseline_source": "Kitchen004C16; origem/termos desconhecidos; sem geometria neste relatório",
+  "baseline_mesh_count": 81,
+  "baseline_collision_shape_count": 17,
+  "baseline_bounds_m": [7.449999, 2.466384, 5.2],
+  "replacement_source": "geometria procedural autoral do Godot; sem malha Kitchen004 ou Tripo",
+  "replacement_mesh_count": 102,
+  "replacement_collision_shape_count": 6,
+  "replacement_bounds_m": [7.42, 2.5, 5.04],
+  "floor_footprint_retained_ratio": 0.9653279561,
+  "physics": {
+    "room": "terreo_Cozinha_Richard",
+    "connected_free_ratio": 1.0,
+    "clear_cells": 560,
+    "blocked_cells": 629,
+    "exits": 2,
+    "disconnected_exits": [],
+    "exit_failures": []
+  },
+  "mesh_level_equivalence_claimed": false,
+  "license_safe_replacement": true
+}

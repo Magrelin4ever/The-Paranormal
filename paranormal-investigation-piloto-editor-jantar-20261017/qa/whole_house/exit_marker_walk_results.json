@@ -1,0 +1,1178 @@
+{
+	"engine": "4.7.2-stable (official)",
+	"failures": [],
+	"marker_results": [
+		{
+			"colliders": [],
+			"distance": 0.0322200246155262,
+			"exit_index": 0,
+			"exit_world": [
+				-6.0,
+				-2.85,
+				-3.0
+			],
+			"passed": true,
+			"player_world": [
+				-6.03202295303345,
+				-2.84999990463257,
+				-2.99644184112549
+			],
+			"room_id": "porao_Lavanderia_Norte",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.016216404736042,
+			"exit_index": 1,
+			"exit_world": [
+				-2.59999990463257,
+				-2.85,
+				-5.34999990463257
+			],
+			"passed": true,
+			"path_cells": 33,
+			"player_world": [
+				-2.61525964736938,
+				-2.84999990463257,
+				-5.34451246261597
+			],
+			"room_id": "porao_Lavanderia_Norte",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0582618676126003,
+			"exit_index": 0,
+			"exit_world": [
+				-6.0,
+				-2.85,
+				-3.0
+			],
+			"passed": true,
+			"player_world": [
+				-6.02997541427612,
+				-2.84999990463257,
+				-2.95004081726074
+			],
+			"room_id": "porao_Deposito_Centro",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0161993354558945,
+			"exit_index": 1,
+			"exit_world": [
+				-2.59999990463257,
+				-2.85,
+				0.0
+			],
+			"passed": true,
+			"path_cells": 36,
+			"player_world": [
+				-2.61529135704041,
+				-2.84999990463257,
+				0.00534695759415627
+			],
+			"room_id": "porao_Deposito_Centro",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0144674014300108,
+			"exit_index": 0,
+			"exit_world": [
+				-2.59999990463257,
+				-2.85,
+				5.25
+			],
+			"passed": true,
+			"player_world": [
+				-2.61391067504883,
+				-2.84999990463257,
+				5.25397443771362
+			],
+			"room_id": "porao_Frente_Oeste",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0346608906984329,
+			"exit_index": 0,
+			"exit_world": [
+				-2.59999990463257,
+				-2.85,
+				-5.34999990463257
+			],
+			"passed": true,
+			"player_world": [
+				-2.5656430721283,
+				-2.84999990463257,
+				-5.34541893005371
+			],
+			"room_id": "porao_Oficina",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0447550415992737,
+			"exit_index": 1,
+			"exit_world": [
+				-2.59999990463257,
+				-2.85,
+				0.0
+			],
+			"passed": true,
+			"path_cells": 35,
+			"player_world": [
+				-2.55840635299683,
+				-2.84999990463257,
+				0.0165224149823189
+			],
+			"room_id": "porao_Oficina",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0394452624022961,
+			"exit_index": 3,
+			"exit_world": [
+				0.0,
+				-2.85,
+				1.70000004768372
+			],
+			"passed": true,
+			"path_cells": 28,
+			"player_world": [
+				0.0282389707863331,
+				-2.84999990463257,
+				1.67245936393738
+			],
+			"room_id": "porao_Oficina",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0254603810608387,
+			"exit_index": 4,
+			"exit_world": [
+				5.25,
+				-2.85,
+				-0.400000005960464
+			],
+			"passed": true,
+			"path_cells": 41,
+			"player_world": [
+				5.22492074966431,
+				-2.84999990463257,
+				-0.404388874769211
+			],
+			"room_id": "porao_Oficina",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0260656978935003,
+			"exit_index": 2,
+			"exit_world": [
+				5.25,
+				-2.85,
+				-6.25
+			],
+			"passed": true,
+			"path_cells": 47,
+			"player_world": [
+				5.22435712814331,
+				-2.84999990463257,
+				-6.24532413482666
+			],
+			"room_id": "porao_Oficina",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0346606560051441,
+			"exit_index": 0,
+			"exit_world": [
+				5.25,
+				-2.85,
+				-6.25
+			],
+			"passed": true,
+			"player_world": [
+				5.28435659408569,
+				-2.84999990463257,
+				-6.24541902542114
+			],
+			"room_id": "porao_Baia_Escada",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0582619309425354,
+			"exit_index": 0,
+			"exit_world": [
+				5.25,
+				-2.85,
+				-0.400000005960464
+			],
+			"passed": true,
+			"player_world": [
+				5.29995918273926,
+				-2.84999990463257,
+				-0.370024472475052
+			],
+			"room_id": "porao_Apoio_Escada",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0488626509904861,
+			"exit_index": 0,
+			"exit_world": [
+				0.0,
+				-2.85,
+				1.70000004768372
+			],
+			"passed": true,
+			"player_world": [
+				0.020663321018219,
+				-2.84999990463257,
+				1.74427855014801
+			],
+			"room_id": "porao_Frente_Leste",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0336598940193653,
+			"exit_index": 1,
+			"exit_world": [
+				-2.59999990463257,
+				-2.85,
+				5.25
+			],
+			"passed": true,
+			"path_cells": 34,
+			"player_world": [
+				-2.56640887260437,
+				-2.84999990463257,
+				5.25215196609497
+			],
+			"room_id": "porao_Frente_Leste",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0436465665698051,
+			"exit_index": 0,
+			"exit_world": [
+				-1.85000002384186,
+				0.0,
+				-5.34999990463257
+			],
+			"passed": true,
+			"player_world": [
+				-1.89279901981354,
+				0.0,
+				-5.34144020080566
+			],
+			"room_id": "terreo_Cozinha_Richard",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0452451705932617,
+			"exit_index": 1,
+			"exit_world": [
+				-5.19000005722046,
+				0.0,
+				-2.80999994277954
+			],
+			"passed": true,
+			"path_cells": 33,
+			"player_world": [
+				-5.1899995803833,
+				0.0,
+				-2.8552451133728
+			],
+			"room_id": "terreo_Cozinha_Richard",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.00539841828867793,
+			"exit_index": 0,
+			"exit_world": [
+				-1.85000002384186,
+				0.0,
+				-0.200000002980232
+			],
+			"passed": true,
+			"player_world": [
+				-1.8544225692749,
+				0.0,
+				-0.196904197335243
+			],
+			"room_id": "terreo_Sala_Jantar",
+			"start_marker": true
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Porao/Estrutura/Peca_wall_basement_0647/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.0256252288818359,
+			"exit_index": 1,
+			"exit_world": [
+				-5.19000005722046,
+				0.0,
+				-2.80999994277954
+			],
+			"passed": true,
+			"path_cells": 33,
+			"player_world": [
+				-5.19000005722046,
+				0.0,
+				-2.78437471389771
+			],
+			"room_id": "terreo_Sala_Jantar",
+			"start_marker": false
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Porao/Estrutura/Peca_wall_basement_0635/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.030036449432373,
+			"exit_index": 2,
+			"exit_world": [
+				-5.55000019073486,
+				0.0,
+				2.5
+			],
+			"passed": true,
+			"path_cells": 41,
+			"player_world": [
+				-5.55000019073486,
+				0.0,
+				2.46996355056763
+			],
+			"room_id": "terreo_Sala_Jantar",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0436465665698051,
+			"exit_index": 0,
+			"exit_world": [
+				-1.85000002384186,
+				0.0,
+				5.15000009536743
+			],
+			"passed": true,
+			"player_world": [
+				-1.89279901981354,
+				0.0,
+				5.15855979919434
+			],
+			"room_id": "terreo_Sala_Estar",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0260982513427734,
+			"exit_index": 1,
+			"exit_world": [
+				-5.55000019073486,
+				0.0,
+				2.5
+			],
+			"passed": true,
+			"path_cells": 35,
+			"player_world": [
+				-5.55000019073486,
+				0.0,
+				2.52609825134277
+			],
+			"room_id": "terreo_Sala_Estar",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0346607714891434,
+			"exit_index": 0,
+			"exit_world": [
+				1.85000002384186,
+				0.0,
+				-5.34999990463257
+			],
+			"passed": true,
+			"player_world": [
+				1.88435673713684,
+				0.0,
+				-5.34541893005371
+			],
+			"room_id": "terreo_Area_Servico",
+			"start_marker": true
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Terreo/Pisos_E_Acabamentos/Peca_wood_floor_0004/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.0563786625862122,
+			"exit_index": 1,
+			"exit_world": [
+				5.55000019073486,
+				0.0,
+				-2.79999995231628
+			],
+			"passed": true,
+			"path_cells": 35,
+			"player_world": [
+				5.59999990463257,
+				0.0,
+				-2.82604956626892
+			],
+			"room_id": "terreo_Area_Servico",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0488626435399055,
+			"exit_index": 0,
+			"exit_world": [
+				1.85000002384186,
+				0.0,
+				-0.200000002980232
+			],
+			"passed": true,
+			"player_world": [
+				1.89427852630615,
+				0.0,
+				-0.179336696863174
+			],
+			"room_id": "terreo_Biblioteca",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0320176035165787,
+			"exit_index": 1,
+			"exit_world": [
+				5.55000019073486,
+				0.0,
+				-2.79999995231628
+			],
+			"passed": true,
+			"path_cells": 35,
+			"player_world": [
+				5.55773305892944,
+				0.0,
+				-2.76893019676208
+			],
+			"room_id": "terreo_Biblioteca",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0527682416141033,
+			"exit_index": 2,
+			"exit_world": [
+				5.55000019073486,
+				0.0,
+				2.5
+			],
+			"passed": true,
+			"path_cells": 31,
+			"player_world": [
+				5.56557178497314,
+				0.0,
+				2.44958162307739
+			],
+			"room_id": "terreo_Biblioteca",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0346607714891434,
+			"exit_index": 0,
+			"exit_world": [
+				1.85000002384186,
+				0.0,
+				5.15000009536743
+			],
+			"passed": true,
+			"player_world": [
+				1.88435673713684,
+				0.0,
+				5.15458106994629
+			],
+			"room_id": "terreo_Escritorio",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0567502975463867,
+			"exit_index": 1,
+			"exit_world": [
+				5.55000019073486,
+				0.0,
+				2.5
+			],
+			"passed": true,
+			"path_cells": 35,
+			"player_world": [
+				5.56636238098145,
+				0.0,
+				2.55434036254883
+			],
+			"room_id": "terreo_Escritorio",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0360062457621098,
+			"exit_index": 0,
+			"exit_world": [
+				0.0,
+				0.0,
+				7.5
+			],
+			"passed": true,
+			"player_world": [
+				-0.030533391982317,
+				0.0,
+				7.48091697692871
+			],
+			"room_id": "terreo_Hall_Entrada",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0239011533558369,
+			"exit_index": 1,
+			"exit_world": [
+				0.0,
+				0.0,
+				3.5
+			],
+			"passed": true,
+			"path_cells": 23,
+			"player_world": [
+				-0.0232517383992672,
+				0.0,
+				3.50553369522095
+			],
+			"room_id": "terreo_Hall_Entrada",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0416760481894016,
+			"exit_index": 6,
+			"exit_world": [
+				-1.85000002384186,
+				0.0,
+				5.15000009536743
+			],
+			"passed": true,
+			"path_cells": 19,
+			"player_world": [
+				-1.81051325798035,
+				0.0,
+				5.13667011260986
+			],
+			"room_id": "terreo_Hall_Entrada",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0497596934437752,
+			"exit_index": 7,
+			"exit_world": [
+				1.85000002384186,
+				0.0,
+				5.15000009536743
+			],
+			"passed": true,
+			"path_cells": 20,
+			"player_world": [
+				1.80169892311096,
+				0.0,
+				5.13804054260254
+			],
+			"room_id": "terreo_Hall_Entrada",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0358539819717407,
+			"exit_index": 5,
+			"exit_world": [
+				1.85000002384186,
+				0.0,
+				-0.200000002980232
+			],
+			"passed": true,
+			"path_cells": 35,
+			"player_world": [
+				1.81943809986115,
+				0.0,
+				-0.218747720122337
+			],
+			"room_id": "terreo_Hall_Entrada",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0235602986067533,
+			"exit_index": 4,
+			"exit_world": [
+				-1.85000002384186,
+				0.0,
+				-0.200000002980232
+			],
+			"passed": true,
+			"path_cells": 20,
+			"player_world": [
+				-1.8289989233017,
+				0.0,
+				-0.210679024457932
+			],
+			"room_id": "terreo_Hall_Entrada",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0363894067704678,
+			"exit_index": 2,
+			"exit_world": [
+				-1.85000002384186,
+				0.0,
+				-5.34999990463257
+			],
+			"passed": true,
+			"path_cells": 33,
+			"player_world": [
+				-1.81433296203613,
+				0.0,
+				-5.34278535842896
+			],
+			"room_id": "terreo_Hall_Entrada",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0491506233811378,
+			"exit_index": 3,
+			"exit_world": [
+				1.85000002384186,
+				0.0,
+				-5.34999990463257
+			],
+			"passed": true,
+			"path_cells": 20,
+			"player_world": [
+				1.80120825767517,
+				0.0,
+				-5.34407138824463
+			],
+			"room_id": "terreo_Hall_Entrada",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0479680374264717,
+			"exit_index": 0,
+			"exit_world": [
+				-1.79999995231628,
+				2.85,
+				-3.25
+			],
+			"passed": true,
+			"player_world": [
+				-1.83158707618713,
+				2.84999990463257,
+				-3.2139003276825
+			],
+			"room_id": "primeiro_Quarto_Infantil",
+			"start_marker": true
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Primeiro_Andar/Pisos_E_Acabamentos/Peca_wood_floor_0011/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.0451142340898514,
+			"exit_index": 1,
+			"exit_world": [
+				-4.40000009536743,
+				2.85,
+				-0.800000011920929
+			],
+			"passed": true,
+			"path_cells": 28,
+			"player_world": [
+				-4.3899998664856,
+				2.84999990463257,
+				-0.843991935253143
+			],
+			"room_id": "primeiro_Quarto_Infantil",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0338619351387024,
+			"exit_index": 0,
+			"exit_world": [
+				-1.79999995231628,
+				2.85,
+				0.550000011920929
+			],
+			"passed": true,
+			"player_world": [
+				-1.8257098197937,
+				2.84999990463257,
+				0.572037100791931
+			],
+			"room_id": "primeiro_Closet_Infantil",
+			"start_marker": true
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Terreo/Estrutura/Peca_wall_ivory_0685/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.0188849475234747,
+			"exit_index": 1,
+			"exit_world": [
+				-4.40000009536743,
+				2.85,
+				-0.800000011920929
+			],
+			"passed": true,
+			"path_cells": 22,
+			"player_world": [
+				-4.39902591705322,
+				2.84999990463257,
+				-0.781140208244324
+			],
+			"room_id": "primeiro_Closet_Infantil",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0399155057966709,
+			"exit_index": 2,
+			"exit_world": [
+				-4.40000009536743,
+				2.85,
+				2.0
+			],
+			"passed": true,
+			"path_cells": 15,
+			"player_world": [
+				-4.39745092391968,
+				2.84999990463257,
+				1.96016597747803
+			],
+			"room_id": "primeiro_Closet_Infantil",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0276898350566626,
+			"exit_index": 0,
+			"exit_world": [
+				-1.79999995231628,
+				2.85,
+				4.0
+			],
+			"passed": true,
+			"player_world": [
+				-1.82253205776215,
+				2.84999990463257,
+				3.98390555381775
+			],
+			"room_id": "primeiro_Banheiro_Familiar",
+			"start_marker": true
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Terreo/Estrutura/Peca_wall_ivory_0722/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.0252619106322527,
+			"exit_index": 1,
+			"exit_world": [
+				-4.40000009536743,
+				2.85,
+				2.0
+			],
+			"passed": true,
+			"path_cells": 25,
+			"player_world": [
+				-4.39873886108398,
+				2.84999990463257,
+				2.02523040771484
+			],
+			"room_id": "primeiro_Banheiro_Familiar",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0533332414925098,
+			"exit_index": 0,
+			"exit_world": [
+				1.79999995231628,
+				2.85,
+				-3.25
+			],
+			"passed": true,
+			"player_world": [
+				1.84705877304077,
+				2.84999990463257,
+				-3.22490215301514
+			],
+			"room_id": "primeiro_Suite_Casal",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0310975760221481,
+			"exit_index": 1,
+			"exit_world": [
+				4.40000009536743,
+				2.85,
+				-0.800000011920929
+			],
+			"passed": true,
+			"path_cells": 28,
+			"player_world": [
+				4.42434120178223,
+				2.84999990463257,
+				-0.819353818893433
+			],
+			"room_id": "primeiro_Suite_Casal",
+			"start_marker": false
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Terreo/Estrutura/Peca_wall_ivory_0703/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.0448882840573788,
+			"exit_index": 0,
+			"exit_world": [
+				1.79999995231628,
+				2.85,
+				0.550000011920929
+			],
+			"passed": true,
+			"player_world": [
+				1.84167766571045,
+				2.84999990463257,
+				0.566671133041382
+			],
+			"room_id": "primeiro_Closet_Casal",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.00282341591082513,
+			"exit_index": 2,
+			"exit_world": [
+				4.40000009536743,
+				2.85,
+				2.0
+			],
+			"passed": true,
+			"path_cells": 22,
+			"player_world": [
+				4.4011116027832,
+				2.84999990463257,
+				1.9974045753479
+			],
+			"room_id": "primeiro_Closet_Casal",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0176849309355021,
+			"exit_index": 1,
+			"exit_world": [
+				4.40000009536743,
+				2.85,
+				-0.800000011920929
+			],
+			"passed": true,
+			"path_cells": 15,
+			"player_world": [
+				4.40642499923706,
+				2.84999990463257,
+				-0.783523440361023
+			],
+			"room_id": "primeiro_Closet_Casal",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0414473004639149,
+			"exit_index": 0,
+			"exit_world": [
+				1.79999995231628,
+				2.85,
+				4.0
+			],
+			"passed": true,
+			"player_world": [
+				1.83932030200958,
+				2.84999990463257,
+				3.98689317703247
+			],
+			"room_id": "primeiro_Banheiro_Suite",
+			"start_marker": true
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Terreo/Estrutura/Peca_wall_ivory_0724/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.0473291985690594,
+			"exit_index": 1,
+			"exit_world": [
+				4.40000009536743,
+				2.85,
+				2.0
+			],
+			"passed": true,
+			"path_cells": 25,
+			"player_world": [
+				4.41691589355469,
+				2.84999990463257,
+				2.04420304298401
+			],
+			"room_id": "primeiro_Banheiro_Suite",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0271065104752779,
+			"exit_index": 0,
+			"exit_world": [
+				0.0,
+				2.85,
+				-1.45000004768372
+			],
+			"passed": true,
+			"player_world": [
+				-0.00951774604618549,
+				2.84999990463257,
+				-1.42461943626404
+			],
+			"room_id": "primeiro_Hall_Superior",
+			"start_marker": true
+		},
+		{
+			"colliders": [],
+			"distance": 0.0560330525040627,
+			"exit_index": 2,
+			"exit_world": [
+				-1.79999995231628,
+				2.85,
+				-3.25
+			],
+			"passed": true,
+			"path_cells": 20,
+			"player_world": [
+				-1.75127935409546,
+				2.84999990463257,
+				-3.222323179245
+			],
+			"room_id": "primeiro_Hall_Superior",
+			"start_marker": false
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Primeiro_Andar/Pisos_E_Acabamentos/Peca_wood_floor_0013/Colisao_Acompanha_Peca",
+				"/root/CasaPrototipoVisual/Casa_Editavel/Terreo/Estrutura/Peca_wall_ivory_0702/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.0389712750911713,
+			"exit_index": 3,
+			"exit_world": [
+				1.79999995231628,
+				2.85,
+				-3.25
+			],
+			"passed": true,
+			"path_cells": 20,
+			"player_world": [
+				1.77781629562378,
+				2.84999990463257,
+				-3.21795868873596
+			],
+			"room_id": "primeiro_Hall_Superior",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0580579750239849,
+			"exit_index": 5,
+			"exit_world": [
+				1.79999995231628,
+				2.85,
+				0.550000011920929
+			],
+			"passed": true,
+			"path_cells": 28,
+			"player_world": [
+				1.76998293399811,
+				2.84999990463257,
+				0.599696159362793
+			],
+			"room_id": "primeiro_Hall_Superior",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0359061174094677,
+			"exit_index": 7,
+			"exit_world": [
+				1.79999995231628,
+				2.85,
+				4.0
+			],
+			"passed": true,
+			"path_cells": 26,
+			"player_world": [
+				1.76998317241669,
+				2.84999990463257,
+				4.01970386505127
+			],
+			"room_id": "primeiro_Hall_Superior",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0300152860581875,
+			"exit_index": 1,
+			"exit_world": [
+				0.0,
+				2.85,
+				5.09999990463257
+			],
+			"passed": true,
+			"path_cells": 17,
+			"player_world": [
+				-0.0299173425883055,
+				2.84999990463257,
+				5.09757709503174
+			],
+			"room_id": "primeiro_Hall_Superior",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0386984422802925,
+			"exit_index": 6,
+			"exit_world": [
+				-1.79999995231628,
+				2.85,
+				4.0
+			],
+			"passed": true,
+			"path_cells": 16,
+			"player_world": [
+				-1.76263308525085,
+				2.84999990463257,
+				4.01006412506104
+			],
+			"room_id": "primeiro_Hall_Superior",
+			"start_marker": false
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Terreo/Estrutura/Peca_wall_ivory_0683/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.0470568351447582,
+			"exit_index": 4,
+			"exit_world": [
+				-1.79999995231628,
+				2.85,
+				0.550000011920929
+			],
+			"passed": true,
+			"path_cells": 24,
+			"player_world": [
+				-1.7568427324295,
+				2.84999990463257,
+				0.568756341934204
+			],
+			"room_id": "primeiro_Hall_Superior",
+			"start_marker": false
+		},
+		{
+			"colliders": [],
+			"distance": 0.0338621288537979,
+			"exit_index": 0,
+			"exit_world": [
+				0.0,
+				5.7,
+				0.850000023841858
+			],
+			"passed": true,
+			"player_world": [
+				-0.0257099680602551,
+				5.69999980926514,
+				0.827962756156921
+			],
+			"room_id": "sotao_Sotao_Arquivo_E_Deposito",
+			"start_marker": true
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Sotao_Segundo_Andar/Pisos_E_Acabamentos/Peca_attic_wood_0019/Colisao_Acompanha_Peca",
+				"/root/CasaPrototipoVisual/Casa_Editavel/Primeiro_Andar/Estrutura/Peca_wall_ivory_0810/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.0171823166310787,
+			"exit_index": 1,
+			"exit_world": [
+				-2.0,
+				5.7,
+				3.0
+			],
+			"passed": true,
+			"path_cells": 24,
+			"player_world": [
+				-2.01137661933899,
+				5.69999980926514,
+				2.98712348937988
+			],
+			"room_id": "sotao_Sotao_Arquivo_E_Deposito",
+			"start_marker": false
+		},
+		{
+			"colliders": [
+				"/root/CasaPrototipoVisual/Casa_Editavel/Sotao_Segundo_Andar/Pisos_E_Acabamentos/Peca_attic_wood_0020/Colisao_Acompanha_Peca",
+				"/root/CasaPrototipoVisual/Casa_Editavel/Sotao_Segundo_Andar/Pisos_E_Acabamentos/Peca_attic_wood_0025/Colisao_Acompanha_Peca",
+				"/root/CasaPrototipoVisual/Casa_Editavel/Sotao_Segundo_Andar/Pisos_E_Acabamentos/Peca_attic_wood_0024/Colisao_Acompanha_Peca"
+			],
+			"distance": 0.0424814708530903,
+			"exit_index": 2,
+			"exit_world": [
+				2.0,
+				5.7,
+				3.0
+			],
+			"passed": true,
+			"path_cells": 47,
+			"player_world": [
+				1.96207785606384,
+				5.69999980926514,
+				2.98085355758667
+			],
+			"room_id": "sotao_Sotao_Arquivo_E_Deposito",
+			"start_marker": false
+		}
+	],
+	"markers_total": 61,
+	"markers_walked": 61,
+	"mode": "contínuo entre marcadores dentro de cada cômodo; uma posição inicial por cômodo",
+	"movement": "CharacterBody3D; move_and_slide; W; cápsula/gravidade originais; caminho BFS pela grade física",
+	"passed": true,
+	"room_initial_repositions": 22,
+	"test": "real_player_exit_marker_walk"
+}

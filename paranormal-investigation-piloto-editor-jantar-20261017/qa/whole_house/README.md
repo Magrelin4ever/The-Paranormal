@@ -1,24 +1,42 @@
-# Validação da casa inteira
+# Validação da casa inteira e do gameplay
 
-Os resultados JSON e as capturas em `previews/` registram o estado efetivamente testado no Godot 4.7.2, Linux, Compatibility/OpenGL. O guia de uso está em `../../GUIA_EDICAO_CASA_INTEIRA.md`.
+Os testes registrados foram executados com Godot **4.7.2**, Linux e renderer Compatibility/OpenGL. As instruções de jogo estão em [`../../JOGAR_E_CONTROLES.md`](../../JOGAR_E_CONTROLES.md); a edição persistente está descrita em [`../../GUIA_EDICAO_CASA_INTEIRA.md`](../../GUIA_EDICAO_CASA_INTEIRA.md).
 
-## Testes para repetir
+## Bateria repetível
 
-Execute a partir da pasta que contém `project.godot`, usando o seu executável Godot 4.7.2 no lugar de `godot`:
+Execute da pasta que contém `project.godot`:
 
 ```bash
-godot --headless --path . --script qa/whole_house/audit_all_editable_scenes.gd
-godot --headless --path . --script qa/whole_house/audit_physics_rooms.gd
-godot --headless --path . --script qa/whole_house/persistence_test.gd
-godot --headless --path . --script qa/whole_house/validate_interior_lighting.gd
-godot --headless --path . --script qa/whole_house/lighting_darkness_test.gd
-godot --headless --fixed-fps 60 --path . --script qa/whole_house/stair_navigation_test.gd
+godot --headless --editor --path . --quit
+godot --headless --path . --script res://qa/whole_house/audit_static.gd
+godot --headless --path . --script res://qa/whole_house/audit_all_editable_scenes.gd
+godot --headless --path . --script res://qa/whole_house/audit_physics_rooms.gd
+godot --headless --path . --script res://qa/whole_house/persistence_test.gd
+godot --headless --path . --script res://qa/whole_house/validate_interior_lighting.gd
+godot --headless --path . --script res://qa/whole_house/lighting_darkness_test.gd
+godot --headless --fixed-fps 60 --path . --script res://qa/whole_house/stair_navigation_test.gd
+godot --headless --path . --script res://qa/whole_house/exit_marker_walk_test.gd
+godot --headless --path . --script res://qa/whole_house/door_e_interaction_test.gd
+godot --headless --path . --script res://qa/gameplay/evidence_line_of_sight_test.gd
+godot --headless --path . --script res://qa/gameplay/gameplay_flow_test.gd
 ```
 
-A persistência grava cópias temporárias em `user://`; não altera os cômodos de produção. O teste físico abre as portas em uma instância isolada do jogo. Ambos geram seus resultados nesta pasta. Pequenos adereços sem colisão são identificados individualmente no relatório de editabilidade, com justificativa; móveis e obstáculos grandes exigem colisão filha da raiz móvel.
+`exit_marker_walk_test.gd` usa o `CharacterBody3D`, `move_and_slide`, gravidade e a cápsula real para percorrer **61/61 marcadores**. O percurso é contínuo entre as saídas de cada cômodo; há **um posicionamento inicial em cada um dos 22 cômodos**, portanto o relatório não afirma uma caminhada única e ininterrupta pela casa inteira. `stair_navigation_test.gd` verifica separadamente seis rotas reais de escada, sem teleporte durante cada rota. `door_e_interaction_test.gd` envia a tecla **E** ao jogador real e abre/fecha as 28 portas.
 
-Para gerar capturas reais, execute `render_suite.gd` com renderização Compatibility disponível e compare `lanterna_on.png` e `lanterna_off.png` com `compare_flashlight_pixels.py`. A comparação desativa o grão apenas na captura para eliminar ruído temporal. O teste do plugin é opt-in: abrir a casa no editor com `HOUSE_EDITOR_QA=1` gera `editor_plugin_results.json`, sem salvar alterações na cena original.
+A auditoria física mede espaço livre com cápsula de 0,35 m em grade de 0,18 m, conectividade e acessibilidade de saídas; não substitui um teste prolongado de jogo humano. O teste de persistência de camadas de assets requer o editor e salva apenas em `user://`.
 
-## Ferramentas históricas: não executar para editar
+## Prévia do editor
 
-Os scripts com nomes `bake`, `build`, `create_bake`, `finalize`, `refine`, `split`, `polish` e `finish` documentam a conversão e a montagem desta entrega. **Eles podem sobrescrever a disposição atual dos cômodos.** Não são necessários para abrir o projeto, editar móveis, acrescentar assets ou rodar o jogo. O jogo carrega diretamente as cenas `.tscn` salvas, sem chamar esses construtores.
+Para testar o enquadramento, use o editor gráfico com Compatibility/OpenGL:
+
+```bash
+HOUSE_EDITOR_OVERVIEW_QA=1 godot --editor --path . --scene res://prototype/whole_house/casa_editavel.tscn
+```
+
+A câmera adapta a distância à proporção do viewport. A captura `previews/editor_overview_verified.png` mostra agora a casa e o exterior completos em perspectiva; não é um corte que revele o interior de todos os pisos. O editor restaura as propriedades originais antes de salvar. Os resultados em llvmpipe não medem desempenho nem substituem validação em GPU integrada física.
+
+## Assets e proveniência
+
+A cozinha Kitchen004C16 e seus meshes/materiais derivados sem licença comprovável foram removidos da branch. A cozinha atual é uma cena autoral modular. `kitchen_baseline_snapshot.json` conserva apenas bounds, nomes e transforms, sem geometria; `DISTRIBUTION_BLOCKED.md` registra o motivo da remoção. O forno Tripo permanece fora da cena ativa e sem liberação de direitos.
+
+Os scripts históricos com nomes `bake`, `build`, `create_bake`, `finalize`, `refine`, `split`, `polish` e `finish` podem sobrescrever a casa. Não os execute para abrir ou jogar; o runtime carrega as cenas `.tscn` salvas.

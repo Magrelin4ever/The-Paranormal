@@ -25,33 +25,33 @@
   },
   "rgb_rule": "off <= on + 1/255 per channel (uint8 tolerance <= 1)",
   "rgb": {
-    "pixels_on_claramente_mais_claro": 341321,
-    "fraction_on_claramente_mais_claro": 0.7412947209076555,
+    "pixels_on_claramente_mais_claro": 291979,
+    "fraction_on_claramente_mais_claro": 0.6341317742415391,
     "pixels_off_violando_regra": 0,
     "fraction_off_violando_regra": 0.0,
     "max_off_minus_on_channel": 0,
-    "mean_off_minus_on_channel": -13.030921938990108
+    "mean_off_minus_on_channel": -9.22523939110284
   },
   "luminance_rule": "same directional comparison on Rec.709 relative luminance",
   "luminance": {
     "pixels_off_brighter": 0,
     "fraction_off_brighter": 0.0,
     "max_off_minus_on": -0.0,
-    "mean_off_minus_on": -0.05076534870791894
+    "mean_off_minus_on": -0.03620796176061984
   },
   "mean_luminance": {
     "all_valid": {
-      "on": 0.06813237695193619,
-      "off": 0.01736702824401725
+      "on": 0.13253202616990972,
+      "off": 0.09632406440928984
     },
     "center": {
-      "on": 0.14193267402942877,
-      "off": 0.015491790662297687,
+      "on": 0.17826267176140909,
+      "off": 0.08630975456946052,
       "pixels": 114551
     },
     "periphery": {
-      "on": 0.035458421224936795,
-      "off": 0.018658501881560707,
+      "on": 0.11523702557582746,
+      "off": 0.10338438251313598,
       "pixels": 269280
     }
   },

@@ -1,1123 +1,1157 @@
 [gd_scene format=3]
 
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1678.res" id="1_sxvee"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1679.res" id="2_sdof3"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0007.res" id="3_q3km0"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0008.res" id="4_ae4ye"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0009.res" id="5_pyse1"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0010.res" id="6_tckmt"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0011.res" id="7_xcx0t"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0012.res" id="8_agbhv"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0013.res" id="9_rkl56"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1680.res" id="10_n55mn"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0014.res" id="11_2wcvj"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0015.res" id="12_2nrl0"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0016.res" id="13_o3g74"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0017.res" id="14_v6fo7"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0018.res" id="15_jwr8c"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0019.res" id="16_j0onj"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0020.res" id="17_rpxfs"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0021.res" id="18_5ecqc"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0022.res" id="19_ywdhe"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0023.res" id="20_fokr5"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0024.res" id="21_fdebb"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1681.res" id="22_rowby"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0025.res" id="23_khyd6"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0026.res" id="24_r3q0x"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1682.res" id="25_lsuqb"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0027.res" id="26_pxiuv"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0028.res" id="27_w1k3x"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1683.res" id="28_b4hek"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0029.res" id="29_ud7cr"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0030.res" id="30_0okrp"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1684.res" id="31_b2m3e"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0031.res" id="32_dxv7g"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0032.res" id="33_47q5i"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1685.res" id="34_d854i"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0033.res" id="35_r8vgq"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0034.res" id="36_8genw"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1686.res" id="37_37l3m"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0035.res" id="38_fkc8w"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1687.res" id="39_sax21"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0036.res" id="40_1a837"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1688.res" id="41_2di0t"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0037.res" id="42_bsjvn"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0038.res" id="43_6kvit"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1689.res" id="44_x0kb2"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0039.res" id="45_atg0n"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0040.res" id="46_dn3pa"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1690.res" id="47_rckgk"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0041.res" id="48_mgmn0"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0042.res" id="49_2g535"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1691.res" id="50_ihvsw"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0043.res" id="51_is7s1"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0044.res" id="52_7lfbc"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1692.res" id="53_myns4"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0045.res" id="54_iygv0"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0046.res" id="55_200x6"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1693.res" id="56_1v6qh"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0047.res" id="57_cj8p2"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0048.res" id="58_62pa4"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1694.res" id="59_moddx"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0049.res" id="60_wdqli"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1695.res" id="61_mdtu4"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0050.res" id="62_ld8if"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1696.res" id="63_irk5v"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0051.res" id="64_mdtu8"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1697.res" id="65_bwa05"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0052.res" id="66_0ril5"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1698.res" id="67_c70se"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0053.res" id="68_qvn7c"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1699.res" id="69_frw8r"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0054.res" id="70_ml7tn"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1700.res" id="71_l10rv"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0055.res" id="72_la07e"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0056.res" id="73_nmt4g"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1701.res" id="74_iibau"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0057.res" id="75_63ut4"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1702.res" id="76_0e3lp"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0058.res" id="77_kj2gu"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1703.res" id="78_vmlfl"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0059.res" id="79_dp5v7"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1704.res" id="80_lwfit"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0060.res" id="81_rvk50"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1705.res" id="82_rvqn2"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0061.res" id="83_wqulr"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1706.res" id="84_oycyg"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0062.res" id="85_4bac3"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1707.res" id="86_cqbrr"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0063.res" id="87_v4uf3"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1708.res" id="88_emhba"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0064.res" id="89_a6nfw"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1709.res" id="90_oqju4"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0065.res" id="91_s0d2e"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1710.res" id="92_boy6x"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0066.res" id="93_7ydov"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1711.res" id="94_cjau5"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0067.res" id="95_ormmg"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1712.res" id="96_ho0h2"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0068.res" id="97_ogusj"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0069.res" id="98_uaenu"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1713.res" id="99_rjm8d"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0070.res" id="100_wm1p1"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0071.res" id="101_7tfvx"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1714.res" id="102_mjx8y"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0072.res" id="103_cguk3"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1715.res" id="104_841ak"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0073.res" id="105_dlbfn"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1716.res" id="106_rsw48"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0074.res" id="107_00xd6"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1717.res" id="108_2gs18"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0075.res" id="109_bqfup"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1718.res" id="110_embjb"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0076.res" id="111_rb4wm"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1719.res" id="112_5ledg"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0077.res" id="113_e5jpk"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1720.res" id="114_sntq2"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0078.res" id="115_cts8w"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1721.res" id="116_ca53p"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0079.res" id="117_yglxx"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1722.res" id="118_ud2ji"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0080.res" id="119_pcy3e"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1723.res" id="120_bpraw"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0081.res" id="121_ysel1"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1724.res" id="122_nlqh4"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0082.res" id="123_chcmb"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1725.res" id="124_xq7is"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0083.res" id="125_77dnd"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1726.res" id="126_pr6mu"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0084.res" id="127_bxgnl"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1727.res" id="128_yren3"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0085.res" id="129_uly0f"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1728.res" id="130_m35kx"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0086.res" id="131_athlu"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1729.res" id="132_yihhp"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0087.res" id="133_km37x"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0088.res" id="134_q0xju"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1730.res" id="135_jwjsr"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0089.res" id="136_0oghc"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1731.res" id="137_yplf7"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1732.res" id="138_ctttd"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1733.res" id="139_ou0uc"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1734.res" id="140_pcgjs"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1735.res" id="141_yk7vl"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1736.res" id="142_n8o55"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1737.res" id="143_22rwy"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1738.res" id="144_1ropy"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1739.res" id="145_vmpv3"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1740.res" id="146_evci5"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1741.res" id="147_pcitl"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1742.res" id="148_8xhc1"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1743.res" id="149_j6xa7"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1744.res" id="150_jikvk"]
-[ext_resource type="CylinderMesh" path="res://prototype/whole_house/resources/mesh_1745.res" id="151_j5lh6"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1746.res" id="152_0yk0p"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1747.res" id="153_25yrv"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1748.res" id="154_6iya0"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1749.res" id="155_sa87g"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1750.res" id="156_feswk"]
-[ext_resource type="BoxMesh" path="res://prototype/whole_house/resources/mesh_1751.res" id="157_w5pul"]
-[ext_resource type="SphereMesh" path="res://prototype/whole_house/resources/mesh_1752.res" id="158_yna1y"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0090.res" id="159_yl5h8"]
-[ext_resource type="CapsuleMesh" path="res://prototype/whole_house/resources/mesh_1753.res" id="160_wxiws"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1754.res" id="161_h7x3a"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1755.res" id="162_t2cc3"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1756.res" id="163_poq1e"]
-[ext_resource type="Material" path="res://prototype/whole_house/resources/material_0091.res" id="164_nn308"]
-[ext_resource type="ArrayMesh" path="res://prototype/whole_house/resources/mesh_1757.res" id="165_rmrww"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Wood026/Wood026_Color_2K.jpg" id="1_p1ax1"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Wood026/Wood026_NormalGL_2K.jpg" id="2_s3c23"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Wood026/Wood026_Roughness_2K.jpg" id="3_v5xtc"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Marble002/Marble002_Color_2K.jpg" id="4_dhomx"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Marble002/Marble002_NormalGL_2K.jpg" id="5_vk7ox"]
+[ext_resource type="Texture2D" path="res://prototype/assets/textures/ambientcg/Marble002/Marble002_Roughness_2K.jpg" id="6_4iasd"]
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_6v0f0"]
-size = Vector3(0.53999996, 0.70199996, 0.5700898)
+[sub_resource type="BoxShape3D" id="BoxShape3D_xg3do"]
+size = Vector3(5.35, 0.72, 0.62)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_6v31i"]
-size = Vector3(0.5489998, 2.3543835, 0.54000044)
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_f5ujm"]
+cull_mode = 2
+albedo_color = Color(0.2784314, 0.31764707, 0.2784314, 1)
+roughness = 0.84
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_453t5"]
-size = Vector3(0.5580001, 2.3543835, 0.5489998)
+[sub_resource type="BoxMesh" id="BoxMesh_tmch5"]
+size = Vector3(5.35, 0.72, 0.62)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_avjib"]
-size = Vector3(0.53999996, 0.70199996, 0.5700898)
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_jam5m"]
+cull_mode = 2
+albedo_color = Color(0.82, 0.76, 0.66, 1)
+albedo_texture = ExtResource("1_p1ax1")
+roughness = 0.82
+roughness_texture = ExtResource("3_v5xtc")
+normal_enabled = true
+normal_scale = 0.55
+normal_texture = ExtResource("2_s3c23")
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_jcrjv"]
-size = Vector3(0.53999996, 0.70199996, 0.5700898)
+[sub_resource type="BoxMesh" id="BoxMesh_j1nox"]
+size = Vector3(5.2, 0.12, 0.035)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_k38mn"]
-size = Vector3(0.53999996, 0.70199996, 0.5700898)
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_wpdmw"]
+cull_mode = 2
+albedo_color = Color(0.36862746, 0.4117647, 0.3647059, 1)
+roughness = 0.88
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_2bx8r"]
-size = Vector3(0.53999996, 0.7019999, 0.5700903)
+[sub_resource type="BoxMesh" id="BoxMesh_127vl"]
+size = Vector3(0.79, 0.59, 0.045)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_41c7x"]
-size = Vector3(0.53999996, 0.70199996, 0.53999996)
+[sub_resource type="BoxMesh" id="BoxMesh_xv6yh"]
+size = Vector3(0.79, 0.1, 0.05)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_khkic"]
-size = Vector3(0.027000427, 0.70199996, 0.53999996)
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_xpl6m"]
+cull_mode = 2
+albedo_color = Color(0.45490196, 0.47843137, 0.48235294, 1)
+metallic = 0.54
+roughness = 0.48
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_s3kiy"]
-size = Vector3(0.5580001, 2.3543835, 0.4050002)
+[sub_resource type="BoxMesh" id="BoxMesh_ushle"]
+size = Vector3(0.18, 0.022, 0.018)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_faguq"]
-size = Vector3(0.5580001, 0.70199996, 0.5502906)
+[sub_resource type="BoxMesh" id="BoxMesh_7prn7"]
+size = Vector3(0.79, 0.59, 0.045)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_b1ywl"]
-size = Vector3(0.4050002, 2.3543835, 0.53999996)
+[sub_resource type="BoxMesh" id="BoxMesh_ik4ri"]
+size = Vector3(0.79, 0.1, 0.05)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_ykuq2"]
-size = Vector3(0.4014001, 2.3510196, 0.018000126)
+[sub_resource type="BoxMesh" id="BoxMesh_rjfvr"]
+size = Vector3(0.18, 0.022, 0.018)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_bdk1w"]
-size = Vector3(1.4759998, 0.75429296, 0.64799976)
+[sub_resource type="BoxMesh" id="BoxMesh_8hgta"]
+size = Vector3(0.79, 0.59, 0.045)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_ojda7"]
-size = Vector3(0.71, 1.82, 0.62)
+[sub_resource type="BoxMesh" id="BoxMesh_wrvhp"]
+size = Vector3(0.79, 0.1, 0.05)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_emb38"]
-size = Vector3(0.42, 0.68, 0.42)
+[sub_resource type="BoxMesh" id="BoxMesh_pcwqy"]
+size = Vector3(0.18, 0.022, 0.018)
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_dg4vg"]
-size = Vector3(0.42, 0.68, 0.42)
+[sub_resource type="BoxMesh" id="BoxMesh_ohjf6"]
+size = Vector3(0.79, 0.59, 0.045)
 
-[node name="Cozinha_Richard" type="Node3D" unique_id=1400062760]
+[sub_resource type="BoxMesh" id="BoxMesh_il13m"]
+size = Vector3(0.79, 0.1, 0.05)
+
+[sub_resource type="BoxMesh" id="BoxMesh_xh3sl"]
+size = Vector3(0.18, 0.022, 0.018)
+
+[sub_resource type="BoxMesh" id="BoxMesh_epjyf"]
+size = Vector3(0.79, 0.59, 0.045)
+
+[sub_resource type="BoxMesh" id="BoxMesh_a2mid"]
+size = Vector3(0.79, 0.1, 0.05)
+
+[sub_resource type="BoxMesh" id="BoxMesh_f62vi"]
+size = Vector3(0.18, 0.022, 0.018)
+
+[sub_resource type="BoxMesh" id="BoxMesh_phk6s"]
+size = Vector3(0.79, 0.59, 0.045)
+
+[sub_resource type="BoxMesh" id="BoxMesh_8c682"]
+size = Vector3(0.79, 0.1, 0.05)
+
+[sub_resource type="BoxMesh" id="BoxMesh_25ptt"]
+size = Vector3(0.18, 0.022, 0.018)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_mt0dw"]
+cull_mode = 2
+albedo_color = Color(0.89, 0.88, 0.84, 1)
+albedo_texture = ExtResource("4_dhomx")
+roughness = 0.74
+roughness_texture = ExtResource("6_4iasd")
+normal_enabled = true
+normal_scale = 0.28
+normal_texture = ExtResource("5_vk7ox")
+
+[sub_resource type="BoxMesh" id="BoxMesh_dsnht"]
+size = Vector3(5.55, 0.08, 0.76)
+
+[sub_resource type="BoxMesh" id="BoxMesh_e7h7v"]
+size = Vector3(5.45, 0.46, 0.045)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_k3iba"]
+cull_mode = 2
+albedo_color = Color(0.14117648, 0.16078432, 0.17254902, 1)
+metallic = 0.18
+roughness = 0.58
+
+[sub_resource type="BoxMesh" id="BoxMesh_x7e7t"]
+size = Vector3(0.82, 0.018, 0.44)
+
+[sub_resource type="BoxMesh" id="BoxMesh_j2efn"]
+size = Vector3(0.66, 0.012, 0.3)
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_skdvf"]
+top_radius = 0.024
+bottom_radius = 0.024
+height = 0.28
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_ir65f"]
+top_radius = 0.016
+bottom_radius = 0.016
+height = 0.18
+radial_segments = 20
+
+[sub_resource type="BoxMesh" id="BoxMesh_wbjwg"]
+size = Vector3(4.85, 0.82, 0.42)
+
+[sub_resource type="BoxMesh" id="BoxMesh_satph"]
+size = Vector3(0.9, 0.73, 0.045)
+
+[sub_resource type="BoxMesh" id="BoxMesh_tv3n0"]
+size = Vector3(0.025, 0.12, 0.02)
+
+[sub_resource type="BoxMesh" id="BoxMesh_yyg5a"]
+size = Vector3(0.9, 0.73, 0.045)
+
+[sub_resource type="BoxMesh" id="BoxMesh_cvrna"]
+size = Vector3(0.025, 0.12, 0.02)
+
+[sub_resource type="BoxMesh" id="BoxMesh_66p6i"]
+size = Vector3(0.9, 0.73, 0.045)
+
+[sub_resource type="BoxMesh" id="BoxMesh_oqw7d"]
+size = Vector3(0.025, 0.12, 0.02)
+
+[sub_resource type="BoxMesh" id="BoxMesh_mehxc"]
+size = Vector3(0.9, 0.73, 0.045)
+
+[sub_resource type="BoxMesh" id="BoxMesh_d6eeg"]
+size = Vector3(0.025, 0.12, 0.02)
+
+[sub_resource type="BoxMesh" id="BoxMesh_3kdop"]
+size = Vector3(0.9, 0.73, 0.045)
+
+[sub_resource type="BoxMesh" id="BoxMesh_s1h68"]
+size = Vector3(0.025, 0.12, 0.02)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_r8ba5"]
+cull_mode = 2
+albedo_color = Color(0.06666667, 0.08235294, 0.09411765, 1)
+metallic = 0.12
+roughness = 0.3
+
+[sub_resource type="BoxMesh" id="BoxMesh_pvco4"]
+size = Vector3(0.68, 0.018, 0.51)
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_8yhvr"]
+top_radius = 0.067
+bottom_radius = 0.067
+height = 0.004
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_18b7h"]
+top_radius = 0.067
+bottom_radius = 0.067
+height = 0.004
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_tt8mb"]
+top_radius = 0.067
+bottom_radius = 0.067
+height = 0.004
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_tvuap"]
+top_radius = 0.067
+bottom_radius = 0.067
+height = 0.004
+radial_segments = 20
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_fgcch"]
+size = Vector3(0.48, 2.4, 0.94)
+
+[sub_resource type="BoxMesh" id="BoxMesh_k51q0"]
+size = Vector3(0.48, 2.4, 0.94)
+
+[sub_resource type="BoxMesh" id="BoxMesh_nu3ky"]
+size = Vector3(0.025, 2.28, 0.86)
+
+[sub_resource type="BoxMesh" id="BoxMesh_5446l"]
+size = Vector3(0.032, 0.64, 0.7)
+
+[sub_resource type="BoxMesh" id="BoxMesh_qcgx7"]
+size = Vector3(0.018, 0.72, 0.78)
+
+[sub_resource type="BoxMesh" id="BoxMesh_i1ula"]
+size = Vector3(0.014, 0.55, 0.61)
+
+[sub_resource type="BoxMesh" id="BoxMesh_ogrpp"]
+size = Vector3(0.035, 0.035, 0.43)
+
+[sub_resource type="BoxMesh" id="BoxMesh_i8bo6"]
+size = Vector3(0.03, 0.36, 0.72)
+
+[sub_resource type="BoxMesh" id="BoxMesh_wfhh2"]
+size = Vector3(0.018, 0.3, 0.62)
+
+[sub_resource type="BoxMesh" id="BoxMesh_ttwo6"]
+size = Vector3(0.06, 0.045, 0.8)
+
+[sub_resource type="BoxMesh" id="BoxMesh_hoil6"]
+size = Vector3(0.035, 0.16, 0.025)
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_wwl6c"]
+top_radius = 0.035
+bottom_radius = 0.035
+height = 0.025
+radial_segments = 20
+
+[sub_resource type="BoxMesh" id="BoxMesh_vgnu6"]
+size = Vector3(0.035, 0.16, 0.025)
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_ixmyw"]
+top_radius = 0.035
+bottom_radius = 0.035
+height = 0.025
+radial_segments = 20
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ybadm"]
+size = Vector3(0.86, 1.82, 0.75)
+
+[sub_resource type="BoxMesh" id="BoxMesh_yr2tl"]
+size = Vector3(0.86, 1.82, 0.75)
+
+[sub_resource type="BoxMesh" id="BoxMesh_yxxwp"]
+size = Vector3(0.025, 1.02, 0.7)
+
+[sub_resource type="BoxMesh" id="BoxMesh_pwabe"]
+size = Vector3(0.025, 0.42, 0.7)
+
+[sub_resource type="BoxMesh" id="BoxMesh_prpb4"]
+size = Vector3(0.012, 0.018, 0.69)
+
+[sub_resource type="BoxMesh" id="BoxMesh_5sq7j"]
+size = Vector3(0.035, 0.3, 0.025)
+
+[sub_resource type="BoxMesh" id="BoxMesh_pmhf2"]
+size = Vector3(0.035, 0.3, 0.025)
+
+[sub_resource type="BoxMesh" id="BoxMesh_4rmd6"]
+size = Vector3(0.72, 0.08, 0.64)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_5tmo4"]
+size = Vector3(1.9, 0.78, 0.82)
+
+[sub_resource type="BoxMesh" id="BoxMesh_5ttut"]
+size = Vector3(1.9, 0.78, 0.82)
+
+[sub_resource type="BoxMesh" id="BoxMesh_ond2k"]
+size = Vector3(0.56, 0.68, 0.035)
+
+[sub_resource type="BoxMesh" id="BoxMesh_demji"]
+size = Vector3(0.022, 0.14, 0.018)
+
+[sub_resource type="BoxMesh" id="BoxMesh_sufs4"]
+size = Vector3(0.56, 0.68, 0.035)
+
+[sub_resource type="BoxMesh" id="BoxMesh_ckwnm"]
+size = Vector3(0.022, 0.14, 0.018)
+
+[sub_resource type="BoxMesh" id="BoxMesh_mg7ox"]
+size = Vector3(0.56, 0.68, 0.035)
+
+[sub_resource type="BoxMesh" id="BoxMesh_o36oh"]
+size = Vector3(0.022, 0.14, 0.018)
+
+[sub_resource type="BoxMesh" id="BoxMesh_tphpg"]
+size = Vector3(1.96, 0.03, 0.87)
+
+[sub_resource type="BoxMesh" id="BoxMesh_kujdr"]
+size = Vector3(2.15, 0.08, 1.12)
+
+[sub_resource type="BoxMesh" id="BoxMesh_h2p2u"]
+size = Vector3(0.58, 0.018, 0.34)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_absyd"]
+cull_mode = 2
+albedo_color = Color(0.87058824, 0.84705883, 0.79607844, 1)
+roughness = 0.62
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_bbg3f"]
+top_radius = 0.16
+bottom_radius = 0.16
+height = 0.1
+radial_segments = 20
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_bhi2t"]
+cull_mode = 2
+albedo_color = Color(0.2627451, 0.32941177, 0.28235295, 1)
+roughness = 0.95
+
+[sub_resource type="SphereMesh" id="SphereMesh_l2d5d"]
+radius = 0.065
+height = 0.13
+radial_segments = 12
+rings = 6
+
+[sub_resource type="SphereMesh" id="SphereMesh_t4sto"]
+radius = 0.065
+height = 0.13
+radial_segments = 12
+rings = 6
+
+[sub_resource type="SphereMesh" id="SphereMesh_6bls3"]
+radius = 0.065
+height = 0.13
+radial_segments = 12
+rings = 6
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_xeqfk"]
+size = Vector3(0.38, 0.68, 0.38)
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_67xeh"]
+top_radius = 0.2
+bottom_radius = 0.2
+height = 0.08
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_sv66i"]
+top_radius = 0.018
+bottom_radius = 0.018
+height = 0.62
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_uqdo8"]
+top_radius = 0.018
+bottom_radius = 0.018
+height = 0.62
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_72qns"]
+top_radius = 0.018
+bottom_radius = 0.018
+height = 0.62
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_5owln"]
+top_radius = 0.018
+bottom_radius = 0.018
+height = 0.62
+radial_segments = 20
+
+[sub_resource type="BoxMesh" id="BoxMesh_vq0vk"]
+size = Vector3(0.3, 0.025, 0.3)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_rnmqq"]
+size = Vector3(0.38, 0.68, 0.38)
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_2ue2a"]
+top_radius = 0.2
+bottom_radius = 0.2
+height = 0.08
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_ibavv"]
+top_radius = 0.018
+bottom_radius = 0.018
+height = 0.62
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_82r3e"]
+top_radius = 0.018
+bottom_radius = 0.018
+height = 0.62
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_t8mal"]
+top_radius = 0.018
+bottom_radius = 0.018
+height = 0.62
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_buswd"]
+top_radius = 0.018
+bottom_radius = 0.018
+height = 0.62
+radial_segments = 20
+
+[sub_resource type="BoxMesh" id="BoxMesh_4gsat"]
+size = Vector3(0.3, 0.025, 0.3)
+
+[sub_resource type="BoxMesh" id="BoxMesh_eo2q0"]
+size = Vector3(0.035, 1.4, 1.56)
+
+[sub_resource type="BoxMesh" id="BoxMesh_rw3q8"]
+size = Vector3(0.32, 0.05, 1.58)
+
+[sub_resource type="BoxMesh" id="BoxMesh_nkcok"]
+size = Vector3(0.32, 0.05, 1.58)
+
+[sub_resource type="BoxMesh" id="BoxMesh_bi7eq"]
+size = Vector3(0.32, 0.05, 1.58)
+
+[sub_resource type="BoxMesh" id="BoxMesh_8nqhs"]
+size = Vector3(0.035, 1.33, 0.035)
+
+[sub_resource type="BoxMesh" id="BoxMesh_70op4"]
+size = Vector3(0.035, 1.33, 0.035)
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_wbk7o"]
+top_radius = 0.085
+bottom_radius = 0.085
+height = 0.22
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_jswj5"]
+top_radius = 0.11
+bottom_radius = 0.11
+height = 0.27
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_jrlxq"]
+top_radius = 0.04
+bottom_radius = 0.04
+height = 0.15
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_8ovfc"]
+top_radius = 0.04
+bottom_radius = 0.04
+height = 0.15
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_hlwg8"]
+top_radius = 0.04
+bottom_radius = 0.04
+height = 0.15
+radial_segments = 20
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_1t8wh"]
+top_radius = 0.055
+bottom_radius = 0.055
+height = 0.11
+radial_segments = 20
+
+[sub_resource type="BoxMesh" id="BoxMesh_5d3q0"]
+size = Vector3(0.28, 0.34, 0.24)
+
+[sub_resource type="BoxMesh" id="BoxMesh_gomtq"]
+size = Vector3(0.15, 0.1, 0.012)
+
+[node name="Cozinha_Richard" type="Node3D" unique_id=1895199787]
 metadata/pavimento = "terreo"
-metadata/edicao = "Edite esta cena, salve e execute F5. Nao ha reconstrucao procedural no jogo."
+metadata/edicao = "Cozinha autoral modular; geometry original; materiais PBR CC0 Wood026 e Marble002."
 
-[node name="Peca_kitchen_floor_1214" type="MeshInstance3D" parent="." unique_id=1836651996]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.575, 0.012, -5.4)
-layers = 4
-mesh = ExtResource("1_sxvee")
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &""
-metadata/material_original = &"kitchen_floor"
+[node name="Armarios_e_bancada_fundo" type="Node3D" parent="." unique_id=225248012]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.3, 0, -7.62)
 metadata/_edit_group_ = true
 
-[node name="Cozinha_Richard_Preservada_047" type="Node3D" parent="." unique_id=1146025518]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.467222, 0.022, -6.9333043)
-metadata/origem_conversao = "Cozinha_Richard_Preservada"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/pivot_original = Vector3(-3.467222, 0.022, -6.9333043)
+[node name="Colisao_Armarios_base" type="StaticBody3D" parent="Armarios_e_bancada_fundo" unique_id=1253735168]
 
-[node name="Kitchen004C16" type="Node3D" parent="Cozinha_Richard_Preservada_047" unique_id=350370311]
-transform = Transform3D(-3.934025e-08, 0, -0.9, 0, 0.9, 0, 0.9, 0, -3.934025e-08, 0, 0, 0)
+[node name="@CollisionShape3D@2" type="CollisionShape3D" parent="Armarios_e_bancada_fundo/Colisao_Armarios_base" unique_id=2073778081]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.36, 0)
+shape = SubResource("BoxShape3D_xg3do")
 
-[node name="kitchen_08_032_001" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=741804467]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.470444, 1.1340252, 3.4574432)
+[node name="Corpo_base" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1379456485]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.36, 0)
 layers = 4
-mesh = ExtResource("2_sdof3")
-surface_material_override/0 = ExtResource("3_q3km0")
-surface_material_override/1 = ExtResource("4_ae4ye")
-surface_material_override/2 = ExtResource("5_pyse1")
-surface_material_override/3 = ExtResource("6_tckmt")
-surface_material_override/4 = ExtResource("7_xcx0t")
-surface_material_override/5 = ExtResource("8_agbhv")
-surface_material_override/6 = ExtResource("9_rkl56")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_f5ujm")
+mesh = SubResource("BoxMesh_tmch5")
 
-[node name="kitchen_modern15_048_001" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=380853535]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.6045115, 0.8600232, 0.10441148)
+[node name="Rodape" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=167825786]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.07, 0.325)
 layers = 4
-mesh = ExtResource("10_n55mn")
-surface_material_override/0 = ExtResource("11_2wcvj")
-surface_material_override/1 = ExtResource("12_2nrl0")
-surface_material_override/2 = ExtResource("13_o3g74")
-surface_material_override/3 = ExtResource("14_v6fo7")
-surface_material_override/4 = ExtResource("15_jwr8c")
-surface_material_override/5 = ExtResource("16_j0onj")
-surface_material_override/6 = ExtResource("17_rpxfs")
-surface_material_override/7 = ExtResource("18_5ecqc")
-surface_material_override/8 = ExtResource("19_ywdhe")
-surface_material_override/9 = ExtResource("20_fokr5")
-surface_material_override/10 = ExtResource("21_fdebb")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_j1nox")
 
-[node name="kitchen_modern64_001" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=644298001]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.4301514, 0.57607687, 1.3064185)
+[node name="Porta_inferior_00" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1803493357]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.13, 0.39, 0.331)
 layers = 4
-mesh = ExtResource("22_rowby")
-surface_material_override/0 = ExtResource("23_khyd6")
-surface_material_override/1 = ExtResource("24_r3q0x")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_127vl")
 
-[node name="C16_kitchen_modern64_001" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_001" unique_id=660428447]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, -0.2939043, -0.086076796, 0)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_001/C16_kitchen_modern64_001" unique_id=870088991]
-shape = SubResource("BoxShape3D_6v0f0")
-
-[node name="kitchen_modern64_007" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=452893313]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7284472, 2.5298748, 3.1064177)
+[node name="Frente_gaveta_00" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=658625551]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.13, 0.7, 0.334)
 layers = 4
-mesh = ExtResource("25_lsuqb")
-surface_material_override/0 = ExtResource("26_pxiuv")
-surface_material_override/1 = ExtResource("27_w1k3x")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_xv6yh")
 
-[node name="kitchen_modern64_008" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=743682678]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.11357291, 2.5078275, 3.7247872)
+[node name="Puxador_00" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=487632539]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.13, 0.71, 0.366)
 layers = 4
-mesh = ExtResource("28_b4hek")
-surface_material_override/0 = ExtResource("29_ud7cr")
-surface_material_override/1 = ExtResource("30_0okrp")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_ushle")
 
-[node name="kitchen_modern64_009" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1999073535]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5485733, 2.4334688, 3.7260997)
+[node name="Porta_inferior_01" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=54453089]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.278, 0.39, 0.331)
 layers = 4
-mesh = ExtResource("31_b2m3e")
-surface_material_override/0 = ExtResource("32_dxv7g")
-surface_material_override/1 = ExtResource("33_47q5i")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_7prn7")
 
-[node name="kitchen_modern64_010" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1687554450]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.73044443, 2.4334688, 3.5686169)
+[node name="Frente_gaveta_01" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=21430358]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.278, 0.7, 0.334)
 layers = 4
-mesh = ExtResource("34_d854i")
-surface_material_override/0 = ExtResource("35_r8vgq")
-surface_material_override/1 = ExtResource("36_8genw")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_ik4ri")
 
-[node name="kitchen_modern64_011" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=288092262]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.72899634, 1.3005528, 0.10141933)
+[node name="Puxador_01" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1708105669]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.278, 0.71, 0.366)
 layers = 4
-mesh = ExtResource("37_37l3m")
-surface_material_override/0 = ExtResource("38_fkc8w")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_rjfvr")
 
-[node name="C16_kitchen_modern64_011" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_011" unique_id=350354727]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, -0.01177597, 0.10743797, 0)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_011/C16_kitchen_modern64_011" unique_id=554409628]
-shape = SubResource("BoxShape3D_6v31i")
-
-[node name="kitchen_modern64_015" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1805796138]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.46226242, 1.6646414, 3.4436717)
+[node name="Porta_inferior_02" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=795088924]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.426, 0.39, 0.331)
 layers = 4
-mesh = ExtResource("39_sax21")
-surface_material_override/0 = ExtResource("40_1a837")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_8hgta")
 
-[node name="C16_kitchen_modern64_015" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_015" unique_id=871484872]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, 0, -0.25665033, 0.28274775)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_015/C16_kitchen_modern64_015" unique_id=693784251]
-shape = SubResource("BoxShape3D_453t5")
-
-[node name="kitchen_modern64_016" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=502968063]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.43015152, 0.57607687, 0.7064185)
+[node name="Frente_gaveta_02" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=253381010]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.426, 0.7, 0.334)
 layers = 4
-mesh = ExtResource("41_2di0t")
-surface_material_override/0 = ExtResource("42_bsjvn")
-surface_material_override/1 = ExtResource("43_6kvit")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_wrvhp")
 
-[node name="C16_kitchen_modern64_016" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_016" unique_id=218225493]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, -0.2939043, -0.086076796, 0)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_016/C16_kitchen_modern64_016" unique_id=31985256]
-shape = SubResource("BoxShape3D_avjib")
-
-[node name="kitchen_modern64_017" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=945401632]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.43015137, 0.57607687, 1.9064186)
+[node name="Puxador_02" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1525072647]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.426, 0.71, 0.366)
 layers = 4
-mesh = ExtResource("44_x0kb2")
-surface_material_override/0 = ExtResource("45_atg0n")
-surface_material_override/1 = ExtResource("46_dn3pa")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_pcwqy")
 
-[node name="C16_kitchen_modern64_017" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_017" unique_id=306009989]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, -0.2939043, -0.086076796, 0)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_017/C16_kitchen_modern64_017" unique_id=265560228]
-shape = SubResource("BoxShape3D_jcrjv")
-
-[node name="kitchen_modern64_018" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1006160739]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.43015134, 0.57607687, 2.5064187)
+[node name="Porta_inferior_03" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=530682025]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.426, 0.39, 0.331)
 layers = 4
-mesh = ExtResource("47_rckgk")
-surface_material_override/0 = ExtResource("48_mgmn0")
-surface_material_override/1 = ExtResource("49_2g535")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_ohjf6")
 
-[node name="C16_kitchen_modern64_018" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_018" unique_id=2036814722]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, -0.2939043, -0.086076796, 0)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_018/C16_kitchen_modern64_018" unique_id=564838402]
-shape = SubResource("BoxShape3D_k38mn")
-
-[node name="kitchen_modern64_019" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=127680655]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.4383795, 0.5765259, 3.1064186)
+[node name="Frente_gaveta_03" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=2086348429]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.426, 0.7, 0.334)
 layers = 4
-mesh = ExtResource("50_ihvsw")
-surface_material_override/0 = ExtResource("51_is7s1")
-surface_material_override/1 = ExtResource("52_7lfbc")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_il13m")
 
-[node name="C16_kitchen_modern64_019" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_019" unique_id=1351827970]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, -0.28567505, -0.08652586, 0)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_019/C16_kitchen_modern64_019" unique_id=1916570246]
-shape = SubResource("BoxShape3D_2bx8r")
-
-[node name="kitchen_modern64_020" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=311930892]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7407713, 0.60374373, 3.7364192)
+[node name="Puxador_03" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1212862254]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.426, 0.71, 0.366)
 layers = 4
-mesh = ExtResource("53_myns4")
-surface_material_override/0 = ExtResource("54_iygv0")
-surface_material_override/1 = ExtResource("55_200x6")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_xh3sl")
 
-[node name="C16_kitchen_modern64_020" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_020" unique_id=1461560138]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, 0, -0.1137436, 0)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_020/C16_kitchen_modern64_020" unique_id=2136300110]
-shape = SubResource("BoxShape3D_41c7x")
-
-[node name="kitchen_modern64_021" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=149268987]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7407714, 0.60374373, 3.4214191)
+[node name="Porta_inferior_04" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=253745248]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.278, 0.39, 0.331)
 layers = 4
-mesh = ExtResource("56_1v6qh")
-surface_material_override/0 = ExtResource("57_cj8p2")
-surface_material_override/1 = ExtResource("58_62pa4")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_epjyf")
 
-[node name="C16_kitchen_modern64_021" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_021" unique_id=406799765]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, 0, -0.1137436, 0)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_021/C16_kitchen_modern64_021" unique_id=2092044853]
-shape = SubResource("BoxShape3D_khkic")
-
-[node name="kitchen_modern64_022" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1870751936]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.4307717, 1.6080151, 0.10141921)
+[node name="Frente_gaveta_04" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1864200870]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.278, 0.7, 0.334)
 layers = 4
-mesh = ExtResource("59_moddx")
-surface_material_override/0 = ExtResource("60_wdqli")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_a2mid")
 
-[node name="kitchen_modern64_023" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1907759002]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.18616956, 0.05000022, 2.4709346)
+[node name="Puxador_04" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=858850034]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.278, 0.71, 0.366)
 layers = 4
-mesh = ExtResource("61_mdtu4")
-surface_material_override/0 = ExtResource("62_ld8if")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_f62vi")
 
-[node name="kitchen_modern64_024" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1792078702]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.6379261, 1.1987121, 2.823574)
+[node name="Porta_inferior_05" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1410710950]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.13, 0.39, 0.331)
 layers = 4
-mesh = ExtResource("63_irk5v")
-surface_material_override/0 = ExtResource("64_mdtu8")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_phk6s")
 
-[node name="kitchen_modern64_027" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=9676764]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.52173865, 0.895, 2.7450156)
+[node name="Frente_gaveta_05" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=62109788]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.13, 0.7, 0.334)
 layers = 4
-mesh = ExtResource("65_bwa05")
-surface_material_override/0 = ExtResource("66_0ril5")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_8c682")
 
-[node name="kitchen_modern64_028" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=43054673]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.8785305, 2.1226943, 3.8747318)
+[node name="Puxador_05" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=670510876]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.13, 0.71, 0.366)
 layers = 4
-mesh = ExtResource("67_c70se")
-surface_material_override/0 = ExtResource("68_qvn7c")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_25ptt")
 
-[node name="kitchen_modern64_029" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=5569440]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.9922625, 1.9430375, 3.438191)
+[node name="Tampo_pedra" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=220823438]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.77, 0)
 layers = 4
-mesh = ExtResource("69_frw8r")
-surface_material_override/0 = ExtResource("70_ml7tn")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_mt0dw")
+mesh = SubResource("BoxMesh_dsnht")
 
-[node name="C16_kitchen_modern64_029" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_029" unique_id=898984628]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, -4.7683716e-07, -0.5350467, 0.28822803)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_029/C16_kitchen_modern64_029" unique_id=586485089]
-shape = SubResource("BoxShape3D_s3kiy")
-
-[node name="kitchen_modern64_031" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=2042239721]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.10531072, 0.57607687, 3.438684)
+[node name="Rodabanca" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1123435578]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.04, -0.282)
 layers = 4
-mesh = ExtResource("71_l10rv")
-surface_material_override/0 = ExtResource("72_la07e")
-surface_material_override/1 = ExtResource("73_nmt4g")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_mt0dw")
+mesh = SubResource("BoxMesh_e7h7v")
 
-[node name="C16_kitchen_modern64_031" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_031" unique_id=10382424]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, -0.029743671, -0.086076796, 0.28773546)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_031/C16_kitchen_modern64_031" unique_id=599876583]
-shape = SubResource("BoxShape3D_faguq")
-
-[node name="kitchen_modern64_032" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1688201154]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.74077183, 1.7991459, -0.42858124)
+[node name="Cuba_pia" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=409977838]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.25, 0.718, 0.04)
 layers = 4
-mesh = ExtResource("74_iibau")
-surface_material_override/0 = ExtResource("75_63ut4")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_k3iba")
+mesh = SubResource("BoxMesh_x7e7t")
 
-[node name="C16_kitchen_modern64_032" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_032" unique_id=1071118054]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, 0, -0.391155, 0)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_032/C16_kitchen_modern64_032" unique_id=1381209243]
-shape = SubResource("BoxShape3D_b1ywl")
-
-[node name="kitchen_modern64_033" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=403713673]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.4307719, 1.9487188, -0.42858124)
+[node name="Fundo_cuba" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=176743912]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.25, 0.704, 0.04)
 layers = 4
-mesh = ExtResource("76_0e3lp")
-surface_material_override/0 = ExtResource("77_kj2gu")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_j2efn")
 
-[node name="C16_kitchen_modern64_033" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_033" unique_id=60998156]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, 0, -0.5405967, 0)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_033/C16_kitchen_modern64_033" unique_id=1730833411]
-shape = SubResource("BoxShape3D_ykuq2")
-
-[node name="kitchen_modern64_038" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=527128145]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.4642194, 1.1417596, 3.8364623)
+[node name="Torneira_vertical" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=670531656]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.25, 0.94, -0.19)
 layers = 4
-mesh = ExtResource("78_vmlfl")
-surface_material_override/0 = ExtResource("79_dp5v7")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_skdvf")
 
-[node name="kitchen_modern64_054" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1300732872]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.7518041, 0.58694935, 3.050407)
+[node name="Torneira_bica" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1555664051]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, -1.25, 1.075, -0.08)
 layers = 4
-mesh = ExtResource("80_lwfit")
-surface_material_override/0 = ExtResource("81_rvk50")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_ir65f")
 
-[node name="kitchen_modern64_056" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1942265288]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.82970047, 1.1490482, 3.1374037)
+[node name="Armario_superior" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1628783251]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.89, -0.12)
 layers = 4
-mesh = ExtResource("82_rvqn2")
-surface_material_override/0 = ExtResource("83_wqulr")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_wbjwg")
 
-[node name="kitchen_modern64_058" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=881321268]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.459227, 0.8925016, 3.0919757)
+[node name="Porta_aerea_00" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=836357104]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.94, 1.89, 0.105)
 layers = 4
-mesh = ExtResource("84_oycyg")
-surface_material_override/0 = ExtResource("85_4bac3")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_satph")
 
-[node name="kitchen_modern64_059" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1357174666]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.4579725, 0.43605348, 1.7053504)
+[node name="Puxador_aereo_00" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1312174547]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.67, 1.89, 0.14)
 layers = 4
-mesh = ExtResource("86_cqbrr")
-surface_material_override/0 = ExtResource("87_v4uf3")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_tv3n0")
 
-[node name="kitchen_modern64_060" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=723606243]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.4592893, 0.43600023, 1.7047763)
+[node name="Porta_aerea_01" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1277938998]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.97, 1.89, 0.105)
 layers = 4
-mesh = ExtResource("88_emhba")
-surface_material_override/0 = ExtResource("89_a6nfw")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_yyg5a")
 
-[node name="kitchen_modern64_061" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1232245167]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.084706, 0.46905106, 3.620088)
+[node name="Puxador_aereo_01" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=320728427]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.24, 1.89, 0.14)
 layers = 4
-mesh = ExtResource("90_oqju4")
-surface_material_override/0 = ExtResource("91_s0d2e")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_cvrna")
 
-[node name="kitchen_modern64_062" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1826162743]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.5565367, 0.10399996, 3.6186562)
+[node name="Porta_aerea_02" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=841310725]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.89, 0.105)
 layers = 4
-mesh = ExtResource("92_boy6x")
-surface_material_override/0 = ExtResource("93_7ydov")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_66p6i")
 
-[node name="kitchen_modern64_063" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1766813759]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.5647058, 0.26152658, 3.6200883)
+[node name="Puxador_aereo_02" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1977799635]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.27, 1.89, 0.14)
 layers = 4
-mesh = ExtResource("94_cjau5")
-surface_material_override/0 = ExtResource("95_ormmg")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_oqw7d")
 
-[node name="C16_kitchen_modern64_063" type="StaticBody3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_063" unique_id=1347088725]
-transform = Transform3D(-4.8568214e-08, 0, 1.1111112, 0, 1.1111112, 0, -1.1111112, 0, -4.8568214e-08, -0.11000013, 0.15752509, 0)
-
-[node name="Forma" type="CollisionShape3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16/kitchen_modern64_063/C16_kitchen_modern64_063" unique_id=100565678]
-shape = SubResource("BoxShape3D_bdk1w")
-
-[node name="kitchen_modern64_064" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=477158805]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.444706, 0.5693678, 3.6200883)
+[node name="Porta_aerea_03" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=2118974219]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.97, 1.89, 0.105)
 layers = 4
-mesh = ExtResource("96_ho0h2")
-surface_material_override/0 = ExtResource("97_ogusj")
-surface_material_override/1 = ExtResource("98_uaenu")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_mehxc")
 
-[node name="Plane002_001" type="MeshInstance3D" parent="Cozinha_Richard_Preservada_047/Kitchen004C16" unique_id=1659201425]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.668957, 0.91343385, 1.3276554)
+[node name="Puxador_aereo_03" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1060537987]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.7, 1.89, 0.14)
 layers = 4
-mesh = ExtResource("99_rjm8d")
-surface_material_override/0 = ExtResource("100_wm1p1")
-surface_material_override/1 = ExtResource("101_7tfvx")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_d6eeg")
 
-[node name="Modelo_Geladeira_048" type="Node3D" parent="." unique_id=476958805]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.65, 0, -5.15)
-metadata/origem_conversao = "Modelo_Geladeira"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/pivot_original = Vector3(-8.65, 0, -5.15)
-
-[node name="Asset_C2_51_Geladeira" type="Node3D" parent="Modelo_Geladeira_048" unique_id=262610584]
-transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 0, 0, 0)
-
-[node name="Cold Column" type="Node3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira" unique_id=70394109]
-metadata/extras = {
-"description": "Two-door refrigerator with recessed gasket joints, hinges and offset vertical pulls.",
-"dimensions_m": [0.615, 0.7075, 1.824],
-"ground_plane": false,
-"original_design": true,
-"units": "meters"
-}
-
-[node name="Freezer horizontal pull | grip" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=1725056631]
-transform = Transform3D(0, 1, 0, 0, 0, -1, -1, 0, 0, 0, 0.422, 0.384)
+[node name="Porta_aerea_04" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=522418210]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.94, 1.89, 0.105)
 layers = 4
-mesh = ExtResource("102_mjx8y")
-surface_material_override/0 = ExtResource("103_cguk3")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_3kdop")
 
-[node name="Freezer horizontal pull | standoff" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=380982828]
-transform = Transform3D(1, 0, 0, 0, -3.5762787e-07, -0.99999994, 0, 0.99999994, -3.5762787e-07, -0.1985, 0.422, 0.3725)
+[node name="Puxador_aereo_04" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=192997161]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.21, 1.89, 0.14)
 layers = 4
-mesh = ExtResource("104_841ak")
-surface_material_override/0 = ExtResource("105_dlbfn")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_s1h68")
 
-[node name="Freezer horizontal pull | standoff_001" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=1448433699]
-transform = Transform3D(1, 0, 0, 0, -3.5762787e-07, -0.99999994, 0, 0.99999994, -3.5762787e-07, 0.1985, 0.422, 0.3725)
+[node name="Cooktop_desligado" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=572514785]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.3, 0.817, 0)
 layers = 4
-mesh = ExtResource("106_rsw48")
-surface_material_override/0 = ExtResource("107_00xd6")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_r8ba5")
+mesh = SubResource("BoxMesh_pvco4")
 
-[node name="Insulated refrigerator cabinet" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=2106663405]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.917, 0)
+[node name="Disco_cooktop_sem_emissao" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1667808959]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.12, 0.829, -0.12)
 layers = 4
-mesh = ExtResource("108_2gs18")
-surface_material_override/0 = ExtResource("109_bqfup")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_k3iba")
+mesh = SubResource("CylinderMesh_8yhvr")
 
-[node name="Lower freezer door" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=1516111130]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.278, 0.333)
+[node name="@MeshInstance3D@3" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1489350399]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.12, 0.829, 0.12)
 layers = 4
-mesh = ExtResource("110_embjb")
-surface_material_override/0 = ExtResource("111_rb4wm")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_k3iba")
+mesh = SubResource("CylinderMesh_18b7h")
 
-[node name="Main offset refrigerator pull | grip" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=1723012385]
-transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.227, 1.122, 0.385)
+[node name="@MeshInstance3D@4" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=954229837]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.45, 0.829, -0.12)
 layers = 4
-mesh = ExtResource("112_5ledg")
-surface_material_override/0 = ExtResource("113_e5jpk")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_k3iba")
+mesh = SubResource("CylinderMesh_tt8mb")
 
-[node name="Main offset refrigerator pull | standoff" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=2078591003]
-transform = Transform3D(1, 0, 0, 0, -3.5762787e-07, -0.99999994, 0, 0.99999994, -3.5762787e-07, -0.227, 0.8985, 0.3735)
+[node name="@MeshInstance3D@5" type="MeshInstance3D" parent="Armarios_e_bancada_fundo" unique_id=1942450263]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.45, 0.829, 0.12)
 layers = 4
-mesh = ExtResource("114_sntq2")
-surface_material_override/0 = ExtResource("115_cts8w")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_k3iba")
+mesh = SubResource("CylinderMesh_tvuap")
 
-[node name="Main offset refrigerator pull | standoff_001" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=2118652963]
-transform = Transform3D(1, 0, 0, 0, -3.5762787e-07, -0.99999994, 0, 0.99999994, -3.5762787e-07, -0.227, 1.3455, 0.3735)
+[node name="Torre_de_forno" type="Node3D" parent="." unique_id=291360354]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.11, 0, -6.55)
+metadata/_edit_group_ = true
+
+[node name="Colisao_Torre" type="StaticBody3D" parent="Torre_de_forno" unique_id=435670861]
+
+[node name="@CollisionShape3D@6" type="CollisionShape3D" parent="Torre_de_forno/Colisao_Torre" unique_id=1179331018]
+shape = SubResource("BoxShape3D_fgcch")
+
+[node name="Carcaca_torre" type="MeshInstance3D" parent="Torre_de_forno" unique_id=1501714923]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.2, 0)
 layers = 4
-mesh = ExtResource("116_ca53p")
-surface_material_override/0 = ExtResource("117_yglxx")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_k51q0")
 
-[node name="Main refrigerator door" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=2040365190]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.173, 0.333)
+[node name="Painel_torre_frontal" type="MeshInstance3D" parent="Torre_de_forno" unique_id=868076968]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.257, 1.22, 0)
 layers = 4
-mesh = ExtResource("118_ud2ji")
-surface_material_override/0 = ExtResource("119_pcy3e")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_nu3ky")
 
-[node name="Recessed rubber foot" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=1927729219]
-transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.239, 0.0105, 0.2455)
+[node name="Nicho_forno" type="MeshInstance3D" parent="Torre_de_forno" unique_id=659660233]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.275, 1.12, 0)
 layers = 4
-mesh = ExtResource("120_bpraw")
-surface_material_override/0 = ExtResource("121_ysel1")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_r8ba5")
+mesh = SubResource("BoxMesh_5446l")
 
-[node name="Recessed rubber foot_001" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=1831190951]
-transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, -0.239, 0.0105, -0.2455)
+[node name="Moldura_forno" type="MeshInstance3D" parent="Torre_de_forno" unique_id=1675876998]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.295, 1.12, 0)
 layers = 4
-mesh = ExtResource("122_nlqh4")
-surface_material_override/0 = ExtResource("123_chcmb")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_qcgx7")
 
-[node name="Recessed rubber foot_002" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=150016520]
-transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.239, 0.0105, 0.2455)
+[node name="Vidro_forno" type="MeshInstance3D" parent="Torre_de_forno" unique_id=1339738011]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.308, 1.12, 0)
 layers = 4
-mesh = ExtResource("124_xq7is")
-surface_material_override/0 = ExtResource("125_77dnd")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_r8ba5")
+mesh = SubResource("BoxMesh_i1ula")
 
-[node name="Recessed rubber foot_003" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=15575136]
-transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0.239, 0.0105, -0.2455)
+[node name="Puxador_forno" type="MeshInstance3D" parent="Torre_de_forno" unique_id=2141105320]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.337, 1.45, 0)
 layers = 4
-mesh = ExtResource("126_pr6mu")
-surface_material_override/0 = ExtResource("127_bxgnl")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_ogrpp")
 
-[node name="Refrigerator toe grille" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=75539804]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.026, 0.32)
+[node name="Nicho_microondas_desligado" type="MeshInstance3D" parent="Torre_de_forno" unique_id=138749697]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.276, 1.91, 0)
 layers = 4
-mesh = ExtResource("128_yren3")
-surface_material_override/0 = ExtResource("129_uly0f")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_k3iba")
+mesh = SubResource("BoxMesh_i8bo6")
 
-[node name="Right door hinge" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=290721721]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.26, 0.035, 0.327)
+[node name="Frente_microondas" type="MeshInstance3D" parent="Torre_de_forno" unique_id=997004078]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.298, 1.91, 0)
 layers = 4
-mesh = ExtResource("130_m35kx")
-surface_material_override/0 = ExtResource("131_athlu")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_r8ba5")
+mesh = SubResource("BoxMesh_wfhh2")
 
-[node name="Right door hinge_001" type="MeshInstance3D" parent="Modelo_Geladeira_048/Asset_C2_51_Geladeira/Cold Column" unique_id=630665271]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.26, 1.78, 0.327)
+[node name="Prateleira_separadora" type="MeshInstance3D" parent="Torre_de_forno" unique_id=303126387]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.24, 1.64, 0)
 layers = 4
-mesh = ExtResource("132_yihhp")
-surface_material_override/0 = ExtResource("133_km37x")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_mt0dw")
+mesh = SubResource("BoxMesh_ttwo6")
 
-[node name="Hitbox_C2_51_Geladeira" type="StaticBody3D" parent="Modelo_Geladeira_048" unique_id=1447374343]
-transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 0, 0.91, 0)
+[node name="Puxador_torre_-1_0" type="MeshInstance3D" parent="Torre_de_forno" unique_id=216838486]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.33, 2.23, -0.22)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_hoil6")
 
-[node name="Forma" type="CollisionShape3D" parent="Modelo_Geladeira_048/Hitbox_C2_51_Geladeira" unique_id=1418803068]
-shape = SubResource("BoxShape3D_ojda7")
+[node name="Botao_forno_-1_0" type="MeshInstance3D" parent="Torre_de_forno" unique_id=130900]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, -0.33, 1.55, -0.22)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_wwl6c")
 
-[node name="Banqueta_Cozinha_049" type="Node3D" parent="." unique_id=1264156826]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.7, 0, -4.1)
-metadata/origem_conversao = "Banqueta_Cozinha"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/pivot_original = Vector3(-6.7, 0, -4.1)
+[node name="Puxador_torre_1_0" type="MeshInstance3D" parent="Torre_de_forno" unique_id=1070945384]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.33, 2.23, 0.22)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_vgnu6")
 
-[node name="ColisaoBanquetaCozinha_52" type="StaticBody3D" parent="Banqueta_Cozinha_049" unique_id=1971167624]
+[node name="Botao_forno_1_0" type="MeshInstance3D" parent="Torre_de_forno" unique_id=186458204]
+transform = Transform3D(-4.371139e-08, -1, 0, 1, -4.371139e-08, 0, 0, 0, 1, -0.33, 1.55, 0.22)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_ixmyw")
+
+[node name="Geladeira_duas_portas" type="Node3D" parent="." unique_id=242029239]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.86, 0, -5.62)
+metadata/_edit_group_ = true
+
+[node name="Colisao_Geladeira" type="StaticBody3D" parent="Geladeira_duas_portas" unique_id=1300906826]
+
+[node name="@CollisionShape3D@7" type="CollisionShape3D" parent="Geladeira_duas_portas/Colisao_Geladeira" unique_id=1960065120]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.91, 0)
+shape = SubResource("BoxShape3D_ybadm")
+
+[node name="Gabinete" type="MeshInstance3D" parent="Geladeira_duas_portas" unique_id=530599574]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.91, 0)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_yr2tl")
+
+[node name="Porta_superior" type="MeshInstance3D" parent="Geladeira_duas_portas" unique_id=787874457]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.447, 1.29, 0)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_yxxwp")
+
+[node name="Porta_inferior" type="MeshInstance3D" parent="Geladeira_duas_portas" unique_id=376128508]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.447, 0.55, 0)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_pwabe")
+
+[node name="Junta_horizontal" type="MeshInstance3D" parent="Geladeira_duas_portas" unique_id=851882059]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.465, 0.76, 0)
+layers = 4
+material_override = SubResource("StandardMaterial3D_k3iba")
+mesh = SubResource("BoxMesh_prpb4")
+
+[node name="Puxador_vertical_-0_26" type="MeshInstance3D" parent="Geladeira_duas_portas" unique_id=1491055499]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.475, 1.23, -0.26)
+layers = 4
+material_override = SubResource("StandardMaterial3D_k3iba")
+mesh = SubResource("BoxMesh_5sq7j")
+
+[node name="Puxador_vertical_0_26" type="MeshInstance3D" parent="Geladeira_duas_portas" unique_id=726457051]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.475, 1.23, 0.26)
+layers = 4
+material_override = SubResource("StandardMaterial3D_k3iba")
+mesh = SubResource("BoxMesh_pmhf2")
+
+[node name="Pezes" type="MeshInstance3D" parent="Geladeira_duas_portas" unique_id=1943839353]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.055, 0)
+layers = 4
+material_override = SubResource("StandardMaterial3D_k3iba")
+mesh = SubResource("BoxMesh_4rmd6")
+
+[node name="Ilha_de_preparo" type="Node3D" parent="." unique_id=839977892]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.26, 0, -5.18)
+metadata/_edit_group_ = true
+
+[node name="Colisao_Ilha" type="StaticBody3D" parent="Ilha_de_preparo" unique_id=865612711]
+
+[node name="@CollisionShape3D@8" type="CollisionShape3D" parent="Ilha_de_preparo/Colisao_Ilha" unique_id=100181126]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, -0.02)
+shape = SubResource("BoxShape3D_5tmo4")
+
+[node name="Carcaca_ilha" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=1070107684]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.39, -0.02)
+layers = 4
+material_override = SubResource("StandardMaterial3D_f5ujm")
+mesh = SubResource("BoxMesh_5ttut")
+
+[node name="Porta_ilha_00" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=201211394]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.62, 0.38, -0.45)
+layers = 4
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_ond2k")
+
+[node name="Puxador_ilha_00" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=816774076]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.44, 0.4, -0.478)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_demji")
+
+[node name="Porta_ilha_01" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=814814300]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.38, -0.45)
+layers = 4
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_sufs4")
+
+[node name="Puxador_ilha_01" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=82149126]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.18, 0.4, -0.478)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_ckwnm")
+
+[node name="Porta_ilha_02" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=376565276]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.62, 0.38, -0.45)
+layers = 4
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_mg7ox")
+
+[node name="Puxador_ilha_02" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=782072343]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.4, -0.478)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_o36oh")
+
+[node name="Linha_sombra_ilha" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=1701771480]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.79, -0.02)
+layers = 4
+material_override = SubResource("StandardMaterial3D_wpdmw")
+mesh = SubResource("BoxMesh_tphpg")
+
+[node name="Tampo_ilha" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=1314668916]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.86, 0.07)
+layers = 4
+material_override = SubResource("StandardMaterial3D_mt0dw")
+mesh = SubResource("BoxMesh_kujdr")
+
+[node name="Tábua_de_madeira" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=1712399747]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.45, 0.914, 0.16)
+layers = 4
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_h2p2u")
+
+[node name="Tigela_ceramica" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=1626401347]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5, 0.98, 0.18)
+layers = 4
+material_override = SubResource("StandardMaterial3D_absyd")
+mesh = SubResource("CylinderMesh_bbg3f")
+
+[node name="Maca" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=1457137753]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.46, 1.07, 0.14)
+layers = 4
+material_override = SubResource("StandardMaterial3D_bhi2t")
+mesh = SubResource("SphereMesh_l2d5d")
+
+[node name="@MeshInstance3D@9" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=1941542951]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.55, 1.06, 0.22)
+layers = 4
+material_override = SubResource("StandardMaterial3D_bhi2t")
+mesh = SubResource("SphereMesh_t4sto")
+
+[node name="@MeshInstance3D@10" type="MeshInstance3D" parent="Ilha_de_preparo" unique_id=1297105876]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.49, 1.04, 0.28)
+layers = 4
+material_override = SubResource("StandardMaterial3D_bhi2t")
+mesh = SubResource("SphereMesh_6bls3")
+
+[node name="Banqueta_A" type="Node3D" parent="." unique_id=35025537]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.83, 0, -3.16)
+metadata/_edit_group_ = true
+
+[node name="Colisao_Banqueta" type="StaticBody3D" parent="Banqueta_A" unique_id=602360084]
+
+[node name="@CollisionShape3D@11" type="CollisionShape3D" parent="Banqueta_A/Colisao_Banqueta" unique_id=1790326571]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.34, 0)
+shape = SubResource("BoxShape3D_xeqfk")
 
-[node name="Forma" type="CollisionShape3D" parent="Banqueta_Cozinha_049/ColisaoBanquetaCozinha_52" unique_id=1114649873]
-shape = SubResource("BoxShape3D_emb38")
-
-[node name="AroBanquetaCozinha_52" type="MeshInstance3D" parent="Banqueta_Cozinha_049" unique_id=1877956438]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.61, 0)
+[node name="Assento_de_madeira" type="MeshInstance3D" parent="Banqueta_A" unique_id=896584424]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.68, 0)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("135_jwjsr")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("CylinderMesh_67xeh")
 
-[node name="AssentoBanquetaCozinha_52" type="MeshInstance3D" parent="Banqueta_Cozinha_049" unique_id=931579562]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.67, 0)
+[node name="Perna" type="MeshInstance3D" parent="Banqueta_A" unique_id=2138602168]
+transform = Transform3D(0.9992396, -0.038990114, 0, 0.038960468, 0.99847984, 0.038990114, -0.001520229, -0.038960468, 0.9992396, -0.13, 0.33, -0.13)
 layers = 4
-material_override = ExtResource("136_0oghc")
-mesh = ExtResource("137_yplf7")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_sv66i")
 
-[node name="PernaBanquetaCozinha_52" type="MeshInstance3D" parent="Banqueta_Cozinha_049" unique_id=1031118699]
-transform = Transform3D(0.99680173, 0.07991469, 0, -0.079659104, 0.9936137, -0.07991469, -0.0063863574, 0.079659104, 0.99680173, -0.14499998, 0.32, -0.14499998)
+[node name="@MeshInstance3D@12" type="MeshInstance3D" parent="Banqueta_A" unique_id=1955444628]
+transform = Transform3D(0.9992396, -0.038990114, 0, 0.038960468, 0.99847984, -0.038990114, 0.001520229, 0.038960468, 0.9992396, -0.13, 0.33, 0.13)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("138_ctttd")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_uqdo8")
 
-[node name="@MeshInstance3D@204" type="MeshInstance3D" parent="Banqueta_Cozinha_049" unique_id=438667108]
-transform = Transform3D(0.99680173, 0.07991469, 0, -0.079659104, 0.9936137, 0.07991469, 0.0063863574, -0.079659104, 0.99680173, -0.14499998, 0.32, 0.14499998)
+[node name="@MeshInstance3D@13" type="MeshInstance3D" parent="Banqueta_A" unique_id=692918435]
+transform = Transform3D(0.9992396, 0.038990114, 0, -0.038960468, 0.99847984, 0.038990114, 0.001520229, -0.038960468, 0.9992396, 0.13, 0.33, -0.13)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("139_ou0uc")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_72qns")
 
-[node name="@MeshInstance3D@205" type="MeshInstance3D" parent="Banqueta_Cozinha_049" unique_id=879137441]
-transform = Transform3D(0.99680173, -0.07991469, 0, 0.079659104, 0.9936137, -0.07991469, 0.0063863574, 0.079659104, 0.99680173, 0.14499998, 0.32, -0.14499998)
+[node name="@MeshInstance3D@14" type="MeshInstance3D" parent="Banqueta_A" unique_id=1227255892]
+transform = Transform3D(0.9992396, 0.038990114, 0, -0.038960468, 0.99847984, -0.038990114, -0.001520229, 0.038960468, 0.9992396, 0.13, 0.33, 0.13)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("140_pcgjs")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_5owln")
 
-[node name="@MeshInstance3D@206" type="MeshInstance3D" parent="Banqueta_Cozinha_049" unique_id=1841037282]
-transform = Transform3D(0.99680173, -0.07991469, 0, 0.079659104, 0.9936137, 0.07991469, -0.0063863574, -0.079659104, 0.99680173, 0.14499998, 0.32, 0.14499998)
+[node name="Apoio_pes_horizontal" type="MeshInstance3D" parent="Banqueta_A" unique_id=853334280]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.28, 0)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("141_yk7vl")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_vq0vk")
 
-[node name="Peca_kitchen_hardware_1226" type="MeshInstance3D" parent="Banqueta_Cozinha_049" unique_id=17992057]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.28, -0.11499977)
-layers = 4
-mesh = ExtResource("142_n8o55")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/material_original = &"kitchen_hardware"
+[node name="Banqueta_B" type="Node3D" parent="." unique_id=907836316]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.75, 0, -3.16)
 metadata/_edit_group_ = true
 
-[node name="Peca_kitchen_hardware_1227" type="MeshInstance3D" parent="Banqueta_Cozinha_049" unique_id=1877218657]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.28, 0.11500001)
-layers = 4
-mesh = ExtResource("143_22rwy")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/material_original = &"kitchen_hardware"
-metadata/_edit_group_ = true
+[node name="Colisao_Banqueta" type="StaticBody3D" parent="Banqueta_B" unique_id=1357843721]
 
-[node name="Peca_kitchen_hardware_1228" type="MeshInstance3D" parent="Banqueta_Cozinha_049" unique_id=1866802054]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.11499977, 0.28, 0)
-layers = 4
-mesh = ExtResource("144_1ropy")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/material_original = &"kitchen_hardware"
-metadata/_edit_group_ = true
-
-[node name="Peca_kitchen_hardware_1229" type="MeshInstance3D" parent="Banqueta_Cozinha_049" unique_id=271401597]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.11499977, 0.28, 0)
-layers = 4
-mesh = ExtResource("145_vmpv3")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/material_original = &"kitchen_hardware"
-metadata/_edit_group_ = true
-
-[node name="Banqueta_Cozinha_050" type="Node3D" parent="." unique_id=979781501]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.8, 0, -4.1)
-metadata/origem_conversao = "Banqueta_Cozinha"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/pivot_original = Vector3(-5.8, 0, -4.1)
-
-[node name="ColisaoBanquetaCozinha_53" type="StaticBody3D" parent="Banqueta_Cozinha_050" unique_id=1675664425]
+[node name="@CollisionShape3D@15" type="CollisionShape3D" parent="Banqueta_B/Colisao_Banqueta" unique_id=270624880]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.34, 0)
+shape = SubResource("BoxShape3D_rnmqq")
 
-[node name="Forma" type="CollisionShape3D" parent="Banqueta_Cozinha_050/ColisaoBanquetaCozinha_53" unique_id=871457526]
-shape = SubResource("BoxShape3D_dg4vg")
-
-[node name="AroBanquetaCozinha_53" type="MeshInstance3D" parent="Banqueta_Cozinha_050" unique_id=1266395103]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.61, 0)
+[node name="Assento_de_madeira" type="MeshInstance3D" parent="Banqueta_B" unique_id=1824123740]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.68, 0)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("146_evci5")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("CylinderMesh_2ue2a")
 
-[node name="AssentoBanquetaCozinha_53" type="MeshInstance3D" parent="Banqueta_Cozinha_050" unique_id=1207093949]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.67, 0)
+[node name="Perna" type="MeshInstance3D" parent="Banqueta_B" unique_id=92902590]
+transform = Transform3D(0.9992396, -0.038990114, 0, 0.038960468, 0.99847984, 0.038990114, -0.001520229, -0.038960468, 0.9992396, -0.13, 0.33, -0.13)
 layers = 4
-material_override = ExtResource("136_0oghc")
-mesh = ExtResource("147_pcitl")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_ibavv")
 
-[node name="PernaBanquetaCozinha_53" type="MeshInstance3D" parent="Banqueta_Cozinha_050" unique_id=1106589881]
-transform = Transform3D(0.99680173, 0.07991469, 0, -0.079659104, 0.9936137, -0.07991469, -0.0063863574, 0.079659104, 0.99680173, -0.14499998, 0.32, -0.14499998)
+[node name="@MeshInstance3D@16" type="MeshInstance3D" parent="Banqueta_B" unique_id=1419521098]
+transform = Transform3D(0.9992396, -0.038990114, 0, 0.038960468, 0.99847984, -0.038990114, 0.001520229, 0.038960468, 0.9992396, -0.13, 0.33, 0.13)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("148_8xhc1")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_82r3e")
 
-[node name="@MeshInstance3D@207" type="MeshInstance3D" parent="Banqueta_Cozinha_050" unique_id=1980462092]
-transform = Transform3D(0.99680173, 0.07991469, 0, -0.079659104, 0.9936137, 0.07991469, 0.0063863574, -0.079659104, 0.99680173, -0.14499998, 0.32, 0.14499998)
+[node name="@MeshInstance3D@17" type="MeshInstance3D" parent="Banqueta_B" unique_id=957506547]
+transform = Transform3D(0.9992396, 0.038990114, 0, -0.038960468, 0.99847984, 0.038990114, 0.001520229, -0.038960468, 0.9992396, 0.13, 0.33, -0.13)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("149_j6xa7")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_t8mal")
 
-[node name="@MeshInstance3D@208" type="MeshInstance3D" parent="Banqueta_Cozinha_050" unique_id=428402420]
-transform = Transform3D(0.99680173, -0.07991469, 0, 0.079659104, 0.9936137, -0.07991469, 0.0063863574, 0.079659104, 0.99680173, 0.14499998, 0.32, -0.14499998)
+[node name="@MeshInstance3D@18" type="MeshInstance3D" parent="Banqueta_B" unique_id=1029444016]
+transform = Transform3D(0.9992396, 0.038990114, 0, -0.038960468, 0.99847984, -0.038990114, -0.001520229, 0.038960468, 0.9992396, 0.13, 0.33, 0.13)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("150_jikvk")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_buswd")
 
-[node name="@MeshInstance3D@209" type="MeshInstance3D" parent="Banqueta_Cozinha_050" unique_id=442777812]
-transform = Transform3D(0.99680173, -0.07991469, 0, 0.079659104, 0.9936137, 0.07991469, -0.0063863574, -0.079659104, 0.99680173, 0.14499998, 0.32, 0.14499998)
+[node name="Apoio_pes_horizontal" type="MeshInstance3D" parent="Banqueta_B" unique_id=1145903464]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.28, 0)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("151_j5lh6")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_4gsat")
 
-[node name="Peca_kitchen_hardware_1230" type="MeshInstance3D" parent="Banqueta_Cozinha_050" unique_id=1471378450]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.28, -0.11499977)
-layers = 4
-mesh = ExtResource("152_0yk0p")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/material_original = &"kitchen_hardware"
+[node name="Prateleiras_de_parede" type="Node3D" parent="." unique_id=1291705172]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.24, 0, -5.3)
 metadata/_edit_group_ = true
 
-[node name="Peca_kitchen_hardware_1231" type="MeshInstance3D" parent="Banqueta_Cozinha_050" unique_id=1500748949]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.28, 0.11500001)
+[node name="Painel_fundo" type="MeshInstance3D" parent="Prateleiras_de_parede" unique_id=1068684429]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.15, 1.8, 0)
 layers = 4
-mesh = ExtResource("153_25yrv")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/material_original = &"kitchen_hardware"
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_eo2q0")
+
+[node name="Prateleira_136" type="MeshInstance3D" parent="Prateleiras_de_parede" unique_id=871325704]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.36, 0)
+layers = 4
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_rw3q8")
+
+[node name="Prateleira_180" type="MeshInstance3D" parent="Prateleiras_de_parede" unique_id=2066538122]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.8, 0)
+layers = 4
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_nkcok")
+
+[node name="Prateleira_222" type="MeshInstance3D" parent="Prateleiras_de_parede" unique_id=994083051]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.22, 0)
+layers = 4
+material_override = SubResource("StandardMaterial3D_jam5m")
+mesh = SubResource("BoxMesh_bi7eq")
+
+[node name="Montante" type="MeshInstance3D" parent="Prateleiras_de_parede" unique_id=1722300595]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.11, 1.8, -0.68)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_8nqhs")
+
+[node name="@MeshInstance3D@19" type="MeshInstance3D" parent="Prateleiras_de_parede" unique_id=738282326]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.11, 1.8, 0.68)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("BoxMesh_70op4")
+
+[node name="Pote_de_cha" type="MeshInstance3D" parent="Prateleiras_de_parede" unique_id=1276817561]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.02, 1.5, -0.4)
+layers = 4
+material_override = SubResource("StandardMaterial3D_absyd")
+mesh = SubResource("CylinderMesh_wbk7o")
+
+[node name="Jarra" type="MeshInstance3D" parent="Prateleiras_de_parede" unique_id=1814914398]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.03, 1.98, 0.4)
+layers = 4
+material_override = SubResource("StandardMaterial3D_xpl6m")
+mesh = SubResource("CylinderMesh_jswj5")
+
+[node name="Aderecos_da_cozinha" type="Node3D" parent="." unique_id=1763871767]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.3, 0, -7.62)
 metadata/_edit_group_ = true
 
-[node name="Peca_kitchen_hardware_1232" type="MeshInstance3D" parent="Banqueta_Cozinha_050" unique_id=212870160]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.11499977, 0.28, 0)
+[node name="Pote_de_tempero_00" type="MeshInstance3D" parent="Aderecos_da_cozinha" unique_id=562789900]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.18, 1.12, 0.1)
 layers = 4
-mesh = ExtResource("154_6iya0")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/material_original = &"kitchen_hardware"
-metadata/_edit_group_ = true
+material_override = SubResource("StandardMaterial3D_absyd")
+mesh = SubResource("CylinderMesh_jrlxq")
 
-[node name="Peca_kitchen_hardware_1233" type="MeshInstance3D" parent="Banqueta_Cozinha_050" unique_id=1949756213]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.11499977, 0.28, 0)
+[node name="Pote_de_tempero_01" type="MeshInstance3D" parent="Aderecos_da_cozinha" unique_id=1332966276]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.05, 1.12, 0.1)
 layers = 4
-mesh = ExtResource("155_sa87g")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/material_original = &"kitchen_hardware"
-metadata/_edit_group_ = true
+material_override = SubResource("StandardMaterial3D_absyd")
+mesh = SubResource("CylinderMesh_8ovfc")
 
-[node name="Modelo_wooden_cutting_board_051" type="Node3D" parent="." unique_id=1047382797]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.82, 0.8455, -4.76)
-metadata/origem_conversao = "Modelo_wooden_cutting_board"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/pivot_original = Vector3(-6.82, 0.8455, -4.76)
-
-[node name="Asset_54_wooden_cutting_board" type="Node3D" parent="Modelo_wooden_cutting_board_051" unique_id=950904604]
-transform = Transform3D(1.0397815, 0, -0.14613175, 0, 1.05, 0, 0.14613175, 0, 1.0397815, 0, 0, 0)
-
-[node name="wooden_cutting_board" type="MeshInstance3D" parent="Modelo_wooden_cutting_board_051/Asset_54_wooden_cutting_board" unique_id=128068738]
+[node name="Pote_de_tempero_02" type="MeshInstance3D" parent="Aderecos_da_cozinha" unique_id=1673309656]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.08, 1.12, 0.1)
 layers = 4
-mesh = ExtResource("156_feswk")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_absyd")
+mesh = SubResource("CylinderMesh_hlwg8")
 
-[node name="Faca_Ilha_052" type="Node3D" parent="." unique_id=1651906851]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.82, 0.8855, -4.76)
-metadata/origem_conversao = "Faca_Ilha"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/pivot_original = Vector3(-6.82, 0.8855, -4.76)
-
-[node name="Faca_Ilha_Lamina" type="MeshInstance3D" parent="Faca_Ilha_052" unique_id=1681597709]
-transform = Transform3D(0.99026805, 0, -0.1391731, 0, 1, 0, 0.1391731, 0, 0.99026805, 0, 0.007000029, -0.034999847)
+[node name="Caneca_de_ceramica" type="MeshInstance3D" parent="Aderecos_da_cozinha" unique_id=1300412666]
+transform = Transform3D(1, 0, 0, 0, 0.9, 0, 0, 0, 1, -0.52, 0.91, 0.12)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("157_w5pul")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_absyd")
+mesh = SubResource("CylinderMesh_1t8wh")
 
-[node name="Faca_Ilha_PontaArredondada" type="MeshInstance3D" parent="Faca_Ilha_052" unique_id=1076935563]
-transform = Transform3D(0.89124125, 0, -0.1252558, 0, 0.4, 0, 0.1252558, 0, 0.89124125, 0, 0.008000016, -0.11199999)
+[node name="Cafeteira_apagada" type="MeshInstance3D" parent="Aderecos_da_cozinha" unique_id=231050695]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.68, 0.98, 0.02)
 layers = 4
-material_override = ExtResource("134_q0xju")
-mesh = ExtResource("158_yna1y")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_k3iba")
+mesh = SubResource("BoxMesh_5d3q0")
 
-[node name="Faca_Ilha_Cabo" type="MeshInstance3D" parent="Faca_Ilha_052" unique_id=1283496218]
-transform = Transform3D(0.99026805, -0.1391731, 6.0834497e-09, 0, -4.371139e-08, -1, 0.1391731, 0.99026805, -4.328599e-08, 0, 0.010999978, 0.09000015)
+[node name="Vidro_cafeteira" type="MeshInstance3D" parent="Aderecos_da_cozinha" unique_id=1466709712]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.68, 0.88, 0.145)
 layers = 4
-material_override = ExtResource("159_yl5h8")
-mesh = ExtResource("160_wxiws")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-
-[node name="Modelo_yellow_onion_053" type="Node3D" parent="." unique_id=1969925044]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.7, 0.8755, -4.76)
-metadata/origem_conversao = "Modelo_yellow_onion"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/pivot_original = Vector3(-6.7, 0.8755, -4.76)
-
-[node name="Asset_55_yellow_onion" type="Node3D" parent="Modelo_yellow_onion_053" unique_id=476025579]
-transform = Transform3D(0.95, 0, 0, 0, 0.95, 0, 0, 0, 0.95, 0, 0, 0)
-
-[node name="yellow_onion" type="MeshInstance3D" parent="Modelo_yellow_onion_053/Asset_55_yellow_onion" unique_id=1592414744]
-layers = 4
-mesh = ExtResource("161_h7x3a")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-
-[node name="Modelo_wooden_bowl_01_054" type="Node3D" parent="." unique_id=373598066]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.62, 0.8455, -4.74)
-metadata/origem_conversao = "Modelo_wooden_bowl_01"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/pivot_original = Vector3(-5.62, 0.8455, -4.74)
-
-[node name="Asset_56_wooden_bowl_01" type="Node3D" parent="Modelo_wooden_bowl_01_054" unique_id=968485941]
-
-[node name="wooden_bowl_01" type="MeshInstance3D" parent="Modelo_wooden_bowl_01_054/Asset_56_wooden_bowl_01" unique_id=892176886]
-layers = 4
-mesh = ExtResource("162_t2cc3")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-
-[node name="Modelo_food_apple_01_055" type="Node3D" parent="." unique_id=951047021]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.675, 0.8655, -4.795)
-metadata/origem_conversao = "Modelo_food_apple_01"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/pivot_original = Vector3(-5.675, 0.8655, -4.795)
-
-[node name="Asset_57_food_apple_01" type="Node3D" parent="Modelo_food_apple_01_055" unique_id=1636980769]
-transform = Transform3D(0.7629551, 0, -0.16217113, 0, 0.78, 0, 0.16217113, 0, 0.7629551, 0, 0, 0)
-
-[node name="food_apple_01" type="MeshInstance3D" parent="Modelo_food_apple_01_055/Asset_57_food_apple_01" unique_id=1550230333]
-layers = 4
-mesh = ExtResource("163_poq1e")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-
-[node name="Modelo_food_apple_01_056" type="Node3D" parent="." unique_id=967047417]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.565, 0.8655, -4.685)
-metadata/origem_conversao = "Modelo_food_apple_01"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/pivot_original = Vector3(-5.565, 0.8655, -4.685)
-
-[node name="Asset_58_food_apple_01" type="Node3D" parent="Modelo_food_apple_01_056" unique_id=1718638495]
-transform = Transform3D(0.72280294, 0, 0.23485292, 0, 0.76, 0, -0.23485292, 0, 0.72280294, 0, 0, 0)
-
-[node name="food_apple_01" type="MeshInstance3D" parent="Modelo_food_apple_01_056/Asset_58_food_apple_01" unique_id=1127304922]
-layers = 4
-mesh = ExtResource("163_poq1e")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
-
-[node name="Pano_Ilha_057" type="Node3D" parent="." unique_id=1468597376]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.04, 0.8485, -5)
-metadata/origem_conversao = "Pano_Ilha"
-metadata/fase_conversao = "_mobiliar_terreo"
-metadata/pavimento = &"terreo"
-metadata/pivot_original = Vector3(-7.04, 0.8485, -5)
-
-[node name="Pano_Ilha_Base" type="MeshInstance3D" parent="Pano_Ilha_057" unique_id=619824645]
-transform = Transform3D(0.9781476, 0, -0.2079117, 0, 1, 0, 0.2079117, 0, 0.9781476, 0, 0, 0)
-layers = 4
-material_override = ExtResource("164_nn308")
-mesh = ExtResource("165_rmrww")
-metadata/editable_component = true
-metadata/collision_policy = "homonymous_C16_child_preserved"
+material_override = SubResource("StandardMaterial3D_r8ba5")
+mesh = SubResource("BoxMesh_gomtq")

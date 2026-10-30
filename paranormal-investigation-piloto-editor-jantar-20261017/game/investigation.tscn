@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="PackedScene" path="res://prototype/house_environment.tscn" id="1_house"]
+[ext_resource type="Script" path="res://game/investigation_manager.gd" id="2_manager"]
+
+[node name="Investigation" type="Node3D"]
+
+[node name="Casa" parent="." instance=ExtResource("1_house")]
+
+[node name="Manager" type="Node" parent="."]
+script = ExtResource("2_manager")

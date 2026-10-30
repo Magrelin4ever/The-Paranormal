@@ -1,0 +1,22 @@
+{
+	"all_meshes_on_ground_floor_layer": true,
+	"bounds": {
+		"position": "(-9.29, 0.0, -8.0)",
+		"size": "(7.42, 2.5, 5.04)"
+	},
+	"collision_shape_count": 6,
+	"external_unknown_assets": [],
+	"mesh_count": 102,
+	"modules": [
+		"Armarios_fundo",
+		"Torre_forno",
+		"Geladeira",
+		"Ilha",
+		"Banquetas",
+		"Prateleiras",
+		"Aderecos"
+	],
+	"passed": true,
+	"scene": "res://prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn",
+	"source": "Autoral, Godot primitive meshes e materiais com licença verificada; nenhuma malha Kitchen004/Tripo."
+}

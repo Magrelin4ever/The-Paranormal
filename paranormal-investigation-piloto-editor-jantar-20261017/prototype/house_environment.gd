@@ -316,7 +316,7 @@ func _criar_ambiente() -> void:
 	environment.sky = sky
 	environment.ambient_light_source = Environment.AMBIENT_SOURCE_COLOR
 	environment.ambient_light_color = Color("53617a")
-	environment.ambient_light_energy = 0.36
+	environment.ambient_light_energy = 0.80
 	environment.ambient_light_sky_contribution = 0.0
 	environment.tonemap_mode = Environment.TONE_MAPPER_FILMIC
 	environment.fog_enabled = true
@@ -858,19 +858,8 @@ func _mobiliar_terreo() -> void:
 	# Piloto: móveis do jantar agora pertencem à instância SalaJantar_Editavel na cena.
 	_contador_modelos += 15 # Preserva identificadores dos outros cômodos.
 
-	# C16: cozinha kitchen004 fornecida por Richard, licença ainda desconhecida.
-	_adicionar_cozinha_kitchen004_c16(y)
-	_adicionar_modelo_glb("Geladeira", "refrigerator.glb", Vector3(-8.65, y, -5.15), 1.0, 90.0, &"terreo", Vector3(0.71, 1.82, 0.62))
-	# A ilha pertence ao asset; não duplicar a antiga ilha procedural.
-	_adicionar_banquetas_cozinha(Vector3(-6.70, y, -4.10))
-	_adicionar_banquetas_cozinha(Vector3(-5.80, y, -4.10))
-	_adicionar_modelo_mobiliario("wooden_cutting_board", Vector3(-6.82, y + 0.8455, -4.76), 1.05, -8.0, &"terreo")
-	_adicionar_faca_preparo_cozinha(Vector3(-6.82, y + 0.8855, -4.76), "Ilha")
-	_adicionar_modelo_mobiliario("yellow_onion", Vector3(-6.70, y + 0.8755, -4.76), 0.95, 0.0, &"terreo")
-	_adicionar_modelo_mobiliario("wooden_bowl_01", Vector3(-5.62, y + 0.8455, -4.74), 1.0, 0.0, &"terreo")
-	_adicionar_modelo_mobiliario("food_apple_01", Vector3(-5.675, y + 0.8655, -4.795), 0.78, -12.0, &"terreo")
-	_adicionar_modelo_mobiliario("food_apple_01", Vector3(-5.565, y + 0.8655, -4.685), 0.76, 18.0, &"terreo")
-	_adicionar_pano_cozinha(Vector3(-7.04, y + 0.8485, -5.00), "Ilha")
+	# Cozinha autoral: não depende de Kitchen004C16 ou de arquivo com licença desconhecida.
+	_adicionar_cozinha_autoral(y)
 	# Escritório doméstico conectado à biblioteca: madeira, assento próximo e mesa limpa.
 	_adicionar_tapete(&"terreo", Vector3(5.575, y + 0.022, 6.0), Vector2(4.2, 3.8), &"office_rug")
 	_adicionar_modelo_glb("MesaEscritorioC15", "custom/c15/c15_furniture_original.glb", Vector3(5.75, y, 6.72), 1.05, 180.0, &"terreo")
@@ -1806,7 +1795,7 @@ func _adicionar_torre_cozinha(center: Vector3) -> void:
 	# Carcaça aberta em nichos reais; o volume de colisão permanece idêntico ao anterior.
 	var depth := 0.42
 	var width := 0.92
-	var height := 2.64
+	var height := 2.40
 	var front_x := center.x - depth * 0.5
 	_adicionar_colisao_caixa(center + Vector3(0.0, height * 0.5, 0.0), Vector3(depth, height, width), &"terreo", &"ColisaoTorreFornoCozinha")
 	for side in [-1.0, 1.0]:
@@ -1817,9 +1806,9 @@ func _adicionar_torre_cozinha(center: Vector3) -> void:
 	var panel_x := front_x - 0.02
 	for side in [-1.0, 1.0]:
 		var door_z: float = center.z + side * 0.205
-		_adicionar_caixa(Vector3(panel_x, center.y + 2.29, door_z), Vector3(0.035, 0.62, 0.38), &"kitchen_wood", &"terreo", false)
+		_adicionar_caixa(Vector3(panel_x, center.y + 2.07, door_z), Vector3(0.035, 0.62, 0.38), &"kitchen_wood", &"terreo", false)
 		var upper_handle_z: float = center.z + (0.14 if side < 0.0 else -0.14)
-		_adicionar_puxador_cozinha(Vector3(panel_x - 0.04, center.y + 2.29, upper_handle_z), Vector3.UP, Vector3.LEFT, 0.11)
+		_adicionar_puxador_cozinha(Vector3(panel_x - 0.04, center.y + 2.07, upper_handle_z), Vector3.UP, Vector3.LEFT, 0.11)
 		_adicionar_caixa(Vector3(panel_x, center.y + 0.34, door_z), Vector3(0.035, 0.55, 0.38), &"kitchen_wood", &"terreo", false)
 		var lower_handle_z: float = center.z + (0.14 if side < 0.0 else -0.14)
 		_adicionar_puxador_cozinha(Vector3(panel_x - 0.04, center.y + 0.34, lower_handle_z), Vector3.UP, Vector3.LEFT, 0.11)
@@ -2353,7 +2342,7 @@ func _montar_dica_controles() -> void:
 	add_child(layer)
 	var label := Label.new()
 	label.position = Vector2(18.0, 16.0)
-	label.text = "WASD mover  ·  mouse olhar  ·  Shift correr  ·  F lanterna  ·  E abrir/fechar portas  ·  Esc liberar cursor"
+	label.text = "WASD mover  ·  mouse olhar  ·  Shift correr  ·  F lanterna  ·  Q trocar instrumento  ·  E interagir  ·  H sair do abrigo  ·  Esc pausar"
 	label.add_theme_color_override("font_color", Color("c4c7cb"))
 	label.add_theme_color_override("font_shadow_color", Color(0.015, 0.02, 0.035, 0.95))
 	label.add_theme_constant_override("shadow_offset_x", 1)
@@ -2378,7 +2367,7 @@ func _montar_filtro_visual() -> void:
 	material.set_shader_parameter("grain_strength", 0.018)
 	material.set_shader_parameter("vignette_strength", 0.075)
 	material.set_shader_parameter("cool_tint_strength", 0.025)
-	material.set_shader_parameter("flashlight_darkening_strength", 0.74)
+	material.set_shader_parameter("flashlight_darkening_strength", 0.20)
 	material.set_shader_parameter("flashlight_inner_angle", 18.0)
 	material.set_shader_parameter("flashlight_outer_angle", 55.0)
 	overlay.material = material
@@ -2774,46 +2763,19 @@ func _configurar_manta_biblioteca(modelo: Node3D) -> void:
 			malha.set_surface_override_material(superficie, material_local)
 
 
-func _c16_recolher_nos(node: Node, output: Array[Node]) -> void:
-	output.append(node)
-	for child in node.get_children():
-		_c16_recolher_nos(child, output)
-
-func _adicionar_cozinha_kitchen004_c16(y: float) -> void:
-	var packed := load("res://prototype/assets/models/custom/kitchen004/kitchen004_fitted.glb") as PackedScene
-	if packed == null:
-		push_error("C16: kitchen004 fitted ausente")
-		return
-	var model := packed.instantiate() as Node3D
-	model.name = "Kitchen004C16"
-	model.position = Vector3(-3.467222, y + 0.022, -6.9333043)
-	model.rotation_degrees.y = -90.0
-	model.scale = Vector3.ONE * 0.90
-	_raiz_visual.add_child(model)
-	var nodes: Array[Node] = []
-	_c16_recolher_nos(model, nodes)
-	var solid_names := ["kitchen_modern64_001", "kitchen_modern64_011", "kitchen_modern64_015", "kitchen_modern64_016", "kitchen_modern64_017", "kitchen_modern64_018", "kitchen_modern64_019", "kitchen_modern64_020", "kitchen_modern64_021", "kitchen_modern64_029", "kitchen_modern64_031", "kitchen_modern64_032", "kitchen_modern64_033", "kitchen_modern64_063"]
-	var colliders := 0
-	for node in nodes:
-		if node is Light3D:
-			(node as Light3D).visible = false
-			(node as Light3D).light_energy = 0.0
-		if not node is MeshInstance3D:
-			continue
-		var mesh_node := node as MeshInstance3D
-		if mesh_node.mesh == null:
-			continue
-		for surface in range(mesh_node.mesh.get_surface_count()):
-			var original := mesh_node.get_active_material(surface) as BaseMaterial3D
-			if original != null:
-				var local := original.duplicate() as BaseMaterial3D
-				local.emission_enabled = false
-				mesh_node.set_surface_override_material(surface, local)
-		if String(node.name) in solid_names:
-			var bounds: AABB = mesh_node.global_transform * mesh_node.get_aabb()
-			_adicionar_colisao_caixa(bounds.get_center(), bounds.size, &"terreo", StringName("C16_" + String(node.name)))
-			colliders += 1
-	print("C16_MODEL_INSTANCED scale=0.9 rotation_y=-90 colliders=%d" % colliders)
+	# O bake persistente atual está em terreo__Cozinha_Richard.tscn; este caminho
+	# legado mantém apenas uma receita autoral segura para reconstruções offline.
+func _adicionar_cozinha_autoral(y: float) -> void:
+	_adicionar_armario_cozinha(Vector3(-6.30, y, -7.62), 5.35, true)
+	_adicionar_armario_aereo(Vector3(-6.30, y + 1.89, -7.74), 4.85)
+	_adicionar_torre_cozinha(Vector3(-2.11, y, -6.55))
+	_adicionar_forno_procedural(Vector3(-2.11, y + 1.12, -6.55))
+	_adicionar_fogao_inducao_cozinha(Vector3(-5.0, y, -7.62))
+	_adicionar_ilha_cozinha(Vector3(-6.26, y, -5.18))
+	_adicionar_banquetas_cozinha(Vector3(-6.83, y, -3.16))
+	_adicionar_banquetas_cozinha(Vector3(-5.75, y, -3.16))
+	_adicionar_prateleiras_cozinha(y)
+	_adicionar_caixa(Vector3(-8.86, y + 0.91, -5.62), Vector3(0.86, 1.82, 0.75), &"metal", &"terreo", true)
 func _preparar_materiais_servico_c17() -> void:
 	_adicionar_material(&"service_floor_c17", Color(0.92, 0.91, 0.87), 0.90)
 	_aplicar_textura_pbr(&"service_floor_c17", "brown_floor_tiles", Color(0.92, 0.91, 0.87))

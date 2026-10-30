@@ -27,7 +27,7 @@
 			"pass": true
 		},
 		{
-			"detail": "5787",
+			"detail": "5808",
 			"name": "pavimento_nativo_Terreo",
 			"pass": true
 		},
@@ -57,7 +57,7 @@
 			"pass": true
 		},
 		{
-			"detail": "antes=8644 depois=8644",
+			"detail": "antes=8665 depois=8665",
 			"name": "runtime_nao_recria_geometria",
 			"pass": true
 		},
@@ -303,7 +303,7 @@
 		"Porao": 476,
 		"Primeiro_Andar": 1491,
 		"Sotao_Segundo_Andar": 890,
-		"Terreo": 5787
+		"Terreo": 5808
 	},
 	"passed": true,
 	"test": "whole_house_persistence_test"

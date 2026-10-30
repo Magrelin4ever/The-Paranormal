@@ -1,11 +1,11 @@
 {
 	"counts": {
-		"collision_bodies": 546,
-		"collision_shapes": 574,
-		"decorative_collision_exemptions": 29,
-		"edit_groups": 1518,
-		"meshes": 8716,
-		"meshes_owned_by_scene": 8716,
+		"collision_bodies": 535,
+		"collision_shapes": 563,
+		"decorative_collision_exemptions": 24,
+		"edit_groups": 1517,
+		"meshes": 8737,
+		"meshes_owned_by_scene": 8737,
 		"nodes_without_owner": 0
 	},
 	"master": {
@@ -667,48 +667,22 @@
 			"path": "prototype/whole_house/rooms/terreo__Biblioteca.tscn"
 		},
 		{
-			"collision_bodies": 17,
-			"collision_exemptions": [
-				{
-					"classification": "decorative_tabletop_prop",
-					"path": "Cozinha_Richard/Modelo_wooden_cutting_board_051",
-					"reason": "Alimento/tábua/recipiente pequeno sobre bancada ou mesa; adereço de composição, sem interação prevista."
-				},
-				{
-					"classification": "decorative_tabletop_prop",
-					"path": "Cozinha_Richard/Modelo_yellow_onion_053",
-					"reason": "Alimento/tábua/recipiente pequeno sobre bancada ou mesa; adereço de composição, sem interação prevista."
-				},
-				{
-					"classification": "decorative_tabletop_prop",
-					"path": "Cozinha_Richard/Modelo_wooden_bowl_01_054",
-					"reason": "Alimento/tábua/recipiente pequeno sobre bancada ou mesa; adereço de composição, sem interação prevista."
-				},
-				{
-					"classification": "decorative_tabletop_prop",
-					"path": "Cozinha_Richard/Modelo_food_apple_01_055",
-					"reason": "Alimento/tábua/recipiente pequeno sobre bancada ou mesa; adereço de composição, sem interação prevista."
-				},
-				{
-					"classification": "decorative_tabletop_prop",
-					"path": "Cozinha_Richard/Modelo_food_apple_01_056",
-					"reason": "Alimento/tábua/recipiente pequeno sobre bancada ou mesa; adereço de composição, sem interação prevista."
-				}
-			],
+			"collision_bodies": 6,
+			"collision_exemptions": [],
 			"collision_requirements": [],
-			"collision_shapes": 17,
-			"dependencies": 165,
-			"edit_groups": 9,
+			"collision_shapes": 6,
+			"dependencies": 6,
+			"edit_groups": 8,
 			"errors": [],
 			"groups_without_collision": [],
 			"instantiate_ok": true,
 			"load_ok": true,
-			"meshes": 81,
-			"meshes_owned_by_scene": 81,
+			"meshes": 102,
+			"meshes_owned_by_scene": 102,
 			"meshless_mesh_nodes": 0,
 			"missing_dependencies": [],
-			"model_groups": 6,
-			"nodes": 135,
+			"model_groups": 0,
+			"nodes": 123,
 			"nodes_without_owner": [],
 			"path": "prototype/whole_house/rooms/terreo__Cozinha_Richard.tscn"
 		},
